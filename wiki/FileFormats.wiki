@@ -1,4 +1,4 @@
-#Description of various file formats related with translation
+#summary Description of various file formats related with translation
 
 = Directory Structure =
 
