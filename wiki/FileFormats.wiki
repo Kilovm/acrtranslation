@@ -105,7 +105,7 @@ I03
 
 000C: DWORD first character ? (= 0)
 
-0010: character count * (
+0010: character count `*` (
 
   BYTE space width ?
 
@@ -151,7 +151,7 @@ Type 2 :
 
 0014: WORD characters in this table (tbl_char count)
 
-0016: tbl_char count * (
+0016: tbl_char count `*` (
 
   WORD UTF-16 code of char
 
