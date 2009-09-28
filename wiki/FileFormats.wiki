@@ -1,0 +1,9 @@
+#Description of various file formats related with translation
+
+= Directory Structure =
+
+= .BRFNT file =
+
+= .BMG file =
+
+= .MESS file =
