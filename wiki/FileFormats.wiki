@@ -1,9 +1,75 @@
 #summary Description of various file formats related with translation
 
-= Directory Structure =
+== Directory Structure ==
 
-= .BRFNT file =
+MESS/: texts and fonts, japanese version
 
-= .BMG file =
+LANG/ENG/MESS: texts and fonts, english version
 
-= .MESS file =
+Files inside MESS/ are almost the same, between PAL and NTSC-J version of the game, except one file "GPMESS_DATA.STR".
+
+== .BRFNT file ==
+
+=== RFNT Header ===
+
+10h bytes
+
+0000: 'RFNT'
+
+0004: FE FF 01 04
+
+0008: DWORD length of whole file
+
+000C: WORD ??
+
+000E: WORD ??
+
+=== FINF Header ===
+
+20h bytes
+
+=== TGLP Header ===
+
+30h bytes
+
+0000: 'TGLP'
+
+0004: DWORD length of 'TGLP' section
+
+0008: BYTE char width (?)
+
+0009: BYTE char height (?)
+
+000A: BYTE ??
+
+000B: BYTE ??
+
+000C: DWORD length of 1 image
+
+0010: WORD ??
+
+0012: WORD ??
+
+0014: WORD characters per row
+
+0016: WORD characters per column
+
+0018: WORD width of image
+
+001A: WORD height of image
+
+001C: DWORD position of data
+
+=== TGLP Data ===
+
+=== CWDH Section ===
+
+=== CMAP Section ===
+
+== .BMG file ==
+
+Texts are stored with UTF-8 encoding.
+
+== .MESS file ==
+
+Texts are stored with UTF-8 encoding.
