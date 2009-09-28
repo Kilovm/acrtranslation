@@ -4,7 +4,21 @@
 
 *Trucha*
 
+This tool can extract the ISO file recursively. But only files smaller than original can be imported.
+
+Usage:
+1. import .key file to Windows registry
+2. select "custom key pair 1" in menu
+3. remember to "Trucha sign" partition after modification
+
+
 *WiiScrubber*
+
+Usage:
+
+This tool can import files of any size into ISO.
+
+1. put common-key.bin to correct place
 
 
 = Details =
