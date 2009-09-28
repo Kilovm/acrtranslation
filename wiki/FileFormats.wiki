@@ -62,9 +62,102 @@ Files inside MESS/ are almost the same, between PAL and NTSC-J version of the ga
 
 === TGLP Data ===
 
+Bitmap is formed in a Zig-zag way.
+
+
+A single block of bitmap looks like this:
+
+00 01 02 03 04 05 06 07
+
+08 09 0A 0B 0C 0D 0E 0F
+
+10 11 12 13 14 15 16 17
+
+18 19 1A 1B 1C 1D 1E 1F
+
+
+Multiple blocks:
+
+B01 B02 B03 ... B08 (assume width=64)
+
+B09 B0A B0B ...
+
+...
+
+
+Multiple images:
+
+I01
+
+I02
+
+I03
+
+...
+
 === CWDH Section ===
 
+0000: 'CWDH'
+
+0004: DWORD length of this section
+
+0008: DWORD last character ? (= character count - 1)
+
+000C: DWORD first character ? (= 0)
+
+0010: character count * (
+
+  BYTE space width ?
+
+  BYTE character width
+
+  BYTE smaller than character width )
+
+????: 00 00 00
+
 === CMAP Section ===
+
+Type 1 :
+
+0000: ‘CMAP’
+
+0004: DWORD length of this section
+
+0008: WORD UTF-16 code of first char
+
+000A: WORD UTF-16 code of last char
+
+000C: DWORD 0 ?
+
+0010: DWORD position of next CMAP + 8
+
+0014: WORD offset of first char
+
+0016: WORD ?
+
+Type 2 :
+
+0000: ‘CMAP’
+
+0004: DWORD length of this section
+
+0008: WORD 0
+
+000A: WORD -1
+
+000C: 00 02 00 00  ?
+
+0010: DWORD position of next CMAP + 8 (0 if no next)
+
+0014: WORD characters in this table (tbl_char count)
+
+0016: tbl_char count * (
+
+  WORD UTF-16 code of char
+
+  WORD offset of char )
+
+????: WORD 0
 
 == .BMG file ==
 
