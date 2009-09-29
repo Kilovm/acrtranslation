@@ -16,17 +16,38 @@ Files inside MESS/ are almost the same, between PAL and NTSC-J version of the ga
 
 0000: 'RFNT'
 
-0004: FE FF 01 04
+0004: FE FF 01 04  
 
 0008: DWORD length of whole file
 
 000C: WORD ??
 
-000E: WORD ??
+000E: WORD ??  (language flag?)
 
 === FINF Header ===
+20H bytes:
 
-20h bytes
+4 bytes: 'FINF'
+
+4 bytes: DWORD finf size
+
+4 bytes: DWORD ??
+
+1 byte: ?
+
+1 byte: character width
+
+1 byte: character height
+
+1 byte: 0x00  
+
+4 bytes: TGLP section position
+
+4 bytes: CWDH section position
+
+4 bytes: CMAP section position
+
+4 bytes: unknown
 
 === TGLP Header ===
 
@@ -46,7 +67,7 @@ Files inside MESS/ are almost the same, between PAL and NTSC-J version of the ga
 
 000C: DWORD length of 1 image
 
-0010: WORD ??
+0010: WORD  images count
 
 0012: WORD ??
 
