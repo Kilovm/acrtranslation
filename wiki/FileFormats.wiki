@@ -161,7 +161,7 @@ Type 2 :
 
 == .BMG file ==
 
-Texts are stored with UTF-8 encoding.
+Texts are stored with UTF-8 encoding. Dialogues are surrounded with "(FF) 00 00 05 text 1A 06 (FF)"
 
 == .MESS file ==
 
