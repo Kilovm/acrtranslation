@@ -27,27 +27,37 @@ Files inside MESS/ are almost the same, between PAL and NTSC-J version of the ga
 === FINF Header ===
 20H bytes:
 
-4 bytes: 'FINF'
+0000: 'FINF'
 
-4 bytes: DWORD finf size
+0004: DWORD finf size
 
-4 bytes: DWORD ??
+0008: BYTE ??
 
-1 byte: ?
+0009: BYTE font height - 1
 
-1 byte: character width
+000A: WORD ??
 
-1 byte: character height
+000C: BYTE ??
 
-1 byte: 0x00  
+000D: BYTE character width or height + 1 (?)
 
-4 bytes: TGLP section position
+000E: BYTE character height or width + 1 (?)
 
-4 bytes: CWDH section position
+000F: BYTE 00 (?)
 
-4 bytes: CMAP section position
+0010: DWORD TGLP section position
 
-4 bytes: unknown
+0014: DWORD CWDH section position
+
+0018: DWORD CMAP section position
+
+001C: BYTE font height - 1 (excluding left line?)
+
+001D: BYTE font width - 1 (excluding bottom line?)
+
+001E: BYTE character width or height - 1 (?)
+
+001F: BYTE 00 (?)
 
 === TGLP Header ===
 
@@ -57,17 +67,17 @@ Files inside MESS/ are almost the same, between PAL and NTSC-J version of the ga
 
 0004: DWORD length of 'TGLP' section
 
-0008: BYTE char width (?)
+0008: BYTE font width - 1
 
-0009: BYTE char height (?)
+0009: BYTE font height - 1
 
-000A: BYTE ??
+000A: BYTE character width - 1
 
-000B: BYTE ??
+000B: BYTE character height - 1
 
 000C: DWORD length of 1 image
 
-0010: WORD  images count
+0010: WORD images count
 
 0012: WORD ??
 
@@ -134,7 +144,7 @@ I03
 
   BYTE smaller than character width )
 
-????: 00 00 00
+????: (0~3) `*` 00 (align to 4 bytes)
 
 === CMAP Section ===
 
