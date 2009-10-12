@@ -49,12 +49,19 @@ namespace BrfntGenerator
 
 				List<char> list = new List<char>();
 
+                for (int i = 0x20; i < 0x7e; i++)
+                {
+                    list.Add((char)i);
+                }
+
 				try
 				{
 					while (true)
 					{
 
 						char c = reader.ReadChar();
+
+                        if (c <= 0x7e) continue;
 
 						if (!list.Contains(c))
 							list.Add(c);
@@ -264,7 +271,7 @@ namespace BrfntGenerator
 
 				outfile.WriteInt16(chars.Length);
 
-				for (int i = 0; i < chars.Length; i++)
+				for (int i = (0x7e-0x20+1); i < chars.Length; i++)
 				{
 					char c = chars[i];
 
