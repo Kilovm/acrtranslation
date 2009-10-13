@@ -21,6 +21,8 @@ namespace BrfntGenerator
 
         protected int nColumns, nRows;
 
+        protected readonly int[] presetRanges = {0x20, 0x7e, 0xa0, 0xff};
+
 		protected Bitmap buf;
 
 		public BrfntWriter(string textFileName,string fontName, int cw, int ch, int nc, int nr)
@@ -47,23 +49,30 @@ namespace BrfntGenerator
 			{
 
 				List<char> list = new List<char>();
+                List<char> listTmp = new List<char>();
 
-                for (int i = 0x20; i <= 0x7e; i++)
+                for (int i = 0; i < presetRanges.Length; i += 2)
                 {
-                    list.Add((char)i);
+                    listTmp.Clear();
+                    for (int j = presetRanges[i]; j <= presetRanges[i + 1]; j++)
+                        listTmp.Add((char)j);
+                    listTmp.Sort();
+                    list.AddRange(listTmp);
                 }
 
-				try
+                listTmp.Clear();
+                try
 				{
-					while (true)
+                    while (true)
 					{
 
 						char c = (char) reader.ReadChar();
 
-                        if (c <= 0x7e) continue;
+                        if (c < 0x20)
+                            continue;
 
-						if (!list.Contains(c))
-							list.Add(c);
+						if (!list.Contains(c) && !listTmp.Contains(c))
+							listTmp.Add(c);
 					}
 				}
 				catch (EndOfStreamException) { }
@@ -72,7 +81,8 @@ namespace BrfntGenerator
 					System.Windows.Forms.MessageBox.Show(ex.Message);
 				}
 
-				list.Sort();
+				listTmp.Sort();
+                list.AddRange(listTmp);
 				chars=list.ToArray();
 			}
 		}
@@ -251,22 +261,33 @@ namespace BrfntGenerator
                 #endregion
 
 				#region CMAP0
-				outfile.Write(new byte[] { (byte)'C', (byte)'M', (byte)'A', (byte)'P' }, 0, 4);
+                int presetCharCount = 0;
+                for (int i = 0; i < presetRanges.Length; i += 2)
+                {
+                    outfile.Write(new byte[] { (byte)'C', (byte)'M', (byte)'A', (byte)'P' }, 0, 4);
 
-				outfile.WriteInt32(0x18);
+                    outfile.WriteInt32(0x18);
 
-				posTemp = outfile.Position;
-				outfile.Seek(posCMAP, SeekOrigin.Begin);
-				outfile.WriteInt32((int)posTemp);
-				outfile.Seek(posTemp, SeekOrigin.Begin);
+                    if (i == 0)
+                    {
+                        posTemp = outfile.Position;
+                        outfile.Seek(posCMAP, SeekOrigin.Begin);
+                        outfile.WriteInt32((int)posTemp);
+                        outfile.Seek(posTemp, SeekOrigin.Begin);
+                    }
 
-				outfile.WriteInt32(0x0020007E);
-				outfile.WriteInt32(0);
+                    outfile.WriteInt16(presetRanges[i]);
+                    outfile.WriteInt16(presetRanges[i + 1]);
 
-				posTemp = outfile.Position;
-				outfile.WriteInt32((int)posTemp + 16);
+                    outfile.WriteInt32(0);
 
-				outfile.WriteInt32(0);
+                    posTemp = outfile.Position;
+                    outfile.WriteInt32((int)posTemp + 16);
+
+                    outfile.WriteInt16(presetCharCount);
+                    outfile.WriteInt16(0);
+                    presetCharCount += presetRanges[i + 1] - presetRanges[i] + 1;
+                }
 
 				#endregion
 
@@ -283,11 +304,9 @@ namespace BrfntGenerator
 
 				outfile.WriteInt32(0);
 
-                int reservedChars = (0x7e - 0x20 + 1);
+                outfile.WriteInt16(chars.Length - presetCharCount);
 
-				outfile.WriteInt16(chars.Length - reservedChars);
-
-				for (int i = reservedChars; i < chars.Length; i++)
+                for (int i = presetCharCount; i < chars.Length; i++)
 				{
 					char c = chars[i];
 
@@ -306,12 +325,11 @@ namespace BrfntGenerator
                 outfile.Seek(posTemp, SeekOrigin.Begin);
                 #endregion
 
-				int size = (int)outfile.Position;
+                posTemp = outfile.Position;
+                int size = (int)outfile.Position;
 				outfile.Seek(posFileSize, SeekOrigin.Begin);
 				outfile.WriteInt32(size);
-
-                while (outfile.Position < 115616)
-                    outfile.WriteInt32(0);
+                outfile.Seek(posTemp, SeekOrigin.Begin);
 			}
 
 		}
