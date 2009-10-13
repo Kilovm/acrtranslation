@@ -17,8 +17,9 @@ namespace BrfntGenerator
 		protected Font font;
 
 		protected int charWidth,charHeight;
+        protected int bmpWidth, bmpHeight;
 
-		protected int nColumns, nRows;
+        protected int nColumns, nRows;
 
 		protected Bitmap buf;
 
@@ -26,30 +27,28 @@ namespace BrfntGenerator
 		{
 			charWidth = cw;
 			charHeight = ch;
-			nColumns = nc;
-			nRows = nr;
+			bmpWidth = 1 << nc;
+			bmpHeight = 1 << nr;
 
-			FileStream stream = new FileStream(textFileName, FileMode.Open);
-
-			ReadTextFile(stream);
+            ReadTextFile(textFileName, "gbk");
 
 			font = new Font(fontName, cw, GraphicsUnit.Pixel);
 
+            nColumns = bmpWidth / charWidth;
+            nRows = bmpHeight / charHeight;
 
-			int imgWidth = (int)Math.Pow(2, (int)(Math.Log(charWidth * nColumns, 2.0) + .5));
-			int imgHeight = (int)Math.Pow(2, (int)(Math.Log(charHeight * nRows, 2.0) + .5));
-			buf = new Bitmap(imgWidth, imgHeight);
+            buf = new Bitmap(bmpWidth, bmpHeight);
 			
 		}
 
-		private void ReadTextFile(FileStream stream)
+		private void ReadTextFile(string fileName, string encoding)
 		{
-			using (BinaryReader reader = new BinaryReader(stream))
+            using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open), Encoding.GetEncoding(encoding)))
 			{
 
 				List<char> list = new List<char>();
 
-                for (int i = 0x20; i < 0x7e; i++)
+                for (int i = 0x20; i <= 0x7e; i++)
                 {
                     list.Add((char)i);
                 }
@@ -59,7 +58,7 @@ namespace BrfntGenerator
 					while (true)
 					{
 
-						char c = reader.ReadChar();
+						char c = (char) reader.ReadChar();
 
                         if (c <= 0x7e) continue;
 
@@ -106,12 +105,14 @@ namespace BrfntGenerator
 				#region FINF head
 				outfile.Write(new byte[] { (byte)'F', (byte)'I', (byte)'N', (byte)'F' }, 0, 4);
 				outfile.WriteInt32(0x20);
-				outfile.WriteInt32(0x011B000A);
+                outfile.WriteByte(0x01);
+                outfile.WriteByte((byte)(charHeight - 1));
+                outfile.WriteInt16(0x000A);
 
 				outfile.WriteByte(0x00);
 
-				outfile.WriteByte((byte)charWidth);
-				outfile.WriteByte((byte)charHeight);
+				outfile.WriteByte((byte)(charWidth - 1));
+				outfile.WriteByte((byte)(charWidth - 1));
 
 				outfile.WriteByte(0x00);
 
@@ -123,7 +124,10 @@ namespace BrfntGenerator
 				posCMAP = outfile.Position;
 				outfile.WriteInt32(0);
 
-				outfile.WriteInt32(0); //???
+                outfile.WriteByte((byte)(charHeight - 1));
+                outfile.WriteByte((byte)(charWidth - 1));
+                outfile.WriteByte((byte)(charWidth - 3));
+                outfile.WriteByte((byte)(0x00));
 				
 				#endregion
 
@@ -133,14 +137,15 @@ namespace BrfntGenerator
 				posTGLPSize = outfile.Position;
 				outfile.WriteInt32(0);
 
-				outfile.WriteByte((byte)charWidth);// ?
-				outfile.WriteByte((byte)charHeight);// ?
+				outfile.WriteByte((byte)(charWidth - 1));
+				outfile.WriteByte((byte)(charHeight - 1));
 
-				outfile.WriteByte((byte)charWidth);// ??
-				outfile.WriteByte((byte)charHeight);// ??
+				outfile.WriteByte((byte)(charWidth - 3));
+				outfile.WriteByte((byte)(charWidth - 3));
 
-				outfile.WriteInt16(0);
-				outfile.WriteInt16(0x4000);//?
+				outfile.WriteByte(0x00);
+				outfile.WriteInt16(bmpWidth);
+				outfile.WriteByte(0x00);
 
 				outfile.WriteInt16(nImages);
 				outfile.WriteInt16(0x0002);
@@ -148,8 +153,8 @@ namespace BrfntGenerator
 				outfile.WriteInt16(nColumns);
 				outfile.WriteInt16(nRows);
 
-				outfile.WriteInt16(buf.Width);
-				outfile.WriteInt16(buf.Height);
+				outfile.WriteInt16(bmpWidth);
+				outfile.WriteInt16(bmpHeight);
 
 				outfile.WriteInt32(0x00000060);
 
@@ -214,8 +219,10 @@ namespace BrfntGenerator
 				outfile.Seek(posTemp, SeekOrigin.Begin);
 
 				#region CWDH
+                long posCwdhStart = outfile.Position;
 				outfile.Write(new byte[] { (byte)'C', (byte)'W', (byte)'D', (byte)'H' }, 0, 4);
 
+                long posCwdhLen = outfile.Position;
 				outfile.WriteInt32(chars.Length * 3 + 16 + 3); // cwdh length
 
 				posTemp = outfile.Position;
@@ -228,15 +235,20 @@ namespace BrfntGenerator
 
 				foreach (char c in chars)
 				{
-					outfile.WriteByte(0x18);
-					outfile.WriteByte(0x18);
-					outfile.WriteByte(0x00);
+                    outfile.WriteByte(0x00);
+                    outfile.WriteByte((byte)(charWidth - 3));
+                    outfile.WriteByte((byte)((charWidth - 3)/2));
 				}
 
-				outfile.WriteByte(0);
-				outfile.WriteByte(0);
-				outfile.WriteByte(0);
-				#endregion
+                for (int i = (4 - (((int)outfile.Position + 1) % 4)) % 4; i >= 0; i--)
+                    outfile.WriteByte(0);
+                long posCwdhEnd = outfile.Position;
+
+                posTemp = outfile.Position;
+                outfile.Seek(posCwdhLen, SeekOrigin.Begin);
+                outfile.WriteInt32((int)(posCwdhEnd - posCwdhStart));
+                outfile.Seek(posTemp, SeekOrigin.Begin);
+                #endregion
 
 				#region CMAP0
 				outfile.Write(new byte[] { (byte)'C', (byte)'M', (byte)'A', (byte)'P' }, 0, 4);
@@ -259,9 +271,11 @@ namespace BrfntGenerator
 				#endregion
 
 				#region CMAP1
-				outfile.Write(new byte[] { (byte)'C', (byte)'M', (byte)'A', (byte)'P' }, 0, 4);
+                long posCmapStart = outfile.Position;
+                outfile.Write(new byte[] { (byte)'C', (byte)'M', (byte)'A', (byte)'P' }, 0, 4);
 
-				outfile.WriteInt32(chars.Length * 4 + 2 + 2 + 20);
+                long posCmapLen = outfile.Position;
+                outfile.WriteInt32(chars.Length * 4 + 2 + 2 + 20);
 
 				outfile.WriteInt32(0x0000FFFF);
 
@@ -269,9 +283,11 @@ namespace BrfntGenerator
 
 				outfile.WriteInt32(0);
 
-				outfile.WriteInt16(chars.Length);
+                int reservedChars = (0x7e - 0x20 + 1);
 
-				for (int i = (0x7e-0x20+1); i < chars.Length; i++)
+				outfile.WriteInt16(chars.Length - reservedChars);
+
+				for (int i = reservedChars; i < chars.Length; i++)
 				{
 					char c = chars[i];
 
@@ -280,14 +296,22 @@ namespace BrfntGenerator
 					outfile.WriteInt16(i);
 				}
 
-				outfile.WriteInt16(0);
-				#endregion
+                for (int i = (4 - (((int)outfile.Position + 1) % 4)) % 4; i >= 0; i--)
+                    outfile.WriteByte(0);
+                long posCmapEnd = outfile.Position;
+
+                posTemp = outfile.Position;
+                outfile.Seek(posCmapLen, SeekOrigin.Begin);
+                outfile.WriteInt32((int)(posCmapEnd - posCmapStart));
+                outfile.Seek(posTemp, SeekOrigin.Begin);
+                #endregion
 
 				int size = (int)outfile.Position;
 				outfile.Seek(posFileSize, SeekOrigin.Begin);
 				outfile.WriteInt32(size);
 
-
+                while (outfile.Position < 115616)
+                    outfile.WriteInt32(0);
 			}
 
 		}
