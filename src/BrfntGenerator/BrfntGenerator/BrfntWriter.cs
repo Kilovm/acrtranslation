@@ -210,7 +210,7 @@ namespace BrfntGenerator
 								for (int k = 0; k < 8; k++)
 								{
 									int pos = (i + k) * 3 + (line + j) * bd.Stride;
-									int color = (rgb[pos] + rgb[pos + 1] + rgb[pos + 2]) / 3;
+									int color = GetColor(rgb[pos], rgb[pos + 1], rgb[pos + 2]);
 
 									outfile.WriteByte((byte)color);
 								}
@@ -332,6 +332,16 @@ namespace BrfntGenerator
                 outfile.Seek(posTemp, SeekOrigin.Begin);
 			}
 
+		}
+
+		private int GetColor(byte r, byte g, byte b)
+		{
+			int color = r * 100 / 256;
+			color = (color << 2) | (g * 100 / 256);
+			color = (color << 2) | (b * 100 / 256);
+			color = (color << 2) | 3;
+
+			return color;
 		}
 	}
 
