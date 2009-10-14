@@ -53,14 +53,10 @@ namespace BrfntGenerator
 
                 for (int i = 0; i < presetRanges.Length; i += 2)
                 {
-                    listTmp.Clear();
                     for (int j = presetRanges[i]; j <= presetRanges[i + 1]; j++)
-                        listTmp.Add((char)j);
-                    listTmp.Sort();
-                    list.AddRange(listTmp);
+                        list.Add((char)j);
                 }
 
-                listTmp.Clear();
                 try
 				{
                     while (true)
@@ -153,9 +149,7 @@ namespace BrfntGenerator
 				outfile.WriteByte((byte)(charWidth - 3));
 				outfile.WriteByte((byte)(charWidth - 3));
 
-				outfile.WriteByte(0x00);
-				outfile.WriteInt16(bmpWidth);
-				outfile.WriteByte(0x00);
+				outfile.WriteInt32(bmpWidth * bmpHeight);
 
 				outfile.WriteInt16(nImages);
 				outfile.WriteInt16(0x0002);
