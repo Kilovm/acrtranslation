@@ -239,7 +239,7 @@ namespace BrfntGenerator
 
 				foreach (char c in chars)
 				{
-                    outfile.WriteByte(0x00);
+                    outfile.WriteByte(0xff); // FIXME: buggy value (see issue 1)
                     outfile.WriteByte((byte)(charWidth - 3));
                     outfile.WriteByte((byte)((charWidth - 3)/2));
 				}
@@ -294,7 +294,7 @@ namespace BrfntGenerator
 
 				outfile.WriteInt32(0x0000FFFF);
 
-				outfile.WriteInt32(0x00200000);
+				outfile.WriteInt32(0x00020000);
 
 				outfile.WriteInt32(0);
 
