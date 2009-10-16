@@ -77,7 +77,7 @@ namespace BrfntGenerator
 					System.Windows.Forms.MessageBox.Show(ex.Message);
 				}
 
-				listTmp.Sort();
+				listTmp.Sort(); // We must sort here, because the font engine may use binary search
                 list.AddRange(listTmp);
 				chars=list.ToArray();
 			}
@@ -241,8 +241,11 @@ namespace BrfntGenerator
 				{
                     outfile.WriteByte(0xff); // FIXME: buggy value (see issue 1)
                     outfile.WriteByte((byte)(charWidth - 3));
-                    outfile.WriteByte((byte)((charWidth - 3)/2));
-				}
+                    if (c < 0x100) // Latin character
+                        outfile.WriteByte((byte)((charWidth - 3) / 2));
+                    else
+                        outfile.WriteByte((byte)(charWidth - 3));
+                }
 
                 for (int i = (4 - (((int)outfile.Position + 1) % 4)) % 4; i >= 0; i--)
                     outfile.WriteByte(0);
