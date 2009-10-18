@@ -48,6 +48,9 @@ namespace BMG
 					currentIndex = 0;
 
 					RefreshTextBoxes();
+
+					vScrollBar1.Maximum = bmg.Sentences.Length;
+					vScrollBar1.Value = 1;
 				}
 			}
 			catch (Exception ex)
@@ -75,6 +78,9 @@ namespace BMG
 					currentIndex = 0;
 
 					RefreshTextBoxes();
+
+					vScrollBar1.Maximum = bmg.Sentences.Length;
+					vScrollBar1.Value = 1;
 				}
 			}
 			catch (Exception ex)
@@ -190,6 +196,7 @@ namespace BMG
 			int i = currentIndex - 1;
 			if (i >= 0) currentIndex = i;
 
+			vScrollBar1.Value = currentIndex+1; 
 			RefreshTextBoxes();
 		}
 
@@ -202,6 +209,13 @@ namespace BMG
 			int i = currentIndex + 1;
 			if (i<bmg.Sentences.Length) currentIndex = i;
 
+			vScrollBar1.Value = currentIndex+1;
+			RefreshTextBoxes();
+		}
+
+		private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
+		{
+			currentIndex = e.NewValue-1;
 			RefreshTextBoxes();
 		}
 	}
