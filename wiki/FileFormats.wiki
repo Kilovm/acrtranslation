@@ -1,4 +1,4 @@
-#summary Description of various file formats related with translation
+#summary Description of various file formats related to translation
 
 == Directory Structure ==
 
@@ -192,11 +192,11 @@ Type 2 :
 
 == .BMG file ==
 
-Texts are stored with UTF-8 encoding. Dialogues are surrounded with "(FF) 00 00 05 text 1A 06 (FF)"
+Texts are stored in UTF-8 encoding. Dialogues are surrounded by "(FF) 00 00 05 text 1A 06 (FF)"
 
 == .MESS file ==
 
-Texts are stored with UTF-8 encoding.
+Texts are stored in UTF-8 encoding.
 
 == .TPL file ==
 
@@ -216,4 +216,4 @@ Texts are stored with UTF-8 encoding.
 
 0030: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 
-0040: image data, (width align with 4) * (height align with 4) * getBytesPerPixel(format)
+0040: image data, (width align with 4) `*` (height align with 4) `*` getBytesPerPixel(format)
