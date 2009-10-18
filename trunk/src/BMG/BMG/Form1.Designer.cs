@@ -33,24 +33,25 @@
 			this.openBMGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.openSessionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
-			this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-			this.exportBMGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.saveSessionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.exportBMGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.toolStripMenuItem2 = new System.Windows.Forms.ToolStripSeparator();
+			this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
+			this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
+			this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
 			this.splitContainer1 = new System.Windows.Forms.SplitContainer();
 			this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-			this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
 			this.tbPrevOriginal = new System.Windows.Forms.TextBox();
-			this.tbPrevTranslation = new System.Windows.Forms.TextBox();
 			this.tbOriginal = new System.Windows.Forms.TextBox();
-			this.tbTranslation = new System.Windows.Forms.TextBox();
 			this.tbNextOriginal = new System.Windows.Forms.TextBox();
+			this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+			this.tbPrevTranslation = new System.Windows.Forms.TextBox();
+			this.tbTranslation = new System.Windows.Forms.TextBox();
 			this.tbNextTranslation = new System.Windows.Forms.TextBox();
-			this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
-			this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
 			this.statusStrip1 = new System.Windows.Forms.StatusStrip();
 			this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
-			this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
+			this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
 			this.menuStrip1.SuspendLayout();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
@@ -69,7 +70,7 @@
             this.toolStripMenuItem5});
 			this.menuStrip1.Location = new System.Drawing.Point(0, 0);
 			this.menuStrip1.Name = "menuStrip1";
-			this.menuStrip1.Size = new System.Drawing.Size(734, 24);
+			this.menuStrip1.Size = new System.Drawing.Size(847, 24);
 			this.menuStrip1.TabIndex = 0;
 			this.menuStrip1.Text = "menuStrip1";
 			// 
@@ -90,47 +91,68 @@
 			// openBMGToolStripMenuItem
 			// 
 			this.openBMGToolStripMenuItem.Name = "openBMGToolStripMenuItem";
-			this.openBMGToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.openBMGToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
 			this.openBMGToolStripMenuItem.Text = "Open BMG...";
 			this.openBMGToolStripMenuItem.Click += new System.EventHandler(this.openBMGToolStripMenuItem_Click);
 			// 
 			// openSessionToolStripMenuItem
 			// 
 			this.openSessionToolStripMenuItem.Name = "openSessionToolStripMenuItem";
-			this.openSessionToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.openSessionToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
 			this.openSessionToolStripMenuItem.Text = "Open Session...";
 			this.openSessionToolStripMenuItem.Click += new System.EventHandler(this.openSessionToolStripMenuItem_Click);
 			// 
 			// toolStripMenuItem1
 			// 
 			this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-			this.toolStripMenuItem1.Size = new System.Drawing.Size(149, 6);
-			// 
-			// exitToolStripMenuItem
-			// 
-			this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-			this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-			this.exitToolStripMenuItem.Text = "E&xit";
-			this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
-			// 
-			// exportBMGToolStripMenuItem
-			// 
-			this.exportBMGToolStripMenuItem.Name = "exportBMGToolStripMenuItem";
-			this.exportBMGToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-			this.exportBMGToolStripMenuItem.Text = "Export BMG...";
-			this.exportBMGToolStripMenuItem.Click += new System.EventHandler(this.exportBMGToolStripMenuItem_Click);
+			this.toolStripMenuItem1.Size = new System.Drawing.Size(148, 6);
 			// 
 			// saveSessionToolStripMenuItem
 			// 
 			this.saveSessionToolStripMenuItem.Name = "saveSessionToolStripMenuItem";
-			this.saveSessionToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.saveSessionToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
 			this.saveSessionToolStripMenuItem.Text = "Save Session...";
 			this.saveSessionToolStripMenuItem.Click += new System.EventHandler(this.saveSessionToolStripMenuItem_Click);
+			// 
+			// exportBMGToolStripMenuItem
+			// 
+			this.exportBMGToolStripMenuItem.Name = "exportBMGToolStripMenuItem";
+			this.exportBMGToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
+			this.exportBMGToolStripMenuItem.Text = "Export BMG...";
+			this.exportBMGToolStripMenuItem.Click += new System.EventHandler(this.exportBMGToolStripMenuItem_Click);
 			// 
 			// toolStripMenuItem2
 			// 
 			this.toolStripMenuItem2.Name = "toolStripMenuItem2";
-			this.toolStripMenuItem2.Size = new System.Drawing.Size(149, 6);
+			this.toolStripMenuItem2.Size = new System.Drawing.Size(148, 6);
+			// 
+			// exitToolStripMenuItem
+			// 
+			this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+			this.exitToolStripMenuItem.Size = new System.Drawing.Size(151, 22);
+			this.exitToolStripMenuItem.Text = "E&xit";
+			this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
+			// 
+			// toolStripMenuItem4
+			// 
+			this.toolStripMenuItem4.Name = "toolStripMenuItem4";
+			this.toolStripMenuItem4.Size = new System.Drawing.Size(55, 20);
+			this.toolStripMenuItem4.Text = "↑↑↑";
+			this.toolStripMenuItem4.Click += new System.EventHandler(this.toolStripMenuItem4_Click);
+			// 
+			// toolStripMenuItem3
+			// 
+			this.toolStripMenuItem3.Name = "toolStripMenuItem3";
+			this.toolStripMenuItem3.Size = new System.Drawing.Size(55, 20);
+			this.toolStripMenuItem3.Text = "↓↓↓";
+			this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
+			// 
+			// toolStripMenuItem5
+			// 
+			this.toolStripMenuItem5.Name = "toolStripMenuItem5";
+			this.toolStripMenuItem5.Size = new System.Drawing.Size(55, 20);
+			this.toolStripMenuItem5.Text = "→→→";
+			this.toolStripMenuItem5.Click += new System.EventHandler(this.toolStripMenuItem5_Click);
 			// 
 			// splitContainer1
 			// 
@@ -145,8 +167,8 @@
 			// splitContainer1.Panel2
 			// 
 			this.splitContainer1.Panel2.Controls.Add(this.tableLayoutPanel2);
-			this.splitContainer1.Size = new System.Drawing.Size(734, 471);
-			this.splitContainer1.SplitterDistance = 350;
+			this.splitContainer1.Size = new System.Drawing.Size(830, 449);
+			this.splitContainer1.SplitterDistance = 395;
 			this.splitContainer1.TabIndex = 1;
 			// 
 			// tableLayoutPanel1
@@ -163,25 +185,8 @@
 			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
 			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
 			this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-			this.tableLayoutPanel1.Size = new System.Drawing.Size(350, 471);
+			this.tableLayoutPanel1.Size = new System.Drawing.Size(395, 449);
 			this.tableLayoutPanel1.TabIndex = 0;
-			// 
-			// tableLayoutPanel2
-			// 
-			this.tableLayoutPanel2.ColumnCount = 1;
-			this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-			this.tableLayoutPanel2.Controls.Add(this.tbPrevTranslation, 0, 0);
-			this.tableLayoutPanel2.Controls.Add(this.tbTranslation, 0, 1);
-			this.tableLayoutPanel2.Controls.Add(this.tbNextTranslation, 0, 2);
-			this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
-			this.tableLayoutPanel2.Name = "tableLayoutPanel2";
-			this.tableLayoutPanel2.RowCount = 3;
-			this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-			this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-			this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-			this.tableLayoutPanel2.Size = new System.Drawing.Size(380, 471);
-			this.tableLayoutPanel2.TabIndex = 0;
 			// 
 			// tbPrevOriginal
 			// 
@@ -190,8 +195,45 @@
 			this.tbPrevOriginal.Multiline = true;
 			this.tbPrevOriginal.Name = "tbPrevOriginal";
 			this.tbPrevOriginal.ReadOnly = true;
-			this.tbPrevOriginal.Size = new System.Drawing.Size(344, 150);
+			this.tbPrevOriginal.Size = new System.Drawing.Size(389, 143);
 			this.tbPrevOriginal.TabIndex = 0;
+			// 
+			// tbOriginal
+			// 
+			this.tbOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
+			this.tbOriginal.Location = new System.Drawing.Point(3, 152);
+			this.tbOriginal.Multiline = true;
+			this.tbOriginal.Name = "tbOriginal";
+			this.tbOriginal.ReadOnly = true;
+			this.tbOriginal.Size = new System.Drawing.Size(389, 143);
+			this.tbOriginal.TabIndex = 1;
+			// 
+			// tbNextOriginal
+			// 
+			this.tbNextOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
+			this.tbNextOriginal.Location = new System.Drawing.Point(3, 301);
+			this.tbNextOriginal.Multiline = true;
+			this.tbNextOriginal.Name = "tbNextOriginal";
+			this.tbNextOriginal.ReadOnly = true;
+			this.tbNextOriginal.Size = new System.Drawing.Size(389, 145);
+			this.tbNextOriginal.TabIndex = 2;
+			// 
+			// tableLayoutPanel2
+			// 
+			this.tableLayoutPanel2.ColumnCount = 1;
+			this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+			this.tableLayoutPanel2.Controls.Add(this.tbTranslation, 0, 1);
+			this.tableLayoutPanel2.Controls.Add(this.tbPrevTranslation, 0, 0);
+			this.tableLayoutPanel2.Controls.Add(this.tbNextTranslation, 0, 2);
+			this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
+			this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
+			this.tableLayoutPanel2.Name = "tableLayoutPanel2";
+			this.tableLayoutPanel2.RowCount = 3;
+			this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+			this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+			this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+			this.tableLayoutPanel2.Size = new System.Drawing.Size(431, 449);
+			this.tableLayoutPanel2.TabIndex = 0;
 			// 
 			// tbPrevTranslation
 			// 
@@ -200,61 +242,27 @@
 			this.tbPrevTranslation.Multiline = true;
 			this.tbPrevTranslation.Name = "tbPrevTranslation";
 			this.tbPrevTranslation.ReadOnly = true;
-			this.tbPrevTranslation.Size = new System.Drawing.Size(374, 150);
+			this.tbPrevTranslation.Size = new System.Drawing.Size(425, 143);
 			this.tbPrevTranslation.TabIndex = 0;
-			// 
-			// tbOriginal
-			// 
-			this.tbOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.tbOriginal.Location = new System.Drawing.Point(3, 159);
-			this.tbOriginal.Multiline = true;
-			this.tbOriginal.Name = "tbOriginal";
-			this.tbOriginal.ReadOnly = true;
-			this.tbOriginal.Size = new System.Drawing.Size(344, 150);
-			this.tbOriginal.TabIndex = 1;
 			// 
 			// tbTranslation
 			// 
 			this.tbTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.tbTranslation.Location = new System.Drawing.Point(3, 159);
+			this.tbTranslation.Location = new System.Drawing.Point(3, 152);
 			this.tbTranslation.Multiline = true;
 			this.tbTranslation.Name = "tbTranslation";
-			this.tbTranslation.Size = new System.Drawing.Size(374, 150);
+			this.tbTranslation.Size = new System.Drawing.Size(425, 143);
 			this.tbTranslation.TabIndex = 1;
-			// 
-			// tbNextOriginal
-			// 
-			this.tbNextOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.tbNextOriginal.Location = new System.Drawing.Point(3, 315);
-			this.tbNextOriginal.Multiline = true;
-			this.tbNextOriginal.Name = "tbNextOriginal";
-			this.tbNextOriginal.ReadOnly = true;
-			this.tbNextOriginal.Size = new System.Drawing.Size(344, 153);
-			this.tbNextOriginal.TabIndex = 2;
 			// 
 			// tbNextTranslation
 			// 
 			this.tbNextTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
-			this.tbNextTranslation.Location = new System.Drawing.Point(3, 315);
+			this.tbNextTranslation.Location = new System.Drawing.Point(3, 301);
 			this.tbNextTranslation.Multiline = true;
 			this.tbNextTranslation.Name = "tbNextTranslation";
 			this.tbNextTranslation.ReadOnly = true;
-			this.tbNextTranslation.Size = new System.Drawing.Size(374, 153);
+			this.tbNextTranslation.Size = new System.Drawing.Size(425, 145);
 			this.tbNextTranslation.TabIndex = 2;
-			// 
-			// toolStripMenuItem3
-			// 
-			this.toolStripMenuItem3.Name = "toolStripMenuItem3";
-			this.toolStripMenuItem3.Size = new System.Drawing.Size(55, 20);
-			this.toolStripMenuItem3.Text = "↓↓↓";
-			this.toolStripMenuItem3.Click += new System.EventHandler(this.toolStripMenuItem3_Click);
-			// 
-			// toolStripMenuItem4
-			// 
-			this.toolStripMenuItem4.Name = "toolStripMenuItem4";
-			this.toolStripMenuItem4.Size = new System.Drawing.Size(55, 20);
-			this.toolStripMenuItem4.Text = "↑↑↑";
-			this.toolStripMenuItem4.Click += new System.EventHandler(this.toolStripMenuItem4_Click);
 			// 
 			// statusStrip1
 			// 
@@ -262,7 +270,7 @@
             this.lblStatus});
 			this.statusStrip1.Location = new System.Drawing.Point(0, 473);
 			this.statusStrip1.Name = "statusStrip1";
-			this.statusStrip1.Size = new System.Drawing.Size(734, 22);
+			this.statusStrip1.Size = new System.Drawing.Size(847, 22);
 			this.statusStrip1.TabIndex = 2;
 			this.statusStrip1.Text = "statusStrip1";
 			// 
@@ -272,20 +280,26 @@
 			this.lblStatus.Size = new System.Drawing.Size(23, 17);
 			this.lblStatus.Text = "0/0";
 			// 
-			// toolStripMenuItem5
+			// vScrollBar1
 			// 
-			this.toolStripMenuItem5.Name = "toolStripMenuItem5";
-			this.toolStripMenuItem5.Size = new System.Drawing.Size(55, 20);
-			this.toolStripMenuItem5.Text = "→→→";
-			this.toolStripMenuItem5.Click += new System.EventHandler(this.toolStripMenuItem5_Click);
+			this.vScrollBar1.Dock = System.Windows.Forms.DockStyle.Right;
+			this.vScrollBar1.LargeChange = 1;
+			this.vScrollBar1.Location = new System.Drawing.Point(830, 24);
+			this.vScrollBar1.Minimum = 1;
+			this.vScrollBar1.Name = "vScrollBar1";
+			this.vScrollBar1.Size = new System.Drawing.Size(17, 449);
+			this.vScrollBar1.TabIndex = 3;
+			this.vScrollBar1.Value = 1;
+			this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
 			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-			this.ClientSize = new System.Drawing.Size(734, 495);
-			this.Controls.Add(this.statusStrip1);
+			this.ClientSize = new System.Drawing.Size(847, 495);
 			this.Controls.Add(this.splitContainer1);
+			this.Controls.Add(this.vScrollBar1);
+			this.Controls.Add(this.statusStrip1);
 			this.Controls.Add(this.menuStrip1);
 			this.MainMenuStrip = this.menuStrip1;
 			this.Name = "Form1";
@@ -332,6 +346,7 @@
 		private System.Windows.Forms.StatusStrip statusStrip1;
 		private System.Windows.Forms.ToolStripStatusLabel lblStatus;
 		private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
+		private System.Windows.Forms.VScrollBar vScrollBar1;
 	}
 }
 
