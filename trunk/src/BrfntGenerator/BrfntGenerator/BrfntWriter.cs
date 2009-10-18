@@ -45,6 +45,7 @@ namespace BrfntGenerator
 
 		private void ReadTextFile(string fileName, string encoding)
 		{
+			if (fileName.ToLower().EndsWith(".xml")) encoding = "utf-8";
             using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open), Encoding.GetEncoding(encoding)))
 			{
 

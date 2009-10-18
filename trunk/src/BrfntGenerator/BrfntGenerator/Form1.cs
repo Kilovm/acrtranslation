@@ -20,7 +20,7 @@ namespace BrfntGenerator
 		private void btnOpen_Click(object sender, EventArgs e)
 		{
 			OpenFileDialog ofd = new OpenFileDialog();
-			ofd.Filter = "*.txt|*.txt";
+			ofd.Filter = "*.txt;*.xml|*.txt;*.xml";
 
 			if (ofd.ShowDialog() == DialogResult.OK)
 			{
