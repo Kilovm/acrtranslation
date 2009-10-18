@@ -94,6 +94,10 @@ namespace BMG
 				tbPrevOriginal.Text = bmg.Sentences[prevIndex].Original;
 				tbPrevTranslation.Text = bmg.Sentences[prevIndex].Translation;
 			}
+			else
+			{
+				tbPrevOriginal.Text = tbPrevTranslation.Text = "";
+			}
 
 			int nextIndex = currentIndex + 1;
 			if (nextIndex < bmg.Sentences.Length)
@@ -101,11 +105,15 @@ namespace BMG
 				tbNextOriginal.Text = bmg.Sentences[nextIndex].Original;
 				tbNextTranslation.Text = bmg.Sentences[nextIndex].Translation;
 			}
+			else
+			{
+				tbNextOriginal.Text = tbNextTranslation.Text = "";
+			}
 
 			tbOriginal.Text = bmg.Sentences[currentIndex].Original;
 			tbTranslation.Text = bmg.Sentences[currentIndex].Translation;
 
-			lblStatus.Text = string.Format("{0} / {1}", currentIndex, bmg.Sentences.Length);
+			lblStatus.Text = string.Format("{0} / {1}", currentIndex+1, bmg.Sentences.Length);
 		}
 
 		private void saveSessionToolStripMenuItem_Click(object sender, EventArgs e)
@@ -118,6 +126,8 @@ namespace BMG
 				}
 				else
 				{
+					bmg.Sentences[currentIndex].Translation = tbTranslation.Text;
+
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.xml|*.xml";
 
@@ -145,6 +155,8 @@ namespace BMG
 				}
 				else
 				{
+					bmg.Sentences[currentIndex].Translation = tbTranslation.Text;
+
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.bmg|*.bmg";
 
