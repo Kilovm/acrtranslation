@@ -197,3 +197,23 @@ Texts are stored with UTF-8 encoding. Dialogues are surrounded with "(FF) 00 00 
 == .MESS file ==
 
 Texts are stored with UTF-8 encoding.
+
+== .TPL file ==
+
+0000: 00 20 AF 30 00 00 00 01 00 00 00 0C 00 00 00 14
+
+0010: DWORD 0
+
+0014: WORD width or height
+
+0016: WORD height or width
+
+0018: DWORD format
+
+001C: DWORD 0x40
+
+0020: 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00 01
+
+0030: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+0040: image data, (width align with 4) * (height align with 4) * getBytesPerPixel(format)
