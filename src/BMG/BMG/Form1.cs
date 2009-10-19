@@ -244,14 +244,20 @@ namespace BMG
             if (e.KeyCode == Keys.PageUp)
             {
                 toolStripMenuItem4_Click(null, null);
+
+				e.Handled = true;
             }
             else if (e.KeyCode == Keys.PageDown)
             {
                 toolStripMenuItem3_Click(null, null);
+
+				e.Handled = true;
             }
             else if (e.KeyCode == Keys.Right && e.Modifiers == Keys.Alt)
             {
                 toolStripMenuItem5_Click(null, null);
+
+				e.Handled = true;
             }
         }
 
