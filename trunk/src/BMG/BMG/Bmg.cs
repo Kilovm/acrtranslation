@@ -216,9 +216,11 @@ namespace BMG
 			XmlElement element = doc.CreateElement("Session");
 			element.SetAttribute("title", Title);
 
+            int i = 0;
 			foreach (Sentence sentence in Sentences)
 			{
 				XmlElement sentenceElement = sentence.ToXmlElement(doc);
+                sentenceElement.SetAttribute("id", (i++).ToString());
 
 				element.AppendChild(sentenceElement);
 			}
