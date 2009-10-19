@@ -62,7 +62,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where'd they go?[1]I can't believe someone stole my bag! [2]Now what am I supposed to do?[3]</Original>
-    <Translation>[0]它们去哪了?[1]我不敢相信有人偷走了我的包! [2]现在,我究竟应该怎么办?[3]</Translation>
+    <Translation>[0]它们去哪了?[1]我不敢相信有人偷走了我的包! [2]现在我究竟应该怎么办?[3]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -112,8 +112,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACx8BAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Jessica...[1]I knew I shouldn't have come here.[2]He'll come to pick me up?[3]Sorry, Jessica, but you just don't get it.[4]Like he'd remember to come and get me.[5]I'm sure he thinks I'll be totally fine on my[6]own, like always.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]杰西卡...[1]我知道我不应该来这.[2]他会来接我?[3]对不起,杰西卡,我不明白了.[4]他应该记得要来接我吧[5]我确信,他肯定认为我会照顾好自己的[6]就像平常一样[7]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -132,8 +131,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKGgYAAAwAChoUAQALNQEAAAkBRVZFMDAzAAAAChoSAAAYQV9NMDEwX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]That's it![1]Forget this stupid camp![2]I'm going home right now![3]Except I can't.[4]I guess I gotta go and meet Dad...[5]I only had enough money for the bus trip[6]here...[7]Maybe I shouldn't have blown all the money[8]I was saving.[9]No...it was worth it.[10]I was dying to get that guitar.[11]Oh well. Guess I should go find him then.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]烦死了![1]忘了这个傻乎乎的野营吧![2]现在我就回家![3]不行啊....[4]我还想去见爸爸呢...[5]我现在只有坐公交车的钱了[6]这里...[7]我真不应该[8]花光我所有的储蓄.[9]不...那是值得的.[10]我真想得到那把吉他[11]没办法,还是去见爸爸吧.[12]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -152,8 +150,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoaBQAAQwoA</Command>
     </Commands>
     <Original>[0]I got a message from Dad.[1]"I'll wait at the campsite"?[2]I knew it! Like he'd come and get me![3]And where's this guesthouse, anyway?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我从爸爸那里得到了一条信息[1]"我会在营地等着你"?[2]我就知道!他肯定不会来接我的![3]不过旅店在哪里呢?[4]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -162,8 +159,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need an ID card to get into the campsite?[1]So... I guess this is the guesthouse?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我需要一张ID卡用来进入营地?[1]所以...我猜这就是旅店?[2]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -172,8 +168,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go home yet.[1]I have to see Dad.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还不能回家[1]我要去见爸爸[2]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -183,8 +178,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This must be the guesthouse.[1]It's locked![2]Now what?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定就是旅店了[1]它锁上了![2]怎么办?[3]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -200,8 +194,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's this for?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是什么?[1]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -211,8 +204,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm?[1]There's a path off to the right.[2]...?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯?[1]右边还有一条路[2]...?[3]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
