@@ -1,5 +1,5 @@
-#summary One-sentence summary of this page.
 #labels Featured
+#本页为统一翻译词语，随着翻译进度增加不断增加，以防发生混乱
 
 = 统一翻译词语 =
 
