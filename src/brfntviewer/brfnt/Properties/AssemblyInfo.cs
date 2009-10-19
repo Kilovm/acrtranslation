@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("brfnt")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("微软中国")]
+[assembly: AssemblyCompany("WII吧汉化组")]
 [assembly: AssemblyProduct("brfnt")]
-[assembly: AssemblyCopyright("Copyright © 微软中国 2009")]
+[assembly: AssemblyCopyright("Copyright © WII吧汉化组 2009")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
