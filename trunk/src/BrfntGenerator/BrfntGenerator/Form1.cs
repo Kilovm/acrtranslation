@@ -21,10 +21,11 @@ namespace BrfntGenerator
 		{
 			OpenFileDialog ofd = new OpenFileDialog();
 			ofd.Filter = "*.txt;*.xml|*.txt;*.xml";
+            ofd.Multiselect = true;
 
 			if (ofd.ShowDialog() == DialogResult.OK)
 			{
-				tbFileName.Text = ofd.FileName;
+                tbFileName.Text = string.Join(";", ofd.FileNames);
 			}
 		}
 

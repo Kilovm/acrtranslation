@@ -43,46 +43,54 @@ namespace BrfntGenerator
 			
 		}
 
-		private void ReadTextFile(string fileName, string encoding)
-		{
-			if (fileName.ToLower().EndsWith(".xml")) encoding = "utf-8";
-            using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open), Encoding.GetEncoding(encoding)))
-			{
+        private void ReadTextFile(string fileName, string encoding)
+        {
+            string enc;
 
-				List<char> list = new List<char>();
-                List<char> listTmp = new List<char>();
+            List<char> list = new List<char>();
+            List<char> tmpList = new List<char>();
 
-                for (int i = 0; i < presetRanges.Length; i += 2)
+            for (int i = 0; i < presetRanges.Length; i += 2)
+            {
+                for (int j = presetRanges[i]; j <= presetRanges[i + 1]; j++)
+                    list.Add((char)j);
+            }
+
+            string[] names = fileName.Split(new char[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (string name in names)
+            {
+                if (fileName.ToLower().EndsWith(".xml")) enc = "utf-8";
+                else enc = encoding;
+
+                using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open), Encoding.GetEncoding(enc)))
                 {
-                    for (int j = presetRanges[i]; j <= presetRanges[i + 1]; j++)
-                        list.Add((char)j);
+                    try
+                    {
+                        while (true)
+                        {
+
+                            char c = (char)reader.ReadChar();
+
+                            if (c < 0x20)
+                                continue;
+
+                            if (!list.Contains(c) && !tmpList.Contains(c))
+                                tmpList.Add(c);
+                        }
+                    }
+                    catch (EndOfStreamException) { }
+                    catch (Exception ex)
+                    {
+                        System.Windows.Forms.MessageBox.Show(ex.Message);
+                    }
                 }
+            }
 
-                try
-				{
-                    while (true)
-					{
-
-						char c = (char) reader.ReadChar();
-
-                        if (c < 0x20)
-                            continue;
-
-						if (!list.Contains(c) && !listTmp.Contains(c))
-							listTmp.Add(c);
-					}
-				}
-				catch (EndOfStreamException) { }
-				catch (Exception ex)
-				{
-					System.Windows.Forms.MessageBox.Show(ex.Message);
-				}
-
-				listTmp.Sort(); // We must sort here, because the font engine may use binary search
-                list.AddRange(listTmp);
-				chars=list.ToArray();
-			}
-		}
+            tmpList.Sort(); // We must sort here, because the font engine may use binary search
+            list.AddRange(tmpList);
+            chars = list.ToArray();
+        }
 
 		public void WriteBrfnt(string outputFileName)
 		{
