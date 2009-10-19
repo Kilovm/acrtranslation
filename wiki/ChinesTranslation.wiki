@@ -3,10 +3,11 @@
 
 以下为统一翻译，随着翻译进度增加不断增加
 
-
 = 人名 =
-* Jessica 杰西卡
-* Sayoko 沙夜子
+
+ * Jessica 杰西卡
+ * Sayoko 沙夜子
+
 = 地名 =
 
  * JC Valley : JC山谷
