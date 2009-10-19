@@ -205,6 +205,7 @@
             this.tbOriginal.Multiline = true;
             this.tbOriginal.Name = "tbOriginal";
             this.tbOriginal.ReadOnly = true;
+            this.tbOriginal.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.tbOriginal.Size = new System.Drawing.Size(389, 239);
             this.tbOriginal.TabIndex = 1;
             // 
