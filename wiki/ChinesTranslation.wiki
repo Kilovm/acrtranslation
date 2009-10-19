@@ -1,5 +1,4 @@
 #labels Featured
-#Chinese Translation words
 
 = 统一翻译词语 =
 
@@ -7,7 +6,7 @@
 
 
 = 人名 =
-Jessica 杰西卡
+* Jessica 杰西卡
 = 地名 =
 
  * JC Valley : JC山谷
