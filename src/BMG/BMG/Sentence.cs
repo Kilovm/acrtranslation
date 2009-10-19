@@ -100,7 +100,7 @@ namespace BMG
 			XmlNodeList commandNodes = element.SelectNodes("./Commands/Command");
 			foreach (XmlElement node in commandNodes)
 			{
-				_commands.Add(node.InnerText);
+                _commands.Add(Extension.BytesToString(Convert.FromBase64String(node.InnerText)));
 			}
 
 			_original = element.GetElementsByTagName("Original")[0].InnerText;
@@ -179,7 +179,7 @@ namespace BMG
 				XmlElement cmdElement = doc.CreateElement("Command");
 				//cmdElement.SetAttribute("id", i.ToString());
 
-				cmdElement.InnerText = _commands[i];
+                cmdElement.InnerText = Convert.ToBase64String(Extension.StringToBytes(_commands[i]));
 
 				commandsElement.AppendChild(cmdElement);
 			}
@@ -193,7 +193,6 @@ namespace BMG
 			XmlElement transElement = doc.CreateElement("Translation");
 			transElement.InnerText = _translation;
 			element.AppendChild(transElement);
-
 
 			return element;
 		}

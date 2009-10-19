@@ -217,6 +217,22 @@ namespace BMG
 		{
 			currentIndex = e.NewValue-1;
 			RefreshTextBoxes();
-		}
+        }
+
+        private void tbTranslation_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.PageUp)
+            {
+                toolStripMenuItem4_Click(null, null);
+            }
+            else if (e.KeyCode == Keys.PageDown)
+            {
+                toolStripMenuItem3_Click(null, null);
+            }
+            else if (e.KeyCode == Keys.Right && e.Modifiers == Keys.Alt)
+            {
+                toolStripMenuItem5_Click(null, null);
+            }
+        }
 	}
 }
