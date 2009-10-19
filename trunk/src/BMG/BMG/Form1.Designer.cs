@@ -46,9 +46,9 @@
             this.tbOriginal = new System.Windows.Forms.TextBox();
             this.tbNextOriginal = new System.Windows.Forms.TextBox();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.tbTranslation = new System.Windows.Forms.TextBox();
             this.tbPrevTranslation = new System.Windows.Forms.TextBox();
             this.tbNextTranslation = new System.Windows.Forms.TextBox();
+            this.tbTranslation = new System.Windows.Forms.RichTextBox();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
             this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
@@ -222,9 +222,9 @@
             // 
             this.tableLayoutPanel2.ColumnCount = 1;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Controls.Add(this.tbTranslation, 0, 1);
             this.tableLayoutPanel2.Controls.Add(this.tbPrevTranslation, 0, 0);
             this.tableLayoutPanel2.Controls.Add(this.tbNextTranslation, 0, 2);
+            this.tableLayoutPanel2.Controls.Add(this.tbTranslation, 0, 1);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
@@ -234,16 +234,6 @@
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel2.Size = new System.Drawing.Size(431, 490);
             this.tableLayoutPanel2.TabIndex = 0;
-            // 
-            // tbTranslation
-            // 
-            this.tbTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tbTranslation.Location = new System.Drawing.Point(3, 166);
-            this.tbTranslation.Multiline = true;
-            this.tbTranslation.Name = "tbTranslation";
-            this.tbTranslation.Size = new System.Drawing.Size(425, 157);
-            this.tbTranslation.TabIndex = 1;
-            this.tbTranslation.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tbTranslation_KeyUp);
             // 
             // tbPrevTranslation
             // 
@@ -264,6 +254,16 @@
             this.tbNextTranslation.ReadOnly = true;
             this.tbNextTranslation.Size = new System.Drawing.Size(425, 158);
             this.tbNextTranslation.TabIndex = 2;
+            // 
+            // tbTranslation
+            // 
+            this.tbTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tbTranslation.Location = new System.Drawing.Point(3, 166);
+            this.tbTranslation.Name = "tbTranslation";
+            this.tbTranslation.Size = new System.Drawing.Size(425, 157);
+            this.tbTranslation.TabIndex = 3;
+            this.tbTranslation.Text = "";
+            this.tbTranslation.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tbTranslation_KeyUp);
             // 
             // statusStrip1
             // 
@@ -306,6 +306,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.splitContainer1.Panel1.ResumeLayout(false);
@@ -338,8 +339,7 @@
 		private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
 		private System.Windows.Forms.TextBox tbPrevOriginal;
 		private System.Windows.Forms.TextBox tbOriginal;
-		private System.Windows.Forms.TextBox tbPrevTranslation;
-		private System.Windows.Forms.TextBox tbTranslation;
+        private System.Windows.Forms.TextBox tbPrevTranslation;
 		private System.Windows.Forms.TextBox tbNextOriginal;
 		private System.Windows.Forms.TextBox tbNextTranslation;
 		private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem4;
@@ -348,6 +348,7 @@
 		private System.Windows.Forms.ToolStripStatusLabel lblStatus;
 		private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
 		private System.Windows.Forms.VScrollBar vScrollBar1;
+        private System.Windows.Forms.RichTextBox tbTranslation;
 	}
 }
 

@@ -15,6 +15,8 @@ namespace BMG
 		protected BMG bmg = null;
 		protected int currentIndex = -1;
 
+        Regex regex = new Regex(@"(\[\d+\])");
+
 		public Form1()
 		{
 			InitializeComponent();
@@ -22,7 +24,6 @@ namespace BMG
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-
 		}
 
 		private void exitToolStripMenuItem_Click(object sender, EventArgs e)
@@ -116,10 +117,12 @@ namespace BMG
 				tbNextOriginal.Text = tbNextTranslation.Text = "";
 			}
 
-			tbOriginal.Text = bmg.Sentences[currentIndex].Original;
-			tbTranslation.Text = bmg.Sentences[currentIndex].Translation;
+            tbOriginal.Text = regex.Replace(bmg.Sentences[currentIndex].Original, "$1\r\n");
+            tbTranslation.Text = regex.Replace(bmg.Sentences[currentIndex].Translation, "$1\r\n");
 
 			lblStatus.Text = string.Format("{0} / {1}", currentIndex+1, bmg.Sentences.Length);
+
+            ColorTextBox(tbTranslation);
 		}
 
 		private void saveSessionToolStripMenuItem_Click(object sender, EventArgs e)
@@ -132,7 +135,7 @@ namespace BMG
 				}
 				else
 				{
-					bmg.Sentences[currentIndex].Translation = tbTranslation.Text;
+                    SaveTranslation();
 
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.xml|*.xml";
@@ -151,6 +154,11 @@ namespace BMG
 			}
 		}
 
+        private void SaveTranslation()
+        {
+            bmg.Sentences[currentIndex].Translation = tbTranslation.Text.Replace("\n", "");
+        }
+
 		private void exportBMGToolStripMenuItem_Click(object sender, EventArgs e)
 		{
 			try
@@ -161,7 +169,7 @@ namespace BMG
 				}
 				else
 				{
-					bmg.Sentences[currentIndex].Translation = tbTranslation.Text;
+                    SaveTranslation();
 
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.bmg|*.bmg";
@@ -184,14 +192,20 @@ namespace BMG
 		{
 			if (bmg == null) return;
 
-			tbTranslation.Text = tbOriginal.Text;
+            if (string.IsNullOrEmpty(tbTranslation.Text) ||
+                MessageBox.Show(this,"Overwrite current translation?", "Overwrite", MessageBoxButtons.YesNo) == DialogResult.Yes)
+            {
+                tbTranslation.Text = tbOriginal.Text;
+
+                ColorTextBox(tbTranslation);
+            }
 		}
 
 		private void toolStripMenuItem4_Click(object sender, EventArgs e)
 		{
 			if (bmg == null) return;
 
-			bmg.Sentences[currentIndex].Translation = tbTranslation.Text;
+            SaveTranslation();
 
 			int i = currentIndex - 1;
 			if (i >= 0) currentIndex = i;
@@ -204,7 +218,7 @@ namespace BMG
 		{
 			if (bmg == null) return;
 
-			bmg.Sentences[currentIndex].Translation = tbTranslation.Text;
+            SaveTranslation();
 
 			int i = currentIndex + 1;
 			if (i<bmg.Sentences.Length) currentIndex = i;
@@ -232,6 +246,41 @@ namespace BMG
             else if (e.KeyCode == Keys.Right && e.Modifiers == Keys.Alt)
             {
                 toolStripMenuItem5_Click(null, null);
+            }
+        }
+
+        private void ColorTextBox(RichTextBox rtb)
+        {
+            string text = rtb.Text;
+
+            int selectionStarts = rtb.SelectionStart;
+            int selectionLength = rtb.SelectionLength;
+
+            MatchCollection mc = regex.Matches(text);
+
+            foreach (Match m in mc)
+            {
+                rtb.Select(m.Index, m.Length);
+                rtb.SelectionColor = Color.LightGray;
+            }
+
+            rtb.DeselectAll();
+            rtb.SelectionColor = Color.Black;
+
+            rtb.SelectionStart = selectionStarts;
+            rtb.SelectionLength = selectionLength;
+
+            rtb.ForeColor = Color.Black;
+
+            rtb.Enabled = true;
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (bmg != null &&
+                MessageBox.Show(this, "Exit?", "Confirm", MessageBoxButtons.YesNo) == DialogResult.No)
+            {
+                e.Cancel = true;
             }
         }
 	}
