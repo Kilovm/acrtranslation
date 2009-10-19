@@ -182,9 +182,9 @@
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(395, 490);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
@@ -195,27 +195,27 @@
             this.tbPrevOriginal.Multiline = true;
             this.tbPrevOriginal.Name = "tbPrevOriginal";
             this.tbPrevOriginal.ReadOnly = true;
-            this.tbPrevOriginal.Size = new System.Drawing.Size(389, 157);
+            this.tbPrevOriginal.Size = new System.Drawing.Size(389, 116);
             this.tbPrevOriginal.TabIndex = 0;
             // 
             // tbOriginal
             // 
             this.tbOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tbOriginal.Location = new System.Drawing.Point(3, 166);
+            this.tbOriginal.Location = new System.Drawing.Point(3, 125);
             this.tbOriginal.Multiline = true;
             this.tbOriginal.Name = "tbOriginal";
             this.tbOriginal.ReadOnly = true;
-            this.tbOriginal.Size = new System.Drawing.Size(389, 157);
+            this.tbOriginal.Size = new System.Drawing.Size(389, 239);
             this.tbOriginal.TabIndex = 1;
             // 
             // tbNextOriginal
             // 
             this.tbNextOriginal.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tbNextOriginal.Location = new System.Drawing.Point(3, 329);
+            this.tbNextOriginal.Location = new System.Drawing.Point(3, 370);
             this.tbNextOriginal.Multiline = true;
             this.tbNextOriginal.Name = "tbNextOriginal";
             this.tbNextOriginal.ReadOnly = true;
-            this.tbNextOriginal.Size = new System.Drawing.Size(389, 158);
+            this.tbNextOriginal.Size = new System.Drawing.Size(389, 117);
             this.tbNextOriginal.TabIndex = 2;
             // 
             // tableLayoutPanel2
@@ -229,9 +229,9 @@
             this.tableLayoutPanel2.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 3;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel2.Size = new System.Drawing.Size(431, 490);
             this.tableLayoutPanel2.TabIndex = 0;
             // 
@@ -242,25 +242,25 @@
             this.tbPrevTranslation.Multiline = true;
             this.tbPrevTranslation.Name = "tbPrevTranslation";
             this.tbPrevTranslation.ReadOnly = true;
-            this.tbPrevTranslation.Size = new System.Drawing.Size(425, 157);
+            this.tbPrevTranslation.Size = new System.Drawing.Size(425, 116);
             this.tbPrevTranslation.TabIndex = 0;
             // 
             // tbNextTranslation
             // 
             this.tbNextTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tbNextTranslation.Location = new System.Drawing.Point(3, 329);
+            this.tbNextTranslation.Location = new System.Drawing.Point(3, 370);
             this.tbNextTranslation.Multiline = true;
             this.tbNextTranslation.Name = "tbNextTranslation";
             this.tbNextTranslation.ReadOnly = true;
-            this.tbNextTranslation.Size = new System.Drawing.Size(425, 158);
+            this.tbNextTranslation.Size = new System.Drawing.Size(425, 117);
             this.tbNextTranslation.TabIndex = 2;
             // 
             // tbTranslation
             // 
             this.tbTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tbTranslation.Location = new System.Drawing.Point(3, 166);
+            this.tbTranslation.Location = new System.Drawing.Point(3, 125);
             this.tbTranslation.Name = "tbTranslation";
-            this.tbTranslation.Size = new System.Drawing.Size(425, 157);
+            this.tbTranslation.Size = new System.Drawing.Size(425, 239);
             this.tbTranslation.TabIndex = 3;
             this.tbTranslation.Text = "";
             this.tbTranslation.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tbTranslation_KeyUp);

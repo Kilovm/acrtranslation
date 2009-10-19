@@ -52,6 +52,8 @@ namespace BMG
 
 					vScrollBar1.Maximum = bmg.Sentences.Length;
 					vScrollBar1.Value = 1;
+
+                    tbTranslation.Focus();
 				}
 			}
 			catch (Exception ex)
@@ -82,7 +84,9 @@ namespace BMG
 
 					vScrollBar1.Maximum = bmg.Sentences.Length;
 					vScrollBar1.Value = 1;
-				}
+
+                    tbTranslation.Focus();
+                }
 			}
 			catch (Exception ex)
 			{
@@ -229,6 +233,8 @@ namespace BMG
 
 		private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
 		{
+            SaveTranslation();
+
 			currentIndex = e.NewValue-1;
 			RefreshTextBoxes();
         }
@@ -251,12 +257,21 @@ namespace BMG
 
         private void ColorTextBox(RichTextBox rtb)
         {
+            rtb.Focus();
+
             string text = rtb.Text;
+
+            if (string.IsNullOrEmpty(text)) return;
+
+            rtb.Clear();
+            rtb.Text = text;
 
             int selectionStarts = rtb.SelectionStart;
             int selectionLength = rtb.SelectionLength;
 
             MatchCollection mc = regex.Matches(text);
+
+            if (mc.Count == 0) return;
 
             foreach (Match m in mc)
             {
@@ -269,10 +284,6 @@ namespace BMG
 
             rtb.SelectionStart = selectionStarts;
             rtb.SelectionLength = selectionLength;
-
-            rtb.ForeColor = Color.Black;
-
-            rtb.Enabled = true;
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
