@@ -8,5 +8,6 @@
 
 = 人名 =
 = 地名 =
-JC Valley JC山谷
-Lake Juliet 朱丽叶湖
+
+ * JC Valley : JC山谷
+ * Lake Juliet : 朱丽叶湖
