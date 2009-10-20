@@ -1,0 +1,80 @@
+<Session title="PUZZLE_MESS_059.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAAB6AAAAAHoKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Ah! It bounced back![1]I've got to time this right...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I've got to time this right...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgcAAAMF3AoaBgAADAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDAAACAAAegAAAAAKGg0AABUAAGgAAAAAAAoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I've almost got it...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Yikes! That looks dangerous! Better not risk[1]it...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>AAAAAAAAAAAAAAAAAAAA</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

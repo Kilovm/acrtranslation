@@ -1,0 +1,61 @@
+<Session title="PUZZLE_MESS_081.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAIYAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]"TAS Data Upgrade - Alternative Method"[1]What?[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgYAAAwAChoHAAADAAAKAA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAIYAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I wonder if this'll be any help...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

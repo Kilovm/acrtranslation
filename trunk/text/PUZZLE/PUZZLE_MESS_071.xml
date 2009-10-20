@@ -1,0 +1,90 @@
+<Session title="PUZZLE_MESS_071.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHAAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]These two look like part of a set.[1]What am I supposed to do with them?[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHAAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]This reminds me of something...[1]Maybe...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGggAAAABC7gaBv8AAAAiRGF0YSB0cmFuc2ZlciBjb21wbGV0ZS4iGgb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGggAAAABvyAaBv8AAAAiUmVtb3ZlIHVwZ3JhZGUgbW9kdWxlLiIaBv8AAAAKGgUAAAEKAA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAG0AAAAAMgoaCAAAAAEH0BoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I could try attaching this module to [1]the TAS...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAHsAAAAAAAoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Whoa![1]The cover opened...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="9">
+    <Commands>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

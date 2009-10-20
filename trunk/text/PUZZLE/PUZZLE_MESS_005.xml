@@ -1,0 +1,82 @@
+<Session title="PUZZLE_MESS_005.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAmAQoaBwAAEQAAGgcAABIEAAoaDgEACw8BAAAAAAAAAAoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIBABpAAAAAAoaDQAAFQQAbQAAAAAACkknbSB0cnlpbmchIEp1c3QgYSBiaXQgbG9uZ2VyIQoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoNAAAVAABqAAAAAKAKGgwAAAgEAGkAAAAAChoNAAAVBABtAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChopAAAFV1NEX1NFX0VWRU5UX0FOU0hJVFNVX0FUQVJJX1NBR1VSVQAACgA=</Command>
+    </Commands>
+    <Original>[0]Matt, hurry up![1]I can't hold this much longer![2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIBAFNAAAAAAoaDQAAFQQAbQAAAAAACkkgZ290IGl0IQoaBQAAAQoA</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoMAAAIBABpAAAAAAoaDQAAFQQAaQAAAAAACldoYXQgYXJlIHlvdSBkb2luZz8hChoFAAABChoTAAANAADjg57jgrfjg6Xjg7wKGgwAAAgEAG0AAAAAChoNAAAVBABqAAAAAAAKTXkgaGFuZCBuZWFybHkgZ290IHNxdWlzaGVkIQoaBQAAAQoA</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgcAAAMD6AoaBgAADAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDQAAFQAAbQAAAAAyChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]It's too heavy![1]I can't hold it any more![2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>GgwAAAgAAUAAAAAAChoNAAAVAABnAAAAAGcKGikAAAVXU0RfU0VfRVZFTlRfQU5TSElUU1VfQVRBUklfU0FHVVJVAAAKGgcAAAMH0AoaBgAADAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDAAACAAAdAAAAAAKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]It's no good, the gap is too small to reach[1]in and grab it...[2]If I can move the crate, maybe someone could[3]get it out from above...[4]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

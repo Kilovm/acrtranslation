@@ -1,0 +1,70 @@
+<Session title="PUZZLE_MESS_012.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]All right! I got the bag![1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Well, that was a fail...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAIMAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]If I don't wind the rope up quickly, I'll lose the[1]bag again...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>AAAAAAAA</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

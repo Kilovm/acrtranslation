@@ -1,0 +1,56 @@
+<Session title="PUZZLE_MESS_041.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Oops. That was wrong.[1]Got to turn the puzzle box to the colour of[2]the note...[3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Hmm.[1]Wait, what if I turn the puzzle box to the[2]colour of the note?[3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>AAAAAAAAAAAAAA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>
