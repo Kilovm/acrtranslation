@@ -17,5 +17,7 @@
 
  * JC Valley : JC山谷
  * Lake Juliet : 朱丽叶湖
- * guesthouse : 建议翻译为旅店
+ * guesthouse : 旅店
+ * cottage：小屋
+ * campsite 营地
  * Crusoe Resort：克鲁索度假村
