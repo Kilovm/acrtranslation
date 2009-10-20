@@ -243,10 +243,13 @@ namespace BMG
 
 		private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
 		{
-            SaveTranslation();
+			if (bmg != null)
+			{
+				SaveTranslation();
 
-			currentIndex = e.NewValue-1;
-			RefreshTextBoxes();
+				currentIndex = e.NewValue - 1;
+				RefreshTextBoxes();
+			}
         }
 
         private void tbTranslation_KeyUp(object sender, KeyEventArgs e)
