@@ -1,0 +1,179 @@
+<Session title="PUZZLE_MESS_050.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Put some water in the test tube...[1]Now add the chemical up to the red line.[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KIkVhc3kgV2F0ZXIgQW5hbHlzaXMgS2l0IE1TMTAwUAoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoFAAAOClRoaXMga2l0IGlzIGRlc2lnbmVkIHRvIGluZGljYXRlIHRoZSBwSCB2YWx1ZSBvZgphIHdhdGVyIHNhbXBsZS4KGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgpUaGUgc3VwcGxpZWQgcmVhZ2VudCB3aWxsIGRldGVybWluZSBpZiB0aGUKd2F0ZXIgaXMgYWNpZGljIG9yIGFsa2FsaW5lLgoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoFAAAOCkZpbGwgdG8gdGhlIGdyZXkgbGluZSB3aXRoIHdhdGVyLiBBZGQgdGhlIHJlYWdlbnQKdXAgdG8gdGhlIHJlZCBsaW5lLiBTaGFrZSBnZW50bHkuChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KUGluayBjb2xvdXIgaW5kaWNhdGVzIGFsa2FsaW5pdHkuIFJlZCBpbmRpY2F0ZXMKYWNpZGl0eS4gRGVlcCByZWQgaW5kaWNhdGVzIHN0cm9uZyBhY2lkaXR5LgoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoFAAAOCklmIHRoZXJlIGlzIG5vIGNoYW5nZSBpbiBjb2xvdXIsIHRoZSBzYW1wbGUgaXMKcEggbmV1dHJhbC4KGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgpUb28gbXVjaCByZWFnZW50IGNhbiByZXN1bHQgaW4gdW5yZWxpYWJsZQpyZXN1bHRzLiBQbGVhc2UgcmUtdGVzdCB0aGUgc2FtcGxlIGluIHRoaXMgY2FzZS4iChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAAB8AAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Oops. Put in too much of the [1]reagent...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGoAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Oops. Shouldn't have mixed those...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHsAAAAAChoNAAAVAAB8AAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I think I got carried away there...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Here's an empty test tube.[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I need more than that...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Okay, that's it![1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="9">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGggAAAABB9AaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoIAAAAAAAACgA=</Command>
+    </Commands>
+    <Original>[0]Have to hold the test tube upright...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="10">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGggAAAABB9AaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Now, shake it gently...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="11">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So, this water is alkaline...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="12">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So, this water is acidic...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="13">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So, this water is strongly acidic...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="14">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So, this water is neutral...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="15">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]This water isn't pure.[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="16">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABoAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]This water is pure![1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="17">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="18">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="19">
+    <Commands>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

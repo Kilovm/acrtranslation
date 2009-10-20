@@ -1,0 +1,82 @@
+<Session title="PUZZLE_MESS_002.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]Someone's there...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]Someone's there...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]A boy...and a dog?[1]Hey![2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]Someone's there...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgYAAAwACgA=</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]Wait, that's...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]Nobody in there...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
+    </Commands>
+    <Original>[0]Nobody in there...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>GgYAAAwACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>

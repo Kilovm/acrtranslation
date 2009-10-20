@@ -1,0 +1,326 @@
+<Session title="PUZZLE_MESS_003.BMG">
+  <Sentence id="0">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAACEAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]"Please insert DAS"?[1]Wait, that means...[2]You need a DAS to use this computer?[3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHIAAAAAChoNAAAVAAByAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Okay, looks like it's working now...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGoAAAAAoAoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Hang on...[1]That's not the internet icon.[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So, I need to type the keyword I want to[1]search for here.[2]First, let's try "Michael Crusoe"...[3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKIlNldHRpbmcgdXAgYSBjb21wYW55IHdpdGggaGlzIGxvdHRlcnkgd2luIQpNaWNoYWVsIENydXNvZSwgd2hvIHdvbiBhIHN0YWdnZXJpbmcgdGhyZWUKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAptaWxsaW9uIGRvbGxhcnMgaW4gdGhlIDE5OTkgbG90dGVyeSBncmFuZCBwcml6ZQpkcmF3LCBoYXMgZGVjaWRlZCB0byB1c2UgaGlzIG1vbmV5IHRvIHNob3cKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAphbGwgb2YgQW1lcmljYSB0aGUgYmVhdXR5IG9mIGhpcyBob21lIHRvd24sCkxha2UgSnVsaWV0LiBIZSBzZXQgdXAgdGhlIENydXNvZSBSZXNvcnQKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAApEZXZlbG9wbWVudCBjb21wYW55IHRvIGRvIGp1c3QgdGhhdC4KGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAApMZXQncyBob3BlIGhlIGhhcyB0aGUgc2FtZSBnb29kIGx1Y2sgd2l0aCAKdGhpcyBjb21wYW55IGFzIGhlIGRpZCB3aXRoIHRoZSBsb3R0ZXJ5ISIKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDAAACAAAdgAAAAAKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Wow...so Matt's dad was totally loaded.[1]And he used the money from winning the[2]lottery to set up his company.[3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAACRAAAAAJEKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHIAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Okay, next up...[1]Let's try searching for "Crusoe Resort".[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAG0AAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKIk5FV1M6IDggTWFyY2ggMjAwMgoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoFAAAOChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAACldlIGFyZSBubyBsb25nZXIgYWJsZSB0byBhY2NlcHQgYW55IApjb21tdW5pY2F0aW9uIGJ5IGUtbWFpbC4KGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAApXZSBhcG9sb2dpc2UgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5CmNhdXNlIG91ciBjdXN0b21lcnMuIgoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoMAAAIAAB2AAAAAAoaDQAAFQAAbQAAAAAyChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAG0AAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Looks like Crusoe Resort has its own [1]website![2]Huh?[3]What's this on the page?[4]That's from back in 2002![5]So, this website hasn't been updated for...five[6]years?[7]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Oh great, it's password protected...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Hmm. The password to open the folder is...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="9">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHIAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Okay, I'm past the password![1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="10">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Oh great, that's not the right password...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="11">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAACEAAAAAChoNAAAVAAAAAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]"DAS CONNECT START UP"[1]What?![2]What's going on?[3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="12">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAACEAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Maybe I should stay and read Dad's e-mail...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="13">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="14">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGgAAAAAAAoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I've already found everything I can about [1]Matt's dad, so I don't need the internet again.[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="15">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGoAAAAAoAoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]That's Dad's e-mail...[1]I don't think I need to look at that...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="16">
+    <Commands>
+      <Command>GgcAAAMD6AoaBgAADAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDQAAFQAAagAAAACgChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]It says "notes", but...[1]This is like Dad's diary.[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="17">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGgAAAAAAAoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So I click on the Internet icon...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="18">
+    <Commands>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Okay, I've got a search engine page.[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="19">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Hey, that's a photo of the lake.[1]Where exactly was this taken?[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="20">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]I'm sure I've seen this place before...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="21">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Did Dad take this?[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="22">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Dad...why didn't you just say something?[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="23">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAACEAAAAAChoNAAAVAAAAAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]An anonymous email? [1]What is he talking about?[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="24">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So Dad was looking into the pollution at the[1]lake as well...[2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="25">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJIAAAAAChoNAAAVAACSAAAAAJIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Dad...[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="26">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAACEAAAAAChoNAAAVAAAAAAAAAJIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]Who's Mike?[1]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="27">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]So Jessica was giving Dad a hard time...[1]She never mentioned anything to me![2]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="28">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAJEAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHsAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]This has got to be the e-mail from "Rex" that[1]Jessica mentioned on the phone.[2]So Dad came to work at JC Valley after being[3]invited up here by this guy.[4]Wait a minute... Rex?[5]No way![6]That's Elizabeth's dad...[7]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="29">
+    <Commands>
+      <Command>GgYAAAwAChoHAAADAAAKGgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAG0AAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGoAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
+    </Commands>
+    <Original>[0]An e-mail with no name for the sender...[1]This is the e-mail that Jessica was talking[2]about![3]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="30">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="31">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="32">
+    <Commands>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAA</Command>
+    </Commands>
+    <Original>[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+</Session>
