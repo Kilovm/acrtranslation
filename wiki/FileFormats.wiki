@@ -192,13 +192,33 @@ Type 2 :
 
 == .BMG file ==
 
-Texts are stored in UTF-8 encoding. Dialogues are surrounded by "(FF) 00 00 05 text 1A 06 (FF)"
+http://wiibrew.org/wiki/BMG_files
+
+Texts are stored in UTF-8 encoding.
+
+Commands are inserted into texts.
+
+=== Command ===
+
+0000: BYTE 1A
+
+0001: BYTE length
+
+0002: BYTE `*` (length - 2)
+
+(length): 0A
+
+=== Null ===
+
+0000: BYTE 00
 
 == .MESS file ==
 
 Texts are stored in UTF-8 encoding.
 
 == .TPL file ==
+
+Deprecated. see http://wiibrew.org/wiki/Banner
 
 0000: 00 20 AF 30 00 00 00 01 00 00 00 0C 00 00 00 14
 
@@ -217,3 +237,7 @@ Texts are stored in UTF-8 encoding.
 0030: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 
 0040: image data, (width align with 4) `*` (height align with 4) `*` getBytesPerPixel(format)
+
+== .ISO file ==
+
+http://wiibrew.org/wiki/Wii_Disc
