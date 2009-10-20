@@ -4,8 +4,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -18,16 +17,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went to the guesthouse and got charcoal for[1]the barbecue, but on the way back[2]I ran into Dad, who'd got an urgent phone call[3]and had to get back to the lab.[4]Now I'm waiting for Gina, the person Dad sent[5]to keep me company while I wait for him.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我去了趟旅馆，为烧烤准备了[1]一点儿木炭，在回来的路上[2]碰见了爸爸，他刚接到一个紧急电话[3]正要赶回实验室。[4]现在我正在等Gina，爸爸不放心我一个人等他，[5]就派Gina来陪我的。[6]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
       <Command>GhIAABhBX1AwNDBfRABFTlYCChoSAAAYQV9QMDQwX0QARU5WAQoaBgAADAAKGg4BAAsfAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -48,8 +45,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Huh?[1]Yeah.[2]Who are you?[3]Instead of Gina?[4]Why didn't she come?[5]Urgent work? What happened?[6]But...[7]No, that's not it. It's just...[8]I was just wondering, isn't having a barbecue[9]with someone you just met kind of...[10]Yeah...[11]Really?[12]Nice to meet you.[13]Wait![14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]是的。[2]你是谁？[3]你是代替Gina来的？[4]她怎么没有来？[5]有急事？发生什么了？[6]但是……[7]不，不是这个意思，只是……[8]我只是奇怪，跟才见面的人一起[9]烧烤，总觉得有点儿……[10]是啊。。。[11]真的吗？[12]很高兴见到你。[13]等等！[14]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -58,8 +54,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I've seen this man before...[1]Somewhere...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我以前见过这个男人……[1]在什么地方呢……[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -68,8 +63,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhUBAApQX01FTU9SWV9SeWFuX29uChocAAAFV1NEX1NFX1BBUlRfTUVNT1JZX0lOAAAKGjMBAAlQX01FTU9SWV9SeWFuX29mZgBQX01FTU9SWV9SeWFuX29mZl9vZmYuYnJsYW4AChoGAAAMAAoaFgEAClBfTUVNT1JZX1J5YW5fb2ZmCgA=</Command>
     </Commands>
     <Original>[0]Ryan Gray.[1]Where have I met you before?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩 格雷[1]我以前在哪里见过你吗？[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -77,8 +71,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -88,8 +81,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBjAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKTm90IHRoYXQgSSByZWNhbGwuChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGMAAAAAChoTAAANAADjg6njgqTjgqLjg7MKVGhpcyBpcyB0aGUgZmlyc3QgdGltZSB0aGF0IHdlIGhhdmUgbWV0LCB0byB0aGUKYmVzdCBvZiBteSBrbm93bGVkZ2UuChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGMAAAAAChoTAAANAADjg6njgqTjgqLjg7MKSG93ZXZlci4uLgoaBQAAAQoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBjAAAAAAoaEwAADQAA44Op44Kk44Ki44OzCkl0IGlzIG5vdCB1bmNvbW1vbiB0byBtZWV0IHNvbWVvbmUgYW5kIHRoaW5rCnRoYXQgeW91J3ZlIHNlZW4gdGhlbSBzb21ld2hlcmUgYmVmb3JlLgoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Ryan...[1]Have we...[2]Have we met before?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩……[1]我们……[2]我们以前见过面吗？[3]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -133,8 +125,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAbQABAAAAChoMAAAICQBjAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKT2YgY291cnNlLgoaBQAAAQoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAagABAAAAChoMAAAICQBjAAAAAAoaEwAADQAA44Op44Kk44Ki44OzClRoZSBkZWF0aCBvZiBTYXlva28gUm9iaW5zIHdhcyBhIGdyZWF0IGxvc3MKZm9yIHRoZSBlbnRpcmUgc2NpZW50aWZpYyBjb21tdW5pdHksIGVzcGVjaWFsbHkKGgUAAAEKGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKGg0AABUJAGoAAQAAAAoaDAAACAkAYwAAAAAKGhMAAA0AAOODqeOCpOOCouODswpmb3IgdGhvc2Ugb2YgdXMgZm9jdXNlZCBvbiBtZW1vcnkgcmVzZWFyY2guChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGMAAAAAChoTAAANAADjg6njgqTjgqLjg7MKQW5kIG5vdywgYWZ0ZXIgMTMgeWVhcnMsIEkgaGF2ZSB0aGUgY2hhbmNlCnRvIG1lZXQgaGVyIGRhdWdodGVyLgoaBQAAAQoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBjAAAAAAoaEwAADQAA44Op44Kk44Ki44OzCkl0IGlzIHF1aXRlIGFuIHVuZXhwZWN0ZWQgb3Bwb3J0dW5pdHkuChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]No... I'm still sure I've seen you before[1]somewhere.[2]I remembered it when I saw you.[3]I've definitely seen you somewhere before.[4]Yeah...[5]I was here with my mom 13 years ago.[6]Maybe I met you back then.[7]I'm 16.[8]Sorry, I didn't understand a word of that.[9]What are you telling me?[10]Ambiguous, unreliable memories?[11]But as soon as I arrived here, I suddenly[12]started remembering my mom...[13]Yeah...[14]Okay.[15]No.[16]My dad called me here.[17]Yeah.[18]My dad knew that I'd been here with my mom[19]13 years ago...[20]So he wanted to show me the place again.[21]Before I came here...[22]I had no idea that I'd even been here, let alone[23]with my mom.[24]But when I came here and saw everything...[25]I suddenly started remembering my mom[26]and the last time I was here.[27]Yeah...[28]But if you ask me whether I'm completely sure[29]that all of the memories are true...[30]I couldn't honestly say I was sure.[31]Yeah...[32]On the night of my third birthday, my mom[33]died.[34]She was killed...13 years ago.[35]Wait...[36]You know about my mom?[37]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……我还是觉得以前在哪里……[1]见过你。[2]一看到你我就觉得眼熟。[3]我以前一定在哪里见过你。[4]是的……[5]十三年前我跟妈妈来过这里。[6]或许那个时候见过你吧。[7]十六岁。[8]不好意思，我不太了解你说的东西。[9]你要告诉我些什么呢？[10]模糊不清而又不可靠的的记忆？[11]但是一到了这个地方，我就突然[12]回忆起我的妈妈……[13]是的……[14]好啊。[15]不要。[16]爸爸让我呆在这儿。.[17]是的。[18]爸爸知道十三年前，[19]我和妈妈一起来过这里。[20]所以他想让我再次回到这里。[21]在我来之前……[22]我并没有意识到曾经到过这里，更不用说……[23]还是和妈妈一起来的。[24]但当我到了这里，看到了这里的一切……[25]就突然想起了妈妈[26]以及上次到过这里的印象。[27]是的……[28]但如果你要问我是不是百分之百肯定[29]这些记忆是不是真的存在……[30]那么……我不敢说我能确定。[31]是的……[32]在我三岁生日的那天晚上，[33]妈妈死了。[34]她是被杀害的……就在十三年前。[35]等等……[36]你知道我妈妈的名字？[37]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -146,40 +137,35 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]This guy knows about Mom.[1]Someone here at Lake Juliet knows about my[2]mom...[3]And I remember seeing him somewhere in my[4]memories of her...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个人知道妈妈。[1]住在朱丽叶湖的人……[2]知道我妈妈……[3]而且在我关于妈妈的回忆里……[4]见过这个人……[5]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
       <Command>GhoAAEpuCXAxMF9iYXNlX1JfQXJtX0hhbmQKGhUAAARTVFJNX0JHTV8xOAAAAAAAChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDgEACw8BAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoMAAAIAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBjAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKV2VsbCwgQXNobGV5Li4uChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGMAAAAAChoTAAANAADjg6njgqTjgqLjg7MKSG93IGFib3V0IG1ha2luZyBhIHN0YXJ0IG9uIHRoaXMgYmFyYmVjdWU/ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAGMAAAAAChoGAAAMAAoaBgAADAAKGhQBAAszAQkACQFOUEMwMTEAAAAKGgkAAEYDAQAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAAChoNAAAVCQAAAAAAAAAKGgwAAAgJALAAAAAAChoGAAAMAAoaBwAAAwSwChoGAAAMAAoaBwAAEQAAChoHAAASCQEKGg4BAAsTAQAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAsAAAAAAKGhoAAEtuCXAxMF9iYXNlX1JfQXJtX0hhbmQKGgYAAAwAChoHAAARAAAaBwAAEgkAChoGAAAMAAoaDQAAFQkAAAABAAAAChoMAAAICQCwAQAAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
       <Command>GgYAAAwAChoHAAARAAAaBwAAEgkAChoOAQALDwEAAAAAAAAAChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGgAAAAAChoTAAANAADjg6njgqTjgqLjg7MKGgYAAAwBCklmIHlvdSBjb3VsZCBsaWdodCBpdCB1cCwgcGxlYXNlLgoaBQAAAQoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzCkkgc2hhbGwgcHJlcGFyZSB0aGUgbWVhdCBhbmQgdmVnZXRhYmxlcy4KGgUAAAEKGgYAAAwAChoUAQALMwEJAAkBTlBDMDA1AAAAChoJAABGAQEAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
       <Command>GgYAAC4BChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDQAAFQkAAAAAAAAAChoMAAAICQC9AAAAAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -187,8 +173,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACzYBCQAQAQAAAAoaBgAADAAKGgcAABEAABoHAAASCQAKGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKGg0AABUJAGgAAQAAAAoaDAAACAkAaAAAAAAKGhMAAA0AAOODqeOCpOOCouODswoaBgAADAAKGgYAAAwBCkZpcnN0LCB5b3UgbmVlZCB0byBwdXQgaW4gdGhlIGNoYXJjb2FsLCB0aGVuCmxpZ2h0IGl0LgoaBQAAAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoOAQALNgEJAQkBAAAAChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBwAAAwPoChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Um...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -197,8 +182,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKVGhlcmUgc2hvdWxkIGJlIHNvbWV0aGluZyBzb21ld2hlcmUuIEknbSBzdXJlCkRyIFJvYmlucyBoYWQgc29tZXRoaW5nIGhlcmUgdG8gdXNlLgoaBQAAAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoOAQALNgEJAQkBAAAAChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBwAAAwPoChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Er...[1]Do you have anything to light it with?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]你有什么能点燃它的东西吗？[2]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -207,8 +191,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKR29vZC4gVXNlIHRob3NlIHRvIGxpZ2h0IGl0IHVwLgoaBQAAAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoOAQALNgEJAQkBAAAAChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBwAAAwPoChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Um...[1]I found some matches.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]我找到了一些火柴。[2]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -218,8 +201,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKSWYgeW91IGZhbiBhaXIgb24gdGhlIGZpcmUsIGl0IHNob3VsZCBzcHJlYWQgYW5kCmJ1cm4gYmV0dGVyLgoaBQAAAQoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzCkxvb2sgYXJvdW5kIGFuZCBzZWUgaWYgdGhlcmUncyBzb21ldGhpbmcgdGhhdAp5b3UgY2FuIHVzZSBhcyBhIGZhbi4KGgUAAAEKGgYAAAwAChoOAQALEAEAAAAAAAAAChoGAAAMAAoaDgEACzYBCQEJAQAAAAoaDQAAFQkAAAAAAAAAChoMAAAICQC9AAAAAAoaBgAADAAKGgcAAAMD6AoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Er...[1]I lit it, but the fire looks pretty weak.[2]What should I do?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]点燃了，但火苗看上去很微弱。[2]接下来怎么办？[3]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -228,8 +210,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKSSdtIHN1cmUgaXQgd2lsbCB3b3JrIGlmIHlvdSBmYW4gaXQgcHJvcGVybHkuChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]This isn't working too well...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]这好像没什么用……[2]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -239,8 +220,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]Okay, that's plenty of charcoal.[2]Next up is lighting the barbecue.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]好的，有足够的木炭了。[2]接下来，要靠它们来烧烤了。[3]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -248,8 +228,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAmAQoaBgAADAAKGgcAABEAABoHAAASCQAKGg4BAAsPAQAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKGg0AABUJAGgAAQAAAAoaDAAACAkAaAAAAAAKGhMAAA0AAOODqeOCpOOCouODswoaBgAADAAKGgYAAAwBClRoZXJlIHNob3VsZCBiZSBzb21ldGhpbmcgaGVyZSB0byBzdGFydCBhIGZpcmUuChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Now I just need to light it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在我只需要点燃它。[1]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -257,8 +236,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAmAQoaBgAADAAKGgcAABEAABoHAAASCQAKGg4BAAsPAQAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKGg0AABUJAGgAAQAAAAoaDAAACAkAaAAAAAAKGhMAAA0AAOODqeOCpOOCouODswoaBgAADAAKGgYAAAwBClRyeSB1c2luZyB0aGUgbWF0Y2hlcy4KGgUAAAEKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Now I just need to light it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在我只需要点燃它。[1]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -266,8 +244,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADGAoA</Command>
     </Commands>
     <Original>[0]These should come in handy.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这些应该有用。[1]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -275,8 +252,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll use the matches to light this up.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我来用这些火柴点燃。[1]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -286,8 +262,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]It's not really burning properly.[2]What now?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]点好火了，但是……[1]没有很好地烧着。[2]怎么办？[3]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -296,8 +271,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOAoA</Command>
     </Commands>
     <Original>[0]A hat...[1]Maybe I can use this![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一顶牛仔帽……[1]对了，我可以用这个！[2]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -305,8 +279,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll try the cowboy hat...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，那我试试用这顶帽子……[1]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -314,8 +287,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try again.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要重新点一次火。[1]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -324,8 +296,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADaQoA</Command>
     </Commands>
     <Original>[0]A flap from the cardboard box...[1]This could come in handy![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]纸板箱盖……[1]这个一定行！[2]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -333,8 +304,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the cardboard flap...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好，我就试试纸板箱盖……[1]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -342,16 +312,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try again.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试一次。[1]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -360,8 +328,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAMYAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]All right![1]The charcoal's really burning now![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]行啦！[1]现在木炭烧得很旺！[2]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -371,8 +338,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]The fire's still pretty weak.[2]How do I make it burn better?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我点好火了，但是……[1]火苗很微弱啊。[2]应该怎样让它烧得更旺一点？[3]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -381,8 +347,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]It's not catching fire at all...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该做些什么？[1]这根本就烧不起来……[2]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -391,16 +356,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Argh...[1]It's still too weak.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎啊……[1]还是很微弱。[2]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -410,8 +373,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay![1]Oh yeah![2]I should burn the cardboard flap too.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]行了！[1]噢好的！[2]我应该把纸板箱盖儿也点起来。[3]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -419,16 +381,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]行了！[1]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
       <Command>GgUAACAKGgYAAAwAChoTAAAvJXknjye/Ju4ncScQpgQKGgkAADBjAAABCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -436,16 +396,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, I can't wait![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]太好了，我都等不及了！[1]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
       <Command>GgkAADFjAAABChoGAAAmAAoaBgAADAAKGgYAAAwAChoFAAAbChoNAAAVAAAAAAAAAAAKGgwAAAgAACYAAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -458,16 +416,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgkAADEAAAAAChoJAAAxCQAAAQoA</Command>
     </Commands>
     <Original>[0]Yeah, it's great![1]I look like her?[2]You've...met her?[3]Say, Ryan...[4]Can I ask you about my mom?[5]Okay.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯，太棒了！[1]我长得很像我妈妈么？[2]你……见过她？[3]说下去，莱恩……[4]我能问你关于妈妈的事吗？[5]好吧。[6]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
       <Command>Gg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAEKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -485,8 +441,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAdwABAAB3ChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKSSBkbyBpbmRlZWQuChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That was really great![1]I dunno why, but eating outside makes it taste[2]so much nicer.[3]Yeah, I like them, but today's barbecue[4]was totally amazing.[5]I can't stand peppers, and I even ate them![6]Nope.[7]I can kind of eat them now, but when I was[8]little I couldn't stand them at all.[9]Really?[10]You think?[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真的是很美味啊！[1]我不知道为什么，但是在室外吃东西，[2]可能特别香吧。[3]是的，我很喜欢，但今天的烧烤[4]真的是太棒了。[5]本来我最受不了胡椒的味道，不过今天竟然也接受了！[6]不。[7]现在能稍微吃一点，但小时候[8]我最受不了胡椒粉的味道。[9]真的？[10]你真的这么认为？[11]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -497,8 +452,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I'm so glad Ryan's keeping me company.[1]I thought scientists were all like Dad...[2]But Ryan's so open and talkative. I guess not[3]all scientists are the same.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩陪着我，觉得挺开心的。[1]我还以为只要是科学家，都像父亲那样……[2]但是莱恩很放得开，也很健谈呢。[3]原来不是所有科学家都一个样。[4]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -512,8 +466,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKVGhlcmUgYXJlLgoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Yeah.[1]How do you know her?[2]MJ Labs was where Mom worked, right?[3]So you know about Another?[4]Ah...[5]So there are people at JC Valley who know[6]about Another...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的。[1]你怎么会知道她的？[2]我妈妈在MJ研究所工作，是吗？[3]这么说，你知道Another？[4]啊……[5]那么……JC山谷里，还有其他人[6]知道Another……[7]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -525,8 +478,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQByAAAAAAoaEwAADQAA44Op44Kk44Ki44OzChoGAAAMAAoaBgAADAEKT2gsIGFic29sdXRlbHkuChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGgAAAAAChoTAAANAADjg6njgqTjgqLjg7MKSWYgc2hlIHdlcmUgc3RpbGwgYWxpdmUgdG9kYXkuLi4KGgUAAAEKGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKGg0AABUJAGgAAQAAAAoaDAAACAkAaAAAAAAKGhMAAA0AAOODqeOCpOOCouODswpJIGNhbiBvbmx5IGltYWdpbmUgd2hhdCBpbmNyZWRpYmxlIHRoaW5ncyBtaWdodApoYXZlIGRldmVsb3BlZCBmcm9tIGhlciByZXNlYXJjaC4KGgUAAAEKAA==</Command>
     </Commands>
     <Original>[0]What did you mean when you said that Mom[1]was someone you'd never forget?[2]Why?[3]What kind of person was she?[4]She was that good?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你说我妈妈是你永远不会忘记的人……[1]这是什么意思？[2]为什么[3]她是怎样的一个人？[4]她是那么好的人吗？[5]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -540,16 +492,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What did you mean when you said she's the[1]same type of person as you?[2]Huh?[3]Ten?[4]You became a scientist at 16?[5]That's amazing. You must be a real genius.[6]Wow.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你说她跟你是一类人……[1]这是什么意思？[2]嗯？[3]十？[4]你十六岁就是研究员了？[5]太不可思议了。你一定是个天才吧！[6]哇……[7]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
       <Command>GgYAAAwAChoHAAARAAAaBwAAEgkAChoOAQALDwEAAAAAAAAAChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAAChoNAAAVCQBoAAEAAAAKGgwAAAgJAGgAAAAAChoTAAANAADjg6njgqTjgqLjg7MKGgYAAAwAChoGAAAMAQpBcmVuJ3QgeW91IGF0IHRoYXQgYWdlIHdoZXJlIHlvdSBiZWdpbiB0bwpwbGFuIHlvdXIgZnV0dXJlPwoaBQAAAQoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQkAaAABAAAAChoMAAAICQBoAAAAAAoaEwAADQAA44Op44Kk44Ki44OzCldoYXQgZG8geW91IHdhbnQgdG8gYmU/ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -557,8 +507,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Don't know[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道。[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -566,8 +515,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Musician[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]音乐家[1]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
