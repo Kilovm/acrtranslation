@@ -258,6 +258,7 @@
             // 
             // tbTranslation
             // 
+            this.tbTranslation.DetectUrls = false;
             this.tbTranslation.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tbTranslation.Location = new System.Drawing.Point(3, 125);
             this.tbTranslation.Name = "tbTranslation";

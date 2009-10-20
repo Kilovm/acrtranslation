@@ -144,6 +144,15 @@ namespace BMG
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.xml|*.xml";
 
+                    if (bmg.Title.Contains("."))
+                    {
+                        sfd.FileName = bmg.Title.Remove(bmg.Title.LastIndexOf('.')) + ".xml";
+                    }
+                    else
+                    {
+                        sfd.FileName = bmg.Title + ".xml";
+                    }
+
 					if (sfd.ShowDialog() == DialogResult.OK)
 					{
 						string filename = sfd.FileName;
@@ -177,6 +186,7 @@ namespace BMG
 
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.bmg|*.bmg";
+                    sfd.FileName = bmg.Title;
 
 					if (sfd.ShowDialog() == DialogResult.OK)
 					{
