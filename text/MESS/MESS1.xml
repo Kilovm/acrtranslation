@@ -98,7 +98,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]Why me? Why do I get hit with all the[1]bad luck?[2]All of my stuff was in that bag...[3]My teddy bear, my picks, the song[4]I need to practise...[5]And...[6]Oh no![7]Wait...[8]Mom's pendant![9]Phew...[10]It was in my pouch.[11]This pendant...[12]Mom gave this to me. It's all I have left of her.[13]Her name was Sayoko.[14]She was Japanese. I remember her dark hair and[15]eyes. She was a scientist who studied memory.[16]Mom died when I was only three years old.[17]So I don't remember much else...[18]And the only other thing in the pouch is...[19]This. Just the DAS that Dad sent me... [20]He invented it. I had one two years ago, but[21]this one's a newer model.[22]The DAS is connected to my dad's computer[23]over some sort of network.[24]He can send messages to me on it. It also has[25]a built-in camera function.[26]Why'd he send it to me, anyway?[27]What a pain in the neck... [28]What do I do now?[29]</Original>
-    <Translation>[0]为什么是我? [1]为什么我这么倒霉?[2]我的东西全都在这个包里啊...[3]我的泰迪熊, 我的叉子, [4]还有我要练习的歌...[5]还有...[6]噢!不![7]等一下...[8]妈妈的挂饰![9]呼,太好了...[10]在我的口袋里.[11]这个挂饰...[12]是妈妈给我的.这是他唯一的遗物.[13]她的名字是沙夜子.[14]他是个日本人.我仍然记得她黑色的头发和眼睛[15]她是一个研究记忆的科学家.[16]妈妈在我三岁时就死了.[17]所以我对她没有多少的记忆...[18]我的口袋里还有其他一些东西...[19]这个,爸爸送给我的DAS... [20]他发明了这台机器,2年前我就有一台了[21]但是这台似乎是最新型号.[22]这个DAS通过某种网络[23]连接着爸爸的电脑.[24]爸爸能通过它给我发邮件.[25]它还有一个内置摄像头功能.[26]为何爸爸要把它送给我呢?[27]脖子好疼... [28]现在我该怎么办?[29]</Translation>
+    <Translation>[0]为什么是我? [1]为什么我这么倒霉?[2]我的东西全都在这个包里啊...[3]我的泰迪熊, 我的叉子, [4]还有我要练习的歌...[5]还有...[6]噢!不![7]等一下...[8]妈妈的挂饰![9]呼,太好了...[10]在我的口袋里.[11]这个挂饰...[12]是妈妈给我的.这是他唯一的遗物.[13]她的名字是沙夜子.[14]他是个日本人.我仍然记得她黑色的头发和眼睛[15]她是一个研究记忆的科学家.[16]妈妈在我三岁时就死了.[17]所以我对她没有多少的记忆...[18]我的口袋里还有其他一些东西...[19]这个,爸爸送给我的DAS... [20]他发明了这台机器,2年前我曾经得到过一台[21]但是这台是最新型号.[22]这个DAS通过某种网络[23]连接着爸爸的电脑.[24]爸爸能通过它给我发邮件.[25]它还有一个内置摄像头功能.[26]为何爸爸要把它送给我呢?[27]脖子好疼... [28]现在我该怎么办?[29]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -214,8 +214,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder if I can open it.[1]No luck.[2]It won't budge.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不知道能不能打开它[1]不走运啊...[2]它纹丝不动[3]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -223,8 +222,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I open the gate?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么打开这扇门呢?[1]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -243,8 +241,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBCACqAQAAAAoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUIAAAAAAAAAAoaDAAACAgAYAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Excuse me?[2]Well, I just got here to go camping...[3]Thanks![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯...[1]请问?[2]嗯,我刚来这露营...[3]非常感谢![4]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -253,8 +250,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBCACqAQAAAAoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUIAAAAAAAAAAoaDAAACAgAYAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Got it! Thanks![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯...[1]明白了! 谢谢![2]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -276,8 +272,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Excuse me?[1]I went to the guesthouse, but no one was[2]there.[3]Are they closed today?[4]But I was there and the door was locked...[5]Uh... Taking "another" break?[6]Hope it's not too long.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]请问?[1]我去过了旅店[2]但是那里没有一个人[3]他们今天休息么?[4]但是我到那后大门上着锁...[5]嗯... 休息?[6]希望时间不会太久[7]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -289,8 +284,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um... [1]Is the guesthouse closed today?[2]But I went there and the door was locked...[3]Uh... Taking "another" break?[4]Hope it's not too long.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯... [1]今天旅店休息么?[2]但是我到那后大门上着锁...[3]嗯... 休息?[4]希望时间不会太久[5]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -301,8 +295,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMLuAoaDQAAFQAAewAAAAAAChoMAAAIAAB7AAAAAAoaCAAACQQBAAoaGwAAJ1dTRF9NRV9GTEFTSF9CQUNLXzAyAAAKGgcAAEkAAAoaDQAAFQgAaAABAAAAChoMAAAICABoAAAAAAoaDQAADQAA44OA44OzChoGAAAMAAoaBgAADAEKGgf/AAEAjEV4Y3VzZSBtZSwgbWlzcz8aB/8AAQBkChoFAAABChoIAAAJBAEAChoGAAAMAAoaDQAAFQAAegABAAB6ChoMAAAIAAB6AQAAAAoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]Ugh, what a pain![1]I get here and my bag's stolen, nobody's at[2]the guesthouse...[3]Could today get any worse?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唉!真倒霉![1]包被偷了[2]旅馆还没有人...[3]今天到底怎么了?[4]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -325,8 +318,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIIAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQgAbQABAAAAChoMAAAICAByAAAAAAoaDQAADQAA44OA44OzChoGAAAMAAoaBgAADAEKSSBzZWUuChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCABoAAEAAAAKGgwAAAgIAGgAAAAAChoNAAANAADjg4Djg7MKV2hhdCBraW5kIG9mIGJhZyB3YXMgaXQ/ChoFAAABChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoNAAAVCABwAAEAAAAKGgwAAAgIAHAAAAAAChoNAAANAADjg4Djg7MKV2hhdCBzaXplIGFyZSB3ZSAaBv8AAAAaBQAAYRoG/wAAAHRhbGtpbmcgaGVyZT8aBv8AAAAKGgUAAAEKAA==</Command>
     </Commands>
     <Original>[0]I dunno...[1]Ranger Maxwell...[2]Ashley.[3]Ashley Mizuki Robins.[4]Someone stole my bag![5]Yeah, I still can't believe it![6]When I was getting off the bus, someone[7]shoved me from behind.[8]I dropped my bag, and then they took it and[9]ran off![10]Yeah.[11]I don't know.[12]I saw the back of them as they ran away[13]though.[14]It was a woman.[15]I ran after her, but I lost her.[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]可是我...[1]护林员玛克斯韦尔先生...[2]阿修蕾[3]阿修蕾·美月·罗宾斯[4]有人偷走了我的包![5]是啊!我还是不敢相信![6]当我下车时[7]有人从后面推了我一下[8]我的包掉了[9]然后有人就抢走我的包跑了![10]嗯.[11]我不知道[12]虽然他跑了[13]但是我看到了她的背影[14]是个女的[15]我追了她一段,但是追丢了[16]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -334,8 +326,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Big[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]大[1]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -343,8 +334,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Small[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小[1]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -353,8 +343,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was about this size.[1]Yeah.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]大概就是这么大[1]嗯[2]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -363,8 +352,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was about this size.[1]Yeah.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]大概就是这么大[1]嗯[2]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
