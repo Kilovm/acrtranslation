@@ -204,9 +204,11 @@ Commands are inserted into texts.
 
 0001: BYTE length
 
-0002: BYTE `*` (length - 2)
+0002: BYTE `*` (length - 1)
 
-(length): 0A
+=== Seperator ===
+
+0000: BYTE 0A
 
 === Null ===
 
