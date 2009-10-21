@@ -7,7 +7,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Please insert DAS"?[1]Wait, that means...[2]You need a DAS to use this computer?[3]</Original>
-    <Translation>[0]"请放入DAS"?[1]等等, 这意味着...[2]你需要一台DAS来操作这台电脑?[3]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -15,7 +16,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, looks like it's working now...[1]</Original>
-    <Translation>[0]好的,看起来它现在在运转...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -24,7 +26,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hang on...[1]That's not the internet icon.[2]</Original>
-    <Translation>[0]等一下...[1]这不是互联网图标.[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -34,17 +37,28 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, I need to type the keyword I want to[1]search for here.[2]First, let's try "Michael Crusoe"...[3]</Original>
-    <Translation>[0]那么, 我需要在这输入[1]我想搜索的关键词[2]首先,让我们试试 "迈克尔·克鲁索"...[3]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
-      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKIlNldHRpbmcgdXAgYSBjb21wYW55IHdpdGggaGlzIGxvdHRlcnkgd2luIQpNaWNoYWVsIENydXNvZSwgd2hvIHdvbiBhIHN0YWdnZXJpbmcgdGhyZWUKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAptaWxsaW9uIGRvbGxhcnMgaW4gdGhlIDE5OTkgbG90dGVyeSBncmFuZCBwcml6ZQpkcmF3LCBoYXMgZGVjaWRlZCB0byB1c2UgaGlzIG1vbmV5IHRvIHNob3cKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAphbGwgb2YgQW1lcmljYSB0aGUgYmVhdXR5IG9mIGhpcyBob21lIHRvd24sCkxha2UgSnVsaWV0LiBIZSBzZXQgdXAgdGhlIENydXNvZSBSZXNvcnQKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAApEZXZlbG9wbWVudCBjb21wYW55IHRvIGRvIGp1c3QgdGhhdC4KGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAApMZXQncyBob3BlIGhlIGhhcyB0aGUgc2FtZSBnb29kIGx1Y2sgd2l0aCAKdGhpcyBjb21wYW55IGFzIGhlIGRpZCB3aXRoIHRoZSBsb3R0ZXJ5ISIKGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDAAACAAAdgAAAAAKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHYAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
       <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
       <Command>Ggb/AAAAChoG/wAABQ==</Command>
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Wow...so Matt's dad was totally loaded.[1]And he used the money from winning the[2]lottery to set up his company.[3]</Original>
-    <Translation>[0]Wow...so Matt's dad was totally loaded.[1]And he used the money from winning the[2]lottery to set up his company.[3]</Translation>
+    <Original>[0]"Setting up a company with his lottery win![1]Michael Crusoe, who won a staggering three[2]million dollars in the 1999 lottery grand prize[3]draw, has decided to use his money to show[4]all of America the beauty of his home town,[5]Lake Juliet. He set up the Crusoe Resort[6]Development company to do just that.[7]Let's hope he has the same good luck with [8]this company as he did with the lottery!"[9]Wow...so Matt's dad was totally loaded.[10]And he used the money from winning the[11]lottery to set up his company.[12]</Original>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -53,7 +67,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, next up...[1]Let's try searching for "Crusoe Resort".[2]</Original>
-    <Translation>[0]好的, 接下来...[1]让我们试试搜索 "克鲁索度假村".[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -61,13 +76,19 @@
       <Command>Ggb/AAAAChoG/wAABQ==</Command>
       <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAEgAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
       <Command>Ggb/AAAAChoG/wAABQ==</Command>
-      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAKIk5FV1M6IDggTWFyY2ggMjAwMgoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoFAAAOChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAACldlIGFyZSBubyBsb25nZXIgYWJsZSB0byBhY2NlcHQgYW55IApjb21tdW5pY2F0aW9uIGJ5IGUtbWFpbC4KGgUAAAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaBQAADgoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAApXZSBhcG9sb2dpc2UgZm9yIGFueSBpbmNvbnZlbmllbmNlIHRoaXMgbWF5CmNhdXNlIG91ciBjdXN0b21lcnMuIgoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoMAAAIAAB2AAAAAAoaDQAAFQAAbQAAAAAyChoG/wAABQ==</Command>
+      <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGgwAAAgAAAAAAAAAChoNAAAVAAAAAAAAAAAK</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHYAAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
       <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAG0AAAAAChoNAAAVAABtAAAAADIKGgb/AAAF</Command>
       <Command>Ggb/AAAAChoG/wAABQ==</Command>
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Looks like Crusoe Resort has its own [1]website![2]Huh?[3]What's this on the page?[4]That's from back in 2002![5]So, this website hasn't been updated for...five[6]years?[7]</Original>
-    <Translation>[0]克鲁索度假村看起来 [1]好像有它自己的网站![2]嗯?[3]这是什么?[4]这网页是2002年的![5]也就是说,这个网站[6]5年没有更新了??[7]</Translation>
+    <Original>[0]Looks like Crusoe Resort has its own [1]website![2]Huh?[3]What's this on the page?[4]"NEWS: 8 March 2002[5]We are no longer able to accept any [6]communication by e-mail.[7]We apologise for any inconvenience this may[8]cause our customers."[9]That's from back in 2002![10]So, this website hasn't been updated for...five[11]years?[12]</Original>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -75,7 +96,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh great, it's password protected...[1]</Original>
-    <Translation>[0]噢天哪, 密码保护...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -83,7 +105,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm. The password to open the folder is...[1]</Original>
-    <Translation>[0]嗯...打开文件夹的密码是...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -91,7 +114,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm past the password![1]</Original>
-    <Translation>[0]好, 密码通过了![1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -99,7 +123,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh great, that's not the right password...[1]</Original>
-    <Translation>[0]噢天哪, 密码不对...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -109,7 +134,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"DAS CONNECT START UP"[1]What?![2]What's going on?[3]</Original>
-    <Translation>[0]"DAS连接启动"[1]什么?![2]这是怎么回事?[3]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -117,7 +143,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe I should stay and read Dad's e-mail...[1]</Original>
-    <Translation>[0]也许我应该停下来读读爸爸的信息...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -134,7 +161,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already found everything I can about [1]Matt's dad, so I don't need the internet again.[2]</Original>
-    <Translation>[0]我已经找到了所有我能找到的关于马修爸爸的信息了[1]所以我现在不再需要互联网了[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -143,7 +171,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's Dad's e-mail...[1]I don't think I need to look at that...[2]</Original>
-    <Translation>[0]这是爸爸的信息...[1]我认为我不需要看这个...[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -152,7 +181,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It says "notes", but...[1]This is like Dad's diary.[2]</Original>
-    <Translation>[0]他说这是"笔记", 但是...[1]这就像是爸爸的日记.[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -160,7 +190,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So I click on the Internet icon...[1]</Original>
-    <Translation>[0]那么我点击互联网图标...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -168,7 +199,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I've got a search engine page.[1]</Original>
-    <Translation>[0]好的,我打开了搜索引擎.[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -177,7 +209,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, that's a photo of the lake.[1]Where exactly was this taken?[2]</Original>
-    <Translation>[0]嘿, 这是湖的照片.[1]这究竟是在哪里拍的?[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -185,7 +218,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm sure I've seen this place before...[1]</Original>
-    <Translation>[0]我相信我之前已经看过这个地方了...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -193,7 +227,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Did Dad take this?[1]</Original>
-    <Translation>[0]难道是爸爸拍的?[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -201,7 +236,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...why didn't you just say something?[1]</Original>
-    <Translation>[0]爸爸...为什么你不跟我说这些事?[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -210,7 +246,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]An anonymous email? [1]What is he talking about?[2]</Original>
-    <Translation>[0]一个匿名信息? [1]他说了些什么?[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -219,7 +256,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So Dad was looking into the pollution at the[1]lake as well...[2]</Original>
-    <Translation>[0]那么爸爸正在调查[1]这个湖的污染状况,以及...[2]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -227,7 +265,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...[1]</Original>
-    <Translation>[0]爸爸...[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -235,7 +274,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who's Mike?[1]</Original>
-    <Translation>[0]谁是麦克?[1]</Translation>
+    <Translation>
+    </Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>

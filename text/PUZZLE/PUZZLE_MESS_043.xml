@@ -42,11 +42,13 @@
   <Sentence id="5">
     <Commands>
       <Command>GgwAAAgAAHoAAAAAChoNAAAVAAB6AAAAAHoKGgcAAAMB9AoaFAAAJ1dTRF9NRV9ET0tJUkkAAAoaBgAADAEKGhYAAA0BAOOCouOCt+ODpeODrOOCpAoaDAAACAAAegAAAAAKGg0AABUAAHwAAAAAAAoaB/8AAQCMGgb/AAAF</Command>
-      <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaBwAAAwH0ChoGAAAmAQoaBwAAEQAAGgcAABIOAAoaDgEACw8BAAAAAAAAAAoaEAAADQAA44K444O844OKChoMAAAIAAB6AAAAAAoaDQAAFQAAegAAAAB6ChoMAAAIDgBxAAAAAAoaDQAAFQ4AaAAAAAAACkFzaGxleT8gQXJlIHlvdSBhbGwgcmlnaHQ/ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGkAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
+      <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaBwAAAwH0ChoGAAAmAQoaBwAAEQAAGgcAABIOAAoaDgEACw8BAAAAAAAAAAoaEAAADQAA44K444O844OKChoMAAAIAAB6AAAAAAoaDQAAFQAAegAAAAB6ChoMAAAIDgBxAAAAAAoaDQAAFQ4AaAAAAAAACg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAGkAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
       <Command>Ggb/AAAAChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAACMAAAAAChoNAAAVAABqAAAAAKAKGgb/AAAF</Command>
-      <Command>Ggb/AAAAChoFAAABChoQAAANAADjgrjjg7zjg4oKGgwAAAgOAGkAAAAAChoNAAAVDgBoAAAAAAAKRG9uJ3QgbWVzcyB0aGlzIHVwLCBBc2hsZXkuChoFAAABCgA=</Command>
+      <Command>Ggb/AAAAChoFAAABChoQAAANAADjgrjjg7zjg4oKGgwAAAgOAGkAAAAAChoNAAAVDgBoAAAAAAAK</Command>
+      <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Aah![1]The lid just closed...[2]I thought I was going to lose a finger...[3]</Original>
+    <Original>[0]Aah![1]Ashley? Are you all right?[2]The lid just closed...[3]I thought I was going to lose a finger...[4]Don't mess this up, Ashley.[5]</Original>
     <Translation>
     </Translation>
   </Sentence>

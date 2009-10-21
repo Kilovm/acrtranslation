@@ -1,4 +1,4 @@
-<Session title="PUZZLE_MESS_051.BMG">
+<Session title="PUZZLE_MESS_035.BMG">
   <Sentence id="0">
     <Commands>
       <Command>AA==</Command>
@@ -9,12 +9,10 @@
   </Sentence>
   <Sentence id="1">
     <Commands>
-      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
-      <Command>Ggb/AAAAChoFAAABChoQAAANAADjg57jgqTjgq8K</Command>
-      <Command>ChoFAAABChoQAAANAADjg57jgqTjgq8K</Command>
-      <Command>ChoFAAABCgA=</Command>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgwAAAgAAHoAAAAAChoNAAAVAAB6AAAAAHoKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Mike! Are you okay?[1]Gina... She's in...Sofia's room...[2]Dr Robins' e-mail...[3]</Original>
+    <Original>[0]Oh![1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -36,7 +34,7 @@
   </Sentence>
   <Sentence id="4">
     <Commands>
-      <Command>GhIAABhFX1IxMTBfTgBCR00ACgA=</Command>
+      <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
     <Translation>
@@ -44,15 +42,7 @@
   </Sentence>
   <Sentence id="5">
     <Commands>
-      <Command>AA==</Command>
-    </Commands>
-    <Original>[0]</Original>
-    <Translation>
-    </Translation>
-  </Sentence>
-  <Sentence id="6">
-    <Commands>
-      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
+      <Command>AAAA</Command>
     </Commands>
     <Original>[0]</Original>
     <Translation>

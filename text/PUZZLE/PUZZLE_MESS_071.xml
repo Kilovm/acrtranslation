@@ -29,17 +29,19 @@
   </Sentence>
   <Sentence id="3">
     <Commands>
-      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGggAAAABC7gaBv8AAAAiRGF0YSB0cmFuc2ZlciBjb21wbGV0ZS4iGgb/AAAAChoFAAABCgA=</Command>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGggAAAABC7gaBv8AAAA=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]</Original>
+    <Original>[0]"Data transfer complete."[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
-      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGggAAAABvyAaBv8AAAAiUmVtb3ZlIHVwZ3JhZGUgbW9kdWxlLiIaBv8AAAAKGgUAAAEKAA==</Command>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4KGggAAAABvyAaBv8AAAA=</Command>
+      <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]</Original>
+    <Original>[0]"Remove upgrade module."[1]</Original>
     <Translation>
     </Translation>
   </Sentence>

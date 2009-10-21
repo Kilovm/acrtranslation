@@ -1,4 +1,4 @@
-<Session title="PUZZLE_MESS_051.BMG">
+<Session title="PUZZLE_MESS_060.BMG">
   <Sentence id="0">
     <Commands>
       <Command>AA==</Command>
@@ -9,12 +9,12 @@
   </Sentence>
   <Sentence id="1">
     <Commands>
-      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
-      <Command>Ggb/AAAAChoFAAABChoQAAANAADjg57jgqTjgq8K</Command>
-      <Command>ChoFAAABChoQAAANAADjg57jgqTjgq8K</Command>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4K</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4K</Command>
+      <Command>Cg==</Command>
       <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Mike! Are you okay?[1]Gina... She's in...Sofia's room...[2]Dr Robins' e-mail...[3]</Original>
+    <Original>[0]"Judd's documents are no longer necessary.[1]Your last task is to find information relating to[2]mnemonic fluid."[3]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -36,7 +36,7 @@
   </Sentence>
   <Sentence id="4">
     <Commands>
-      <Command>GhIAABhFX1IxMTBfTgBCR00ACgA=</Command>
+      <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
     <Translation>
@@ -52,7 +52,7 @@
   </Sentence>
   <Sentence id="6">
     <Commands>
-      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</Command>
     </Commands>
     <Original>[0]</Original>
     <Translation>

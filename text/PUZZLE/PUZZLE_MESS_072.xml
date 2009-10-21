@@ -1,4 +1,4 @@
-<Session title="PUZZLE_MESS_051.BMG">
+<Session title="PUZZLE_MESS_072.BMG">
   <Sentence id="0">
     <Commands>
       <Command>AA==</Command>
@@ -9,12 +9,15 @@
   </Sentence>
   <Sentence id="1">
     <Commands>
-      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgb/AAAF</Command>
-      <Command>Ggb/AAAAChoFAAABChoQAAANAADjg57jgqTjgq8K</Command>
-      <Command>ChoFAAABChoQAAANAADjg57jgqTjgq8K</Command>
+      <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4K</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4K</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGgUAAA4K</Command>
+      <Command>Cg==</Command>
       <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Mike! Are you okay?[1]Gina... She's in...Sofia's room...[2]Dr Robins' e-mail...[3]</Original>
+    <Original>[0]"This can recycling machine was provided by[1]JC Valley to protect the earth's environment,[2]and to combat the degradation of the[3]Lake Juliet area.[4]You receive one special token for each can[5]recycled here."[6]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -36,23 +39,7 @@
   </Sentence>
   <Sentence id="4">
     <Commands>
-      <Command>GhIAABhFX1IxMTBfTgBCR00ACgA=</Command>
-    </Commands>
-    <Original>[0]</Original>
-    <Translation>
-    </Translation>
-  </Sentence>
-  <Sentence id="5">
-    <Commands>
-      <Command>AA==</Command>
-    </Commands>
-    <Original>[0]</Original>
-    <Translation>
-    </Translation>
-  </Sentence>
-  <Sentence id="6">
-    <Commands>
-      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
+      <Command>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
     </Commands>
     <Original>[0]</Original>
     <Translation>
