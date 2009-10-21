@@ -49,35 +49,42 @@
   </Sentence>
   <Sentence id="6">
     <Commands>
-      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoIAAAAAQu4T25lIQoaBQAAAQoA</Command>
+      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoIAAAAAQu4</Command>
+      <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]</Original>
+    <Original>[0]One![1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
-      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoIAAAAAQu4VHdvIQoaBQAAAQoA</Command>
+      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoIAAAAAQu4</Command>
+      <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]</Original>
+    <Original>[0]Two![1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
-      <Command>GgYAAAwBChoTAAANAADjg57jgrfjg6Xjg7wKGg0AABUEAGgAAAAAAAoaCAAAAAELuEFzaCwgeW91J3ZlIGdvdCB0byB0aW1lIGl0IHJpZ2h0IQoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoNAAAVAABoAAAAAAAKGggAAAABC7gaBv8AAAU=</Command>
+      <Command>GgYAAAwBChoTAAANAADjg57jgrfjg6Xjg7wKGg0AABUEAGgAAAAAAAoaCAAAAAELuA==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGgAAAAAAAoaCAAAAAELuBoG/wAABQ==</Command>
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Okay, let's try it again...[1]</Original>
+    <Original>[0]Ash, you've got to time it right![1]Okay, let's try it again...[2]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
-      <Command>GgYAAAwBChoTAAANAADjg57jgrfjg6Xjg7wKGg0AABUEAGgAAAAAAAoaCAAAAAELuFdoZW4gSSBzaG91dCAib25lIiwgcHVzaCB0aGUgc2F3IAp0b3dhcmRzIG1lLgoaBQAAAQoaEwAADQAA44Oe44K344Ol44O8ChoIAAAAAQu4V2hlbiBJIHNob3V0ICJ0d28iLCBwdWxsIGl0IGJhY2sKdG93YXJkcyB5b3UsIG9rYXk/ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGgAAAAAAAoaCAAAAAELuBoG/wAABQ==</Command>
+      <Command>GgYAAAwBChoTAAANAADjg57jgrfjg6Xjg7wKGg0AABUEAGgAAAAAAAoaCAAAAAELuA==</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoTAAANAADjg57jgrfjg6Xjg7wKGggAAAABC7g=</Command>
+      <Command>Cg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGgAAAAAAAoaCAAAAAELuBoG/wAABQ==</Command>
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]Okay, one more time...[1]</Original>
+    <Original>[0]When I shout "one", push the saw [1]towards me.[2]When I shout "two", pull it back[3]towards you, okay?[4]Okay, one more time...[5]</Original>
     <Translation>
     </Translation>
   </Sentence>

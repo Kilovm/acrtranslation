@@ -10,26 +10,30 @@
   <Sentence id="1">
     <Commands>
       <Command>GgYAAAwBChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAG0AAAAAMgoaBv8AAAU=</Command>
-      <Command>Ggb/AAAAChoFAAABChoGAAAmAQoaBwAAEQAAGgcAABIEAAoaDgEACw8BAAAAAAAAAAoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIBABpAAAAAAoaDQAAFQQAbQAAAAAACkknbSB0cnlpbmchIEp1c3QgYSBiaXQgbG9uZ2VyIQoaBQAAAQoaFgAADQEA44Ki44K344Ol44Os44KkChoNAAAVAABqAAAAAKAKGgwAAAgEAGkAAAAAChoNAAAVBABtAAAAAAAKGgb/AAAF</Command>
+      <Command>Ggb/AAAAChoFAAABChoGAAAmAQoaBwAAEQAAGgcAABIEAAoaDgEACw8BAAAAAAAAAAoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIBABpAAAAAAoaDQAAFQQAbQAAAAAACg==</Command>
+      <Command>ChoFAAABChoWAAANAQDjgqLjgrfjg6Xjg6zjgqQKGg0AABUAAGoAAAAAoAoaDAAACAQAaQAAAAAKGg0AABUEAG0AAAAAAAoaBv8AAAU=</Command>
       <Command>Ggb/AAAAChoFAAABChopAAAFV1NEX1NFX0VWRU5UX0FOU0hJVFNVX0FUQVJJX1NBR1VSVQAACgA=</Command>
     </Commands>
-    <Original>[0]Matt, hurry up![1]I can't hold this much longer![2]</Original>
+    <Original>[0]Matt, hurry up![1]I'm trying! Just a bit longer![2]I can't hold this much longer![3]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
-      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIBAFNAAAAAAoaDQAAFQQAbQAAAAAACkkgZ290IGl0IQoaBQAAAQoA</Command>
+      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIBAFNAAAAAAoaDQAAFQQAbQAAAAAACg==</Command>
+      <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]</Original>
+    <Original>[0]I got it![1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
-      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoMAAAIBABpAAAAAAoaDQAAFQQAaQAAAAAACldoYXQgYXJlIHlvdSBkb2luZz8hChoFAAABChoTAAANAADjg57jgrfjg6Xjg7wKGgwAAAgEAG0AAAAAChoNAAAVBABqAAAAAAAKTXkgaGFuZCBuZWFybHkgZ290IHNxdWlzaGVkIQoaBQAAAQoA</Command>
+      <Command>GgYAACYBChoHAAARAAAaBwAAEgQAChoOAQALDwEAAAAAAAAAChoGAAAMAQoaEwAADQAA44Oe44K344Ol44O8ChoMAAAIAAAAAAAAAAoaDQAAFQAAAAAAAAAAChoMAAAIBABpAAAAAAoaDQAAFQQAaQAAAAAACg==</Command>
+      <Command>ChoFAAABChoTAAANAADjg57jgrfjg6Xjg7wKGgwAAAgEAG0AAAAAChoNAAAVBABqAAAAAAAK</Command>
+      <Command>ChoFAAABCgA=</Command>
     </Commands>
-    <Original>[0]</Original>
+    <Original>[0]What are you doing?![1]My hand nearly got squished![2]</Original>
     <Translation>
     </Translation>
   </Sentence>
