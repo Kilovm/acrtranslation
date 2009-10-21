@@ -11,9 +11,9 @@ namespace BMG
 	{
 		public string Title { get; set; }
 
-		public Sentence[] Sentences { get; private set; }
+		public MessageEntry[] Sentences { get; private set; }
 
-		public BMG(Sentence[] ss)
+		public BMG(MessageEntry[] ss)
 		{
 			Sentences = ss;
 		}
@@ -39,12 +39,12 @@ namespace BMG
 
 			XmlNodeList sentenceNodes = doc.SelectNodes("/Session/Sentence");
 
-			Sentences = new Sentence[sentenceNodes.Count];
+			Sentences = new MessageEntry[sentenceNodes.Count];
 
 			int i = 0;
 			foreach (XmlElement element in sentenceNodes)
 			{
-				Sentences[i++] = new Sentence(element);
+				Sentences[i++] = new MessageEntry(element);
 			}
 		}
 
@@ -96,11 +96,11 @@ namespace BMG
 					stream.Read(outbytes[i], 0, size);
 				}
 
-				Sentences = new Sentence[outbytes.Length];
+				Sentences = new MessageEntry[outbytes.Length];
 
 				for (int i = 0; i < Sentences.Length; i++)
 				{
-					Sentences[i] = new Sentence(outbytes[i]);
+					Sentences[i] = new MessageEntry(outbytes[i]);
 				}
 
 			}
@@ -174,7 +174,7 @@ namespace BMG
 				int p = 1;
 				for (int i = 0; i < Sentences.Length; i++)
 				{
-					Sentence sentence = Sentences[i];
+					MessageEntry sentence = Sentences[i];
 
 					byte[] data = sentence.ToBytes();
 
@@ -217,7 +217,7 @@ namespace BMG
 			element.SetAttribute("title", Title);
 
             int i = 0;
-			foreach (Sentence sentence in Sentences)
+			foreach (MessageEntry sentence in Sentences)
 			{
 				XmlElement sentenceElement = sentence.ToXmlElement(doc);
                 sentenceElement.SetAttribute("id", (i++).ToString());
