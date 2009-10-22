@@ -25,3 +25,6 @@
  * cottage：小屋
  * campsite 营地
  * Crusoe Resort：克鲁索度假村
+= 物品名 =
+ * pick case 吉他拨片盒
+ * pick 吉他拨片
