@@ -52,6 +52,7 @@
 			this.statusStrip1 = new System.Windows.Forms.StatusStrip();
 			this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
 			this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
+			this.lastTranslatedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
@@ -67,7 +68,8 @@
             this.fileToolStripMenuItem,
             this.toolStripMenuItem4,
             this.toolStripMenuItem3,
-            this.toolStripMenuItem5});
+            this.toolStripMenuItem5,
+            this.lastTranslatedToolStripMenuItem});
 			this.menuStrip1.Location = new System.Drawing.Point(0, 0);
 			this.menuStrip1.Name = "menuStrip1";
 			this.menuStrip1.Size = new System.Drawing.Size(847, 24);
@@ -301,6 +303,13 @@
 			this.vScrollBar1.Value = 1;
 			this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
 			// 
+			// lastTranslatedToolStripMenuItem
+			// 
+			this.lastTranslatedToolStripMenuItem.Name = "lastTranslatedToolStripMenuItem";
+			this.lastTranslatedToolStripMenuItem.Size = new System.Drawing.Size(93, 20);
+			this.lastTranslatedToolStripMenuItem.Text = "Last Translated";
+			this.lastTranslatedToolStripMenuItem.Click += new System.EventHandler(this.lastTranslatedToolStripMenuItem_Click);
+			// 
 			// Form1
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -357,6 +366,7 @@
 		private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
 		private System.Windows.Forms.VScrollBar vScrollBar1;
         private System.Windows.Forms.RichTextBox tbTranslation;
+		private System.Windows.Forms.ToolStripMenuItem lastTranslatedToolStripMenuItem;
 	}
 }
 
