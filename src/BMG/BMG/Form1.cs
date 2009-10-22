@@ -313,5 +313,30 @@ namespace BMG
                 e.Cancel = true;
             }
         }
+
+		private void lastTranslatedToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			if (bmg != null)
+			{
+				SaveTranslation();
+
+				int lastIndex = -1;
+				for (int i = 0; i < bmg.Sentences.Length; i++)
+				{
+					Sentence s = bmg.Sentences[i];
+
+					if (!string.IsNullOrEmpty(s.Translation))
+						lastIndex = i;
+				}
+
+				if (lastIndex != -1)
+				{
+					currentIndex = lastIndex;
+
+					vScrollBar1.Value = currentIndex + 1;
+					RefreshTextBoxes();
+				}
+			}
+		}
 	}
 }
