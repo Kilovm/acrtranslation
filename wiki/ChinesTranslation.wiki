@@ -16,7 +16,9 @@
  * Tommy: 汤米
  * Gina: 吉娜
  * Elizabeth : 伊丽莎白
- * Pinkie Rabbit ：粉粉兔
+ * Pinkie Rabbit ：粉粉兔  (这是人名吗 -_-!)
+ * Sam : 萨姆
+
 = 地名 =
 
  * JC Valley : JC山谷
