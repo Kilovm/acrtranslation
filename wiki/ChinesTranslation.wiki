@@ -28,3 +28,4 @@
 = 物品名 =
  * pick case 吉他拨片盒
  * pick 吉他拨片
+ * band scores 乐谱
