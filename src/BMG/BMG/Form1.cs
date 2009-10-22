@@ -338,5 +338,17 @@ namespace BMG
 				}
 			}
 		}
+
+		private void fontToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			FontDialog fd = new FontDialog();
+
+			fd.Font = tbOriginal.Font;
+
+			if (fd.ShowDialog() == DialogResult.OK)
+			{
+				tbOriginal.Font = tbTranslation.Font = fd.Font;
+			}
+		}
 	}
 }

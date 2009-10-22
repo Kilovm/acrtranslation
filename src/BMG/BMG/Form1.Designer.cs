@@ -52,7 +52,9 @@
 			this.statusStrip1 = new System.Windows.Forms.StatusStrip();
 			this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
 			this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
+			this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.lastTranslatedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.fontToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
@@ -69,7 +71,7 @@
             this.toolStripMenuItem4,
             this.toolStripMenuItem3,
             this.toolStripMenuItem5,
-            this.lastTranslatedToolStripMenuItem});
+            this.toolsToolStripMenuItem});
 			this.menuStrip1.Location = new System.Drawing.Point(0, 0);
 			this.menuStrip1.Name = "menuStrip1";
 			this.menuStrip1.Size = new System.Drawing.Size(847, 24);
@@ -303,12 +305,28 @@
 			this.vScrollBar1.Value = 1;
 			this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
 			// 
+			// toolsToolStripMenuItem
+			// 
+			this.toolsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.lastTranslatedToolStripMenuItem,
+            this.fontToolStripMenuItem});
+			this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
+			this.toolsToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+			this.toolsToolStripMenuItem.Text = "&Tools";
+			// 
 			// lastTranslatedToolStripMenuItem
 			// 
 			this.lastTranslatedToolStripMenuItem.Name = "lastTranslatedToolStripMenuItem";
-			this.lastTranslatedToolStripMenuItem.Size = new System.Drawing.Size(93, 20);
+			this.lastTranslatedToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
 			this.lastTranslatedToolStripMenuItem.Text = "Last Translated";
 			this.lastTranslatedToolStripMenuItem.Click += new System.EventHandler(this.lastTranslatedToolStripMenuItem_Click);
+			// 
+			// fontToolStripMenuItem
+			// 
+			this.fontToolStripMenuItem.Name = "fontToolStripMenuItem";
+			this.fontToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.fontToolStripMenuItem.Text = "Font...";
+			this.fontToolStripMenuItem.Click += new System.EventHandler(this.fontToolStripMenuItem_Click);
 			// 
 			// Form1
 			// 
@@ -365,8 +383,10 @@
 		private System.Windows.Forms.ToolStripStatusLabel lblStatus;
 		private System.Windows.Forms.ToolStripMenuItem toolStripMenuItem5;
 		private System.Windows.Forms.VScrollBar vScrollBar1;
-        private System.Windows.Forms.RichTextBox tbTranslation;
+		private System.Windows.Forms.RichTextBox tbTranslation;
+		private System.Windows.Forms.ToolStripMenuItem toolsToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem lastTranslatedToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem fontToolStripMenuItem;
 	}
 }
 
