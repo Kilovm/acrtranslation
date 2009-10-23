@@ -16,7 +16,7 @@
  * Tommy: 汤米
  * Gina: 吉娜
  * Elizabeth : 伊丽莎白
- * Pinkie Rabbit ：粉粉兔  (这是人名吗 -_-!)
+ * Pinkie Rabbit ：粉粉兔  (这是人名吗 -_-!回：这不是人名，不过在CING的游戏里是个超级穿越的角色)
  * Sam : 萨姆
  * Judd Fitzgerald : 贾德·菲茨杰拉德
 
@@ -27,6 +27,7 @@
  * guesthouse : 商店
  * cottage：小屋
  * campsite 营地
+ * villa 别墅
  * Crusoe Resort：克鲁索度假村
 = 物品名 =
  * pick case 吉他拨片盒
