@@ -208,6 +208,8 @@ Commands are inserted into texts.
 
 === Seperator ===
 
+FIXME: Is it a seperator? I think it's the end of a command, or \n inside texts.
+
 0000: BYTE 0A
 
 === Null ===
@@ -243,3 +245,17 @@ Deprecated. see http://wiibrew.org/wiki/Banner
 == .ISO file ==
 
 http://wiibrew.org/wiki/Wii_Disc
+
+== .THP file ==
+
+Thanks shuilixiang.
+
+http://www.cngba.com/thread-17229994-1-1.html
+
+http://www.amnoid.de/gc/
+
+http://www.hcs64.com/in_cube.html
+
+== .BRRES file ==
+
+http://www.zapotlanejo.info/Nintendopapercraftforum/viewtopic.php?f=19&t=3283
