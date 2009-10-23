@@ -18,8 +18,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went to the guesthouse and got charcoal for[1]the barbecue, but on the way back[2]I ran into Dad, who'd got an urgent phone call[3]and had to get back to the lab.[4]Now I'm waiting for Gina, the person Dad sent[5]to keep me company while I wait for him.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我去了趟商店，为烧烤准备了[1]一点儿木炭，在回来的路上[2]碰见了爸爸，他刚接到一个紧急电话[3]正要赶回研究所。[4]现在我正在等吉娜，爸爸不放心我一个人，[5]就让吉娜来陪我。[6]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -75,8 +74,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Hello.[1]Huh?[2]Are you Ashley?[3]Yeah.[4]Who are you?[5]I came here instead of Gina.[6]I'm here to have the barbecue with you.[7]Instead of Gina?[8]Why didn't she come?[9]Gina said that Dr Robins had asked her to[10]keep you company.[11]But unfortunately, she had some urgent work[12]to attend to and was unable to come.[13]Urgent work? What happened?[14]I'm sorry, I don't know exactly what it was. In[15]any case, she wasn't able to come here.[16]And so I came in her place.[17]I believe Gina has already informed Dr Robins[18]that I came here instead.[19]But...[20]You seem unsettled.[21]Do I really seem so bad?[22]No, that's not it. It's just...[23]It's just?[24]I was just wondering, isn't having a barbecue[25]with someone you just met kind of...[26]Strange?[27]Yeah...[28]I suppose I feel the same way.[29]Really?[30]Yes. But even with something as unplanned[31]as this, two strangers can talk and share[32]their views on life.[33]Perhaps that could make it enjoyable.[34]Forgive me, I haven't introduced myself.[35]My name is [36]Ryan Gray[37]. I am a scientist at JC[38]Valley, like your father.[39]Nice to meet you.[40]Wait![41]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你好。[1]嗯？[2]你就是阿修蕾？[3]对啊。[4]你是？[5]我是代替吉娜来[6]陪你一起烧烤的。[7]代替吉娜？[8]她怎么没来？[9]吉娜告诉我说，是罗宾斯博士[10]请她来陪你的。[11]但真不巧……她有急事要处理，[12]所以不能亲自来了。[13]急事？要紧吗？[14]实在不好意思，我也不清楚是怎么回事，[15]总之……现在她没法脱身，[16]所以你看，我来陪你了。[17]不过吉娜应该已经把我代替她过来这事[18]通知给罗宾斯博士了吧。[19]但是……[20]你看上去很不安呐，[21]我就那么像坏人？[22]不！不是这个意思，只是……[23]只是？[24]我只是不习惯，总觉得跟一个才见面的人一起烧烤，[25]会有点……[26]奇怪？[27]是啊……[28]其实我也挺紧张的。[29]真的吗？[30]是啊。但是我觉得既然两个陌生人[31]能够在这种情况下邂逅，[32]那倒不妨一起畅谈人生吧，[33]这样才能消除隔阂。[34]噢！原谅我还没先做自我介绍。[35]我的名字叫[36]莱恩·格雷[37]我是JC山谷的研究员，[38]跟你爸爸一样哦。[39]很高兴见到你。[40]等等！[41]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -85,8 +83,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I've seen this man before...[1]Somewhere...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我以前见过这个男人……[1]在什么地方呢……[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -95,8 +92,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhUBAApQX01FTU9SWV9SeWFuX29uChocAAAFV1NEX1NFX1BBUlRfTUVNT1JZX0lOAAAKGjMBAAlQX01FTU9SWV9SeWFuX29mZgBQX01FTU9SWV9SeWFuX29mZl9vZmYuYnJsYW4AChoGAAAMAAoaFgEAClBfTUVNT1JZX1J5YW5fb2ZmCgA=</Command>
     </Commands>
     <Original>[0]Ryan Gray.[1]Where have I met you before?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩·格雷。[1]我以前在哪里见过你？[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -105,8 +101,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Ashley?[1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾？[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -126,8 +121,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Are you unwell? You looked like you were about[1]to pass out.[2]Ryan...[3]Yes?[4]Have we...[5]Have we...?[6]Have we met before?[7]Not that I recall.[8]This is the first time that we have met, to the[9]best of my knowledge.[10]However...[11]It is not uncommon to meet someone and think[12]that you've seen them somewhere before.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]觉得不舒服吗？[1]你看上去好像有点犯晕。[2]莱恩……[3]怎么了？[4]我们……[5]我们什么？[6]我们以前见过面吧？[7]没有吧。[8]如果我没得失忆症的话，[9]这应该是我们第一次见面。[10]但是……[11]初次见面而又觉得似曾相识，[12]这种事，常有的不是吗。[13]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -220,8 +214,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]No... I'm still sure I've seen you before[1]somewhere.[2]Oh?[3]I remembered it when I saw you.[4]I've definitely seen you somewhere before.[5]You recognise me from somewhere?[6]Yeah...[7]I was here with my mom 13 years ago.[8]Maybe I met you back then.[9]I see... Hmm...[10]Ashley, how old are you?[11]I'm 16.[12]Which means that 13 years ago, you were three.[13]There is a theory regarding myelination in the [14]human hippocampus, stating that as this[15]particular development is a slow process, the[16]hippocampus is not fully formed until the age[17]of three or four years old. If we consider the[18]concept of implicit memory, where emotions,[19]memory of basic tasks and facial recognition[20]develop before the age of three, it is not[21]an impossibility for you to retain memories[22]from 13 years ago. However, the majority of[23]test subjects cannot recall episodes or events[24]from their own childhood, which would imply[25]that explicit memory has not developed by that[26]stage.[27]Sorry, I didn't understand a word of that.[28]What are you telling me?[29]What I mean is that...[30]Your recognition of my face may be due to[31]ambiguous, unreliable memories.[32]Ambiguous, unreliable memories?[33]But as soon as I arrived here, I suddenly[34]started remembering my mom...[35]Ashley, do you think that coming here may be a[36]trigger that made you remember your mother?[37]Yeah...[38]Let me ask you something.[39]Okay.[40]Did you come here today by your own free will?[41]By which I mean, did you yourself decide to [42]come here?[43]No.[44]My dad called me here.[45]So Dr Robins invited you here, correct?[46]Yeah.[47]My dad knew that I'd been here with my mom[48]13 years ago...[49]So he wanted to show me the place again.[50]I see.[51]Before I came here...[52]I had no idea that I'd even been here, let alone[53]with my mom.[54]But when I came here and saw everything...[55]I suddenly started remembering my mom[56]and the last time I was here.[57]And you also remembered something when you[58]saw me, correct?[59]Yeah...[60]But if you ask me whether I'm completely sure[61]that all of the memories are true...[62]I couldn't honestly say I was sure.[63]I see...[64]Ashley, we call sudden memories like that[65]"flashbacks".[66]It usually happens when you have a traumatic[67]experience or mental scarring.[68]Did anything like that happen to you 13 years[69]ago?[70]Yeah...[71]On the night of my third birthday, my mom[72]died.[73]She was killed...13 years ago.[74]A great pity.[75]Sayoko Robins was killed 13 years ago, at the[76]young age of 28.[77]Wait...[78]You know about my mom?[79]Of course.[80]The death of Sayoko Robins was a great loss[81]for the entire scientific community, especially[82]for those of us focused on memory research.[83]And now, after 13 years, I have the chance[84]to meet her daughter.[85]It is quite an unexpected opportunity.[86]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……我还是觉得以前在哪里……[1]有见过你。[2]噢？[3]一见到你我就觉得眼熟，[4]肯定以前在哪里见过你。[5]你在某个地方见过我？[6]是的……[7]十三年前我跟我妈妈来过这里，[8]或许是那个时候。[9]嗯……我想想……[10]阿修蕾，你今年几岁啊？[11]十六岁。[12]也就是说十三年前，你只有三岁。[13]有一种关于人类海马体中髓鞘形成[14]的理论，说是由于这一组织结构的生长[15]相对来说是一个缓慢的过程，所以[16]在人类三岁到四岁之前，负责记忆的海马体并没有真正成形。[17]所以你不会记得我。[18]但如果考虑到你的内隐记忆，那么[19]三岁前的情感发育、基本活动能力以及人脸识别功能等等[20]这些十三年前的回忆，[21]倒也是可能有所保留呢。[22]然而，实验对象中的[23]绝大多数人都无法回忆起童年的一些[24]事件以及片段，这又说明了[25]内隐记忆并没有[26]在这个年龄阶段出现。[27]呃……我觉得我一个字都没听懂。[28]你想告诉我什么？[29]我的意思是说……[30]你觉得我眼熟很可能是由于一些[31]模棱两可且不怎么可靠的记忆。[32]模棱两可？不可靠？[33]但是我一到了这儿，就会突然[34]想起妈妈呀……[35]阿修蕾，你是不是想说来到这里触景生情，[36]想到了你的妈妈？[37]是的……[38]那我问你些事情。[39]好的。[40]你现在站在这里，是由于你的意思自治吗？[41]好吧……说简单点，是你自己决定[42]来这里的吗？[43]不是的。[44]爸爸叫我来的。[45]也就是说，罗宾斯博士叫你来的,对吗？[46]没错。[47]爸爸知道十三年前，[48]我和妈妈一起来过这里，[49]所以他想让我再次回到这里。[50]我懂了。[51]在我来之前……[52]我根本没意识到曾经来过这里，更不用说……[53]还是和妈妈一起来的。[54]但当我到了这里，看到了这里的一切……[55]就突然在脑海中闪现出妈妈的影子，[56]以及我曾经来过这里的事实。[57]你还想起了曾经看到过我的一些事，[58]对吗？[59]是的……[60]但正如你要问我是不是百分百肯定[61]这些记忆的真实性……[62]我就真的不那么自信了。[63]我明白了。[64]阿修蕾，我们通常把这种突然出现的记忆称为[65]“闪影”。[66]这通常是由于精神创伤、[67]心理或者经历上的恐惧导致的。[68]十三年前，有没有这类事情[69]发生过？[70]是的……[71]在我三岁生日的晚上，妈妈……[72]死了。[73]她是被杀害的……就在十三年前……[74]啊……遗憾……[75]只有28岁啊……沙夜子·罗宾斯，[76]十三年前被杀害了。[77]等等……[78]你知道我妈妈？[79]当然。[80]沙夜子·罗宾斯的死，对于整个科研界来说[81]都是一个很大的损失，尤其是[82]对于像我们这样专注于研究记忆的。[83]如今，十三年过去了……我在这里[84]见到了她的女儿。[85]真是机缘巧合。[86]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -233,8 +226,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]This guy knows about Mom.[1]Someone here at Lake Juliet knows about my[2]mom...[3]And I remember seeing him somewhere in my[4]memories of her...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个男人知道妈妈。[1]朱丽叶湖的人……[2]竟然知道妈妈……[3]更巧的是，在关于妈妈的回忆里……[4]我见过这个人……[5]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -243,8 +235,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAGMAAAAAChoGAAAMAAoaBgAADAAKGhQBAAszAQkACQFOUEMwMTEAAAAKGgkAAEYDAQAACgA=</Command>
     </Commands>
     <Original>[0]Well, Ashley...[1]How about making a start on this barbecue?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那么，阿修蕾……[1]快点开始烧烤怎么样？[2]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -261,8 +252,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCQAJAU5QQzAwNQAAAAoaCQAARgEBAAAKAA==</Command>
     </Commands>
     <Original>[0]If you could light it up, please.[1]I shall prepare the meat and vegetables.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]请你生一下火吧，[1]我要准备肉和蔬菜。[2]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -280,8 +270,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]First, you need to put in the charcoal, then[2]light it.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]首先，你得把木炭放进去，然后[2]点燃它们吧。[3]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -292,8 +281,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Er...[1]Do you have anything to light it with?[2]There should be something somewhere. I'm sure[3]Dr Robins had something here to use.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]你有什么能点燃木炭的东西吗？[2]这里应该有些东西的。我可以确定[3]罗宾斯博士留了些在这里。[4]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -303,8 +291,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]I found some matches.[2]Good. Use those to light it up.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]我找到了一些火柴。[2]好的！用火柴来点吧。[3]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -318,8 +305,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Er...[1]I lit it, but the fire looks pretty weak.[2]What should I do?[3]If you fan air on the fire, it should spread and[4]burn better.[5]Look around and see if there's something that[6]you can use as a fan.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]点燃了，但火苗看上去很微弱。[2]接下来该怎么办？[3]如果你扇一下火，应该能把火焰蔓延开，[4]这样就能烧得旺些。[5]找找看是不是有什么东西[6]可以用来当扇子。[7]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -329,8 +315,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]This isn't working too well...[2]I'm sure it will work if you fan it properly.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]作用好像不大……[2]再试着好好扇扇，应该有用的。[3]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -340,8 +325,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]Okay, that's plenty of charcoal.[2]Next up is lighting the barbecue.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]可以了，有足够的木炭。[2]接下来就是要点燃烤炉了。[3]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -354,8 +338,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]Now I just need to light it.[5]There should be something here to start a fire.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在，[1] 有了摆满 [2]木炭[3]的烤炉。[4]我只需要点燃它。[5]这里应该有些什么东西能够生火。[6]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -368,8 +351,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]Now I just need to light it.[5]Try using the matches.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在，[1] 有摆满了 [2]木炭[3]的烤炉。[4]我只需要点燃它。[5]试试看用火柴吧。[6]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -380,8 +362,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADGAoA</Command>
     </Commands>
     <Original>[0]There are [1]matches[2] by the lantern.[3]These should come in handy.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]油灯旁边有些[1]火柴[2] 。[3]这些东西应该有用。[4]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -393,8 +374,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]I'll use the matches to light this up.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在[1]有个摆满[2]木炭[3]的烤炉。[4]用火柴点燃它们。[5]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -404,8 +384,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]It's not really burning properly.[2]What now?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]点燃了，但是……[1]并没有烧得很旺。[2]现在怎么办？[3]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -417,8 +396,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOAoA</Command>
     </Commands>
     <Original>[0]There is a [1]cowboy hat[2].[3]A hat...[4]Maybe I can use this![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有一顶 [1]牛仔帽[2]。[3]帽子……[4]或许可以用这个！[5]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -426,8 +404,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll try the cowboy hat...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，我来试试用牛仔帽……[1]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -435,8 +412,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try again.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试一次。[1]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -445,8 +421,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADaQoA</Command>
     </Commands>
     <Original>[0]A flap from the cardboard box...[1]This could come in handy![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]纸板箱的碎片……[1]这东西应该有用。[2]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -454,8 +429,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the cardboard flap...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，试试看用纸板箱碎片……[1]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -463,16 +437,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try again.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试试。[1]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -481,8 +453,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAMYAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]All right![1]The charcoal's really burning now![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]成功了！[1]木炭现在烧得很旺！[2]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -492,8 +463,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]The fire's still pretty weak.[2]How do I make it burn better?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我把它点燃了，但……[1]火光微弱啊。[2]怎么样让它烧旺呢？[3]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -502,8 +472,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]It's not catching fire at all...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]该怎么办？[1]这个根本点不着火……2]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -512,8 +481,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Argh...[1]It's still too weak.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎啊……[1]还是很微弱……[2]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -535,8 +503,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ah, that looks like it's coming along nicely.[1]I've also finished preparing the food.[2]Time to skewer and grill the meat and [3]vegetables, I think.[4]Okay![5]Oh yeah![6]I should burn the cardboard flap too.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，看上去烧得不错哦。[1]我也已经准备完吃的了。[2]差不多是时候把肉和蔬菜[3]串起来烤一烤啦。[4]说得没错！[5]哈哈！[6]我也来烧一点纸板箱片。[7]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -548,8 +515,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ah, that looks like it's coming along nicely.[1]I've also finished preparing the food.[2]Time to skewer and grill the meat and [3]vegetables, I think.[4]Okay![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，看上去火烧得不错哦。[1]我也准备好食物了。[2]是时候把蔬菜和肉[3]串起来烤一烤啦。[4]好的！[5]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -566,8 +532,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]They've cooked very well all over.[1]Yeah, I can't wait![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]滋滋滴油，很诱人呢。[1]嗯嗯！我都等不及了！[2]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -607,8 +572,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgkAADEAAAAAChoJAAAxCQAAAQoA</Command>
     </Commands>
     <Original>[0]How is it?[1]Yeah, it's great![2]That's good to hear.[3]Being here with you reminds me of Sayoko,[4]actually.[5]You bear quite a strong resemblance to her.[6]I look like her?[7]Yes. Your hair is a different colour, but your[8]dark eyes are almost exactly like hers.[9]You've...met her?[10]Yes, indeed.[11]She is one of the few people that I can [12]never[13]forget[14].[15]She was exactly the [16]same type of person[17] as me.[18]Say, Ryan...[19]Yes?[20]Can I ask you about my mom?[21]Of course.[22]Let's talk about her after we've eaten.[23]Please help yourself! Bon appétit![24]Okay.[25]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]味道怎么样？[1]嗯！人间美味！[2]太好了。[3]说实话，[4]跟你待在一起，让我想起了沙夜子。[5]你确实长得跟她很像。[6]我长得像妈妈？[7]是的。虽然发色不同，[8]但深色的瞳孔，就像她一样。[9]你……见过她？[10]当然了。[11]她是那种少有的，让我[12]不能[13]忘怀的人[14]。[15]她是跟我 [16]一样类型[17] 的人。[18]说下去，莱恩……[19]什么？[20]我能问你一些关于妈妈的事吗？[21]当然可以了。[22]那我们吃完再说她吧。[23]多吃点吧，祝胃口好！[24]吃着呢！[25]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -644,8 +608,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That was really great![1]I dunno why, but eating outside makes it taste[2]so much nicer.[3]Indeed.[4]It was quite delicious.[5]Do you like barbecues?[6]Yeah, I like them, but today's barbecue[7]was totally amazing.[8]I can't stand peppers, and I even ate them![9]You don't like peppers?[10]Nope.[11]I can kind of eat them now, but when I was[12]little I couldn't stand them at all.[13]I'm the same.[14]Really?[15]It is said the best way to overcome hatred of a[16]food is by force of will and careful cooking.[17]Perhaps today's barbecue helped you grow to[18]enjoy peppers.[19]You think?[20]I do indeed.[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真的很美味啊！[1]不知道是什么原因，但在室外吃东西，[2]显得更美味呢。[3]确实如此。[4]这些东西非常好吃。[5]你平时喜欢烧烤吗？[6]是的，我喜欢，尤其是今天的烧烤，[7]简直太合我胃口啦！[8]我最受不了胡椒了，但今天我也吃了！[9]你不喜欢胡椒吗？[10]也不是。[11]我现在是能吃一点，[12]但小时候完全不能接受。[13]我也一样。[14]真的吗？[15]据说克服厌食的最好方法，[16]就是意志之力和美妙的烹饪。[17]或许今天的烧烤可以帮助你增加对[18]胡椒的喜爱。[19]你是认真的？[20]我是认真的。[21]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -656,8 +619,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I'm so glad Ryan's keeping me company.[1]I thought scientists were all like Dad...[2]But Ryan's so open and talkative. I guess not[3]all scientists are the same.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我很高兴莱恩能陪我一起吃烧烤。[1]我还以为科学家都像爸爸那样呢。[2]但是莱恩很开朗，也很健谈。看来我要对[3]科学家有所改观了呢。[4]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -681,8 +643,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, let's talk about Sayoko.[1]You wanted to ask me about her, didn't you?[2]Yeah.[3]How do you know her?[4]Before I was recruited by JC Valley, I was[5]occasionally at MJ Labs.[6]MJ Labs was where Mom worked, right?[7]Yes, Dr Robins and Sayoko were both[8]researching Another there.[9]So you know about Another?[10]Yes, I do.[11]And I knew Sayoko when she was working on[12]Another...[13]Ah...[14]So there are people at JC Valley who know[15]about Another...[16]There are.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，我们来谈谈沙夜子吧。[1]你不是想要跟我讨论一下她吗？[2]没错。[3]你怎么会认识妈妈的？[4]在我入职JC山谷前，[5]我曾偶然在MJ研究所工作。[6]MJ研究所……就是妈妈曾经工作的地方对么？[7]是的，罗宾斯博士和沙夜子都在那里[8]研究Another。[9]那你知道Another？[10]是的。[11]我就是在沙夜子研究Another的时候[12]认识她的。[13]啊……[14]那么，在JC山谷，还有人知道[15]Another……[16]是有一些。[17]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -706,8 +667,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What did you mean when you said that Mom[1]was someone you'd never forget?[2]I meant that I remember her very well.[3]Why?[4]When I started out in research, Sayoko was[5]the first scientist I ever met.[6]She taught me the very fundamentals of[7]being a scientist.[8]What kind of person was she?[9]She was a truly incredible scientist.[10]To this day, I have yet to meet someone that[11]could even hope to surpass her.[12]She was that good?[13]Oh, absolutely.[14]If she were still alive today...[15]I can only imagine what incredible things might[16]have developed from her research.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你说妈妈是你永远不会忘记的人，[1]这是什么意思？[2]就是……对她的记忆难以磨灭。[3]为什么？[4]沙夜子是我投身科研领域后，[5]第一个认识的科学家。[6]是她教会了我成为[7]科学家的一些基本法则。[8]那……妈妈是怎么样的人呢？[9]她是一个很棒的科学家。[10]直到今天，我也没有遇见一个[11]能有希望超越她的人。[12]她真的那么厉害？[13]嗯，毫不夸张。[14]如果她还活着的话……[15]真不敢想象[16]她的研究成果能达到多高的程度。[17]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -733,8 +693,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What did you mean when you said she's the[1]same type of person as you?[2]Well... Someone that's followed the path of[3]research all their life, someone who you could[4]say was born to be a scientist.[5]Huh?[6]My parents were both scientists.[7]I started researching at university when I was[8]ten years old.[9]Ten?[10]Yes.[11]I didn't start proper research until I was 16.[12]And then I was recruited to work for JC Valley,[13]so here I am.[14]You became a scientist at 16?[15]Yes.[16]That's amazing. You must be a real genius.[17]I heard that Sayoko began at 18.[18]Wow.[19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你说妈妈跟你是同一类型的人[1]这是什么意思呢？[2]嗯……那种能为科学研究奉献一生的人，[3]那种被称之为[4]生而注定成为科学家的人。[5]哦？[6]我的父母都是科学家，[7]我从十岁开始，[8]就在大学里从事科学研究[9]十岁？！[10]是的。[11]十六岁之前，我都没有找到很适合自己的科研项目，[12]但那以后，我就被JC山谷录用，[13]直到现在。[14]你十六岁的时候就已经是一名科学家了？[15]是的。[16]真是不可思议！你一定是个天才！[17]听说沙夜子是从十八岁开始的。[18]哇！[19]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -744,8 +703,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Aren't you at that age where you begin to[1]plan your future?[2]What do you want to be?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]说说你吧，这个年龄不是正处于人生的十字路口吗，[1]该为未来做打算了吧？[2]你以后想干什么？[3]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -753,8 +711,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Don't know[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -762,8 +719,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Musician[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]音乐家[1]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -787,8 +743,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I don't know...[1]You haven't thought about it?[2]No, not really.[3]There's a lot of different things I'd like to do...[4]What about being a scientist?[5]No way.[6]Looking at my dad, I decided that the one[7]thing I didn't want to be was a scientist.[8]Why?[9]Because they hold their research above[10]everything else in the world.[11]I don't want to be the kind of person who[12]completely shuts out other stuff.[13]Other stuff? What do you mean?[14]Friends, family, all that. Lots of other things[15]are just as important, you know?[16]Ah yes, those.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我也不知道……[1]还没想过这个问题么？[2]真没有。[3]我对很多事都有兴趣……都想去尝试……[4]比如……科学研究？[5]没门。[6]看着爸爸，我至少确定[7]唯一不想做的就是科学家了。[8]为什么？[9]因为科学家把科学研究看得[10]比世界上任何东西都重。[11]我可不想成为那种为了事业[12]而关上了生活这扇门的人。[13]生活的门？说来听听。[14]朋友家庭什么的。这个世界上有很多其他东西[15]也很重要，你懂我的意思吗？[16]嗯对，是有一些。[17]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -807,8 +762,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A musician![1]A...musician?[2]Yeah![3]I want to be a musician![4]One day, I want to write my own songs.[5]I really want to move people with my music.[6]I think that'd be the best feeling of all.[7]I see...[8]I'm sure everyone dreams of becoming a musician[9]when they're a certain age.[10]Although it is rather unlikely to become reality, [11]one is free to dream as one pleases.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]音乐家哦！[1]音乐……家？[2]对！[3]我想成为一个音乐家！[4]总有一天，我要写出我自己的曲子。[5]我想用我自己的音乐来感动身边的人。[6]对我来说，这将是世界上最美妙的感觉！[7]了解……[8]我想……每个人在某个年龄阶段……[9]都有成为音乐家的梦想。[10]虽然这个梦想不太靠谱，[11]但人人都有梦想的权利。[12]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -884,8 +838,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, I think I understand how you feel[1]about the future.[2]Just from that conversation?[3]Yes. Very well, in fact.[4]You know, on the surface you may look a lot[5]like Sayoko...[6]But on the inside, you're just like Dr Robins.[7]Like Dad?[8]Exactly like him.[9]Ryan...[10]Yes?[11]What's my dad like?[12]Ah, yes.[13]Your father is a very [14]hard worker[15].[16]Mm-hmm...[17]Ashley...[18]Yeah?[19]May I ask you something?[20]Go ahead.[21]Do you often go camping with Dr Robins?[22]Never![23]I'm sure the camping trip was just an excuse[24]to get me here.[25]An excuse?[26]Yeah.[27]Dad hasn't been home for six months. Not[28]even at weekends.[29]He probably knew I was mad at him, so...[30]He needed to come up with an excuse to see[31]me.[32]I see.[33]He's really selfish at times. It's like he lives[34]life on his own terms.[35]Which makes it really difficult when you're[36]his daughter, right?[37]Everything's short notice. Look what[38]happened this time.[39]What happened?[40]My bag was stolen. All because I came here.[41]Your bag was stolen?[42]Yeah.[43]I've never had my bag stolen before.[44]Was there anything important in it?[45]Clothes, my band scores, pick case, teddy[46]bear...[47]And a bit of money.[48]Is that all?[49]Yeah.[50]I kept Mom's pendant in my pouch, so at least[51]that was safe.[52]Your mother's pendant?[53]It's all I have left of her.[54]What kind of pendant is it?[55]It's shaped like a tear, and it has some sort of[56]liquid in it. It's beautiful.[57]I couldn't take a look at it, could I?[58]Well, I'd show you but my dad has it at the[59]moment.[60]I see...[61]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Ashley, I think I understand how you feel[1]about the future.[2]Just from that conversation?[3]Yes. Very well, in fact.[4]You know, on the surface you may look a lot[5]like Sayoko...[6]But on the inside, you're just like Dr Robins.[7]Like Dad?[8]Exactly like him.[9]Ryan...[10]Yes?[11]What's my dad like?[12]Ah, yes.[13]Your father is a very [14]hard worker[15].[16]Mm-hmm...[17]Ashley...[18]Yeah?[19]May I ask you something?[20]Go ahead.[21]Do you often go camping with Dr Robins?[22]Never![23]I'm sure the camping trip was just an excuse[24]to get me here.[25]An excuse?[26]Yeah.[27]Dad hasn't been home for six months. Not[28]even at weekends.[29]He probably knew I was mad at him, so...[30]He needed to come up with an excuse to see[31]me.[32]I see.[33]He's really selfish at times. It's like he lives[34]life on his own terms.[35]Which makes it really difficult when you're[36]his daughter, right?[37]Everything's short notice. Look what[38]happened this time.[39]What happened?[40]My bag was stolen. All because I came here.[41]Your bag was stolen?[42]Yeah.[43]I've never had my bag stolen before.[44]Was there anything important in it?[45]Clothes, my band scores, pick case, teddy[46]bear...[47]And a bit of money.[48]Is that all?[49]Yeah.[50]I kept Mom's pendant in my pouch, so at least[51]that was safe.[52]Your mother's pendant?[53]It's all I have left of her.[54]What kind of pendant is it?[55]It's shaped like a tear, and it has some sort of[56]liquid in it. It's beautiful.[57]I couldn't take a look at it, could I?[58]Well, I'd show you but my dad has it at the[59]moment.[60]I see...[61]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
