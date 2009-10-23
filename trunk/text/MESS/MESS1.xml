@@ -52,7 +52,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9NMDEwX0QAQkdNAAoaEgAAGEFfUjAxMF9EAEJHTQAKGgcAAEkD6AoaBgAADAAKGgcAAAMCWAoA</Command>
     </Commands>
     <Original>[0]Two years ago, I got a letter from my dad[1]telling me to come to Blood Edward Island...[2]After years of thinking he was dead, Dad[3]finally came home with me.[4]Two years later, I'm 16 and in high school.[5]And...my dad's left me again.[6]He's gone to work at some research lab called[7]JC Valley, over at Lake Juliet.[8]"I'll be back at weekends, I promise."[9]Those were his last words to me when he went[10]off to Lake Juliet.[11]I should've known he wouldn't keep that[12]promise.[13]I haven't seen him in six months. Not once.[14]Then, three days ago, a letter suddenly[15]arrived from him.[16]An invitation to a family camp. Kind of like[17]a summer camp, except less screaming kids.[18]He also sent me the newest model of the DAS,[19]that little device he invented.[20]"I'll be waiting for you at Lake Juliet."[21]Can you believe it?[22]Come on, Dad, seriously. I have a life too. How[23]can you expect me to just drop everything?[24]</Original>
-    <Translation>[0]两年前,我从爸爸那里收到了一封信[1]爸爸告诉我让我来布拉德·爱德华岛.....[2]之前许多年我以为他已经死了[3]最后,爸爸和我一起回到了家[4]两年之后,我现在已经是一名16岁的高中生了[5]爸爸却再次单独留下了我[6]他则到朱丽叶湖附近的一个名叫[7]JC山谷的研究所去工作[8]"我周末一定回来，我保证!"[9]这是他上次离开家去朱丽叶湖前[10]对我说的最后一句话[11]我早就知道[12]他是不会履行这个承诺的[13]自从上次见面后,我已经半年没见到他了[14]然而,就在三天前[15]他突然寄来了一个包裹[16]一张家庭露营招待券. [17]有点像一个夏令营,只是缺少了喧闹的孩子们[18]同时他也寄来了最新的DAS--[19]那个他发明的小装置[20]"我会在朱丽叶湖等着你"[21]你能相信吗?[22]别这样,爸爸, 认真点. 我也有自己的生活. [23]你怎么能指望我放下一切不管呢?[24]</Translation>
+    <Translation>[0]两年前,我从爸爸那里收到了一封信[1]爸爸告诉我让我来布拉德·爱德华岛.....[2]之前许多年我以为他已经死了[3]最后,爸爸和我一起回到了家[4]两年之后,我现在已经是一名16岁的高中生了[5]爸爸却再次单独留下了我[6]他则到朱丽叶湖附近的一个名叫[7]JC山谷科技公司的研究所去工作[8]"我周末一定回来，我保证!"[9]这是他上次离开家去朱丽叶湖前[10]对我说的最后一句话[11]我早就知道[12]他是不会履行这个承诺的[13]自从上次见面后,我已经半年没见到他了[14]然而,就在三天前[15]他突然寄来了一个包裹[16]一张家庭露营招待券. [17]有点像一个夏令营,只是缺少了喧闹的孩子们[18]同时他也寄来了最新的DAS--[19]那个他发明的小装置[20]"我会在朱丽叶湖等着你"[21]你能相信吗?[22]别这样,爸爸, 认真点. 我也有自己的生活. [23]你怎么能指望我放下一切不管呢?[24]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -620,7 +620,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AGdkAAoA</Command>
     </Commands>
     <Original>[0]Troublesome visitors? Who?[1]Some pesky kids up to no good in the forest.[2]Lately, they've been coming from nearby towns[3]and getting together in the forest.[4]They make a lot of racket in the middle of the[5]night, break branches, drop litter...[6]I suppose there are bad kids everywhere.[7]That's true indeed...[8]Lately, they've even been messing about with[9]fire. Can you believe it?[10]I'm starting to wonder whether or not the[11]villa fire[12] was something to do with them...[13]</Original>
-    <Translation>[0]讨厌的游客? 谁?[1]有些讨厌的孩子在森林里捣乱[2]他们来自附近的小镇[3]成群结队的进入森林里.[4]他们大半夜发出噪音[5]折断树枝,扔垃圾...[6]I suppose there are bad kids everywhere.[7]That's true indeed...[8]Lately, they've even been messing about with[9]fire. Can you believe it?[10]I'm starting to wonder whether or not the[11]villa fire[12] was something to do with them...[13]</Translation>
+    <Translation>[0]讨厌的游客? 谁?[1]有些讨厌的孩子在森林里捣乱[2]他们来自附近的小镇[3]成群结队的进入森林里.[4]大半夜发出噪音[5]折断树枝,扔垃圾...[6]你得知道捣蛋鬼是无所不在的[7]你说的对...[8]最近他们已经把这搞得一团糟[9]甚至造成了火灾,你能相信吗?[10]我甚至开始怀疑[11]别墅失火[12]是不是和他们有关系...[13]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -642,8 +642,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What kind of work does a Ranger do?[1]We patrol the forest to make sure there are no[2]accidents that would damage the area.[3]We also arrest folks chopping down trees or[4]lighting illegal fires in the forest.[5]So you can arrest people?[6]Sure can![7]That's pretty neat. This is the first time I've[8]ever met a Forest Ranger.[9]The first time? Really?[10]Yeah.[11]I shouldn't be surprised.[12]I often hear that from city kids.[13]Always the same thing about Forest Rangers:[14]"I've only ever seen them on TV!"[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]护林员都做什么工作呢?[1]We patrol the forest to make sure there are no[2]accidents that would damage the area.[3]We also arrest folks chopping down trees or[4]lighting illegal fires in the forest.[5]So you can arrest people?[6]Sure can![7]That's pretty neat. This is the first time I've[8]ever met a Forest Ranger.[9]The first time? Really?[10]Yeah.[11]I shouldn't be surprised.[12]I often hear that from city kids.[13]Always the same thing about Forest Rangers:[14]"I've only ever seen them on TV!"[15]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
