@@ -478,7 +478,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's white, with pink around the edges.[1]There's a big pocket on the outside with[2]a picture of a rabbit on it.[3]A rabbit?[4]Yeah. Pinkie Rabbit.[5]Ah, Pinkie Rabbit. That sure brings back some[6]old memories.[7]I've had that bag since I was a kid.[8]Are there any valuables in the bag?[9]There's a little money in it...[10]But more importantly, my favourite teddy[11]bear is in it.[12]Then there's my pick case, band scores...lots[13]of important stuff.[14]All right then.[15]I'll keep an eye out for your bag while I patrol.[16]I'll soon find some clues about where it went.[17]Really?[18]Leave it to me.[19]Oh yeah...[20]You should also go to the guesthouse and[21]file a missing items report.[22]That way, you're even more likely to get your[23]bag back.[24]Okay.[25]</Original>
-    <Translation>[0]包是白色的, 有粉色花边[1]边上有个大口袋[2]还挂着一个可爱的兔子挂饰[3]兔子?[4]对. 粉粉兔[5]嗯,粉粉兔, [6]真让人怀念啊[7]这是我从小用的包.[8]包里有什么贵重物品么?[9]里面有一点钱...[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒,乐谱...[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索.[17]真的?[18]交给我好了.[19]太好了...[20]你也需要去商店[21]出示一下这个丢失物品记录单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
+    <Translation>[0]包是白色的, 有粉色花边[1]边上有个大口袋[2]还挂着一个可爱的兔子挂饰[3]兔子?[4]对. 粉粉兔[5]啊,粉粉兔, [6]真让人怀念啊[7]这是我从小用的包.[8]包里有什么贵重物品么?[9]里面有一点钱...[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒,乐谱...[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索.[17]真的?[18]交给我好了.[19]太好了...[20]你也需要去商店[21]出示一下这个丢失物品记录单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -543,8 +543,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right! I'll try and have fun.[1]How about that? Your pops is quite the lucky[2]one, you know?[3]Really? Why?[4]Well...[5]My girl will be five this year. And I just[6]hope that when she's the same age as you,[7]she'll be able to enjoy going camping with me,[8]just like you with your pops.[9]Sounds nice...[10]Now that I think about it,[11]I think every dad wants to go camping with[12]his kids at some point.[13]Hah! You're right, I suppose they do![14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的!我会尽量开心些的[1]你知道吗?[2]你爸爸真走运啊[3]是么? 为什么?[4]是啊...[5]我女儿今年5岁了[6]她要像你这么可爱就好了[7]我真想像你和你爸爸一样[8]和你一起旅行[9]听起来真不错...[10]我认为[11]每一个父亲[12]肯定都想和他的孩子一起野营[13]啊! 你说得对,我是该考虑考虑了![14]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -572,8 +571,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I dunno...[1]Aw, don't be like that.[2]Yeah, but I really don't know...[3]It's just, my dad invited me out of nowhere[4]and I already had plans with my friends...[5]But you're here now, so you might as well[6]have a good time with your pops, right?[7]I suppose so...[8]If Jessica hadn't said anything, I might not[9]even have come here...[10]Jessica? Who's that?[11]My dad's little sister. My aunt.[12]She's been kind of like a mother to me.[13]She always knows exactly what I'm thinking[14]all the time...[15]It's like that, huh?[16]Well then, I'm sure if Jessica was here, she'd[17]tell you to forget your friends for a while[18]and spend some quality time with your pops.[19]She probably would.[20]I'm sure she would.[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]可是我...[1]唉,不要这样.[2]嗯,但是我真的不想...[3]我的爸爸邀请我来这里[4]但是我真的和我的朋友有别的计划了...[5]但是你现在已经在这里了[6]何不和你爸爸一起高兴的玩玩,你说对吗?[7]我希望是这样...[8]如果杰西卡没有说什么[9]也许我现在就不会在这里了...[10]杰西卡是谁?[11]我爸爸的妹妹. 我的姑母.[12]她一直像妈妈一样的对待我[13]她总是知道[14]我在想什么...[15]她是这样的人?[16]我相信 如果杰西卡在这里, [17]她肯定会告诉你,暂时忘了你的朋友[18]和你的爸爸在一起度过一段时间吧[19]她大概会这么做的[20]她肯定会这么做[21]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -602,8 +600,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AGZkAAoA</Command>
     </Commands>
     <Original>[0]Ashley, give it a chance and enjoy the natural[1]beauty of Lake Juliet.[2]We might not have malls or cinemas here, but[3]you can still enjoy yourself just as much.[4]I hope so.[5]And promise me something.[6]When you're finished at the campsite...[7]I know, I know.[8]Clean up all of my trash, right?[9]Well, I'll be. Exactly![10]You know, it'd be fine and dandy if all our[11]visitors were like you.[12]But unfortunately, we've had some bother with[13]a few [14]troublesome visitors[15] lately.[16]Yep. Turning out to be quite a pain, I can tell[17]you that for free.[18]All it's doing is making more and more [19]work[20]for Rangers like me[21].[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾, 放松一下[1]享受朱丽叶湖美丽的自然景观吧[2]这里虽然没有购物中心和电影院[3]但是你仍然可以享受很多乐趣的[4]我希望如此[5]不过要答应我一些事情[6]当你结束野营的时候...[7]我知道了,我知道了[8]清理掉所有垃圾, 是吧?[9]没错![10]你知道,如果所有的游客都像你这样 [11]那该多好啊[12]但是很不幸的是[13]最近经常有一些[14]讨厌游客[15]来到这里[16]唉. 巡逻是很累的, [17]我可以告诉你,我们是志愿的[18]他们给像我[19]这样的护林员[20]找了不少的麻烦[21].[22]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -623,8 +620,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AGdkAAoA</Command>
     </Commands>
     <Original>[0]Troublesome visitors? Who?[1]Some pesky kids up to no good in the forest.[2]Lately, they've been coming from nearby towns[3]and getting together in the forest.[4]They make a lot of racket in the middle of the[5]night, break branches, drop litter...[6]I suppose there are bad kids everywhere.[7]That's true indeed...[8]Lately, they've even been messing about with[9]fire. Can you believe it?[10]I'm starting to wonder whether or not the[11]villa fire[12] was something to do with them...[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]讨厌的游客? 谁?[1]Some pesky kids up to no good in the forest.[2]Lately, they've been coming from nearby towns[3]and getting together in the forest.[4]They make a lot of racket in the middle of the[5]night, break branches, drop litter...[6]I suppose there are bad kids everywhere.[7]That's true indeed...[8]Lately, they've even been messing about with[9]fire. Can you believe it?[10]I'm starting to wonder whether or not the[11]villa fire[12] was something to do with them...[13]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
