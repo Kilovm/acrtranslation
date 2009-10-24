@@ -728,8 +728,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoUAQALNQEAAAkBRVZFMDAyAAAACgA=</Command>
     </Commands>
     <Original>[0]Wait![1]Huh?[2]Didn't I tell you that area is off-limits?[3]Sorry.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等一下![1]嗯?[2]我不是告诉过你这边禁止进入吗?[3]啊,对不起.[4]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -742,8 +741,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoUAQALNQEAAAkBRVZFMDAyAAAACgA=</Command>
     </Commands>
     <Original>[0]Wait![1]Huh?[2]That path is off-limits.[3]There was a fire down there, and the remains[4]are still dangerous.[5]Understood.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等一下![1]嗯?[2]这条道路禁止进入.[3]那里刚刚发生过火灾[4]那些废墟还是很危险的[5]知道了[6]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -753,8 +751,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoUAQALNQEAAAkBRVZFMDAyAAAACgA=</Command>
     </Commands>
     <Original>[0]Wait![1]I told you, that path is off-limits![2]Sorry.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等一下![1]我告诉过你了, 这条道路禁止进入![2]啊,对不起[3]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -771,8 +768,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dan said it's dangerous.[1]Better not go down there.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹说过这很危险[1]我最好不要去那里.[2]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -780,8 +776,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪儿?[1]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -791,8 +786,7 @@
       <Command>GgcAAAMD6BoG/wAAAAoaBQAAAQoaEgAAGEFfUjAxMF9EAEJHTQEKAA==</Command>
     </Commands>
     <Original>[0]At least it's open now.[1]But...[2]There's nobody here...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]至少它现在是营业了.[1]但是...[2]这里没有人...[3]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -808,8 +802,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who was that?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是谁?[1]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
@@ -818,8 +811,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, a door.[1]Maybe there's someone in the back room?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢, 一扇门.[1]也许里间里有人?[2]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -827,8 +819,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯?[1]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -839,8 +830,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It opened![1]Um...[2]Whoa...[3]Er...hang on a sec.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]它打开了![1]嗯...[2]啊...[3]呃...等一下.[4]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
@@ -959,8 +949,7 @@
       <Command>ChoFAAABChoNAAAVBwAAAAAAAAAKGgwAAAgHAGMAAAAAChoGAAAMAAoaDAAACAAAdwAAAAAKGg0AABUAAAAAAAAAAAoaCQAANQBpZAAKAA==</Command>
     </Commands>
     <Original>[0]Um...[1]Hi there![2]And welcome to Lake Juliet![3]The name's [4]Tommy Harrison[5]. I work here.[6]Call me Tommy.[7]I came before, but the door was locked.[8]I thought you might be closed today.[9]Yeah, sorry 'bout that.[10]The place was dead, so I took a quick break.[11]It's really that quiet here?[12]Kinda...[13]The lake is nice and all that. But beyond that?[14]Really not much to say about this place.[15]So, not many people find their way here.[16]I came here to camp... You're serious? There's[17]nothing to do here?[18]No no, that's not what I meant.[19]The big selling point is that there's nothing[20]here. No distractions.[21]So it's the perfect place to get away from it all,[22]chill, camp out.[23]I wish...[24]Oh yeah, if you're camping, you need to check[25]in, right?[26]Okay, sign your name...[27]Right there, at the bottom.[28]Okay.[29]Ashley Mizuki Robins...[30]That okay?[31]Perfect.[32]Oh...[33]So you're Ashley?[34]Yeah.[35]Well...call me Ash.[36]Anyway, you knew I was coming?[37]Doc Robins told me. He said his daughter was[38]coming along, look after her and all that.[39]Anyway, you're clear to have as much camping[40]fun or whatever as you want.[41]You and your dad are the [42]only ones booked[43] for[44]camping today and all.[45]Oh yeah, take this with you too.[46]What is it?[47]It's an ID card for the camp.[48]There's a card lock by the camp gate, so use[49]this to scan yourself in.[50]Got it.[51]By the way, don't you have any bags or[52]whatever with you?[53]You're going camping, right? With nothing?[54]I did, but my bag got stolen![55]Stolen?! No way![56]Yeah, at the bus stop.[57]What a total pain.[58]Oh yeah, Dan was telling me about something...[59]Do you have a missing items report I can[60]fill out?[61]Sure, hang on.[62]Here, fill this in.[63]This is the report?[64]Yeah. You put down what you're missing, then[65]we let the local police know.[66]To be honest, this probably won't make much[67]difference.[68]But hey, better than nothing, right?[69]I guess so.[70]Let's see...[71]This okay?[72]Hmm?[73]Yeah, all good.[74]I'll pass this on to the police.[75]Thanks![76]Funny though. All this [77]weird stuff [78]keeps[79]happening lately...[80]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯...[1]嗨![2]欢迎来到朱丽叶湖![3]我叫[4]汤米·哈里森[5]我在这工作.[6]叫我汤米好了.[7]I came before, but the door was locked.[8]I thought you might be closed today.[9]Yeah, sorry 'bout that.[10]The place was dead, so I took a quick break.[11]It's really that quiet here?[12]Kinda...[13]The lake is nice and all that. But beyond that?[14]Really not much to say about this place.[15]So, not many people find their way here.[16]I came here to camp... You're serious? There's[17]nothing to do here?[18]No no, that's not what I meant.[19]The big selling point is that there's nothing[20]here. No distractions.[21]So it's the perfect place to get away from it all,[22]chill, camp out.[23]I wish...[24]Oh yeah, if you're camping, you need to check[25]in, right?[26]Okay, sign your name...[27]Right there, at the bottom.[28]Okay.[29]Ashley Mizuki Robins...[30]That okay?[31]Perfect.[32]Oh...[33]So you're Ashley?[34]Yeah.[35]Well...call me Ash.[36]Anyway, you knew I was coming?[37]Doc Robins told me. He said his daughter was[38]coming along, look after her and all that.[39]Anyway, you're clear to have as much camping[40]fun or whatever as you want.[41]You and your dad are the [42]only ones booked[43] for[44]camping today and all.[45]Oh yeah, take this with you too.[46]What is it?[47]It's an ID card for the camp.[48]There's a card lock by the camp gate, so use[49]this to scan yourself in.[50]Got it.[51]By the way, don't you have any bags or[52]whatever with you?[53]You're going camping, right? With nothing?[54]I did, but my bag got stolen![55]Stolen?! No way![56]Yeah, at the bus stop.[57]What a total pain.[58]Oh yeah, Dan was telling me about something...[59]Do you have a missing items report I can[60]fill out?[61]Sure, hang on.[62]Here, fill this in.[63]This is the report?[64]Yeah. You put down what you're missing, then[65]we let the local police know.[66]To be honest, this probably won't make much[67]difference.[68]But hey, better than nothing, right?[69]I guess so.[70]Let's see...[71]This okay?[72]Hmm?[73]Yeah, all good.[74]I'll pass this on to the police.[75]Thanks![76]Funny though. All this [77]weird stuff [78]keeps[79]happening lately...[80]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
