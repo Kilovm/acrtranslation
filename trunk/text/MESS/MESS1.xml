@@ -446,7 +446,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was about this size.[1]Hmm, that's a pretty small bag.[2]Yeah.[3]</Original>
-    <Translation>[0]大概就是这个尺寸.[1]唔,包真小啊.[2]是的.[3]</Translation>
+    <Translation>[0]大概就是这个尺寸.[1]唔,真小啊.[2]是的.[3]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -478,7 +478,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's white, with pink around the edges.[1]There's a big pocket on the outside with[2]a picture of a rabbit on it.[3]A rabbit?[4]Yeah. Pinkie Rabbit.[5]Ah, Pinkie Rabbit. That sure brings back some[6]old memories.[7]I've had that bag since I was a kid.[8]Are there any valuables in the bag?[9]There's a little money in it...[10]But more importantly, my favourite teddy[11]bear is in it.[12]Then there's my pick case, band scores...lots[13]of important stuff.[14]All right then.[15]I'll keep an eye out for your bag while I patrol.[16]I'll soon find some clues about where it went.[17]Really?[18]Leave it to me.[19]Oh yeah...[20]You should also go to the guesthouse and[21]file a missing items report.[22]That way, you're even more likely to get your[23]bag back.[24]Okay.[25]</Original>
-    <Translation>[0]包是白色的, 有粉色花边[1]边上有个大口袋[2]还挂着一个可爱的兔子挂饰[3]兔子?[4]对. 粉粉兔[5]啊,粉粉兔, [6]真让人怀念啊[7]这是我从小用的包.[8]包里有什么贵重物品么?[9]里面有一点钱...[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒,乐谱...[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索.[17]真的?[18]交给我好了.[19]太好了...[20]你也需要去商店[21]出示一下这个丢失物品记录单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
+    <Translation>[0]包是白色的, 有粉色花边[1]边上有个大口袋[2]上面有一个可爱的兔子[3]兔子?[4]对. 粉粉兔[5]啊,粉粉兔, [6]真让人怀念啊[7]这是我从小用的包.[8]包里有什么贵重物品么?[9]里面有一点钱...[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒,乐谱...[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索.[17]真的?[18]交给我好了.[19]太好了...[20]你也需要去商店[21]出示一下这个丢失物品记录单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -571,7 +571,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I dunno...[1]Aw, don't be like that.[2]Yeah, but I really don't know...[3]It's just, my dad invited me out of nowhere[4]and I already had plans with my friends...[5]But you're here now, so you might as well[6]have a good time with your pops, right?[7]I suppose so...[8]If Jessica hadn't said anything, I might not[9]even have come here...[10]Jessica? Who's that?[11]My dad's little sister. My aunt.[12]She's been kind of like a mother to me.[13]She always knows exactly what I'm thinking[14]all the time...[15]It's like that, huh?[16]Well then, I'm sure if Jessica was here, she'd[17]tell you to forget your friends for a while[18]and spend some quality time with your pops.[19]She probably would.[20]I'm sure she would.[21]</Original>
-    <Translation>[0]可是我...[1]唉,不要这样.[2]嗯,但是我真的不想...[3]我的爸爸邀请我来这里[4]但是我真的和我的朋友有别的计划了...[5]但是你现在已经在这里了[6]何不和你爸爸一起高兴的玩玩,你说对吗?[7]我希望是这样...[8]如果杰西卡没有说什么[9]也许我现在就不会在这里了...[10]杰西卡是谁?[11]我爸爸的妹妹. 我的姑母.[12]她一直像妈妈一样的对待我[13]她总是知道[14]我在想什么...[15]她是这样的人?[16]我相信 如果杰西卡在这里, [17]她肯定会告诉你,暂时忘了你的朋友[18]和你的爸爸在一起度过一段时间吧[19]她大概会这么做的[20]她肯定会这么做[21]</Translation>
+    <Translation>[0]可是我...[1]唉,不要这样.[2]嗯,但是我真的不想...[3]我的爸爸邀请我来这里[4]但是我真的和我的朋友有别的计划了...[5]但是你现在已经在这里了[6]何不和你爸爸一起高兴的玩玩,你说对吗?[7]我希望是这样...[8]如果杰西卡没有说什么[9]也许我现在就不会在这里了...[10]杰西卡是谁?[11]我爸爸的妹妹. 我的姑姑.[12]她一直像妈妈一样的对待我[13]她总是知道[14]我在想什么...[15]她是这样的人?[16]我相信 如果杰西卡在这里, [17]她肯定会告诉你,暂时忘了你的朋友[18]和你的爸爸在一起度过一段时间吧[19]她大概会这么做的[20]她肯定会这么做[21]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -642,7 +642,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What kind of work does a Ranger do?[1]We patrol the forest to make sure there are no[2]accidents that would damage the area.[3]We also arrest folks chopping down trees or[4]lighting illegal fires in the forest.[5]So you can arrest people?[6]Sure can![7]That's pretty neat. This is the first time I've[8]ever met a Forest Ranger.[9]The first time? Really?[10]Yeah.[11]I shouldn't be surprised.[12]I often hear that from city kids.[13]Always the same thing about Forest Rangers:[14]"I've only ever seen them on TV!"[15]</Original>
-    <Translation>[0]护林员都做什么工作呢?[1]We patrol the forest to make sure there are no[2]accidents that would damage the area.[3]We also arrest folks chopping down trees or[4]lighting illegal fires in the forest.[5]So you can arrest people?[6]Sure can![7]That's pretty neat. This is the first time I've[8]ever met a Forest Ranger.[9]The first time? Really?[10]Yeah.[11]I shouldn't be surprised.[12]I often hear that from city kids.[13]Always the same thing about Forest Rangers:[14]"I've only ever seen them on TV!"[15]</Translation>
+    <Translation>[0]护林员都做什么工作呢?[1]我们在森林里巡逻,确保不会发生[2]破坏这个地区的事故[3]我们还逮捕砍伐树木和[4]在森林里非法生火的人.[5]这么说,你可以抓人?[6]当然可以![7]这可真好. 话说回来,这是我[8]第一次见到护林员呢.[9]第一次? 真的?[10]是啊.[11]当然,我不感到惊讶.[12]我经常听到城里的孩子.[13]对于护林员总是只说一句话:[14]"我只在电视上见到过他们!"[15]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -659,8 +659,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There was a villa fire?[1]Yeah. There was a big villa at the end of this [2]path.[3]But it was burned down in a fire three days[4]ago. Burned right down.[5]I just put up a sign to warn people away from[6]the remains, since they're still dangerous.[7]That place ain't no playground, so make sure[8]to keep away from it, you understand?[9]Got it.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]别墅着火了?[1]是啊. 在这条道路的尽头 [2]有一座大别墅[3]但是三天前它被一场大火烧毁了[4]所有东西都烧光了.[5]我刚刚做了个标志,警告人们远离废墟[6]因为那里还是很危险的[7]那里可不是玩的地方, [8]所以,一定要远离那里,明白吗?[9]明白了[10]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -681,8 +680,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBCACqAQAAAAoaCAAASAgAqgoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUIAAAAAAAAAAoaDAAACAgAYAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Anyway, the guesthouse staff should be back[1]by now.[2]Why don't you run along and take a look?[3]Okay.[4]I'll head there now.[5]Thanks for your help![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]顺便说一下,[1]商店的职员现在也该回来了[2]不如现在你过去看看?[3]好的.[4]我现在就去那儿[5]谢谢你帮助我![6]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -699,8 +697,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯...[1]是吗?[2]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -712,8 +709,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg4BAAuKAQgAqgEAAAAKGgYAAAwAChoHAAARAAAaBwAAEggAChoNAAAVCAAAAAAAAAAKGgwAAAgIAGAAAAAAChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Dan...[1]Howdy.[2]Remember, keep away from the remains at[3]the end of this path.[4]Got it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹...[1]你好.[2]记住, 远离这条路[3]尽头的废墟.[4]知道了[5]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
