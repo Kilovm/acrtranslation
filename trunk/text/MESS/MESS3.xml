@@ -21,8 +21,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm searching for memories of my mom, who[1]was here 13 years ago.[2]Matt's searching for his dad, who disappeared[3]five years ago.[4]We pulled his dad's bag out from the lake and[5]found some of his dad's stuff in it.[6]But then Dan showed up and Matt had to run[7]and hide.[8]Matt, where did you go?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我在寻找与妈妈有关的回忆, [1]十三年前她曾在这儿待过.[2]马修则在搜寻他爸爸的,[3]他的爸爸于五年前失踪了.[4]我们从湖里把他爸爸的背包捞上来,[5]发现里面有一些东西.[6]但是丹突然出现,[7]马修不得不跑开躲了起来.[8]马修，你去哪儿?[9]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -41,8 +40,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]Dan's there.[2]He'll just send me on to the cottage...[3]I should go and find Matt before I talk to Dan.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦![1]丹在那儿.[2]他让我去小屋...[3]我应该在跟丹谈话之前去找到马修.[4]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -52,8 +50,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, Dan's that way.[1]I need to find Matt first.[2]He can't have gone far...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦,丹在那儿.[1]我得先找到马修.[2]他应该还没走远...[3]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -65,8 +62,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]There's a house out here?[2]Could this be...the old cottage that the [3]photographer used to live in?[4]The door's open...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦![1]这儿有间房屋?[2]难道这是...那个摄影师曾经住的[3]旧屋?[4]门是开着的...[5]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -75,8 +71,7 @@
       <Command>GgcAAAMD6BoG/wAAAAoaBQAAAQoaEgAAGEJfUjAzMF9EAEJHTQEKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]Nobody's home.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯?[1]没人在家.[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -88,8 +83,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]footprints[2] on the floor.[3]An adult made these...[4]Who was here?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地板上 [1]有[2]脚印.[3]是个成年人的...[4]谁来过这儿?[5]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -102,8 +96,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]trapdoor[2] by the bed.[3]What's this?[4]There's a handle on it...[5]It won't open...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]床边 [1]有扇[2]活动门.[3]这是什么?[4]上面有个把手...[5]打不开...[6]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -114,8 +107,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lever[2] in the cupboard.[3]What's this for?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]碗橱里[1]有个[2]控制杆.[3]它有什么用处?[4]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
