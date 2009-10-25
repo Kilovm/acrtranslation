@@ -40,6 +40,9 @@
 			this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
 			this.toolStripMenuItem3 = new System.Windows.Forms.ToolStripMenuItem();
 			this.toolStripMenuItem5 = new System.Windows.Forms.ToolStripMenuItem();
+			this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.lastTranslatedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.fontToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.splitContainer1 = new System.Windows.Forms.SplitContainer();
 			this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
 			this.tbPrevOriginal = new System.Windows.Forms.TextBox();
@@ -52,9 +55,7 @@
 			this.statusStrip1 = new System.Windows.Forms.StatusStrip();
 			this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
 			this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
-			this.toolsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-			this.lastTranslatedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-			this.fontToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.replaceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
@@ -163,6 +164,30 @@
 			this.toolStripMenuItem5.Size = new System.Drawing.Size(55, 20);
 			this.toolStripMenuItem5.Text = "→→→";
 			this.toolStripMenuItem5.Click += new System.EventHandler(this.toolStripMenuItem5_Click);
+			// 
+			// toolsToolStripMenuItem
+			// 
+			this.toolsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.lastTranslatedToolStripMenuItem,
+            this.fontToolStripMenuItem,
+            this.replaceToolStripMenuItem});
+			this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
+			this.toolsToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
+			this.toolsToolStripMenuItem.Text = "&Tools";
+			// 
+			// lastTranslatedToolStripMenuItem
+			// 
+			this.lastTranslatedToolStripMenuItem.Name = "lastTranslatedToolStripMenuItem";
+			this.lastTranslatedToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.lastTranslatedToolStripMenuItem.Text = "Last Translated";
+			this.lastTranslatedToolStripMenuItem.Click += new System.EventHandler(this.lastTranslatedToolStripMenuItem_Click);
+			// 
+			// fontToolStripMenuItem
+			// 
+			this.fontToolStripMenuItem.Name = "fontToolStripMenuItem";
+			this.fontToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.fontToolStripMenuItem.Text = "Font...";
+			this.fontToolStripMenuItem.Click += new System.EventHandler(this.fontToolStripMenuItem_Click);
 			// 
 			// splitContainer1
 			// 
@@ -305,28 +330,12 @@
 			this.vScrollBar1.Value = 1;
 			this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
 			// 
-			// toolsToolStripMenuItem
+			// replaceToolStripMenuItem
 			// 
-			this.toolsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.lastTranslatedToolStripMenuItem,
-            this.fontToolStripMenuItem});
-			this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
-			this.toolsToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
-			this.toolsToolStripMenuItem.Text = "&Tools";
-			// 
-			// lastTranslatedToolStripMenuItem
-			// 
-			this.lastTranslatedToolStripMenuItem.Name = "lastTranslatedToolStripMenuItem";
-			this.lastTranslatedToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-			this.lastTranslatedToolStripMenuItem.Text = "Last Translated";
-			this.lastTranslatedToolStripMenuItem.Click += new System.EventHandler(this.lastTranslatedToolStripMenuItem_Click);
-			// 
-			// fontToolStripMenuItem
-			// 
-			this.fontToolStripMenuItem.Name = "fontToolStripMenuItem";
-			this.fontToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-			this.fontToolStripMenuItem.Text = "Font...";
-			this.fontToolStripMenuItem.Click += new System.EventHandler(this.fontToolStripMenuItem_Click);
+			this.replaceToolStripMenuItem.Name = "replaceToolStripMenuItem";
+			this.replaceToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.replaceToolStripMenuItem.Text = "Replace...";
+			this.replaceToolStripMenuItem.Click += new System.EventHandler(this.replaceToolStripMenuItem_Click);
 			// 
 			// Form1
 			// 
@@ -387,6 +396,7 @@
 		private System.Windows.Forms.ToolStripMenuItem toolsToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem lastTranslatedToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem fontToolStripMenuItem;
+		private System.Windows.Forms.ToolStripMenuItem replaceToolStripMenuItem;
 	}
 }
 

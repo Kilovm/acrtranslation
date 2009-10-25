@@ -350,5 +350,34 @@ namespace BMG
 				tbOriginal.Font = tbTranslation.Font = fd.Font;
 			}
 		}
+
+		private void replaceToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			if (bmg == null) return;
+
+			SaveTranslation();
+
+			ReplaceForm form = new ReplaceForm();
+
+			if (form.ShowDialog(this) == DialogResult.OK)
+			{
+				string src = form.SourceString;
+				string dest = form.DestString;
+
+				int n = 0;
+				foreach (var sen in bmg.Sentences)
+				{
+					if (!string.IsNullOrEmpty(sen.Translation)&&sen.Translation.Contains(src))
+					{
+						sen.Translation = sen.Translation.Replace(src, dest);
+						n++;
+					}
+				}
+
+				RefreshTextBoxes();
+
+				MessageBox.Show(string.Format("{0} occurrences replaced.", n));
+			}
+		}
 	}
 }
