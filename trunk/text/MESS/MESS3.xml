@@ -21,7 +21,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm searching for memories of my mom, who[1]was here 13 years ago.[2]Matt's searching for his dad, who disappeared[3]five years ago.[4]We pulled his dad's bag out from the lake and[5]found some of his dad's stuff in it.[6]But then Dan showed up and Matt had to run[7]and hide.[8]Matt, where did you go?[9]</Original>
-    <Translation>[0]我在寻找与妈妈有关的回忆, [1]十三年前她曾在这儿待过.[2]马修则在搜寻他爸爸的,[3]他的爸爸于五年前失踪了.[4]我们从湖里把他爸爸的背包捞上来,[5]发现里面有一些东西.[6]但是丹突然出现,[7]马修不得不跑开躲了起来.[8]马修，你去哪儿?[9]</Translation>
+    <Translation>[0]我在寻找与妈妈有关的回忆， [1]十三年前她曾在这儿待过。[2]马修则在搜寻他爸爸的，[3]他的爸爸于五年前失踪了。[4]我们从湖里把他爸爸的背包捞上来，[5]发现里面有一些东西。[6]但是丹突然出现，[7]马修不得不跑开躲了起来。[8]马修，你去哪儿？[9]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -40,7 +40,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]Dan's there.[2]He'll just send me on to the cottage...[3]I should go and find Matt before I talk to Dan.[4]</Original>
-    <Translation>[0]哦![1]丹在那儿.[2]他让我去小屋...[3]我应该在跟丹谈话之前去找到马修.[4]</Translation>
+    <Translation>[0]哦！[1]丹在那儿。[2]他让我去小屋……[3]我应该在跟丹谈话之前去找到马修。[4]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -50,7 +50,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, Dan's that way.[1]I need to find Matt first.[2]He can't have gone far...[3]</Original>
-    <Translation>[0]哦,丹在那儿.[1]我得先找到马修.[2]他应该还没走远...[3]</Translation>
+    <Translation>[0]哦，丹在那儿。[1]我得先找到马修。[2]他应该还没走远……[3]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -62,7 +62,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]There's a house out here?[2]Could this be...the old cottage that the [3]photographer used to live in?[4]The door's open...[5]</Original>
-    <Translation>[0]哦![1]这儿有间房屋?[2]难道这是...那个摄影师曾经住的[3]旧屋?[4]门是开着的...[5]</Translation>
+    <Translation>[0]哦！[1]这儿有间房屋？[2]难道这是……那个摄影师曾经住的[3]旧屋？[4]门是开着的……[5]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -71,7 +71,7 @@
       <Command>GgcAAAMD6BoG/wAAAAoaBQAAAQoaEgAAGEJfUjAzMF9EAEJHTQEKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]Nobody's home.[2]</Original>
-    <Translation>[0]嗯?[1]没人在家.[2]</Translation>
+    <Translation>[0]嗯？[1]没人在家。[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -83,7 +83,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]footprints[2] on the floor.[3]An adult made these...[4]Who was here?[5]</Original>
-    <Translation>[0]地板上 [1]有[2]脚印.[3]是个成年人的...[4]谁来过这儿?[5]</Translation>
+    <Translation>[0]地板上有 [1]脚印[2]。[3]是个成年人的……[4]谁来过这儿？[5]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -96,7 +96,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]trapdoor[2] by the bed.[3]What's this?[4]There's a handle on it...[5]It won't open...[6]</Original>
-    <Translation>[0]床边 [1]有扇[2]活动门.[3]这是什么?[4]上面有个把手...[5]打不开...[6]</Translation>
+    <Translation>[0]床边有扇 [1]活动门[2]。[3]这是什么？[4]上面有个把手……[5]打不开……[6]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -107,7 +107,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lever[2] in the cupboard.[3]What's this for?[4]</Original>
-    <Translation>[0]碗橱里[1]有个[2]控制杆.[3]它有什么用处?[4]</Translation>
+    <Translation>[0]有个[1]控制杆[2]在碗橱里。[3]它有什么用处?[4]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -129,7 +129,7 @@
       <Command>Ggb/AAAAChoMAAAIAABDAQAAAAoaDQAAFQAAAAEAAAAAChoFAAABChoSAAAYQl9SMDMyX0QAQkdNAAoA</Command>
     </Commands>
     <Original>[0]There is a [1]lever[2] in the cupboard.[3]What's this for?[4]Maybe I should try it.[5]...! [6]What was that noise?[7]</Original>
-    <Translation>[0]碗橱里 [1]有个[2]控制杆.[3]它有什么用处?[4]也许我该试试看.[5]...! [6]什么声音?[7]</Translation>
+    <Translation>[0]有个[1]控制杆[2]在碗橱里。[3]它有什么用处？[4]也许我该试试看。[5]……！ [6]什么声音？[7]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -143,7 +143,7 @@
       <Command>Ggb/AAAAChoMAAAIAABDAQAAAAoaDQAAFQAAAAEAAAAAChoFAAABChoSAAAYQl9SMDMyX0QAQkdNAAoA</Command>
     </Commands>
     <Original>[0]There is a [1]lever[2] in the cupboard.[3]This looks so tempting...[4]Maybe I should try it.[5]...! [6]What was that noise?[7]</Original>
-    <Translation>[0]碗橱里 [1]有个[2]控制杆.[3]看上去很吸引人...[4]也许我该试试.[5]...! [6]什么声音?[7]</Translation>
+    <Translation>[0]有个[1]控制杆[2]在碗橱里。[3]看上去很吸引……[4]也许我该试试。[5]……！ [6]什么声音？[7]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -159,7 +159,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]trapdoor[2] is open.[3]Oh, it opened![4]That must've been the sound when I pulled the[5]lever...[6]There's a staircase. Must be a basement or[7]cellar down there.[8]I'll go down for a look.[9]</Original>
-    <Translation>[0]安全门 [1][2]打开了.[3]哦, 门开了![4]声响肯定是我拉门时[5]发出来的...[6]有个楼梯. 下面肯定有地下室或者[7]地窖.[8]我下去瞧瞧.[9]</Translation>
+    <Translation>[0]那个[1]安全门[2]打开了。[3]哦， 门开了！[4]声响肯定是我[5]拉门时发出来的……[6]有个楼梯。下面肯定有地下室或者[7]地窖。[8]我下去瞧瞧。[9]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -178,7 +178,7 @@
       <Command>ChoFAAABChoGAABPBAoA</Command>
     </Commands>
     <Original>[0]Ash![1]Huh?[2]So this is where you ran off to![3]I was looking for you everywhere![4]Sorry...[5]But nice job finding me in here![6]Actually, Dan helped.[7]He said this is where they found you last year.[8]Dan? That guy in the uniform?[9]Yeah, he's the Ranger, the one looking for you.[10]Ash...[11]You didn't tell him about me, did you?[12]</Original>
-    <Translation>[0]阿修蕾![1]嗯?[2]原来你跑这儿来了![3]我在到处找你![4]抱歉...[5]不过我在这里有不错的发现![6]当然, 丹也帮了忙.[7]他说去年就是在这儿找到你的.[8]丹? 那个穿制服的男孩?[9]是的, 他是正在找你的护林员.[10]阿修蕾...[11]你没有告诉他关于我的事, 是吧?[12]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]原来你跑这儿来了！[3]我在到处找你！[4]抱歉……[5]不过我在这里有不错的发现！[6]当然， 丹也帮了忙。[7]他说去年就是在这儿找到你的。[8]丹？那个穿制服的男孩？[9]是的， 他是正在找你的护林员。[10]阿修蕾……[11]你没有告诉他关于我的事， 是吧？[12]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -216,7 +216,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATRkAAoA</Command>
     </Commands>
     <Original>[0]He did ask...[1]But I said I hadn't seen you.[2]Thanks, Ash.[3]And please, please...[4]Don't tell him about me.[5]If he finds me, I'll get shipped back to my[6]uncle's house.[7]And I really, really [8]don't want to go back there[9]![10]So please, don't tell him about me.[11]Yeah, no problem.[12]Thanks.[13]Hey, Matt.[14]This house is empty, right?[15]Yeah, nobody lives here.[16]A guy doing roadworks or something here last[17]year told me about this place.[18]A photographer used to live here because he[19]liked taking photos of the lake.[20]But then he just [21]disappeared[22], leaving all his[23]stuff here.[24]I see...[25]Oh, Matt.[26]This is yours, right?[27]Thanks, Ash.[28]My dad bought me this car for my birthday.[29]So why was it in his bag?[30]I told him I didn't want it...[31]</Original>
-    <Translation>[0]他问过...[1]不过我说我没见过你.[2]谢谢, 阿修蕾.[3]还请, 请...[4]不要告诉他我的事.[5]如果他找到我, 我就要坐船[6]回叔叔的房屋了.[7]我真的, 真的 [8]不想再回那儿去了[9]![10]所以拜托, 别跟他提到我.[11]好的, 没问题.[12]谢谢.[13]嘿, 马修.[14]这房屋是空的, 对吧?[15]是的, 没人住这里.[16]去年一个做道路施工之类工作的人告诉我这个地方[17].[18]一个摄影师过去常常住这里,[19]因为他喜欢拍摄这湖.[20]但是后来他失踪了 [21][22], 把所有器材[23]丢在了这里.[24]我明白了...[25]哦, 马修.[26]这是你的, 对吧?[27]谢谢, 阿修蕾.[28]这车是爸爸送我的生日礼物.[29]那怎么会在他的包里?[30]我跟他说我不喜欢...[31]</Translation>
+    <Translation>[0]他问过……[1]不过我说我没见过你。[2]谢谢，阿修蕾。[3]还请，请……[4]不要告诉他我的事。[5]如果他找到我，我就要坐船[6]回叔叔的房屋。[7]我真的，真的 [8]不想再回那儿去了[9]！[10]所以拜托，别跟他提到我。[11]好的，没问题。[12]谢谢。[13]嘿，马修。[14]这房屋是空的，对吧？[15]是的，没人住这里。[16]去年一个做道路施工之类工作的人告诉我这个地方[17]。[18]一个摄影师过去常常住这里，[19]因为他喜欢拍摄这湖。[20]但是后来他[21]失踪了，[22]把所有器材[23]丢在了这里。[24]我明白了……[25]哦，马修。[26]这是你的，对吧？[27]谢谢，阿修蕾。[28]这车是爸爸送我的生日礼物。[29]那怎么会在他的包里？[30]我跟他说我不喜欢……[31]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -225,7 +225,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, this is yours too.[1]Thanks, Ash.[2]</Original>
-    <Translation>[0]哦, 这也是你的.[1]谢谢, 阿修蕾.[2]</Translation>
+    <Translation>[0]哦，这也是你的。[1]谢谢，阿修蕾。[2]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -234,7 +234,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, this is yours too.[1]Thanks, Ash.[2]</Original>
-    <Translation>[0]哦, 这也是你的.[1]谢谢, 阿修蕾.[2]</Translation>
+    <Translation>[0]哦，这也是你的。[1]谢谢，阿修蕾。[2]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -264,7 +264,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATVkAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUEAAAAAAAAAAoaDAAACAQAYwAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Why don't you want to go back?[1]I went looking for my dad once before too.[2]And because I live with my aunt, I think I[3]know how you're feeling.[4]But I also know your uncle must be worried[5]about you.[6]No way![7]He doesn't care about me at all![8]Matt...[9]He hates me![10]Why else...[11]Why else would he ship me off to [12]boarding[13]school[14]?[15]</Original>
-    <Translation>[0]你为什么不愿意回去呢?[1]之前我也去找过我爸爸.[2]而且因为跟姑姑一起生活,我想我能体会你的感受[3].[4]但是我想你叔叔一定很担心你[5].[6]不可能![7]他一点都不关心我![8]马修...[9]他讨厌我![10]不然为什么...[11]为什么他把我送去 [12]寄宿[13]学校[14]?[15]</Translation>
+    <Translation>[0]你为什么不愿意回去呢？[1]之前我也去找过我爸爸。[2]而且因为跟姑姑一起生活，我想我能体会你的感受[3]。[4]但是我想你叔叔一定[5]很担心你。[6]不可能！[7]他一点都不关心我！[8]马修……[9]他讨厌我！[10]不然为什么……[11]为什么他把我送去 [12]寄宿[13]学校[14]？[15]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -278,7 +278,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why did the man living here disappear?[1]Not a clue.[2]Ah...[3]I just know his name.[4]It's Gilbert Moss.[5]There's a newspaper clipping about him upstairs[6]by the desk.[7]</Original>
-    <Translation>[0]为什么住这里的人会消失?[1]不是线索.[2]呃...[3]我知道他的名字.[4]It's Gilbert Moss.[5]有一份关于他的剪报[6]在楼上的书桌旁.[7]</Translation>
+    <Translation>[0]为什么住这里的人会失踪？[1]不是线索。[2]呃……[3]我知道他的名字。[4]是吉尔伯特·莫斯 。[5]有一份关于他的剪报[6]在楼上的书桌旁。[7]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -303,7 +303,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why did you say you didn't want the toy car?[1]It wasn't the one I wanted.[2]So I got mad and told him I wanted a cooler[3]one.[4]I said that if it wasn't the exact one I asked for,[5]I didn't want it.[6]Then he looked sad and told me...[7]"You've grown up more quickly than I thought,[8]Matt..."[9]Did he get you the one you wanted?[10]Yeah...[11]But I got bored with it really quickly and left it[12]somewhere...[13]So he kept the toy car you didn't want, and[14]held on to it ever since.[15]Dad...[16]Are you okay, Matt?[17]Yeah, I'm okay.[18]</Original>
-    <Translation>[0]为什么你说不想要那个玩具汽车?[1]那款不是我想要的.[2]所以我发火了，告诉他我想要一款更酷的[3].[4]我说如果不是我指明要的那款,[5]我是不会接受的.[6]他很沮丧，然后对我说...[7]"你的成长比我想象的更快,[8]马修..."[9]他送给你你想要的车了吗?[10]是的...[11]不过我很快就不感兴趣了,[12]便随手把它丢在某处...[13]所以从那时起, [14]他一直留着你不想要的那辆玩具车.[15]爸爸...[16]你还好吧, 马修?[17]恩, 我没事.[18]</Translation>
+    <Translation>[0]为什么你说不想要那个玩具汽车？[1]那款不是我想要的。[2]所以我发火了，告诉他我想要一款更酷的[3]。[4]我说如果不是我指明要的那款，[5]我是不会接受的。[6]他很沮丧，然后对我说……[7]“你的成长比我想象的更快，[8]马修……”[9]他送给你你想要的车了吗？[10]是的……[11]不过我很快就不感兴趣了，[12]便随手把它丢在某处……[13]所以从那时起， [14]他一直留着你不想要的那辆玩具车。[15]爸爸……[16]你还好吧，马修？[17]恩，我没事。[18]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -357,7 +357,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you mean, they're shipping you off[1]to boarding school?[2]I'm transferring to a school in London, starting[3]next month.[4]London? What, in England?[5]Yeah.[6]Why are they sending you so far away?[7]My uncle decided to send me there.[8]He said something about it turning me into the[9]best man I could be. Or something.[10]But everyone who goes there, lives there the[11]whole time.[12]I can't come home 'til I graduate.[13]No way![14]That's why I need to find my dad.[15]I need to find clues, traces, anything that'll get[16]me to him.[17]Because if they bring me back to my uncle[18]this time...[19]I'll never be able to come here again.[20]I understand.[21]But Matt, I want you to promise me something.[22]If you don't find any clues by the end of the[23]day,[24]you'll go back to your uncle's.[25]Why do you want me to promise that?[26]Matt, you can't keep going on like this.[27]You're just searching and searching...[28]And what if you never find any clues?[29]What then?[30]I, uh...[31]What'll you do?[32]I'll keep looking for him! Forever![33]As long as you live?[34]Of course![35]Then why not tell your uncle that?[36]Tell him how much you want to find your dad.[37]How much it means to you.[38]Why?[39]I'm sure he'll understand if he knows how[40]important it is to you. Trust me.[41]Okay, Ash.[42]When I go home, I'll tell him that I'm gonna find[43]Dad, no matter what.[44]So I promise. I'll search for clues 'til the end of[45]the day. That's all.[46]Good.[47]</Original>
-    <Translation>[0]你的意思是, 他们用船[1]把你送到寄宿学校?[2]下个月,[3]我要转到伦敦一所学校去了.[4]伦敦? 在英国的?[5]恩.[6]他们为什么把你送那么远?[7]我叔叔决定送我去那儿的.[8]他说那里有条件让我成为最优秀的人.[9]或者别的.[10]但是每个去的人, [11]都得一直住在那儿.[12]毕业之前我都不能回家.[13]绝对不行![14]这就是为什么我要找我爸爸.[15]我需要线索, 痕迹, 任何[16]能让我找到他的东西.[17]因为如果这次[18]他们将我带回叔叔身边...[19]我就再也没法来这儿了.[20]我明白.[21]但是马修, 我希望你向我承诺.[22]如果今天[23]你什么线索都没找到,[24]你就得回叔叔那里去.[25]为什么要我做这种承诺?[26]马修, 你不能再这样下去了.[27]你只是一直找啊找啊...[28]万一你根本找不到任何线索呢?[29]然后呢?[30]我, 呃...[31]你打算怎么办?[32]我会一直找他! 永远![33]一生?[34]当然![35]那为什么不告诉你叔叔呢?[36]告诉他你多么希望找到爸爸.[37]这对你来说有多重要.[38]为什么?[39]我确信如果他知道这事对你来说有多么重要,[40]他会理解的. 相信我.[41]好吧, 阿修蕾.[42]等我回去,无论怎样,我会告诉他我正在找爸爸,[43].[44]我保证. 我会在今天结束前找到线索的[45]. 就这样.[46]很好.[47]</Translation>
+    <Translation>[0]你的意思是，他们用船[1]把你送到寄宿学校？[2]我要转到伦敦一所学校去了，[3]就在下个月。[4]伦敦？在英国？[5]恩。[6]他们为什么把你送那么远？[7]我叔叔决定送我去那儿的。[8]他说那里有条件让我成为最优秀的人。[9]或者别的。[10]但是每个去的人， [11]都得一直住在那儿。[12]毕业之前我都不能回家。[13]绝对不行！[14]这就是为什么我要找我爸爸。[15]我需要线索、痕迹，任何[16]能让我找到他的东西。[17]因为如果这次[18]他们将我带回叔叔身边……[19]我就再也没法来这儿了。[20]我明白。[21]但是马修，我希望你向我承诺。[22]如果今天[23]你什么线索都没找到，[24]你就得回叔叔那里去。[25]为什么要我做这种承诺？[26]马修，你不能再这样下去了。[27]你只是一直找啊找啊……[28]万一你根本找不到任何线索呢？[29]然后呢？[30]我，呃……[31]你打算怎么办？[32]我会一直找他！永远！[33]一生？[34]当然！[35]那为什么不告诉你叔叔呢？[36]告诉他你多么希望找到爸爸。[37]这对你来说有多重要。[38]为什么？[39]我确信如果他知道这事对你来说有多么重要，[40]他会理解的。相信我。[41]好吧，阿修蕾。[42]等我回去，无论怎样，我会告诉他我正在[43]找我爸爸。[44]我保证。我会在今天结束前找到线索的[45]。就这样。[46]很好。[47]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -378,7 +378,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]But what now?[1]I can't just leave you on your own...[2]Hey, Ash.[3]Wanna see a treasure map?[4]A treasure map?[5]You have one?[6]Yeah![7]I drew one last year.[8]When I ran away before, I buried some treasure[9]here so nobody'd find it.[10]Then I drew a map so I wouldn't forget.[11]It's actually right in this room.[12]I'll show it to you, and only you![13]Take a look, it's in that drawer.[14]</Original>
-    <Translation>[0]但是现在?[1]我不放心你独自一人...[2]嘿, 阿修蕾.[3]想看藏宝图吗?[4]藏宝图?[5]你有?[6]是的![7]去年我画的.[8]逃跑前, 我在这儿埋了些珠宝[9],没人能找的到.[10]然后我就画了张地图确保不会忘了.[11]就在这房间里.[12]我会给你看的, 只给你看喔![13]看, 它在那个抽屉里.[14]</Translation>
+    <Translation>[0]但是现在？[1]我不放心你独自一人……[2]嘿，阿修蕾。[3]想看藏宝图吗？[4]藏宝图？[5]你有？[6]是的！[7]去年我画的。[8]逃跑前，我在这儿埋了些珠宝，[9]没人能找的到。[10]然后我就画了张地图确保不会忘了。[11]就在这房间里。[12]我会给你看的，只给你看喔！[13]看，它在那个抽屉里。[14]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -395,7 +395,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1]Yeah?[2]</Original>
-    <Translation>[0]马修...[1]嗯?[2]</Translation>
+    <Translation>[0]马修……[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -404,7 +404,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where you going, Ash?[1]Don't leave me here![2]</Original>
-    <Translation>[0]你去哪儿, 阿修蕾?[1]别把我留这儿![2]</Translation>
+    <Translation>[0]你去哪儿，阿修蕾？[1]别把我留这儿！[2]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -430,7 +430,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Huh?[2]We're still talking![3]</Original>
-    <Translation>[0]阿修蕾![1]嗯?[2]我们仍在交谈![3]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]我们保持联系！3]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -457,7 +457,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Ash![1]Huh?[2]Not that way![3]It's in that drawer.[4]</Original>
-    <Translation>[0]阿修蕾![1]嗯?[2]不是那里![3]它在那个抽屉里面.[4]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]不是那里！[3]它在那个抽屉里面。[4]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -484,7 +484,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Ash![1]Huh?[2]Take a look at the map I drew.[3]It's in that drawer.[4]</Original>
-    <Translation>[0]阿修蕾![1]嗯?[2]看看我画的地图.[3]它在那个抽屉里.[4]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]看看我画的地图。[3]它在那个抽屉里。[4]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -510,7 +510,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Huh?[2]Make the map visible![3]</Original>
-    <Translation>[0]阿修蕾![1]嗯?[2]看看地图![3]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]看看地图！[3]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -529,7 +529,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sheet of drawing paper[2] [3]in the drawer.[4]Matt, this isn't the map you drew, is it?[5]Yeah, it is.[6]You really drew it on this?[7]Yeah, that's the one![8]Matt, it's blank.[9]Come on, Ash![10]I drew it right on that paper![11]Look, I used this pen and ink right here![12]</Original>
-    <Translation>[0]抽屉里 [1]有一张[2] [3]图纸.[4]马修, 这不是你画的地图吧?[5]不, 就是这张.[6]你真的画在上面了?[7]是的, 就是这张![8]马修, 它是空白的.[9]快, 阿修蕾![10]我就是在那张纸上画的![11]看, 这是我用过的钢板跟墨水![12]</Translation>
+    <Translation>[0]有一张[1]图纸[2] [3]在抽屉里面。[4]马修，这不会是你画的地图吧？[5]不，就是这张。[6]你真的画在上面了？[7]是的，就是这张！[8]马修，它是空白的。[9]喂，阿修蕾！[10]我就是在那张纸上画的！[11]看，这是我用过的钢笔跟墨水！[12]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -552,7 +552,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]ink[2] in the drawer.[3]The ink was really light pink, so it was a bit[4]awkward to draw with...[5]Light pink?[6]No way...[7]What's wrong?[8]I knew it.[9]Matt, this is invisible ink.[10]Invisible ink?[11]Yeah.[12]When this ink dries, everything you've written[13]with it disappears.[14]And you can't see it again unless you heat it[15]up.[16]</Original>
-    <Translation>[0]抽屉里 [1]有[2] 墨水.[3]墨迹是淡粉色的, 所以[4]会有点难画上去...[5]淡粉色?[6]不可以...[7]怎么了?[8]我知道了.[9]马修, 这是隐形墨水.[10]隐形墨水?[11]是的.[12]等这些墨迹干了之后, 你写的东西[13]就全消失了.[14]除非你把它加热,[15]否则什么都看不见.[16]</Translation>
+    <Translation>[0]抽屉里有[1]墨迹[2]。[3]墨迹是淡粉色的，所以[4]会有点难画上去……[5]淡粉色？[6]不可能……[7]怎么了？[8]我知道了。[9]马修，这是隐形墨水。[10]隐形墨水？[11]是的。[12]等这些墨迹干了之后，你写的东西[13]就全消失了。[14]除非你把它加热，[15]否则什么都看不见。[16]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -566,7 +566,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFwoA</Command>
     </Commands>
     <Original>[0]So my map dried up and disappeared...[1]Just like a real secret treasure map![2]Looks like it.[3]Ash...[4]You have to find some way to make it visible[5]again.[6]Will do.[7]</Original>
-    <Translation>[0]所以我的地图干了之后就消失了...[1]就像一张真正的藏宝图![2]貌似是的.[3]阿修蕾...[4]你得想办法让它重现[5].[6]我会的.[7]</Translation>
+    <Translation>[0]所以我的地图干了之后就消失了……[1]就像一张真正的藏宝图！[2]貌似是的。[3]阿修蕾……[4]你得想办法让它重现[5]。[6]我会的。[7]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -577,7 +577,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]hotplate[2] on the counter.[3]I wonder if this'll work...[4]</Original>
-    <Translation>[0]柜台上 [1]有个[2]加热板.[3]我想知道它还能不能用...[4]</Translation>
+    <Translation>[0]有个 [1]加热板[2]在柜台上。[3]我想知道它还能不能用……[4]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -585,7 +585,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use this hotplate.[1]</Original>
-    <Translation>[0]好, 我用这个加热板.[1]</Translation>
+    <Translation>[0]好，我要用这个加热板。[1]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -609,7 +609,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]It was that drawer over there I put the map in.[1]</Original>
-    <Translation>[0]我放地图的抽屉就在那里.[1]</Translation>
+    <Translation>[0]我放地图的抽屉就在那里。[1]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -617,7 +617,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Keep looking![1]</Original>
-    <Translation>[0]继续寻找![1]</Translation>
+    <Translation>[0]继续寻找！[1]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -626,7 +626,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, try find something so we can see the map[1]again.[2]</Original>
-    <Translation>[0]阿修蕾,找找看能让我们重新看到地图的东西[1].[2]</Translation>
+    <Translation>[0]阿修蕾，找找看能让我们重新看到地图的东西[1]。[2]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -653,7 +653,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaKQAABVdTRF9TRV9FVkVOVF9BTlNISVRTVV9BVEFSSV9TQUdVUlUAAAoaBgAADAAKGgcAAAMLuAoA</Command>
     </Commands>
     <Original>[0]Whoa![1]Who turned the lights out?[2]Must be a power cut...[3]No, I think it was just the breaker.[4]Why would the breaker trip?[5]Probably because you used the hotplate.[6]Really?[7]Well, old stuff uses tons of power.[8]That's what Dad told me.[9]That makes sense.[10]So can you turn it back on?[11]Where's the breaker for this room?[12]Um...should be by the stairs.[13]Where're the stairs?[14]Behind you.[15]Okay, over here...[16]Ow![17]You okay?[18]Yeah, just hit my head.[19]Where the heck is it?[20]</Original>
-    <Translation>[0]谁![1]谁把灯关了?[2]应该是断电了...[3]不, 我想就是断路器.[4]断路器为什么会跳掉?[5]可能因为你用加热器的.[6]是吗?[7]嗯, 旧电器都是大功率的.[8]这是爸爸告诉我的.[9]有道理.[10]你能把它重新打开吗?[11]这屋的断路器在哪儿?[12]呃...应该在楼梯旁.[13]楼梯在哪儿?[14]你身后.[15]好的, 在这里...[16]哦![17]你还好吧?[18]还好, 只是击到头了.[19]Where the heck is it?[20]</Translation>
+    <Translation>[0]谁！[1]谁把灯关了？[2]应该是断电了……[3]不，我想就是断路器。[4]断路器为什么会跳掉？[5]可能因为你用加热板的。[6]是吗？[7]嗯，旧电器都是大功率的。[8]这是爸爸告诉我的。[9]有道理。[10]你能把它重新打开吗？[11]这屋的断路器在哪儿？[12]呃……应该在楼梯旁。[13]楼梯在哪儿？[14]你身后。[15]好的，在这里……[16]哦！[17]你还好吧？[18]还好，只是撞着头了。[19]Where the heck is it?[20]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
