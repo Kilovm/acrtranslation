@@ -55,7 +55,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]And we can check out the lake water with the[1]pH testing kit too.[2]Yeah.[3]So, you coming?[4]You bet![5]Well, only as far as the mermaid statue.[6]</Original>
-    <Translation>[0]我们还可以用PH测试套装[1]检查一下湖水.[2]太棒了.[3]怎么样,你也一起来吧?[4]当然![5]好,只要到了美人鱼雕像就(真相大白了?)[6]</Translation>
+    <Translation>[0]我们还可以用PH测试套装[1]检查一下湖水。[2]没错。[3]怎么样，你也一起来吧？[4]当然！[5]好，只要到了美人鱼雕像就能明白了。[6]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -74,7 +74,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Actually, something you said before's been[1]eating at me...[2]Something I said?[3]When we looked at the picture of my mom and[4]dad in the basement of that cottage,[5]you said you saw my dad at the mermaid[6]statue checking something out.[7]Yeah, he had some water in a test tube, and he[8]was testing something with a little kit.[9]I wonder...[10]You think the test tube kit might be here in this[11]room?[12]</Original>
-    <Translation>[0]其实你刚才说过的一些话一直[1]让我很在意...[2]嗯?我说过的?[3]When we looked at the picture of my mom and[4]dad in the basement of that cottage,[5]you said you saw my dad at the mermaid[6]statue checking something out.[7]Yeah, he had some water in a test tube, and he[8]was testing something with a little kit.[9]I wonder...[10]You think the test tube kit might be here in this[11]room?[12]</Translation>
+    <Translation>[0]其实你刚才说过的一些话一直[1]让我很在意……[2]嗯？我说的什么？[3]当我们在小屋地下室看到[4]我爸爸和妈妈的画像的时候，[5]你说你曾经看到我爸爸在美人鱼雕像那里[6]检查什么东西。[7]对，他当时拿着一个装有水的试管，并且用[8]一个小工具在测试什么。[9]我觉得……[10]你认为那个试管套装可能就在[11]这间屋子里？[12]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -84,8 +84,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]You really think the test tube kit might be here[2]in this room?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿蕾。[1]你真认为那个试管套装会在这间[2]屋子里？[3]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -94,8 +93,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Let's look around a bit more.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿蕾。[1]我们看看别处吧。[2]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -131,8 +129,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blue box[2] in the drawer.[3]What's this?[4]I'll take a look.[5]There's something written on the inside.[6]"Easy Water Analysis Kit MS100P[7]This kit is designed to indicate the pH value of[8]a water sample.[9]The supplied reagent fluid will determine if the[10]water is acidic or alkaline."[11]So it's a water pH testing kit...[12]"Fill to the grey line with water. Add the reagent[13]up to the red line. Shake gently.[14]Pink indicates alkalinity. Red indicates acidity.[15]Deep red indicates strong acidity.[16]If there is no change in colour, the sample is[17]pH neutral.[18]Too much reagent can result in unreliable [19]results. Please re-test the sample in this case."[20]It's got a test tube and a small bottle in it.[21]Found something, Ash?[22]Yeah, there was a water testing kit in the[23]drawer here.[24]So we can use that to check the lake water?[25]Yep. C'mon, let's head for the mermaid statue.[26]Right![27]But remember, I promised not to go to the clock [28]tower.[29]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]抽屉里[1]有一个[2]蓝色的盒子。[3]里面有什么？[4]等我打开看看。[5]里面似乎写着些什么。[6]“简易水样分析套件 MS100P[7]本套件可以用来显示水样的[8]PH值。[9]配套的液体试剂可测定出水样的[10]酸碱性。”[11]原来是水质PH测试套件……[12]“将水填至灰色刻度线。加入试剂[13]至红色刻度线。轻轻摇晃。[14]粉色代表碱性。红色代表酸性。[15]深红代表强酸性。[16]如果颜色没有发生变化，则水样[17]呈中性。[18]过多的试剂会导致结果 [19]不稳定。如果结果不稳定，请重新测试水样。”[20]里面附有一个试管和小瓶子。[21]发现什么了吗，阿蕾？[22]嗯，抽屉里有一个[23]水样测试套件。[24]那么我们可以用这个测一下湖水吧？[25]是啊。走，去美人鱼雕像。[26]好！[27]不过别忘了，我承诺过不去 [28]钟楼的。[29]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -141,8 +138,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Weren't we going to the mermaid statue?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾……[1]我们不是要去美人鱼雕像吗？[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -151,8 +147,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]I can't go this way...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾……[1]我不能走这条路……[2]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -164,8 +159,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There it is![1]What? Where?[2]There, the white pole.[3]You think that's the security camera?[4]Has to be.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]就在那儿！[1]什么？在哪？[2]那儿啊，白色的柱子。[3]你觉得那个就是监视器？[4]一定是的。[5]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -190,8 +184,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a round [1]security camera [2]on[3]top of a white pole.[4]That must be one of the security cameras my[5]DAS is connected to![6]You think?[7]I think so, yeah.[8]I know![9]What?[10]Matt, go stand by the statue.[11]Then I'll check the DAS and see if it's taken a[12]picture of you standing there.[13]Gotcha![14]Okay, ready![15]Stay there, Matt![16]Right, I'll check the Connect function on the[17]DAS.[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]白色柱子的顶端 [1]有一个 [2]圆形[3]的监视器。[4]那个一定就是和我的DAS连接[5]上的监视器！[6]是吗？[7]没错，我想就是这样。[8]我明白了！[9]明白什么了？[10]马修，过去站在雕像旁边。[11]我看看DAS是否会显示出[12]你站在那里的画面。[13]明白![14]OK，准备好了！[15]就站在那儿，马修！[16]好，我试试启动DAS的[17]连接功能。[18]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -213,8 +206,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can see you![1]So Connect really does bring up pictures[2]from the security cameras...[3]It's okay now, Matt![4]Well?[5]Yep, I saw you from the security camera.[6]Oh yeah, that's me![7]Awesome![8]Your dad's machine can do everything![9]Okay, now you go stand by the statue.[10]Sure.[11]Ash![12]Hey Ash, try looking at the DAS![13]It should have you this time![14]Yeah, I'll check the Connect feed.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我看到你了！[1]看来图像就是从这个监视器[2]传过来的……[3]可以了，马修！[4]怎么样？[5]没错，我从监视器里看到你了。[6]哦，的确是我啊！[7]真棒！[8]你爸爸的机器简直是万能的！[9]好了，现在你过去站到雕像旁边试试。[10]没问题。[11]阿蕾！[12]嘿，阿蕾，看看DAS！[13]这次应该能看到你在画面上面了！[14]好，我看看连接数据。[15]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -229,8 +221,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]Well?[2]That's really weird.[3]I'm not in it.[4]Huh?[5]Yeah, definitely not there.[6]That's totally weird.[7]Why didn't it take my picture?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]怎么样？[2]真奇怪。[3]画面里没有我。[4]啊？[5]是啊，的确没有。[6]太奇怪了。[7]为什么监视器没有拍到我的身影？[8]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -245,8 +236,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoA</Command>
     </Commands>
     <Original>[0]Did the DAS feed just not update?[1]Matt, can you try standing over there again?[2]I just want to see if it's stopped updating the[3]feed.[4]Yeah, sure.[5]Go for it, Ash![6]Okay, hold on![7]Right, I'll check the Connect feed again.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是不是DAS的数据还没更新？[1]马修，你能再去站一下吗？[2]我想看看是不是数据[3]没有更新。[4]当然，没问题。[5]试试看，阿蕾！[6]好，等一下！[7]那么，再来检查一下连接数据。[8]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -262,8 +252,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAAwfQCgA=</Command>
     </Commands>
     <Original>[0]He's right there![1]All clear, Matt![2]Well?[3]Yeah, it showed you again.[4]Look.[5]Yeah, there I am.[6]Why didn't it take a picture of me?[7]Maybe your DAS just wasn't getting anything?[8]You think?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他就在图像里！[1]回来吧，马修！[2]怎么样？[3]嗯，还是能看到你。[4]你看。[5]是啊，我在画面里。[6]为什么图像里没有我呢？[7]也许你的DAS并不是总能准确工作？[8]你这么认为？[9]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -298,8 +287,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]I got it![2]Yeah?[3]I figured out why it didn't take any pictures of[4]you![5]Really?[6]It must be the DAS![7]I bet it sends out some kind of interference to[8]stop the camera taking your picture.[9]Interference?[10]What makes you think that?[11]It was in this TV show I saw.[12]A...TV show.[13]Yeah![14]The hero was sneaking into the bad guy's[15]hideout, right?[16]And he had a thing that sent out interference[17]waves.[18]So the security cameras didn't show him at all.[19]So the bad guy didn't see him and...[20]Interference waves?[21]For sure, that's what it is.[22]Ask your dad when he gets back.[23]Yeah, I should.[24]Anyway, now that you've worked out the[25]Connect thing,[26]let's check out the water with the testing kit.[27]Right.[28]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿蕾！[1]我知道了！[2]知道什么？[3]我知道为什么监视器没有拍下[4]你了！[5]真的？[6]一定和DAS有关！[7]我敢打赌一定是DAS发出某种干扰信号[8]阻止监视器拍下你。[9]干扰信号？[10]你怎么会这么想？[11]我在电视节目里看到过。[12]电视节目……[13]没错！[14]知道吗，主人公英雄潜入坏蛋的[15]老巢。[16]他有一个能够发射干扰电波[17]的东西。[18]这样一来监视器就会完全无视他。[19]那些坏蛋也就不会看到他了，之后……[20]干扰电波？[21]没错，一定是的。[22]等你爸爸回来问问他。[23]嗯，我会的。[24]不论怎样，你现在已经知道连接[25]是从哪里来的了，[26]我们用测试套件来检查一下水吧。[27]好吧。[28]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -310,8 +298,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a round [1]security camera [2]on[3]top of a white pole.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]白色柱子的顶端 [1]有一个 [2]圆形[3]的监视器。[4]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -319,8 +306,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾，是这个吗？[1]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -328,8 +314,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Take a look at the DAS![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看看DAS！[1]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -337,8 +322,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check out the camera.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我去检查一下监视器。[1]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -346,8 +330,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check out the camera.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我去检查一下监视器。[1]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -355,8 +338,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check the Connect feed.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我来检查一下连接数据。[1]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -364,8 +346,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check the Connect feed.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我来检查一下连接数据。[1]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -374,24 +355,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the place in the photo on Dad's [1]computer.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是爸爸电脑里的那张照片所拍下 [1]的地方。[2]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -400,16 +378,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll check the water with the kit I found in Dad's[1]room.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我用在爸爸房间里找到的工具套件[1]检查一下。[2]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
