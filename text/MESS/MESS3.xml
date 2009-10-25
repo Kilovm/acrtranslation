@@ -653,7 +653,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaKQAABVdTRF9TRV9FVkVOVF9BTlNISVRTVV9BVEFSSV9TQUdVUlUAAAoaBgAADAAKGgcAAAMLuAoA</Command>
     </Commands>
     <Original>[0]Whoa![1]Who turned the lights out?[2]Must be a power cut...[3]No, I think it was just the breaker.[4]Why would the breaker trip?[5]Probably because you used the hotplate.[6]Really?[7]Well, old stuff uses tons of power.[8]That's what Dad told me.[9]That makes sense.[10]So can you turn it back on?[11]Where's the breaker for this room?[12]Um...should be by the stairs.[13]Where're the stairs?[14]Behind you.[15]Okay, over here...[16]Ow![17]You okay?[18]Yeah, just hit my head.[19]Where the heck is it?[20]</Original>
-    <Translation>[0]谁！[1]谁把灯关了？[2]应该是断电了……[3]不，我想就是断路器。[4]断路器为什么会跳掉？[5]可能因为你用加热板的。[6]是吗？[7]嗯，旧电器都是大功率的。[8]这是爸爸告诉我的。[9]有道理。[10]你能把它重新打开吗？[11]这屋的断路器在哪儿？[12]呃……应该在楼梯旁。[13]楼梯在哪儿？[14]你身后。[15]好的，在这里……[16]哦！[17]你还好吧？[18]还好，只是撞着头了。[19]Where the heck is it?[20]</Translation>
+    <Translation>[0]谁！[1]谁把灯关了？[2]应该是断电了……[3]不，我想就是断路器。[4]断路器为什么会跳掉？[5]可能因为你用加热板的。[6]是吗？[7]嗯，旧电器都是大功率的。[8]这是爸爸告诉我的。[9]有道理。[10]你能把它重新打开吗？[11]这屋的断路器在哪儿？[12]呃……应该在楼梯旁。[13]楼梯在哪儿？[14]你身后。[15]好的，在这里……[16]哦！[17]你还好吧？[18]还好，只是撞着头了。[19]它在哪里？[20]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -661,8 +661,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe around here?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]也许在这附近？[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -687,8 +686,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Got it![1]The lights came back![2]Phew, that was a shock.[3]Yeah...[4]I'm good now though. How about you?[5]I'm fine.[6]I just hit my head on something.[7]Huh?[8]This picture...[9]What's up?[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]找到了！[1]灯又亮了！[2]唷，有震感。[3]嗯……[4]不过我还好。你呢？[5]我没事。[6]我只是头撞在了什么地方.[7]啊？[8]这画面……[9]发生什么事了？[10]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -699,8 +697,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't see...[1]I think you're close.[2]Yeah.[3]It's gotta be around here...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我看不见……[1]我想你已经接近了。[2]嗯。[3]它就在这附近……[4]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -708,8 +705,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试一次！[1]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
@@ -718,8 +714,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Hit the breaker.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾……[1]击打断路器。[2]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -728,8 +723,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1]I'm glad the lights are back.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修……[1]我很高兴灯又亮了。[2]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -738,8 +732,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Is there something beside the breaker?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾……[1]在断路器旁边是不是有什么东西？[2]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
@@ -764,8 +757,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaCQAARgIAAAAKAA==</Command>
     </Commands>
     <Original>[0]I've lost the breaker...[1]I'd better not move around too much.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]错过了断路器……[1]我最好别挪的太多。[2]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -774,8 +766,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]Don't leave me here![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你去要哪里，阿修蕾？[1]别把我一人留这儿！[2]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -783,8 +774,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to look at that photo by the breaker...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想看看断电器旁的照片……[1]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -798,8 +788,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There are [1]old photos[2] stuck to the [3]wall.[4]It's Mom and Dad![5]I wonder where this was taken...[6]...![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有些 [1]旧相片[2]挂在 [3]墙上。[4]是妈妈和爸爸！[5]我想知道这是在哪里拍的……[6]……！[7]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -809,8 +798,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now...[1]I saw Mom in the place that picture was taken...[2]She was looking at something and laughing...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了……[1]我看过妈妈在照片拍的地方……[2]她正看着什么在笑……[3]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -819,8 +807,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEAClBfTUVNT1JZX01lcm1haWRfb24KGhwAAAVXU0RfU0VfUEFSVF9NRU1PUllfSU4AAAoaOQEACVBfTUVNT1JZX01lcm1haWRfb2ZmAFBfTUVNT1JZX01lcm1haWRfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoZAQAKUF9NRU1PUllfTWVybWFpZF9vZmYKAA==</Command>
     </Commands>
     <Original>[0]That statue in the photo...[1]Mom was in front of it...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]照片中的雕塑……[1]妈妈在雕塑前面……[2]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -829,8 +816,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Ash![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -878,8 +864,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATZkAAoA</Command>
     </Commands>
     <Original>[0]You really need to stop spacing out on me. Did[1]you remember something?[2]Yeah...[3]I remembered when I looked at the photo by[4]the breaker.[5]Which photo?[6]This one.[7]That's the mermaid statue, isn't it?[8]Mermaid statue?[9]Yeah, there's a mermaid statue down by the[10]clock tower.[11]This photo was taken in front of it.[12]I wonder when it was taken...[13]Look, it has 1988 in the corner.[14]So it was taken then, right?[15]1988... That's like, 19 years ago.[16]Three years before I was born.[17]Huh? Hang on...[18]What's up?[19]You don't have to stare so hard, it's just an [20]old photo.[21]This photo is of...[22]Aha![23]What?[24]I've seen that person before![25]Huh?[26]Who? You can't mean Mom.[27]Mom?[28]That's your mom, Ash?[29]Yeah.[30]And the man in the photo is my dad.[31]Dad?[32]This guy's your dad?[33]Well yeah, I've seen him before.[34]Where?[35]Same place as in the photo. The mermaid statue.[36]Dad was at the mermaid statue?[37]Yeah.[38]He was down near it, [39]checking something[40].[41]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]You really need to stop spacing out on me. Did[1]you remember something?[2]Yeah...[3]I remembered when I looked at the photo by[4]the breaker.[5]Which photo?[6]This one.[7]That's the mermaid statue, isn't it?[8]Mermaid statue?[9]Yeah, there's a mermaid statue down by the[10]clock tower.[11]This photo was taken in front of it.[12]I wonder when it was taken...[13]Look, it has 1988 in the corner.[14]So it was taken then, right?[15]1988... That's like, 19 years ago.[16]Three years before I was born.[17]Huh? Hang on...[18]What's up?[19]You don't have to stare so hard, it's just an [20]old photo.[21]This photo is of...[22]Aha![23]What?[24]I've seen that person before![25]Huh?[26]Who? You can't mean Mom.[27]Mom?[28]That's your mom, Ash?[29]Yeah.[30]And the man in the photo is my dad.[31]Dad?[32]This guy's your dad?[33]Well yeah, I've seen him before.[34]Where?[35]Same place as in the photo. The mermaid statue.[36]Dad was at the mermaid statue?[37]Yeah.[38]He was down near it, [39]checking something[40].[41]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
