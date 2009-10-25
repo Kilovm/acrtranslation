@@ -807,7 +807,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEAClBfTUVNT1JZX01lcm1haWRfb24KGhwAAAVXU0RfU0VfUEFSVF9NRU1PUllfSU4AAAoaOQEACVBfTUVNT1JZX01lcm1haWRfb2ZmAFBfTUVNT1JZX01lcm1haWRfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoZAQAKUF9NRU1PUllfTWVybWFpZF9vZmYKAA==</Command>
     </Commands>
     <Original>[0]That statue in the photo...[1]Mom was in front of it...[2]</Original>
-    <Translation>[0]照片中的雕塑……[1]妈妈在雕塑前面……[2]</Translation>
+    <Translation>[0]照片中的雕像……[1]妈妈在雕像前面……[2]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -864,7 +864,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATZkAAoA</Command>
     </Commands>
     <Original>[0]You really need to stop spacing out on me. Did[1]you remember something?[2]Yeah...[3]I remembered when I looked at the photo by[4]the breaker.[5]Which photo?[6]This one.[7]That's the mermaid statue, isn't it?[8]Mermaid statue?[9]Yeah, there's a mermaid statue down by the[10]clock tower.[11]This photo was taken in front of it.[12]I wonder when it was taken...[13]Look, it has 1988 in the corner.[14]So it was taken then, right?[15]1988... That's like, 19 years ago.[16]Three years before I was born.[17]Huh? Hang on...[18]What's up?[19]You don't have to stare so hard, it's just an [20]old photo.[21]This photo is of...[22]Aha![23]What?[24]I've seen that person before![25]Huh?[26]Who? You can't mean Mom.[27]Mom?[28]That's your mom, Ash?[29]Yeah.[30]And the man in the photo is my dad.[31]Dad?[32]This guy's your dad?[33]Well yeah, I've seen him before.[34]Where?[35]Same place as in the photo. The mermaid statue.[36]Dad was at the mermaid statue?[37]Yeah.[38]He was down near it, [39]checking something[40].[41]</Original>
-    <Translation>[0]You really need to stop spacing out on me. Did[1]you remember something?[2]Yeah...[3]I remembered when I looked at the photo by[4]the breaker.[5]Which photo?[6]This one.[7]That's the mermaid statue, isn't it?[8]Mermaid statue?[9]Yeah, there's a mermaid statue down by the[10]clock tower.[11]This photo was taken in front of it.[12]I wonder when it was taken...[13]Look, it has 1988 in the corner.[14]So it was taken then, right?[15]1988... That's like, 19 years ago.[16]Three years before I was born.[17]Huh? Hang on...[18]What's up?[19]You don't have to stare so hard, it's just an [20]old photo.[21]This photo is of...[22]Aha![23]What?[24]I've seen that person before![25]Huh?[26]Who? You can't mean Mom.[27]Mom?[28]That's your mom, Ash?[29]Yeah.[30]And the man in the photo is my dad.[31]Dad?[32]This guy's your dad?[33]Well yeah, I've seen him before.[34]Where?[35]Same place as in the photo. The mermaid statue.[36]Dad was at the mermaid statue?[37]Yeah.[38]He was down near it, [39]checking something[40].[41]</Translation>
+    <Translation>[0]你真的需要停止与我的隔阂了。[1]你还记得什么？[2]呃……[3]我记得当我看见断路器旁边的[4]照片时。[5]哪张照片？[6]这张。[7]那是美人鱼雕像吗？[8]美人鱼雕像？[9]是的，有个美人鱼雕像在[10]钟楼下面。[11]这张照片就是在它前面拍的。[12]我想知道是什么时候拍的……[13]看，在角落有显示1988。[14]所以是那时拍的？[15]1988…… 就是说，19年前。[16]比我出生还早三年。[17]嗯？等等……[18]怎么了？[19]你不用这么仔细的盯着看，它只是一张[20]就照片。[21]这张照片是……[22]啊哈！[23]什么？[24]我以前见过那人！[25]嗯？[26]谁？ 你不会是指妈妈吧。[27]妈妈？[28]阿修蕾，她是你妈妈？[29]是的。[30]照片里的男人是我爸爸。[31]爸爸？[32]这人是你爸爸？[33]是啊，我以前见过他。[34]在哪里？[35]就是照片里的地方。 美人鱼雕像那儿。[36]在美人鱼雕像旁的是我爸爸？[37]是的。[38]他蹲在雕像旁边， [39]好像在检查什么东西[40]。[41]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -877,8 +877,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was he checking?[1]No idea.[2]I think he was testing the lake water.[3]He had some water in a test tube and he was[4]checking something out with it.[5]That sounds like something he'd do...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他在检查什么？[1]不知道。[2]我想他可能在检测湖水。[3]他用试管取了些水，然后[4]从中分离出一些物质。[5]听起来像是他会做的事情……[6]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
