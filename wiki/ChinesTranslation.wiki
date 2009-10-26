@@ -5,37 +5,39 @@
 
 = 人名 =
 
- * Jessica Robins: 杰西卡·罗宾斯
- * Sayoko Robins: 沙夜子·罗宾斯
+ * Jessica Robins : 杰西卡·罗宾斯
+ * Sayoko Robins : 沙夜子·罗宾斯
  * Ranger Maxwell : 护林员 玛克斯韦尔先生
  * Dan Maxwell : 丹·玛克斯韦尔
  * Ashley Mizuki Robins : 阿修蕾·美月·罗宾斯
- * Ash:小蕾（Ashly的昵称）
- * Ryan Gray: 莱恩·格雷
- * Matt: 马修（简写）
- * Michael Crusoe: 迈克尔·克鲁索 
- * Tommy Harrison: 汤米·哈里森
- * Gina: 吉娜
+ * Ash : 小蕾（Ashly的昵称）
+ * Ryan Gray : 莱恩·格雷
+ * Matt : 马修（简写）
+ * Michael Crusoe : 迈克尔·克鲁索 
+ * Tommy Harrison : 汤米·哈里森
+ * Gina : 吉娜
  * Elizabeth : 伊丽莎白
- * Pinkie Rabbit ：粉粉兔  (这是人名吗 -_-!回：这不是人名，不过在CING的游戏里是个超级穿越的角色)
+ * Pinkie Rabbit : 粉粉兔  (这是人名吗 -`_`-!回：这不是人名，不过在CING的游戏里是个超级穿越的角色)
  * Sam : 萨姆
  * Judd Fitzgerald : 贾德·菲茨杰拉德
- * Gilbert Moss: 吉尔伯特·莫斯
- * Bob: 鲍勃
- * Janet: 珍妮特
- * Rex: 雷克斯
+ * Gilbert Moss : 吉尔伯特·莫斯
+ * Bob : 鲍勃
+ * Janet : 珍妮特
+ * Rex : 雷克斯
 
 = 地名 =
 
  * JC Valley : JC山谷
  * Lake Juliet : 朱丽叶湖
  * guesthouse : 商店
- * cottage：小屋
- * campsite 营地
- * villa 别墅
- * Crusoe Resort：克鲁索度假村
+ * cottage : 小屋
+ * campsite : 营地
+ * villa : 别墅
+ * Crusoe Resort : 克鲁索度假村
+
 = 物品名 =
- * pick case 吉他拨片盒
- * pick 吉他拨片
- * band scores 乐谱
- * missing items report 失物招领单
+
+ * pick case : 吉他拨片盒
+ * pick : 吉他拨片
+ * band scores : 乐谱
+ * missing items report : 失物招领单
