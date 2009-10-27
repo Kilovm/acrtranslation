@@ -22,7 +22,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I used Dad's computer to look up info on[1]Matt's dad.[2]I looked at the files on the computer and found[3]out that my dad was studying the lake water,[4]and that he was here at JC Valley trying to[5]find out the truth behind Mom's death.[6]When I put the DAS in Dad's computer...[7]It activated a function which lets me look at[8]feeds from the security cameras all around.[9]Why would Dad put something like that in the[10]DAS?[11]</Original>
-    <Translation>[0]我用爸爸的电脑搜索了有关[1]马修父亲的信息。[2]我看着屏幕显示出的文件，终于明白了[3]爸爸一直在研究这谭湖水，[4]他也曾来到JC山谷试图[5]找出妈妈死亡背后的真相。[6]在我把DAS放入爸爸的电脑中后...[7]出现了一个功能，使我可以通过设置在四周的监视器[8]观察数据。[9]爸爸为什么要在DAS里设置[10]这样的功能呢？[11]</Translation>
+    <Translation>[0]我用爸爸的电脑搜索了有关[1]马修父亲的信息。[2]我看着屏幕显示出的文件，终于明白了[3]爸爸一直在研究这谭湖水，[4]他也曾来到JC山谷试图[5]找出妈妈死亡背后的真相。[6]在我把DAS放入爸爸的电脑中后...[7]出现了一个功能，使我可以查看设置在四周的监视器[8]的数据。[9]爸爸为什么要在DAS里设置[10]这样的功能呢？[11]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -405,8 +405,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, how'd it go?[1]Matt...[2]I think the lake water's been polluted.[3]Really?[4]I think so.[5]It looks clean, but the test definitely shows a[6]reaction.[7]Why's it been polluted?[8]No idea.[9]But Dan was saying that the lake water is[10]famous for being clean.[11]Does everyone know that there's all this...stuff[12]in the water?[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾，结果怎么样？[1]马修……[2]看来这部分湖水被污染了。[3]真的？[4]我想是的。[5]虽然湖水看起来很纯净，但是测试结果显示的是[6]污染反应无疑。[7]污染的原因呢？[8]不知道。[9]不过丹曾经说过这谭湖水可是[10]出了名的纯净。[11]大家知道湖水里有这种……东西[12]吗？[13]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -414,8 +413,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. I've shaken the test tube too much...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔。我摇得太用力了……[1]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -423,8 +421,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I put in too much of the reagent...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]试剂加得太多了……[1]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -432,8 +429,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Shouldn't the reaction just happen by itself?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]难道这个反应不是自发的？[1]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -441,8 +437,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Should I shake it more?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是不是应该再摇一摇？[1]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -450,8 +445,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在怎么样？[1]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -464,8 +458,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]What do we do now?[2]Hmm...[3]How about we take the kit and test the water[4]somewhere else?[5]Okay![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾……[1]我们现在怎么办？[2]嗯……[3]试试用套件测试一下别处的湖水[4]怎么样？[5]好！[6]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -473,8 +466,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]C'mon, test the water![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]来吧，测试一下这水样！[1]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -482,8 +474,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]C'mon, test the water![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]来吧，测试一下水样！[1]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -492,8 +483,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]C'mon, test the water![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾！[1]来啊，测试一下水样！[2]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -502,8 +492,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well?[1]Looks like this water's clean.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]结果怎样？[1]看来这里的水是干净的。[2]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -512,8 +501,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well?[1]It's polluted here too...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]结果怎样？[1]这里也被污染了……[2]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -522,8 +510,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well?[1]It's polluted here too...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]结果怎样？[1]这里也被污染了……[2]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -532,8 +519,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Let's try the water somewhere else too.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿蕾……[1]咱们再去试试别处的湖水吧。[2]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -543,8 +529,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Are you sure we shouldn't go back to your[2]dad's?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -554,8 +539,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Are you sure we shouldn't go back to your[2]dad's?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -565,8 +549,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Are you sure we shouldn't go back to your[2]dad's?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -574,8 +557,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go back and get my bag![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回去取我的包！[1]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -583,8 +565,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go back and get my bag![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回去取我的包！[1]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -592,8 +573,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go back and get my bag![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回去取我的包！[1]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -601,8 +581,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go back and get my bag![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回去取我的包！[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -610,8 +589,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go back and get my bag![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回去取我的包！[1]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -619,8 +597,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go back and get my bag![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回去取我的包！[1]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -635,16 +612,14 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGhYBAAsxAAQAEQFDX1IwMTFfRAAAAAoaBgAADAAKGgcAAAMH0AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoGAAAMAAoaBwAAAwPoChodAAAFV1NEX1NFX0RPT1JfV09PRF9DTE9TRQAAChoSAAAYQ19SMDEwX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]I'm pretty tired...[1]Me too.[2]Hey, Ash...[3]Yeah?[4]Someone's here.[5]Ashley? Are you home?[6]It's me. Dan Maxwell.[7]...![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我太累了……[1]同感。[2]嘿，阿蕾……[3]嗯？[4]这有人。[5]阿修蕾，你在家吗？[6]是我。丹·玛克斯韦尔。[7]……！[8]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
@@ -654,8 +629,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll hide in here, Ash.[1]Keep quiet about me, OK?[2]You got it.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我就躲在这儿，阿蕾。[1]不要告诉他有关我的事情，行吗？[2]放心吧。[3]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -669,8 +643,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on in, Dan.[1]Howdy, Ashley.[2]Hi.[3]Did your pops tell you why I'm here?[4]Yep.[5]You found my bag?[6]Yeah, I sure did.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]进来吧，丹。[1]你好啊，阿修蕾。[2]你好。[3]你老爸告诉过你我要来干嘛了吗？[4]告诉了。[5]你找到我的背包了？[6]当然。[7]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -680,8 +653,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxCAfQAAoA</Command>
     </Commands>
     <Original>[0]Is this your bag, Ashley?[1]Yeah![2]That's it![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，这是你的包？[1]没错！[2]就是这个！[3]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
@@ -691,8 +663,7 @@
       <Command>Ggb/AAAAChoFAAABChoIAAA7CAAAChotAAAFV1NEX1NFX0VWRU5UX1JJQ0hBUkRfQ09UVEFHRV9LQUJBTl9PS1UAAAoaBgAADAAKGgYAAAwAChobAQALNwEAAAAASU5URVJSVVBUXzAxOAAAAAoaBgAADAAKGgcAAAMPoAoaGwEACzgBAAAAAElOVEVSUlVQVF8wMTgAAAAKAA==</Command>
     </Commands>
     <Original>[0]Great, I'll leave it with you then.[1]Okay.[2]I'll put it here on the table.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]很好，那我把这个包留给你了。[1]好的。[2]我把包放在桌上喽。[3]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
@@ -701,8 +672,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll give you this one back then.[1]Thank you very much, miss.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那我把这个还给你。[1]非常感谢，小姐。[2]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -716,8 +686,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd kinda given up on it to be honest. I thought[1]it'd never be found.[2]Thanks so much, Dan.[3]Hey, I'm just glad it turned up.[4]Now, can you just check and make sure[5]everything's in there?[6]Sure.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]说实话，我本以为再也找不到我的背包了呢，[1]差点就要放弃了。[2]太感谢你了，丹。[3]嘿，那我应该为你失而复得高兴一下。[4]不过你还是看看包里[5]有没有少了什么东西。[6]对哦。[7]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -726,8 +695,7 @@
       <Command>ChoFAAABChoJAAAxCAfQAAoA</Command>
     </Commands>
     <Original>[0]So this bag is [1]definitely yours?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你确定这就是 [1]你的包？[2]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -735,8 +703,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是啊……[1]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -744,8 +711,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是。[1]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -760,8 +726,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]You sure about that?[2]Well then, I'll leave it with you.[3]Okay...[4]What's wrong, Ashley?[5]You're happy your bag was found, right?[6]Well, I have to be off now anyway. Patrol[7]calls. Bye, Ashley.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的……[1]你确定？[2]那么好吧，交给你了。[3]好的……[4]怎么了，阿修蕾？[5]背包找回来了，应该高兴才对吧？[6]好了，我得去巡逻了。[7]回见，阿修蕾。[8]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -785,32 +750,28 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, that's not mine...[1]You sure about that?[2]Yeah...[3]Mine's bigger than that.[4]Well, I'll be...[5]Sorry...[6]I guess the other one probably belongs to you,[7]then.[8]The other one?[9]Yes, I found another similar bag while I was out[10]patrolling.[11]That'll be yours, yessir.[12]I think you were a bit off when you showed me[13]the size, Ashley.[14]Ah well, I'll go and get the other one.[15]I'm sorry...[16]Wait here, I'll be back in a jiffy.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，那不是我的……[1]你确定？[2]嗯……[3]我的背包比那个大。[4]哦，那我……[5]很遗憾……[6]这样的话，我想另一个很可能[7]就是你的了。[8]还有一个？[9]嗯，我外出巡逻的时候发现了另一个很相似的[10]包。[11]没错了，那个一定就是你的了。[12]我看你告诉我尺寸问题的时候有点不大高兴啊，[13]阿修蕾。[14]啊，算了，我去把另一个包拿过来。[15]抱歉……[16]在这等着，我马上回来。[17]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
       <Command>GgYAAAwAChoGAAAMAAoaDgEACzYBCAAIAQAAAAoaBgAADAAKGgcAABEAABoHAAASCAAKGg4BAAsPAQAAAAAAAAAKGg0AABUAAIgAAAAAAAoaDAAACAAAiAAAAAAKGg0AABUIAAAAAAAAAAoaDAAACAgAKwAAAAAKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaDgAAOTsAAAAAdwAAAAoaBgAADAAKGgcAAAMF3AoaCAAAGgAADAoaBgAADAAKGgcAAAMLuAoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
       <Command>Gh0AAAVXU0RfU0VfRE9PUl9XT09EX0NMT1NFAAAKGgYAAAwAChoOAQALEAEAAAAAAAAAChoSAAAYQ19SMDEwX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
       <Command>GgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -819,8 +780,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]What do I do?[1]This isn't my bag...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么办？[1]这不是我的包……[2]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -831,24 +791,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] small bag[2] on the table.[3]This isn't my bag...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌上放着[1]一个[2]小包。[3]这不是我的包……[4]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -857,8 +814,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't play with the computer now, I have to[1]sort out this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在可不是玩电脑的时候，[1]我得赶紧整理一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -867,8 +823,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't play with the computer now, I have to[1]sort out this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在可不是玩电脑的时候，[1]我得赶紧整理一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -877,8 +832,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't play with the computer now, I have to[1]sort out this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在可不是玩电脑的时候，[1]我得赶紧整理一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -887,8 +841,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't play with the computer now, I have to[1]sort out this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在可不是玩电脑的时候，[1]我得赶紧整理一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -897,8 +850,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go water testing now, I have to sort out[1]this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在还不能去检测湖水，我得先整理[1]一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -915,8 +867,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -943,8 +894,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -964,8 +914,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMD6AoaDgAAOTsAAAAAWgAAAAoaBgAADAAKGgcAAAMD6AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoGAAAMAAoaBwAAAwPoChoJAAAxCA+gAAoaCAAAOwgBAAoaBgAAVwgKGgYAAAwAChoHAAADA+gKGg4AADk7AABaAAAAAAAKGgYAAAwAChoHAAADA+gKGh0AAAVXU0RfU0VfRE9PUl9XT09EX0NMT1NFAAAKGgYAAAwAChoHAAADAfQKGggAADsIAAAKGhUAAARTVFJNX0JHTV8xMAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Who is it?[1]Ashley, it's Dan.[2]Come in![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谁啊？[1]是我，丹。[2]请进！[3]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -988,8 +937,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's wrong?[1]I want you to look at something.[2]What is it?[3]This bag.[4]Oh! That's...[5]You know it, right?[6]I found this bag right after I brought the other[7]one over to you.[8]I was thinking this one also seems mighty close[9]to the description you gave me.[10]So just which one is yours?[11]Dan...[12]This one is my bag.[13]Sorry, I'm not very good at explaining sizes...[14]Yeah, I thought so...[15]Sorry...[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么事？[1]我想让你看样东西。[2]看什么？[3]这个包。[4]噢！那是……[5]你认出这个包了，是吧？[6]我刚把那个包交给你，[7]又发现了这个包。[8]我看这个包和你的描述[9]更吻合吧。[10]那么到底哪个是你的？[11]丹……[12]这个是我的。[13]抱歉，我对尺寸的概念比较模糊……[14]嗯，我看也是……[15]抱歉……[16]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1005,16 +953,14 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxCAfQAAoA</Command>
     </Commands>
     <Original>[0]Howdy![1]Did you bring the bag?[2]Yep.[3]Is this yours?[4]Yeah![5]I told you! I knew it.[6]It's completely different from the size you[7]showed me...[8]I'm sorry...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨！[1]你把包带来了？[2]然。[3]这个是你的吧？[4]没错！[5]我就说嘛，我就知道这个就是你的。[6]不过这可和你告诉我的大小[7]完全不同啊……[8]我很抱歉……[9]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1023,8 +969,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I have to stay here.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我得留在这。[2]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -1033,8 +978,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I have to wait for Dan.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我得等丹回来。[2]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -1043,8 +987,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I have to sort this out.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我得先把这个整理好。[2]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1056,8 +999,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white bag[2] on the table[3]with a picture of Pinkie Rabbit on it.[4]I'm so glad I got this back...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌上[1]有一个[2]白色的背包。[3]包上面有一张粉粉兔的图片。[4]我很高兴能找回背包……[5]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -1070,8 +1012,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDEKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAxX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]A contest flyer![1]"Be the Band![2]Wanna be a rock star? Want your songs to[3]change the world? Then write a song that will[4]stop time and space! Take the world by storm!"[5]I'm there![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一张比赛传单！[1]“来组建世界瞩目的乐队吧！[2]想成为摇滚明星吗？梦想用你的歌[3]改变世界吗？那还不赶紧动笔，写一首[4]凝固时空、席卷世界的神作吧！"[5]我不是鲍勃·迪伦！[6]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
