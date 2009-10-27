@@ -41,3 +41,4 @@
  * pick : 吉他拨片
  * band scores : 乐谱
  * missing items report : 失物招领单
+ * pendant : 挂饰
