@@ -34,7 +34,7 @@
  * campsite : 营地
  * villa : 别墅
  * Crusoe Resort : 克鲁索度假村
- *covered bridge ：廊桥
+ * covered bridge ：廊桥
 
 = 物品名 =
 
