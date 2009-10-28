@@ -577,7 +577,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]hotplate[2] on the counter.[3]I wonder if this'll work...[4]</Original>
-    <Translation>[0]有个 [1]加热板[2]在柜台上。[3]我想知道它还能不能用……[4]</Translation>
+    <Translation>[0]有个 [1]电炉[2]在柜台上。[3]我想知道它还能不能用……[4]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -585,7 +585,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use this hotplate.[1]</Original>
-    <Translation>[0]好，我要用这个加热板。[1]</Translation>
+    <Translation>[0]好，我要用这个电炉。[1]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -653,7 +653,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaKQAABVdTRF9TRV9FVkVOVF9BTlNISVRTVV9BVEFSSV9TQUdVUlUAAAoaBgAADAAKGgcAAAMLuAoA</Command>
     </Commands>
     <Original>[0]Whoa![1]Who turned the lights out?[2]Must be a power cut...[3]No, I think it was just the breaker.[4]Why would the breaker trip?[5]Probably because you used the hotplate.[6]Really?[7]Well, old stuff uses tons of power.[8]That's what Dad told me.[9]That makes sense.[10]So can you turn it back on?[11]Where's the breaker for this room?[12]Um...should be by the stairs.[13]Where're the stairs?[14]Behind you.[15]Okay, over here...[16]Ow![17]You okay?[18]Yeah, just hit my head.[19]Where the heck is it?[20]</Original>
-    <Translation>[0]谁！[1]谁把灯关了？[2]应该是断电了……[3]不，我想就是断路器。[4]断路器为什么会跳掉？[5]可能因为你用加热板的。[6]是吗？[7]嗯，旧电器都是大功率的。[8]这是爸爸告诉我的。[9]有道理。[10]你能把它重新打开吗？[11]这屋的断路器在哪儿？[12]呃……应该在楼梯旁。[13]楼梯在哪儿？[14]你身后。[15]好的，在这里……[16]哦！[17]你还好吧？[18]还好，只是撞着头了。[19]它在哪里？[20]</Translation>
+    <Translation>[0]谁！[1]谁把灯关了？[2]应该是断电了……[3]不，我想就是断路器。[4]断路器为什么会跳掉？[5]可能因为你用电炉的。[6]是吗？[7]嗯，旧电器都是大功率的。[8]这是爸爸告诉我的。[9]有道理。[10]你能把它重新打开吗？[11]这屋的断路器在哪儿？[12]呃……应该在楼梯旁。[13]楼梯在哪儿？[14]你身后。[15]好的，在这里……[16]哦！[17]你还好吧？[18]还好，只是撞着头了。[19]它在哪里？[20]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -714,7 +714,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Hit the breaker.[2]</Original>
-    <Translation>[0]阿修蕾……[1]击打断路器。[2]</Translation>
+    <Translation>[0]阿修蕾……[1]敲打断路器。[2]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -723,7 +723,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1]I'm glad the lights are back.[2]</Original>
-    <Translation>[0]马修……[1]我很高兴灯又亮了。[2]</Translation>
+    <Translation>[0]马修……[1]太好了灯又亮了。[2]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -766,7 +766,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]Don't leave me here![2]</Original>
-    <Translation>[0]你去要哪里，阿修蕾？[1]别把我一人留这儿！[2]</Translation>
+    <Translation>[0]你要去哪里，阿修蕾？[1]别把我一人留这儿！[2]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -864,7 +864,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATZkAAoA</Command>
     </Commands>
     <Original>[0]You really need to stop spacing out on me. Did[1]you remember something?[2]Yeah...[3]I remembered when I looked at the photo by[4]the breaker.[5]Which photo?[6]This one.[7]That's the mermaid statue, isn't it?[8]Mermaid statue?[9]Yeah, there's a mermaid statue down by the[10]clock tower.[11]This photo was taken in front of it.[12]I wonder when it was taken...[13]Look, it has 1988 in the corner.[14]So it was taken then, right?[15]1988... That's like, 19 years ago.[16]Three years before I was born.[17]Huh? Hang on...[18]What's up?[19]You don't have to stare so hard, it's just an [20]old photo.[21]This photo is of...[22]Aha![23]What?[24]I've seen that person before![25]Huh?[26]Who? You can't mean Mom.[27]Mom?[28]That's your mom, Ash?[29]Yeah.[30]And the man in the photo is my dad.[31]Dad?[32]This guy's your dad?[33]Well yeah, I've seen him before.[34]Where?[35]Same place as in the photo. The mermaid statue.[36]Dad was at the mermaid statue?[37]Yeah.[38]He was down near it, [39]checking something[40].[41]</Original>
-    <Translation>[0]你真的需要停止与我的隔阂了。[1]你还记得什么？[2]呃……[3]我记得当我看见断路器旁边的[4]照片时。[5]哪张照片？[6]这张。[7]那是美人鱼雕像吗？[8]美人鱼雕像？[9]是的，有个美人鱼雕像在[10]钟楼下面。[11]这张照片就是在它前面拍的。[12]我想知道是什么时候拍的……[13]看，在角落有显示1988。[14]所以是那时拍的？[15]1988…… 就是说，19年前。[16]比我出生还早三年。[17]嗯？等等……[18]怎么了？[19]你不用这么仔细的盯着看，它只是一张[20]就照片。[21]这张照片是……[22]啊哈！[23]什么？[24]我以前见过那人！[25]嗯？[26]谁？ 你不会是指妈妈吧。[27]妈妈？[28]阿修蕾，她是你妈妈？[29]是的。[30]照片里的男人是我爸爸。[31]爸爸？[32]这人是你爸爸？[33]是啊，我以前见过他。[34]在哪里？[35]就是照片里的地方。 美人鱼雕像那儿。[36]在美人鱼雕像旁的是我爸爸？[37]是的。[38]他蹲在雕像旁边， [39]好像在检查什么东西[40]。[41]</Translation>
+    <Translation>[0]你别再躲着我了。[1]你还记得什么？[2]呃……[3]我记得当我看见断路器旁边的[4]照片时。[5]哪张照片？[6]这张。[7]那是美人鱼雕像吗？[8]美人鱼雕像？[9]是的，有个美人鱼雕像在[10]钟楼下面。[11]这张照片就是在它前面拍的。[12]我想知道是什么时候拍的……[13]看，在角落有显示1988。[14]所以是那时拍的？[15]1988…… 就是说，19年前。[16]比我出生还早三年。[17]嗯？等等……[18]怎么了？[19]你不用这么仔细的盯着看，它只是一张[20]就照片。[21]这张照片是……[22]啊哈！[23]什么？[24]我以前见过那人！[25]嗯？[26]谁？ 你不会是指妈妈吧。[27]妈妈？[28]阿修蕾，她是你妈妈？[29]是的。[30]照片里的男人是我爸爸。[31]爸爸？[32]这人是你爸爸？[33]是啊，我以前见过他。[34]在哪里？[35]就是照片里的地方。 美人鱼雕像那儿。[36]在美人鱼雕像旁的是我爸爸？[37]是的。[38]他蹲在雕像旁边， [39]好像在检查什么东西[40]。[41]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -877,7 +877,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was he checking?[1]No idea.[2]I think he was testing the lake water.[3]He had some water in a test tube and he was[4]checking something out with it.[5]That sounds like something he'd do...[6]</Original>
-    <Translation>[0]他在检查什么？[1]不知道。[2]我想他可能在检测湖水。[3]他用试管取了些水，然后[4]从中分离出一些物质。[5]听起来像是他会做的事情……[6]</Translation>
+    <Translation>[0]他在查看什么？[1]不知道。[2]我想他可能在检测湖水。[3]他用试管取了些水，然后[4]从中分离出一些物质。[5]听起来的确像是他会做的事情……[6]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -915,8 +915,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, Matt.[1]I almost forgot, the treasure map![2]Here.[3]Thanks.[4]Hey, what did you bury anyway? And why [5]didn't you want anyone to find it?[6]Wanna know?[7]Yeah, kinda.[8]Sorry, it's a secret.[9]Oh...[10]Well anyway, I need to head off.[11]Where to?[12]My dad's cottage.[13]Your dad lives around here?[14]Yeah, he works at a lab around here called[15]JC Valley.[16]He actually invited me here for a family camp,[17]but then work got in the way...[18]So the camp was called off and now I have to[19]go back to his cottage.[20]Called off? That sucks.[21]Hey, Matt.[22]Why not come back to the cottage with me?[23]What, me?[24]Yeah. Who else?[25]I bet Dan will come here to look for you.[26]You don't want to get caught, right?[27]And if you go with me to my dad's cottage,[28]we can keep looking for clues together.[29]Right.[30]Then let's go![31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，马修。[1]我差点忘了藏宝图！[2]在这儿。[3]谢谢。[4]嗨，你究竟埋了什么呢？[5]为什么你不希望被别人找到？[6]你想知道？[7]嗯，是的。[8]抱歉，这是个秘密。[9]呃……[10]无论如何，我得走了。[11]去哪里？[12]我爸爸的小屋。[13]你爸爸住在这附近？[14]是啊，他在附近一所实验室工作，叫[15]JC山谷。[16]实际上他还邀请我参加了这里的家庭露营，[17]但是后来工作进展出了点问题……[18]所以露营取消了，而我不得不[19]回到他的小屋。[20]取消了？那实在是糟糕透了。[21]嘿，马修。[22]为什么不和我一起回小屋呢？[23]什么，我吗？[24]是啊，还有别人吗？[25]我打赌丹会来这里找你。[26]你不想被找到，是吧？[27]所以如果你和我一起回我爸爸的小屋，[28]我们可以继续寻找线索。[29]好的。[30]那出发吧！[31]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -933,8 +932,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Let's talk some more.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾……[1]让我们谈点别的吧。[2]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -943,8 +941,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Where're you going?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿修蕾。[1]你要去哪儿？[2]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -955,8 +952,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]Ash, check it out![1]That book looks awesome![2]Huh?[3]What's so awesome about it?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，注意看！[1]那本书太棒了！[2]嗯？[3]它有什么出色的地方？[4]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -969,8 +965,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's a message from Dad.[1]He's coming to the covered bridge to meet me.[2]The covered bridge is...[3]Oh yeah, Dan said it's on the right side of the[4]lake.[5]I'd better hurry![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一条爸爸发来的信息。[1]他正赶往廊桥来接我。[2]你说的廊桥是……[3]哦，丹说过它在[4]湖的右边。[5]我得抓紧时间了！[6]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -990,8 +985,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, have you been to your pops' cottage[1]yet?[2]Not yet...[3]Off you go then! And no distractions, you hear?[4]Okay.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Ashley, 你还没去你爸爸的小屋[1]吗？[2]还没……[3]快去吧！别无精打采的，明白了吗？[4]好吧。[5]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -999,8 +993,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We need to go to Dad's cottage...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们得去爸爸的小屋……[1]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -1036,8 +1029,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AS5kAAoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Elizabeth.[2]What are you doing out here?[3]What do you mean?[4]I'm just about to head to Dad's cottage, if you[5]really must know.[6]"Just about to"?[7]You mean you still haven't gotten there yet?[8]I've had stuff to do.[9]Mm-hmm.[10]Anyway, what are you doing hanging out[11]here by yourself?[12]I'm [13]waiting for someone[14].[15]So who's the kid?[16]Never seen him around here before. Is he your[17]brother?[18]No. He's a friend.[19]Your friend?[20]That runt?[21]Yeah, my friend.[22]Actually we just met today, but still.[23]Oh dear...[24]Yes? Is something wrong?[25]Ooh...[26]I had no idea you were [27]that desperate[28], Ashley...[29]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Ashley![1]伊丽莎白。[2]你在这儿做什么？[3]你指的是？[4]我正打算去爸爸的小屋，[5]如果你非要知道的话。[6]“正打算去”？[7]你的意思是你还没去那儿？[8]我还有些事情要处理。[9]嗯……[10]话说回来，你干嘛独自一人[11]在这儿徘徊？[12]我在 [13]等人[14]。[15]那个男孩是谁？[16]以前从没在这附近见过他。 他是你[17]兄弟？[18]不是的。他是我朋友。[19]你的朋友？[20]That runt?[21]是的，我朋友。[22]事实上我们今天才遇到。[23]噢 天呐……[24]嗯？怎么了？[25]嗯……[26]我不知道你[27]曾经如此绝望[28], Ashley...[29]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1049,8 +1041,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who are you waiting for?[1]My cousin.[2]She's up here for the weekend to hang out or[3]whatever, so I came here to meet her.[4]Ah.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你在等谁？[1]My cousin.[2]她整个周末都在这里徘徊，[3]所以我来这儿找她。[4]噢。[5]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1081,8 +1072,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"That desperate"? And just what is that[1]supposed to mean?[2]You meet some dirty little kid at a campsite,[3]then suddenly you're all like best friends?[4]What d'you mean, dirty?[5]Don't be so horrible![6]Horrible?[7]Seriously, Ashley, open your eyes a bit.[8]He's filthy. Look, mud stains all over his[9]clothes![10]Well, so he's got a bit of mud on him, but...[11]Leave it, Ash.[12]I will not! How dare she talk about you like[13]that![14]Look, I'm fine. I don't care.[15]Let's just go on to your dad's cottage, okay?[16]Oh, please don't let me stop you.[17]I'd love if you could stay and chat and all, but[18]I have better things to do.[19]Like file my nails. Or watch paint dry. Or[20]anything else, really.[21]...![22]You know, I can't imagine why anyone would[23]want to meet you here.[24]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“如此绝望”？仅仅[1]是这样吗？[2]你在露营遇到一些脏兮兮的小孩，[3]之后你们突然就变成好朋友了？[4]什么意思，脏兮兮的？[5]别表现的一副憎恶的样子！[6]憎恶？[7]说真的， Ashley, 睁大你的眼睛看清楚。[8]他就是很脏。你看，泥浆溅满了他的[9]衣服！[10]嗯……他的衣服是沾了点污渍……但是……[11]离他远点，阿修蕾。[12]我不要！ 她怎么会如此[13]评价你！[14]没事，我不介意。[15]让我们快点前往你爸爸的小屋吧？[16]噢，希望我没妨碍到你。[17]如果你能留下来陪我聊聊天之类的，我会很高兴的，不过[18]我有更重要的事情要去做了。[19]比如整理钉子。 或者等油漆干。或者[20]别的事情。[21]……！[22]我真的难以想象怎么会有人[23]想在这儿遇到你。[24]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1119,8 +1109,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQQAGgcAABIFAAoaDQAAFQQAAAAAAAAAChoMAAAIBABjAAAAAAoA</Command>
     </Commands>
     <Original>[0]Elizabeth.[1]What?[2]You know that music player you were looking[3]for?[4]It's in a shack at the back of the campsite.[5]A shack?![6]What in the world is it doing there?[7]The music player in the shack?[8]Oh, that was yours?[9]Wait, how do you know about it?[10]I found it over by the mines.[11]I brought it back to the shack to listen to some[12]music, but there was no battery in it.[13]So I started throwing it around and it fell[14]behind some boxes.[15]You what?[16]I'm pretty sure it's yours.[17]And how do you know that?[18]Because I got the same kind of music player[19]from my dad.[20]Oh, really? [21]And what's it look like?[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白。[1]怎么了？[2]你认识你要找的那个音乐播放器吗[3]？[4]它在营地背后的棚屋里。[5]棚屋？！[6]它怎么会在那儿？[7]棚屋里的播放器？[8]噢，那是你的？[9]等等，你怎么知道那个播放器的？[10]我在矿山上找到的。[11]我想把它带回棚屋用来听音乐的，[12]但是没电了。[13]所以我就把它随便乱放，[14]最后掉在箱子后面了。[15]什么？[16]我敢肯定这是你的。[17]你怎么会知道的？[18]因为我从爸爸那里拿到的播放器[19]跟这个一样。[20]噢，真的吗？ [21]那是什么样的播放器？[22]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1128,8 +1117,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Like this[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]像这样的[1]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1137,8 +1125,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Like this[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]像这样的[1]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -1148,8 +1135,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Like this.[1]Huh?[2]Yeah, I'm sure it's yours.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]像这样的。[1]恩？[2]我确定它是你的。[3]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1163,8 +1149,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Like this.[1]Mine's nothing like that![2]Oh, really?[3]Look, whatever.[4]Like I'd trust that kid anyway.[5]You don't have to trust him.[6]But I'm telling you it's there.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]像这样的。[1]我的一点都不像那样！[2]啊，是吗？[3]你看看。[4]我好像应该相信那孩子。[5]你没必要相信他。[6]但是是我告诉你它的存在的。[7]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1197,8 +1182,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVBACCAAAAAIIKGgwAAAgEAIIAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Well, that's all I have to say.[1]Come on, Matt, let's go.[2]Hold on![3]What?[4]You're lying![5]Lying?[6]I've never been near the mines![7]Why the heck would my music player be over[8]there?[9]I swear, I found it by the mines.[10]Listen, kid, I don't trust you.[11]How do I know you didn't just steal it from me?[12]You did, didn't you?[13]I didn't![14]Elizabeth, how dare you![15]I don't steal things![16]So what's your name? Where are you from?[17]I, uh...[18]Thought so.[19]Won't even tell me your name? Sorry, I don't[20]believe a word you say.[21]There's a reason he can't say...[22]Oh, just tell the truth already.[23]Then we can just forget this whole thing.[24]I am telling the truth! I found it![25]Matt didn't steal it![26]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Well, that's all I have to say.[1]Come on, Matt, let's go.[2]Hold on![3]What?[4]You're lying![5]Lying?[6]I've never been near the mines![7]Why the heck would my music player be over[8]there?[9]I swear, I found it by the mines.[10]Listen, kid, I don't trust you.[11]How do I know you didn't just steal it from me?[12]You did, didn't you?[13]I didn't![14]Elizabeth, how dare you![15]I don't steal things![16]So what's your name? Where are you from?[17]I, uh...[18]Thought so.[19]Won't even tell me your name? Sorry, I don't[20]believe a word you say.[21]There's a reason he can't say...[22]Oh, just tell the truth already.[23]Then we can just forget this whole thing.[24]I am telling the truth! I found it![25]Matt didn't steal it![26]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
