@@ -20,8 +20,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I ran into my classmate Janet on the way back[1]from Ryan's cottage.[2]I was really surprised when I found out she was[3]Elizabeth's cousin.[4]Then Janet called and asked me to go around[5]to Elizabeth's house.[6]I said I'd go, but it's really just to make Elizabeth[7]apologise for the music player fiasco...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在莱恩住的小屋后边的路上[1]我偶然碰见了我的同学珍妮特。[2]当我发现她是伊丽莎白的堂姐时[3]那时我相当惊讶。[4]当时珍妮特打电话给我[5]要我到伊丽莎白的住所去转转。[6]我答应了，但是实际上[7]我是为了音乐盒的事向伊丽莎白道歉...[8]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -38,8 +37,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm gonna go, Matt.[1]Cool. Don't be too long![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，马修，我要走了。[1]了解。但是别搞得太晚啊！[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -48,8 +46,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, Janet's waiting for me.[1]I have to go to Elizabeth's house.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不会的，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -58,8 +55,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, Janet's waiting for me.[1]I have to go to Elizabeth's house.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不会的，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -68,8 +64,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, Janet's waiting for me.[1]I have to go to Elizabeth's house.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不会的，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -85,8 +80,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2] by the door.[3]Who is it?[4]It's Ashley.[5]Ah, Ashley.[6]One second.[7]It's open now.[8]Okay, thank you.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]对讲机[2]在门边。[3]谁啊？[4]我，阿修蕾。[5]啊，是阿修蕾啊。[6]等等。[7]门开了哦。[8]嗯，谢谢。[9]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -103,8 +97,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Elizabeth and Janet are waiting for me.[1]I should go in.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白和珍妮特在等着我呢。[1]我该进去了。[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -126,8 +119,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFgEACzMBEAAJAUNfUjAyM19EAAAAChoNAAAVBwBoAAAAAAAKGgwAAAgHAGgAAAAAChoNAAAVBQBoAAAAAAAKGgwAAAgFAGgAAAAAChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Hi...[1]Welcome to the Alfred Residence.[2]Well, don't just stand there. Come in.[3]Oh, someone else is at the door.[4]It had better not be your little friend, Ashley.[5]Who is it?[6]It's me, Tommy.[7]Tommy...[8]Elizabeth, you got a few minutes?[9]What's up?[10]It's about the band. Our band.[11]Hey, Liz, mind if we head upstairs?[12]We'll wait for you in your room.[13]Yeah, go on.[14]Come on, Ash, let's head up.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你好...[1]欢迎来到阿尔弗雷德公馆。[2]嗯，别站在那啊。请进。[3]噢，还有其他人在门口呢。[4]千万不要是你那个小伙伴，阿修蕾。[5]谁啊？[6]是我，汤米。[7]汤米...[8]伊丽莎白，有空没？[9]怎么了？[10]是有关乐队的事，我们的乐队。[11]呃，莉斯，不介意的话我们上楼去咯？[12]我们会在你的房间等你。[13]好吧，去吧。[14]小蕾，快点，我们上楼啦。[15]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -144,8 +136,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sorry, Ash, need to talk to Elizabeth.[1]Oh, sorry...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，抱歉，得与伊丽莎白好好谈谈。[1]哎，对不起...[2]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -154,8 +145,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Talking to Tommy. Can it wait?[1]Sorry...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等会儿和汤米谈。[1]抱歉...[2]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -164,8 +154,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going, Ashley?[1]My room's upstairs.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你去哪啊，阿修蕾？[1]我房间在楼上。[2]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -197,8 +186,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAuKARAAoAEAAAAKGgYAAAwAChoWAQALMwEQAAkBQ19SMDI1X0QAAAAKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaBgAADAAKGgcAAAMH0AoaHQAABVdTRF9TRV9ET09SX1dPT0RfQ0xPU0UAAAoA</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Yeah?[2]What're Liz and Tommy talking about?[3]I dunno...[4]Oh great, you didn't hear anything.[5]You think there's something up with those two?[6]Uh, yeah.[7]Those two've known each other since they were[8]kids, so it's pretty obvious.[9]What is?[10]Liz totally has the hots for Tommy. You[11]didn't notice?[12]She's got a thing for taller guys.[13]Seriously?[14]What's Tommy think of her?[15]Well, he likes her too.[16]But in more of a kid-sister way, not in a[17]will-you-be-my-girlfriend way.[18]Ah, that's pretty tough.[19]I totally didn't notice anything at all.[20]It's so obvious when you look at them together.[21]You're totally blind, Ash.[22]Hey, I'm not that bad...[23]Anyway, c'mon.[24]Liz's room is over here.[25]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，小蕾。[1]嗯？[2]莉斯和汤米在聊些什么啊？[3]我不知道...[4]嗯，晕哦，你什么也没听到。[5]你认为他们两个之间有猫腻？[6]呃，是的。[7]他们从小就认识[8]所以，有些东西就显而易见了。[9]什么显而易见啊？[10]莉斯为了吸引汤米而变得更辣了[11]你没注意到么？[12]她还蛮清楚怎样对付比她大的男孩。[13]真的？[14]那汤米对莉斯呢？[15]呃，汤米也喜欢莉斯。[16]但对汤米来说莉斯更像是小妹妹[17]而不是准女友。[18]噢，这情况挺棘手的。[19]我完全没有注意到呃。[20]当你看到他们俩在一起的情况时就知道了。[21]你太迟钝了，小蕾。[22]喂，我也没那么糟啊...[23]不管怎样，快来。[24]莉斯的房间就在这。[25]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
