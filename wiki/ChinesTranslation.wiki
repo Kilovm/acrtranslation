@@ -24,7 +24,7 @@
  * Bob : 鲍勃
  * Janet : 珍妮特
  * Rex : 雷克斯
-
+ * Liz : 莉斯
 = 地名 =
 
  * JC Valley : JC山谷
@@ -35,7 +35,7 @@
  * villa : 别墅
  * Crusoe Resort : 克鲁索度假村
  * covered bridge ：廊桥
-
+ * Alfred Residence ：阿尔弗雷德公馆
 = 物品名 =
 
  * pick case : 吉他拨片盒
