@@ -905,7 +905,7 @@
       <Command>ChoFAAABChoJAABGAAEAAAoaBgAATwUKGgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Huh?[2]Hi![3]Elizabeth.[4]What are you doing here?[5]Well, I asked Daddy and...[6]He told me you were here.[7]I see.[8]Do you need me for something?[9]I've lost something.[10]Lost something?[11]The thing we got for JC Valley's anniversary[12]thing or whatever.[13]You got one too, right? It's that one.[14]And?[15]Ryan, won't you do me a favour?[16]What is it?[17]Help me find my [18]music player[19]![20]I'm sorry, but I have to refuse.[21]What? Why?[22]I can't leave until Dr Robins comes back.[23]And why not?[24]I promised Dr Robins that I'd stay here to[25]keep Ashley company.[26]Come on, Ryan. Just forget that promise, no[27]one'll know.[28]</Original>
-    <Translation>[0]莱恩！[1]嗯？[2]你好啊！[3]伊丽莎白啊。[4]你在这里干什么啊？[5]Well, I asked Daddy and...[6]He told me you were here.[7]I see.[8]Do you need me for something?[9]I've lost something.[10]Lost something?[11]The thing we got for JC Valley's anniversary[12]thing or whatever.[13]You got one too, right? It's that one.[14]And?[15]Ryan, won't you do me a favour?[16]What is it?[17]Help me find my [18]music player[19]![20]I'm sorry, but I have to refuse.[21]What? Why?[22]I can't leave until Dr Robins comes back.[23]And why not?[24]I promised Dr Robins that I'd stay here to[25]keep Ashley company.[26]Come on, Ryan. Just forget that promise, no[27]one'll know.[28]</Translation>
+    <Translation>[0]莱恩！[1]嗯？[2]你好啊！[3]伊丽莎白啊。[4]你在这里干什么啊？[5]那个……我刚刚问了我爸爸，[6]他说你在这里。[7]这样啊。[8]我能帮上什么忙吗？[9]我掉了点东西。[10]掉了东西？[11]是JC山谷的……[12]纪念品什么的。[13]你不是也有一个吗？就是那东西。[14]那么？[15]莱恩，帮我个忙怎么样？[16]你说吧。[17]帮我找到那个[18]播放器[19]！[20]不好意思，我得拒绝这个请求。[21]啊？为什么？[22]罗宾斯博士回来前我都不会离开这里的。[23]为什么不会？[24]我答应好罗宾斯博士[25]在这里陪阿修蕾。[26]得了吧！先别管那个承诺了，没有人[27]会知道你稍稍走开一会儿的。[28]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -914,8 +914,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]怎么样？[2]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -923,8 +922,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is quite unexpected...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有点太突然了……[1]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -932,8 +930,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The barbecue was excellent.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]烧烤太完美了。[1]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -964,8 +961,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Excuse me.[1]What?[2]Hi.[3].....[4]I'm Ashley. Ashley Mizuki Robins.[5]I see...[6]Should I care?[7]![8]Where'd that come from?[9]Who are you, anyway?[10]Elizabeth.[11]Elizabeth Alfred[12].[13]Elizabeth Alfred...[14]That's me.[15]My daddy runs JC Valley.[16]He's Rex Alfred.[17]Right. Should I care?[18]Actually, you should. It means that your[19]father works for mine.[20]I just thought you should know that.[21]Doesn't matter to me.[22]Whatever.[23]How old are you?[24]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]请问……[1]什么？[2]你好啊。[3]……[4]我叫阿修蕾。阿修蕾·美月·罗宾斯[5]噢……[6]我需要拿支笔记下来吗？[7]！[8]Where'd that come from?[9]那你又是谁？[10]伊丽莎白。[11]伊丽莎白·阿尔弗雷德[12]。[13]伊丽莎白·阿尔弗雷德……[14]对，就是我。[15]JC山谷就是我爸爸开的。[16]他是雷克斯·阿尔弗雷德。[17]很好，那我需要拿支笔记下来吗？[18]当然需要咯。就像你的爸爸为我的[19]爸爸工作一样。[20]我想你必须分清其中的区别。[21]这跟我可没关系。[22]随便了。[23]你多大了？[24]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -973,8 +969,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]18[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]18[1]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -982,8 +977,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]16[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]16[1]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -1000,8 +994,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm 18.[1]Don't kid around.[2]There is no way you're 18.[3]You, older than me? Like I'd ever believe that.[4]And how old are you?[5]16.[6]16?[7]Yeah, so?[8]Just funny that you're younger than me.[9]I was thinking that you look a bit childish.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]18岁。[1]别骗人了。[2]怎么也不像18岁啊！[3]你……就像我猜得那样……比我大？[4]到底多大了？[5]16。[6]16？[7]是啊，怎么了？[8]只是好奇你比我还小。[9]我还以为你只是看上去有点孩子气呢。[10]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -1016,8 +1009,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm 16.[1]The same age as me?[2]No way...[3]So what?[4]Sorry, I just thought you were like, 14.[5]Pah... No way![6]I'm having problems believing it myself.[7]There's no way you're the same age as me.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]16岁。[1]跟我一样大？[2]哦不……[3]怎么了啊？[4]不好意思，我还以为你只有……14岁呢。[5]啊……乱讲！[6]我自己都不敢相信呢。[7]你跟我一样大？这不可能嘛。[8]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -1031,8 +1023,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where'd you lose your music player?[1]Sorry, was I talking to you about that?[2]I was asking Ryan to help me look for it.[3]So do kindly mind your own business.[4]What's your problem?[5]What problem?[6]You know what I mean![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你的播放器在哪里丢的？[1]请问，我有跟你说要你帮忙吗？[2]我只是让莱恩帮忙找东西吧。[3]你还是忙你自己的事吧。[4]你“那个”有问题吗？[5]哪个“那个”？[6]你知道我说什么！[7]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -1047,8 +1038,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBBQAJAUlPUDAwMAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgcAAEkB9AoA</Command>
     </Commands>
     <Original>[0]Ashley.[1]I'll go with Elizabeth and help her search.[2]Huh?[3]After listening to you ladies talking...[4]I feel this is the best option.[5]Ryan, are we going or not?[6]Go ahead.[7]Like he needs your permission anyway.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾[1]我还是跟伊丽莎白一起去找找东西吧。[2]嗯？[3]听了刚刚两位女士之间的口水战……[4]我相信这是最好的选择了。[5]莱恩，我们到底去还不去啊？[6]去吧！[7]就像他需要你饿许可一样。[8]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -1068,8 +1058,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCQAJAUlPUDAwMAAAAAoA</Command>
     </Commands>
     <Original>[0]Ashley.[1]I won't be long. Why don't you take a walk in[2]the meantime?[3]The area around here is full of greenery, I think[4]you would like it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾。[1]我去去就回。你可以在这段时间[2]到处逛逛。[3]这附近也算绿意盎然，[4]我想你会喜欢的。[5]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -1077,8 +1066,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFgEACzMABQAJAUFfTTA3MF9EAAAAChoJAABFBQfQAQoaDgEACwABAAAAAAAAAAoaBgAADAAKGhQBAAszAAkACQFJT1AwMDIAAAAKGgkAAEUJC7gBChoOAQALAAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Let's go.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们出发吧。[1]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -1087,8 +1075,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]There's a message from Dad.[1]Your cottage?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有爸爸发来的消息。[1]你的小屋？[2]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -1097,8 +1084,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]What?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿……[1]什么？[2]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -1108,8 +1094,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIJAAoaDQAAFQkAAAAAAAAAChoMAAAICQC9AAAAAAoaBgAADAAKGgcAAAMD6AoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Oh yeah, I have to wait here until Dad gets[2]back.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]噢，我要在这里等爸爸[2]回来。[3]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -1119,8 +1104,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Oh yeah, I have to wait here until Dad gets[2]back.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]噢，我要在这里等爸爸[2]回来。[3]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -1130,8 +1114,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Oh yeah, I have to wait here until Dad gets[2]back.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]噢，我要在这里等爸爸[2]回来。[3]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -1142,8 +1125,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFAoA</Command>
     </Commands>
     <Original>[0]There is a [1]backpack [2]by the tent.[3]I need to bring this to Dad's cottage.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]背包[2]放在帐篷旁边。[3]我必须把这包带到爸爸的小屋去。[4]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1153,8 +1135,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOAoA</Command>
     </Commands>
     <Original>[0]The hat...[1]He even forgot his hat.[2]I'll bring it back for him.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这顶帽子……[1]连帽子都忘了就离开。[2]我还是带着还给他吧。[3]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1169,8 +1150,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFQoA</Command>
     </Commands>
     <Original>[0]Oh.[1]It's Ryan's briefcase.[2]He must have left it here when he went off[3]with Elizabeth.[4]What should I do?[5]Maybe he's still around...[6]I know. I'll give it to him before heading[7]to Dad's cottage.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢！[1]这是莱恩的公文包。[2]一定是刚刚和伊丽莎白一起走时[3]遗忘在这里的。[4]我该怎么办？[5]也许他还在这附近……[6]知道了，在去爸爸的小屋路上，[7]我正好能还给他。[8]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1188,8 +1168,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFQoA</Command>
     </Commands>
     <Original>[0]There is a [1]briefcase[2] by the tent.[3]Oh.[4]It's Ryan's briefcase.[5]He must have left it here when he went off[6]with Elizabeth.[7]What should I do?[8]Maybe he's still around...[9]I know. I'll give it to him before heading[10]to Dad's cottage.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个[1]公文包[2]在帐篷旁。[3]噢！[4]这是莱恩的包。[5]一定是刚刚和伊丽莎白一起走时[6]遗忘在这里的。[7]我该怎么办？[8]也许他还在这附近……[9]知道了，在去爸爸的小屋的路上，[10]我正好能给他。[11]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -1202,8 +1181,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOAoA</Command>
     </Commands>
     <Original>[0]There is a [1]cowboy hat[2].[3]The hat...[4]He even forgot his hat.[5]I'll bring it back for him.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一顶[1]牛仔帽[2]。[3]这帽子……[4]连帽子都忘记就离开。[5]我还是带着给他吧。[6]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1212,8 +1190,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops![1]I forgot to grab Dad's bag.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎呀！[1]忘了拿爸爸的包。[2]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1222,8 +1199,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah![1]I should bring Ryan his briefcase.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的！[1]我应该把公文包带给莱恩。[2]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
