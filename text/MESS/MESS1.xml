@@ -1080,8 +1080,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait a second...[1]I still don't know where our campsite is.[2]I should ask Tommy.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等一下……[1]我还是不知道营地在哪里[2]我得问问汤米[3]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -1089,8 +1088,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to ask Tommy where our campsite is.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我需要问问汤米营地在哪里[1]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -1103,8 +1101,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Back so soon? What's up?[1]I forgot to ask...[2]Where's my dad's tent set up? Are there a lot[3]of campsites around?[4]Oh yeah, totally skipped my mind.[5]You guys are camping over-[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这么快就回来了？怎么回事？[1]我忘了问了……[2]我爸爸的帐篷在哪？ [3]是不是附近还有很多露营地？[4]噢，我完全忘了[5]你们是在露营-[6]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -1125,8 +1122,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVBwAAAAAAAAAKGgwAAAgHAMYAAAAAChoGAAAMAAoaDAAACAAAdwAAAAAKGg0AABUAAAAAAAAAAAoaCQAANQBqZAAKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]Gotta answer that.[2]Hang on a sec.[3]Hello?[4]Oh, hey. What's up?[5]Found it yet?[6]Ah, what a pain.[7]Forget it for now, just come back.[8]I'll keep an eye out for it.[9]See ya.[10]Drag, drag, drag.[11]Today's just getting [12]worse and worse[13].[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Huh?[1]Gotta answer that.[2]Hang on a sec.[3]Hello?[4]Oh, hey. What's up?[5]Found it yet?[6]Ah, what a pain.[7]Forget it for now, just come back.[8]I'll keep an eye out for it.[9]See ya.[10]Drag, drag, drag.[11]Today's just getting [12]worse and worse[13].[14]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
