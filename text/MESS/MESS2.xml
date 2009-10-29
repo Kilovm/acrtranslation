@@ -1277,7 +1277,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dr Robins?[1]So you know my dad?[2]Yeah, I guess I do.[3]I knew he had a little girl, but I didn't think that[4]it would be you.[5]How do you know him?[6]Well, it must have been two months ago now...[7]I helped your pops put the bait on his fishing[8]line up at the lake.[9]Since then, we meet and chat sometimes while[10]I'm out on patrol.[11]My dad fishes?[12]He sure does. Seems he started fairly recently,[13]though.[14]But he still hasn't caught anything big. They[15]just keep eating his bait.[16]Sounds about right.[17]Then again, not many people have caught[18]in the lake recently.[19]Anyway...[20]Your pops is a real funny guy.[21]Funny? My dad?[22]Yeah. As soon as he runs into something he's not[23]familiar with, it's like looking at a little kid.[24]The rest of the world might be long gone for all[25]he knows. All he cares about is that one thing.[26]He seems to have taken a liking to Lake Juliet[27]lately.[28]Every time I run into him, he asks me a whole[29]truckload of questions about the lake![30]</Original>
-    <Translation>[0]罗宾斯博士？[1]这么说你知道我爸爸？[2]我想是的。[3]我知道他有个女儿，但没想到这个女儿[4]就是你。[5]你是怎么知道他的？[6]呃，已经是两个月前的事了……[7]当时，我帮你爸爸把鱼饵窜到[8]鱼钩上去，我记得是在湖边。[9]从那时起，在我巡逻空隙，我们就[10]经常有机会见面聊天。[11]爸爸会钓鱼？[12]当然了。虽然看起来还[13]很嫩呢。[14]正因如此，他没有掉到大鱼，鱼儿们[15]只是不断抢食着他的饵。[16]这个听上去可信。[17]Then again, not many people have caught[18]in the lake recently.[19]Anyway...[20]Your pops is a real funny guy.[21]Funny? My dad?[22]Yeah. As soon as he runs into something he's not[23]familiar with, it's like looking at a little kid.[24]The rest of the world might be long gone for all[25]he knows. All he cares about is that one thing.[26]He seems to have taken a liking to Lake Juliet[27]lately.[28]Every time I run into him, he asks me a whole[29]truckload of questions about the lake![30]</Translation>
+    <Translation>[0]罗宾斯博士？[1]这么说你知道我爸爸？[2]我想是的。[3]我知道他有个女儿，但没想到这个女儿[4]就是你。[5]你是怎么知道他的？[6]呃，已经是两个月前的事了……[7]当时，我帮你爸爸把鱼饵窜到[8]鱼钩上去，我记得是在湖边。[9]从那时起，在我巡逻空隙，我们就[10]经常有机会见面聊天。[11]爸爸会钓鱼？[12]当然了。虽然看起来还[13]很菜鸟。[14]正因如此，他没有掉到大鱼，鱼儿们[15]只是不断抢食着他的饵。[16]这还差不多。[17]而且，最近很少有人能在[18]这湖里钓到鱼。[19]好吧……[20]你爸爸可真是个有意思的人啊。[21]有意思？我爸爸？[22]是啊。每次他投入到一件不熟悉的事里，[23]就会表现得像个小孩一样。[24]这个时候整个世界就好像跟他没有关系，[25]他所关心的就只有那件事。[26]最近他好像对朱丽叶湖的一切都[27]很感兴趣，[28]每次碰到他，都会问我一大堆[29]关于这个湖的问题。[30]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1311,8 +1311,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AM1kAAoA</Command>
     </Commands>
     <Original>[0]Do you know the way to your pops' cottage?[1]Past the covered bridge, right?[2]Exactly. Turn right when you see the lake and[3]follow that path to the covered bridge.[4]There are a few cottages around there, but his[5]is the first one on the left. Pretty convenient.[6]First on the left...[7]That's right.[8]I'll let your pops know if I find your bag, okay?[9]Okay.[10]By the way, Ashley, I wanted to ask you[11]something.[12]Take a look at this photo.[13]You haven't seen this boy wandering around,[14]have you?[15]Yeah![16]Really?[17]Yeah.[18]He was in the guesthouse.[19]He got into the storage room and ate some[20]food they had stored there.[21]Well, I'll be...[22]I knew it. He must be around here then.[23]Why are you looking for him?[24]He's been reported as a [25]missing person[26].[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你知道去你爸爸的小屋的路么？[1]翻过廊桥就到了，对吗？[2]没错。看到湖以后往右拐，[3]顺着路一直走就能到廊桥了。[4]那里有挺多小屋的，但你爸爸的房子[5]是左手边第一栋，挺好认的吧。[6]左边第一栋……[7]没错。[8]如果我找到了你的包，也会告诉你爸爸的。[9]好的。[10]对了，阿修蕾，我正好要问你些[11]问题。[12]看看这张照片。[13]你应该没见过这个男孩在附近[14]游荡吧？[15]有见过啊！[16]真的？[17]对啊，[18]刚刚还在商店附近呢。[19]他跑到了储藏室，偷吃藏在[20]那里的东西。[21]嗯，那么……[22]我知道了，他一定还在附近。[23]你为什么要找他？[24]有人告诉我，说他[25]失踪[26]了。[27]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1340,8 +1339,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why was he reported missing?[1]He ran away from home.[2]Ran away?[3]Yep. A missing persons report was filed[4]yesterday, but he's been gone for three days...[5]On top of that, this isn't the first time he's run[6]away, either.[7]He's done it before?[8]He pulled the same trick last August too, but he[9]was eventually found around this area.[10]He's 13, and his name is Matthew Crusoe.[11]Let me know if you see him again, okay?[12]Got it.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为什么说他失踪了？[1]他之前离家出走了。[2]离家出走？[3]没错。昨天才来登记失踪的，[4]但是他已经出走三天了……[5]事实上，这也不是他第一次[6]离家出走了。[7]以前也干过这事？[8]去年八月也是这套把戏，最后是在[9]这个地方找到他的。[10]他叫马修·克鲁索，13岁。[11]再看到他的话，来告诉我好吗？[12]好的。[13]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
