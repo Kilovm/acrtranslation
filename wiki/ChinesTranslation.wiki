@@ -36,6 +36,9 @@
  * Crusoe Resort : 克鲁索度假村
  * covered bridge ：廊桥
  * Alfred Residence ：阿尔弗雷德公馆
+ * shack ：棚屋
+ * boathouse ：船屋
+
 = 物品名 =
 
  * pick case : 吉他拨片盒
