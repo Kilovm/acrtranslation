@@ -15,8 +15,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Judd's documents are no longer necessary.[1]Your last task is to find information relating to[2]mnemonic fluid."[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]"贾德的文档应该不需要了。[1]你最后的任务是找到[2]关于记忆流转的信息。”[3]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>

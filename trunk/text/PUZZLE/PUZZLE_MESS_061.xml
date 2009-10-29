@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The TAS goes here...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]TAS放在这里……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -22,8 +21,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay! That should do it...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的！这样就可以了……[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>

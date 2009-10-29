@@ -14,8 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ah! It bounced back![1]I've got to time this right...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊！弹回来了！[1]我得瞅准时机……[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -23,8 +22,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've got to time this right...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得瞅准时机……[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -32,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've almost got it...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]几乎就成功了……[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -42,8 +39,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yikes! That looks dangerous! Better not risk[1]it...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呀！看起来很危险！[1]还是不要冒险了……[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>

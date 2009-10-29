@@ -53,8 +53,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一！[1]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -62,8 +61,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Two![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]二！[1]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -72,8 +70,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, you've got to time it right![1]Okay, let's try it again...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你要看准时机！[1]好了，再试一次……[2]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -85,8 +82,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I shout "one", push the saw [1]towards me.[2]When I shout "two", pull it back[3]towards you, okay?[4]Okay, one more time...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我说“一”的时候[1]就往我这边推锯子。[2]我说“二”的时候[3]再向你那边拉，知道吗？[4]好的，再来一次……[5]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
