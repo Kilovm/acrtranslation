@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Just a little more...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再接再厉……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -23,8 +22,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Aha, it's starting to appear![1]Just a tiny bit more...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈，开始显现了！[1]再一点点就好……[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -32,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ow! Ow! Hot![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔！耶！太棒了！[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
