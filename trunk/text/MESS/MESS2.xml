@@ -1363,8 +1363,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCAAJAUlPUDAwNwAAAAoA</Command>
     </Commands>
     <Original>[0]Right, I'll head for the cottage.[1]Dad's probably there waiting for me by now.[2]Take care.[3]Will do![4]Oh, I forgot to say.[5]There's an old boathouse on the way to[6]your pops' cottage. It's closed right now.[7]Keep away from it.[8]Why?[9]Those troublesome types I was talking about[10]before, they hang out around there.[11]I saw a man in sunglasses there a while ago, too.[12]He might even be in cahoots with them.[13]Understood. I'll keep away from the[14]boathouse.[15]I'll take your word for it.[16]Now you take care.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，那我现在就去小屋。[1]爸爸现在可能已经在那里等我了。[2]当心点啊。[3]知道啦！[4]噢对了，差点忘了说，[5]在你去小屋的路上有个船屋，[6]现在应该关着。[7]不要靠近那里。[8]为什么？[9]我刚刚说的那些麻烦的人，[10]就在那附近。[11]之前我也在那里看到一个戴墨镜的男人。[12]他可能也是同谋噢！[13]了解！我会离那个船屋[14]远远地。[15]那我就放心了。[16]你自己当心点就行了。[17]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1389,8 +1388,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1398,8 +1396,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1407,8 +1404,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1416,8 +1412,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgcAAAMCWAoaBgAADAAKGgYAAAwAChoFAAAbCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1428,8 +1423,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg0AABUIAAAAAQAAAAoaDAAACAgBVAEAAAAKGg0AABUIAAAAAAAAAAoaDAAACAgBVQAAAAAKGgYAAC4BChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQAACQFFVkUwMDIAAAAKAA==</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]That way is off-limits.[3]Oh, right...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]那条路禁止通行。[3]哦，好吧……[4]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1439,8 +1433,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg0AABUIAAAAAQAAAAoaDAAACAgBVAEAAAAKGg0AABUIAAAAAAAAAAoaDAAACAgBVQAAAAAKGgYAAC4BChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dan...[1]The path to the burned-down villa is off-limits.[2]Got it.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹……[1]这条到之前烧毁别墅的路还禁止通行哦。[2]知道了。[3]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1450,8 +1443,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm?[1]Who's there?[2]Oh, it's Ryan and Elizabeth...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]谁在哪里？[2]噢，是莱恩和伊丽莎白……[3]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1460,8 +1452,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I have to give Ryan his briefcase.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我得把莱恩的公文包还给他。[2]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1473,8 +1464,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ryan.[1]Were you with Daddy on Wednesday night?[2]Wednesday night?[3]No, I was not with the director then.[4]Right...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿！莱恩。[1]周三的晚上你是跟我爸爸在一起的吗？[2]周三晚上？[3]不是啊，我是跟所长在一起的。[4]好吧……[5]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1496,8 +1486,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Ashley, what is it?[2]Did Dr Robins return?[3]No, he said he won't be back.[4]He won't be back?[5]Yeah, he's still busy at work.[6]So he said to head for his cottage.[7]I see.[8]So your camping trip is ending prematurely?[9]I dunno. Probably.[10]I see.[11]It is a pity, I had hoped we could talk for a[12]little longer.[13]Me too.[14]Oh, I brought your briefcase.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩！[1]阿修蕾啊，怎么了？[2]罗宾斯博士回来了吗？[3]没有，他说不会回来了。[4]不会回来？[5]说的，他还在忙工作呢。[6]所以要我直接去他的小屋。[7]明白了。[8]也就是说，你的这次露营就这么夭折了？[9]我也不知道……或许吧……[10]明白了。[11]真遗憾，我还希望我们能多[12]聊一会儿呢。[13]我也是啊。[14]噢对了，我把你的公文包带来了。[15]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1542,8 +1531,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here.[1]Thank you.[2]Ryan, was your briefcase that filthy before?[3]Look at it, it's just covered in someone's[4]grubby little fingerprints.[5]What?[6]This briefcase gets dirty very easily.[7]The front is plastic coated, which makes it quite[8]easy to leave finger marks on it.[9]Sorry for dirtying it.[10]Don't worry about it, Ashley.[11]Hmph.[12]Oh, did you find the music player?[13]Not yet.[14]We searched all around here, but there is still[15]no sign of it.[16]Ah...[17]Well, now that I no longer need to go back to[18]the campsite...[19]I'll stay here for a while to help Elizabeth search.[20]Ryan, are you done chatting?[21]I'm sure talking to Ashley is riveting and all,[22]but...[23]...![24]Elizabeth. Please wait your turn.[25]I shall help you once I have finished talking.[26]Fine.[27]Ashley, have you remembered anything else[28]since we talked last?[29]Nothing...[30]I want to remember everything from 13 years[31]ago, but...nothing's coming to me.[32]I see...[33]You haven't remembered any more about[34]Sayoko... Well, you were only three years old.[35]Needless to say, remembering events from[36]13 years ago must be quite a difficult challenge.[37]Yeah...[38]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]什么？[6]这个包很容易变脏啊。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起啊，把它弄脏了。[10]别在意，阿修蕾。[11]唔……[12]噢对了，找到音乐盒了吗？[13]还没呢。[14]我们都找遍这儿了，但还是没什么[15]线索。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]I'll stay here for a while to help Elizabeth search.[20]Ryan, are you done chatting?[21]I'm sure talking to Ashley is riveting and all,[22]but...[23]...![24]Elizabeth. Please wait your turn.[25]I shall help you once I have finished talking.[26]Fine.[27]Ashley, have you remembered anything else[28]since we talked last?[29]Nothing...[30]I want to remember everything from 13 years[31]ago, but...nothing's coming to me.[32]I see...[33]You haven't remembered any more about[34]Sayoko... Well, you were only three years old.[35]Needless to say, remembering events from[36]13 years ago must be quite a difficult challenge.[37]Yeah...[38]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
