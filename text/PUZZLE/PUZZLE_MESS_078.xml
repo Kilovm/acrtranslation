@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This brings back a few memories...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]勾起了我某些回忆……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -22,8 +21,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is nice and calming...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真是美丽而平静啊……[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -31,8 +29,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, this is really sweet...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，真不错……[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -40,8 +37,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I like this one![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我喜欢这个！[1]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -49,8 +45,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, wow...this is a really sad tune.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔……好悲伤的调调。[1]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -66,8 +61,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh? There's no sound...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？没有声音……[1]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>

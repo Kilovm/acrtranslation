@@ -14,8 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This isn't going to work...[1]I've got to do something![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这样是不行的……[1]我得想想办法！[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -24,8 +23,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]For this to work, the mirror needs to[1]be a little bit further away...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]要让这个起作用，[1]镜子得离远一点……[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -34,8 +32,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've got to push the mirror just a[1]tiny bit further back...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得把镜子[1]向后推一点点……[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -43,8 +40,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]All right! Now to try a different angle...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的！现在试试不同的角度……[1]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>

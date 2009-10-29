@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's a message on the screen...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]屏幕上信息……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -30,8 +29,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh? There's nothing here...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊？什么也没有……[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>

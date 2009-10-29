@@ -14,8 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]These two look like part of a set.[1]What am I supposed to do with them?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这两个好像是一对的。[1]能用它们做什么呢？[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -24,8 +23,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This reminds me of something...[1]Maybe...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这提醒了我一些事情……[1]也许……[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -33,8 +31,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Data transfer complete."[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“数据传输完毕。”[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -42,8 +39,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Remove upgrade module."[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“移除升级模块。”[1]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -52,8 +48,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I could try attaching this module to [1]the TAS...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我可以试试[1]把这个模块附加到TAS上……[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -62,8 +57,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Whoa![1]The cover opened...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哇！[1]盖子打开了……[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>

@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Shake well before use."[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“使用前请摇一摇。”[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -22,8 +21,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, why isn't anything coming out?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，怎么什么也没出来？[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -31,8 +29,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The numbers have disappeared...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]数字消失了……[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -40,8 +37,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nope, not that.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是那个。[1]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -51,8 +47,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]The stuff all over the panel, it's lipstick...[2]I can't even see the keypad with it like this.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊？[1]面板上到处都是唇膏……[2]这样我连键盘都看不清了。[3]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
