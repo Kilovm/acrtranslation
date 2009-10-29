@@ -15,8 +15,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mike! Are you okay?[1]Gina... She's in...Sofia's room...[2]Dr Robins' e-mail...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]迈克！你还好吗？[1]吉娜……她在……索菲亚的房间里……[2]罗宾斯博士的邮件……[3]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>

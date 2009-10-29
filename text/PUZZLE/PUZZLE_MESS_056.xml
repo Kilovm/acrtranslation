@@ -30,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh? It won't turn on...[1]What's wrong with it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊？打不开……[1]怎么回事？[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>

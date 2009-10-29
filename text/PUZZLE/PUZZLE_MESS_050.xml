@@ -6,8 +6,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Put some water in the test tube...[1]Now add the chemical up to the red line.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]放一些水到试管里……[1]再把药剂加到红线位置。[2]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -27,8 +26,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Easy Water Analysis Kit MS100P[1]This kit is designed to indicate the pH value of[2]a water sample.[3]The supplied reagent will determine if the[4]water is acidic or alkaline.[5]Fill to the grey line with water. Add the reagent[6]up to the red line. Shake gently.[7]Pink colour indicates alkalinity. Red indicates[8]acidity. Deep red indicates strong acidity.[9]If there is no change in colour, the sample is[10]pH neutral.[11]Too much reagent can result in unreliable[12]results. Please re-test the sample in this case."[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“简易水质分析包MS100P[1]该工具包用于测试[2]水质样本的pH值。[3]提供的试剂能够[4]显示水质的酸碱性。[5]加水至灰线位置。[6]添加试剂到红线位置。然后轻轻摇动。[7]粉红色代表碱性。[8]红色代表酸性。深红色为强酸性。[9]如果颜色没有变化，[10]则样本为pH中性。[11]试剂过量会影响结果准确性。[12]不慎过量请重新测试。”[13]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -45,8 +43,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. Put in too much of the [1]reagent...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额。[1]试剂放多了……[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -54,8 +51,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. Shouldn't have mixed those...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额。这些不应该放在一起的……[1]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -63,8 +59,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I think I got carried away there...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我好像有点失控……[1]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -72,8 +67,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here's an empty test tube.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是个空试管。[1]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -81,8 +75,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need more than that...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还需要更多……[1]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -90,8 +83,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, that's it![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，就这样！[1]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -99,8 +91,7 @@
       <Command>Ggb/AAAAChoFAAABChoIAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Have to hold the test tube upright...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]要竖直拿着试管……[1]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -108,8 +99,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Now, shake it gently...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在，轻轻摇动……[1]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -117,8 +107,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, this water is alkaline...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那，这水是碱性的……[1]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -126,8 +115,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, this water is acidic...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那，这水是酸性的……[1]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -135,8 +123,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, this water is strongly acidic...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那，这水是强酸性……[1]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -144,8 +131,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, this water is neutral...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那，这水是中性的……[1]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -153,8 +139,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This water isn't pure.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]水质不纯。[1]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -162,8 +147,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This water is pure![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]水质是纯净的！[1]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>

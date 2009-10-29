@@ -14,8 +14,7 @@
       <Command>ChoFAAABChoMAAAICQC1AAAAAAoaDQAAFQkAAAAAAAAAChoGAAAMAAoaBwAAAw2sChoMAAAICQAAAAAAAAoaDQAAFQkAAAAAAAAAChoGAAAMAAoaBwAAAw2sCgA=</Command>
     </Commands>
     <Original>[0]Very well, let us start the memory overwrite[1]experiment.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]很好，那我们开始[1]记忆覆写实验。[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -24,8 +23,7 @@
       <Command>ChoFAAABChoMAAAICQC1AAAAAAoaDQAAFQkAAAAAAAAAChoGAAAMAAoaBwAAAwfQChoMAAAICQAAAAAAAAoaDQAAFQkAaAAAAAAAChoGAAAMAAoaBwAAAwXcCgA=</Command>
     </Commands>
     <Original>[0]Scanning the experimental subject's memory[1]and the data from the mnemonic fluid...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]扫描实验对象的记忆[1]和记忆流的数据……[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -41,8 +39,7 @@
       <Command>ChoFAAABChoMAAAICQC1AAAAAAoaDQAAFQkAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Validation of memory data and subject's[1]memory complete.[2]I will now initiate the memory overwrite[3]experiment.[4]Selective memory deletion becomes possible once[5]Sayoko's memories are placed into your mind.[6]In other words, you will keep whichever[7]memory you most wish to - yours or Sayoko's.[8]Let the experiment begin...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]记忆数据[1]和对象记忆校验完成。[2]我现在就要启动[3]记忆覆写实验了。[4]一旦沙夜子的记忆植入你的大脑，[5]选择性记忆删除就成为可能。[6]换句话说，你可以选择你更想保留的记忆，[7]你的或者沙夜子的。[8]开始实验了……[9]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -51,8 +48,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! That's not my memory![1]It's Mom's...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！那不是我的记忆！[1]是妈妈的……[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -61,8 +57,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! I don't really remember that![1]That's Mom's memory...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！我并不记得这些！[1]那是妈妈的记忆……[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -71,8 +66,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! I don't really remember that![1]That's Mom's memory...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！我并不记得这些！[1]那是妈妈的记忆……[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -81,8 +75,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! That's not my memory![1]It's Mom's...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！那不是我的记忆！[1]那是妈妈的……[2]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -91,8 +84,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! I don't really remember that![1]That's Mom's memory...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！我并不记得那些！[1]那是妈妈的记忆……[2]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -101,8 +93,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! That's not my memory![1]It's Mom's...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！那不是我的记忆！[1]那是妈妈的……[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -111,8 +102,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No! I don't really remember that![1]That's Mom's memory...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不！我并不记得那些！[1]那是妈妈的记忆……[2]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -122,8 +112,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah... That was the night of my third[1]birthday, I peeked out of the closet at Mom...[2]That was the last time I ever saw her...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的…… 那是我三岁生日的晚上，[1]我偷偷从橱里看着妈妈……[2]那是我最后一次看到她……[3]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -134,8 +123,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's right... It was Dad who found me [1]hiding in that closet.[2]I remember he seemed so big when he lifted[3]me up, and it felt so warm...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错…… [1]是爸爸发现我在橱里的。[2]我还记得他抱起我时的感觉，[3]好高大……好温暖……[4]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -146,8 +134,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I remember... Whenever I thought about Mom,[1]I would get so sad I couldn't stop crying.[2]Jessica was always there for me, she'd stay[3]with me until I cried myself out...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我记得…… 每一次想到妈妈，[1]我都禁不住悲伤地哭泣。[2]杰西卡总是在身边陪着我，[3]直到我哭到不行……[4]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -158,8 +145,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah... Two years ago I got on a boat with[1]Jessica to Blood Edward Island.[2]I'll never forget my fourteenth birthday, there[3]on that island...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的…… 两年前我和杰西卡一起[1]乘船是布拉德爱德华岛。[2]那里，有我永远不会忘记的[3]我的14岁生日……[4]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -170,8 +156,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's right... Dad learned the truth about[1]Mom's death from her killer in that cave.[2]He was shaking with grief and rage, but he[3]did everything to protect me...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错…… 爸爸在悬崖边从杀死妈妈[1]的凶手那里知道了妈妈死因的真相。[2]伤心和愤怒一齐打击着他，[3]他却竭尽全力地保护这我……[4]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -182,8 +167,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah... After we got back from the island, and[1]Dad moved in with us, he was always like that.[2]So horribly awkward and always looking like[3]something was bothering him...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的…… 我们从布拉德爱德华岛回来之后，[1]爸爸和我们住在一起，他总是那样。[2]笨拙却又总是[3]显得心事重重……[4]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -194,8 +178,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's true... It's only when I'm practising [1]guitar that I can let go and forget everything.[2]And being with my friends who share my [3]dream...that's what I really treasure.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是这样的…… 只有在练习吉他的时候，[1]我才能放下自己暂时忘掉一切。[2]而和能一起分享梦想的朋友们在一起[3]……那确实是我最宝贵的时光。[4]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -204,8 +187,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]And so, the memory overwrite experiment is[1]complete.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]至此，[1]记忆覆写实验结束。[2]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
