@@ -1122,7 +1122,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVBwAAAAAAAAAKGgwAAAgHAMYAAAAAChoGAAAMAAoaDAAACAAAdwAAAAAKGg0AABUAAAAAAAAAAAoaCQAANQBqZAAKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]Gotta answer that.[2]Hang on a sec.[3]Hello?[4]Oh, hey. What's up?[5]Found it yet?[6]Ah, what a pain.[7]Forget it for now, just come back.[8]I'll keep an eye out for it.[9]See ya.[10]Drag, drag, drag.[11]Today's just getting [12]worse and worse[13].[14]</Original>
-    <Translation>[0]Huh?[1]Gotta answer that.[2]Hang on a sec.[3]Hello?[4]Oh, hey. What's up?[5]Found it yet?[6]Ah, what a pain.[7]Forget it for now, just come back.[8]I'll keep an eye out for it.[9]See ya.[10]Drag, drag, drag.[11]Today's just getting [12]worse and worse[13].[14]</Translation>
+    <Translation>[0]嗯？[1]我正在接电话[2]稍微等一下[3]喂？[4]哦，嘿，什么事？[5]找到了吗？[6]啊, 太糟了[7]忘了它，现在回来吧[8]我会密切注意的[9]再见[10]烦啊，烦啊，烦啊[11]今天真是变得 [12]越来越糟糕了[13]。[14]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -1137,8 +1137,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you mean by worse and worse?[1]You heard the call, right?[2]A friend of mine's off hunting for something[3]she lost.[4]And she's being a real drama queen about it.[5]Whine, whine, help me, whine. You know.[6]Seriously, Ash.[7]Are all girls this pushy?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]越来越糟？怎么了？[1]你也听到了，是吧？[2]我的一个朋友正在[3]寻找她丢失的东西[4]她现在真成了一个八卦女了[5]抱怨，抱怨，求救，哭泣，你知道[6]这可真烦，小蕾[7]难道所有的女孩都这么爱出风头？[8]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -1146,8 +1145,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No way![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当然不是！[1]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -1155,8 +1153,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Kinda[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一点……[1]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -1172,8 +1169,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We are not![1]Hey, sorry, sorry.[2]Forgot who I was talking to for a sec.[3]There isn't just ONE type of girl out there![4]So don't think we're all the same, because[5]we're not, okay?[6]Okay, okay. Not all the same, yeah, got it.[7]You'd better.[8]Don't sweat it, I gotcha.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们根本不是这样的！[1]啊，对不起，对不起[2]忘了我说的吧[3]女孩不是只有一种风格的！[4]所以不要以为我们都是一样的，[5]因为我们根本就不是这样， 知道了吗？[6]好吧， 好吧，不尽相同，唉， 我知道了[7]你最好明白不要发火了，我知道了[9]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1190,8 +1186,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, kinda.[1]Seriously? You think so too?[2]I do sometimes.[3]We have some amazing drama queens in my[4]class back at home.[5]Yeah?[6]They're so superficial. All they care about is[7]make-up and spreading rumours about people.[8]I can't stand people like that.[9]I bet.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊， 是有一点[1]当真？ 你也这么认为？[2]我有时也这样[3]我们放学的路上就有[4]好多聊八卦的疯子[5]真的？[6]他们真是太肤浅了， [7]只知道聊化妆品和散步谣言[8]我最受不了这样的人了[9]我也是[10]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
