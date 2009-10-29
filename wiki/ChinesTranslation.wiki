@@ -44,4 +44,4 @@
  * missing items report : 失物招领单
  * pendant : 挂饰
 = 专有名词 =
- * drama queen ：小题大做的人
+ * drama queen ：八卦女，聊八卦的疯子
