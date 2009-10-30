@@ -1199,8 +1199,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, your campsite.[1]Go through the gate, take the first right and[2]you can't miss it.[3]First right past the gate?[4]Bingo.[5]Hope you have a good time with your dad![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦对了，你们的营地[1]穿过大门, 第一个口右转[2]你不会找不到的[3]穿过大门第一个口右转？[4]答对了！[5]希望你能和你爸爸度过一段好时光[6]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1217,8 +1216,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yeah? Something up?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]啊？ 什么？[2]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1227,8 +1225,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I bet your dad's been looking forward to this,[1]so enjoy yourselves![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我打赌你爸爸一定很期待这次野营[1]好好享受吧！[2]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1236,8 +1233,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to ask Tommy where our campsite is.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我需要问问汤米营地在哪[1]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
