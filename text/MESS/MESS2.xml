@@ -1875,8 +1875,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQgAAAABAAAAChoMAAAICAFUAQAAAAoaDQAAFQgAAAAAAAAAChoMAAAICAFVAAAAAAoaBgAALgEKGgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]I thought I told you not to go to the mines.[3]Right...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]我应该告诉过你不要接近矿洞的。[3]没错……[4]</Translation>
   </Sentence>
   <Sentence id="134">
     <Commands>
@@ -1885,8 +1884,7 @@
       <Command>GgcAAAMD6BoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Huh?[1]There's a path off to the left too...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]这里还有条路到左边去……[2]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
@@ -1895,8 +1893,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's an old building...[1]Is it a shack?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是座老房子啊……[1]是棚屋吗？[2]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -1912,16 +1909,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]entrance[2] to the shack is [3]closed off.[4]Where'd that kid go?[5]This is a dead end...[6]Huh?[7]The entrance is closed off, but the door's just[8]leaning on the building...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个[1]门[2]是通向棚屋的，[3]现在关着。[4]那孩子去哪里了？[5]这里是死路……[6]嗯？[7]入口的关着，但是门却只是[8]靠着房子……[9]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="138">
     <Commands>
@@ -1929,8 +1924,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9SMDIxX0QAQkdNAAoA</Command>
     </Commands>
     <Original>[0]Got it! Now I can get in![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这样就对了！现在我能进去了！[1]</Translation>
   </Sentence>
   <Sentence id="139">
     <Commands>
@@ -1938,8 +1932,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't get it open...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我没法打开它……[1]</Translation>
   </Sentence>
   <Sentence id="140">
     <Commands>
@@ -1947,8 +1940,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个要怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="141">
     <Commands>
@@ -1956,8 +1948,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, one more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，再试一次！[1]</Translation>
   </Sentence>
   <Sentence id="142">
     <Commands>
@@ -1967,8 +1958,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nobody here...[1]Huh?[2]I think I heard something![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没人在这里……[1]嗯？[2]我好像听到什么声音！[3]</Translation>
   </Sentence>
   <Sentence id="143">
     <Commands>
@@ -1977,8 +1967,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]That noise again...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]又是那声音……[2]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -1992,8 +1981,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAAoaBgAADAAKGgUAAE0KGh8AAFoAcDAxX2Jhc2VfcDAxX291dGxpbmVfaGFuZAoaBgAADAAKGg0AABUAAAAAAQAAAAoaDAAACAABPgEAAAAKGhoAAEs6AHAwMV9iYXNlX1JfQXJtX0hhbmQKAA==</Command>
     </Commands>
     <Original>[0]There is a [1]teddy bear[2] on the ground [3]by the well.[4]Ah![5]I knew it! It's my teddy bear![6]I'm so glad I found it...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一只[1]泰迪熊[2]在井边的[3]地上。[4]啊！[5]我认得它！它是我的泰迪熊！[6]太好了……终于找到了……[7]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -2003,8 +1991,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9SMDIwX0QAM0RTAQoaEgAAGEFfUjAyMF9EADNEUwIKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]There's that noise again![2]Where's it coming from?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]又是那个声响！[2]这声音从哪儿传来的？[3]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -2016,8 +2003,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Help![1]It's coming from here.[2]Is someone in there?![3]Help...[4]Hold on a sec, I'll get you out![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]救命！[1]是从这里传来的。[2]有人在那里面？[3]救命……[4]再坚持一会儿，我马上把你弄出来！[5]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
@@ -2026,16 +2012,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Help![1]The voice is coming from the well...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]救命！[1]声音是从井里传来的……[2]</Translation>
   </Sentence>
   <Sentence id="148">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -2051,8 +2035,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
@@ -2107,8 +2090,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AM9kAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUEAAAAAAAAAAoaDAAACAQAYwAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Oh, phew...[1]I thought I'd be stuck in there forever![2]Are you crazy, hiding in there?[3]But...[4]But what?[5]It's the only hiding place I could get to...[6]You shouldn't even be hiding in the first place![7]Why were you taking food from the guesthouse[8]stores?[9]I was hungry...[10]I don't care how hungry you are, you shouldn't[11]steal food![12]Sorry...[13]I hadn't eaten since yesterday, I was starving...[14]Well, you were asking for it by running away[15]from home.[16]What?[17]How d'you know I ran away?[18]I just do.[19]I know a few things...Matthew Crusoe.[20]How d'you know my name?![21]Who told you?[22]I suppose I might as well tell you...[23]But first, you have to answer a few of my[24]questions. Got it?[25]Fine. Ask.[26]First, where did you get that teddy bear you[27]were carrying around?[28]Found it.[29]Found it?[30]Yeah. Over [31]where that place got burned down[32].[33]Second, how did you get into the guesthouse[34]storage room?[35]According to Tommy, that door's always[36]locked.[37]I just used my[38] ID card [39]to get in.[40]And the last question...[41]That dog that always stops me whenever I see[42]you... Is it yours?[43]Nah, just follows me around.[44]I dunno why, that [45]stray[46] just seems to like[47]me. It's not mine.[48]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢！呼……[1]我还以为会死在里面呢！[2]你疯了？躲在那里？[3]但是……[4]但是什么？[5]这是我唯一能躲得地方……[6]你首先就不应该想到躲起来啊！[7]为什么之前在商店里偷吃[8]东西？[9]我饿了……[10]不管你饿不饿，你也不能[11]偷东西啊！[12]对不起……[13]我从昨天开始就没吃东西……真的很饿了……[14]那又是你离家出走，[15]自讨苦吃。[16]什么？[17]你咋知道我离家出走的？[18]我就是知道。[19]我还知道一些事呢……马修·克鲁索。[20]你怎么还知道我的名字啊？[21]谁告诉你的？[22]我可以告诉你是谁说的……[23]但首先，你必须回答我的问题，[24]知道了吗？[25]好的，问吧。[26]首先，你从哪里得到[27]刚刚那只泰迪熊的？[28]是找到的。[29]找到的？[30]是的，就在[31]房子烧掉的那个地方[32]。[33]第二个问题，你是怎么进到[34]商店储藏室里的？[35]汤米说，那扇门平时一直[36]锁着的。[37]我就用了我的[38]ID卡[39]进去的。[40]那最后一个问题……[41]每次看到你的时候，都有条狗挡在[42]我面前……那是你的狗吗？[43]不啊，它老跟着我嘛。[44]不知道为什么，那只[45]迷路狗狗[46]好像蛮喜欢[47]我的，但不是我养的。[48]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
@@ -2132,8 +2114,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What were you saying about that place that [1]got burned down?[2]It's near the campsite gate.[3]Oh, where the villa used to be?[4]Yeah. I found that teddy bear there.[5]What was it doing there?[6]How should I know?[7]This is my teddy bear.[8]I had it in my bag when I got here.[9]Your bag?[10]Yeah. A white bag with Pinkie Rabbit on it.[11]Anyway...[12]Pinkie Rabbit?[13]Oh, that bag was there too, then.[14]What? You saw it?[15]Yeah, at the burned ruin place.[16]Hmm...[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你说被烧毁的地方[1]是在哪里呢？[2]就在营地大门附近啊。[3]噢，就是以前别墅的所在地。[4]是的，我就是在那里找到泰迪熊的。[5]它怎么会在那里呢？[6]我怎么知道啊？！[7]这是我的泰迪熊啊。[8]这只熊是我放在包里带来的。[9]你的包？[10]是的，一个白色的包包，上面还有一只粉粉兔。[11]大概就这样……[12]粉粉兔？[13]噢，那个包也在那里啊。[14]什么？你看到了？[15]是啊，就在被烧掉的地方。[16]唔……[17]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
@@ -2146,8 +2127,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You said that dog's a stray?[1]Yeah.[2]I saw it wandering around when I got here[3]yesterday.[4]I gave it something to eat and then bam! It[5]started following me.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你刚刚说那条狗迷路了？[1]对啊。[2]我昨天来这里的时候，看到它在附近[3]游荡。[4]我给它吃了点东西，然后它突然[5]就开始跟着我了。[6]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
