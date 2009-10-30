@@ -1109,7 +1109,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQQAGgcAABIFAAoaDQAAFQQAAAAAAAAAChoMAAAIBABjAAAAAAoA</Command>
     </Commands>
     <Original>[0]Elizabeth.[1]What?[2]You know that music player you were looking[3]for?[4]It's in a shack at the back of the campsite.[5]A shack?![6]What in the world is it doing there?[7]The music player in the shack?[8]Oh, that was yours?[9]Wait, how do you know about it?[10]I found it over by the mines.[11]I brought it back to the shack to listen to some[12]music, but there was no battery in it.[13]So I started throwing it around and it fell[14]behind some boxes.[15]You what?[16]I'm pretty sure it's yours.[17]And how do you know that?[18]Because I got the same kind of music player[19]from my dad.[20]Oh, really? [21]And what's it look like?[22]</Original>
-    <Translation>[0]伊丽莎白。[1]怎么了？[2]你认识你要找的那个音乐盒吗[3]？[4]它在营地背后的棚屋里。[5]棚屋？！[6]它怎么会在那儿？[7]棚屋里的音乐盒？[8]噢，那是你的？[9]等等，你怎么知道那个音乐盒的？[10]我在矿山上找到的。[11]我想把它带回棚屋用来听音乐的，[12]但是没电池了。[13]所以我就把它随便乱放，[14]最后掉在箱子后面了。[15]什么？[16]我敢肯定这是你的。[17]你怎么会知道的？[18]因为我从爸爸那里拿到的音乐盒[19]跟这个一样。[20]噢，真的吗？ [21]那是什么样的音乐盒？[22]</Translation>
+    <Translation>[0]伊丽莎白。[1]怎么了？[2]你认识你要找的那个音乐播放器吗[3]？[4]它在营地背后的棚屋里。[5]棚屋？！[6]它怎么会在那儿？[7]棚屋里的播放器？[8]噢，那是你的？[9]等等，你怎么知道那个播放器的？[10]我在矿山上找到的。[11]我想把它带回棚屋用来听音乐的，[12]但是没电了。[13]所以我就把它随便乱放，[14]最后掉在箱子后面了。[15]什么？[16]我敢肯定这是你的。[17]你怎么会知道的？[18]因为我从爸爸那里拿到的播放器[19]跟这个一样。[20]噢，真的吗？ [21]那是什么样的播放器？[22]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1182,7 +1182,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVBACCAAAAAIIKGgwAAAgEAIIAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Well, that's all I have to say.[1]Come on, Matt, let's go.[2]Hold on![3]What?[4]You're lying![5]Lying?[6]I've never been near the mines![7]Why the heck would my music player be over[8]there?[9]I swear, I found it by the mines.[10]Listen, kid, I don't trust you.[11]How do I know you didn't just steal it from me?[12]You did, didn't you?[13]I didn't![14]Elizabeth, how dare you![15]I don't steal things![16]So what's your name? Where are you from?[17]I, uh...[18]Thought so.[19]Won't even tell me your name? Sorry, I don't[20]believe a word you say.[21]There's a reason he can't say...[22]Oh, just tell the truth already.[23]Then we can just forget this whole thing.[24]I am telling the truth! I found it![25]Matt didn't steal it![26]</Original>
-    <Translation>[0]好吧，我想说的就是这些了。[1]马修，打起精神来，快走吧。[2]等下！[3]怎么了？[4]你在撒谎！[5]撒谎？[6]我从来没有靠近过矿山！[7]你说我的音乐盒怎么会出现在[8]那种地方？[9]我发誓，就是在矿山找到的。[10]听着小子，我不再相信你了。[11]我怎么知道你是不是从我那儿偷来的？[12]你是偷来的，对吧？[13]我没有！[14]伊丽莎白，你怎么能这样！[15]我没偷东西！[16]那你叫什么？你从哪儿来？[17]我，呃……[18]就是这样。[19]连名字都不打算告诉我？抱歉，我不会[20]相信你说的任何话[21]他不说是苦衷的……[22]噢，只要你说出真相。[23]我们可以既往不咎。[24]我说的就是真相！就是找到的！[25]马修没有偷音乐盒！[26]</Translation>
+    <Translation>[0]好吧，我想说的就是这些了。[1]马修，打起精神来，快走吧。[2]等下！[3]怎么了？[4]你在撒谎！[5]撒谎？[6]我从来没有靠近过矿山！[7]你说我的播放器怎么会出现在[8]那种地方？[9]我发誓，就是在矿山找到的。[10]听着小子，我不再相信你了。[11]我怎么知道你是不是从我那儿偷来的？[12]你是偷来的，对吧？[13]我没有！[14]伊丽莎白，你怎么能这样！[15]我没偷东西！[16]那你叫什么？你从哪儿来？[17]我，呃……[18]就是这样。[19]连名字都不打算告诉我？抱歉，我不会[20]相信你说的任何话[21]他不说是苦衷的……[22]噢，只要你说出真相。[23]我们可以既往不咎。[24]我说的就是真相！就是找到的！[25]马修没有偷播放器！[26]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1225,7 +1225,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Dad![2]So this is where you were. I was wondering[3]what was taking you so long.[4]Oh, Dr Robins, how nice to see you.[5]Hello, Elizabeth.[6]Ashley, I didn't know you'd made friends with[7]Elizabeth![8]As if I'd be friends with her![9]What?[10]But you were standing there talking together,[11]I thought you'd all made friends...[12]I really do not need friends like her.[13]Friends like her?[14]Ashley, why are you being so rude?[15]It's all right, Dr Robins.[16]You don't need to scold Ashley.[17]Elizabeth, I'm sorry.[18]She's not usually this rude to people. I can't[19]imagine what's gotten into her.[20]I understand, Dr Robins.[21]She's just started associating with a conniving[22]little boy she met at the campsite.[23]I can only imagine how much he's poisoned her[24]mind against me.[25]What?![26]Some child's manipulating Ashley?[27]Ashley, is this true?[28]</Original>
-    <Translation>[0]Ashley![1]Dad![2]So this is where you were. I was wondering[3]what was taking you so long.[4]Oh, Dr Robins, how nice to see you.[5]Hello, Elizabeth.[6]Ashley, I didn't know you'd made friends with[7]Elizabeth![8]As if I'd be friends with her![9]What?[10]But you were standing there talking together,[11]I thought you'd all made friends...[12]I really do not need friends like her.[13]Friends like her?[14]Ashley, why are you being so rude?[15]It's all right, Dr Robins.[16]You don't need to scold Ashley.[17]Elizabeth, I'm sorry.[18]She's not usually this rude to people. I can't[19]imagine what's gotten into her.[20]I understand, Dr Robins.[21]She's just started associating with a conniving[22]little boy she met at the campsite.[23]I can only imagine how much he's poisoned her[24]mind against me.[25]What?![26]Some child's manipulating Ashley?[27]Ashley, is this true?[28]</Translation>
+    <Translation>[0]Ashley![1]爸爸！[2]原来你在这里。我一直在想[3]什么事让你耽搁了这么久。[4]喔，罗宾斯博士，您好。[5]你好，伊丽莎白。[6]Ashley, 我都不知道你跟伊丽莎白已经[7]成为好朋友了！[8]好像我要跟她是朋友似的！[9]什么？[10]但是你们一直站那儿在聊天，[11]我以为你们已经是好朋友了……[12]我才不需要像她那样的朋友呢。[13]像她那样的朋友？[14]Ashley, 你怎么这么没礼貌？[15]罗宾斯博士，没关系的。[16]您不用责备阿修蕾。[17]伊丽莎白，我代她向你道歉。[18]她对人并不是这么粗鲁的。我不知道[19]她究竟遇到了什么事。[20]罗宾斯博士，我知道。[21]她只是最近跟一个在露营认识的很有心计的男孩[22]走的比较近。[23]我能想象的出他是如何让阿修蕾[24]对我产生敌对情绪的。[25]还有这种事？！[26]有人利用Ashley?[27]Ashley, 真的有这回事吗？[28]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -1233,8 +1233,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的[1]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1242,8 +1241,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不。[1]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -1255,8 +1253,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, it is.[1]What?![2]Seriously, Dad. No! You really think that'd[3]happen?[4]Well, no, but...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯，是的。[1]你说什么？！[2]说真的，爸爸。才不是！你真的[3]相信有这回事？[4]这个，不，但是……[5]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1267,8 +1264,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No![1]No?[2]Of course not![3]Really?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是的！[1]不是？[2]当然不是！[3]真的？[4]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1321,8 +1317,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad, just listen to me![1]Matt's not a liar![2]Matt? Who's Matt?[3]Me...[4]Oh, you're Matt?[5]Yeah, he's my friend.[6]And Elizabeth's giving him the third degree on[7]everything he says![8]"Third degree"?[9]Matt, have you done anything to warrant this[10]third degree?[11]I haven't done anything![12]Dr Robins...[13]That child stole my music player.[14]He what?[15]That's right. He stole it.[16]He stole my music player and now he's lying[17]about it.[18]I told him I'd forgive him if he were to[19]apologise, but he refuses.[20]Matt, is this true?[21]...![22]Look at him, he won't answer. A sure sign of[23]guilt.[24]Well, Matt?[25]...![26]Well?[27]If you don't say anything, I won't know if you're[28]telling the truth or not.[29].....[30]Dad, just shut up![31]Ashley...[32]Why are you believing everything Elizabeth[33]says and attacking Matt?[34]He hasn't done anything wrong![35]Ashley, I'm not attacking him, I just want to...[36]You're always the same![37]What?[38]You never listen to anyone![39]You never keep a single promise![40]Ashley, just calm down for a second...[41]I come to see you and then you just disappear[42]off again![43]You're the worst dad in the entire world![44]Ashley![45]That's enough![46]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，你听我说！[1]马修不是那种爱说谎的人！[2]马修？谁是马修？[3]是我……[4]恩，你就是马修？[5]是的，他是我朋友。[6]伊丽莎白对他说的一切都[7]严厉质询！[8]“严厉的质询”？[9]马修，你做了什么事招来这些[10]质询？[11]我什么都没做过！[12]罗宾斯博士……[13]那孩子偷了我的音乐播放器。[14]他？[15]正是。就是他偷的。[16]他偷了播放器，现在又[17]在狡辩。[18]我跟他说只要他认错这事就算了，[19]但是他拒不承认。[20]马修，是这样的吗？[21]……！[22]看吧，他都不说话。很明显[23]他有负罪感。[24]呃，马修？[25]……！[26]嗯？[27]If you don't say anything, I won't know if you're[28]telling the truth or not.[29].....[30]Dad, just shut up![31]Ashley...[32]Why are you believing everything Elizabeth[33]says and attacking Matt?[34]He hasn't done anything wrong![35]Ashley, I'm not attacking him, I just want to...[36]You're always the same![37]What?[38]You never listen to anyone![39]You never keep a single promise![40]Ashley, just calm down for a second...[41]I come to see you and then you just disappear[42]off again![43]You're the worst dad in the entire world![44]Ashley![45]That's enough![46]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
