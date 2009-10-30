@@ -19,8 +19,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I asked Mrs Graham to let me go into the clock[1]tower.[2]I found the three keys, so she let me borrow[3]them.[4]Matt... We can look around in the clock tower[5]now.[6]Maybe we can find some answers in there.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我向格雷厄姆太太要求允许我进[1]钟楼。[2]我发现了那三把钥匙，所以她也同意我借走[3]钥匙。[4]马修...我们可以调查钟楼内部了[5]现在。[6]也许我们可以在那里找到一些答案。[7]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -59,8 +58,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Mrs Graham, how do you start the clock[1]running?[2]I wouldn't know something like that, dear.[3]You...don't know?[4]It's a Graham family secret, so it's not just told[5]to anyone who wants to know.[6]My father, Benjamin, passed on the secret to[7]my husband.[8]And he passed it on to Olivia.[9]So it completely skipped me. I don't know how[10]to start it up.[11]So how am I supposed to make it work?[12]I'm sure that my father left the instructions[13]written down somewhere in the clock tower.[14]So if you find them, you can work out how to[15]start the clock again yourself.[16]I hope so...[17]Ashley, you're a plucky one, I know you can[18]do it.[19]And remember, the sword key is the one that[20]opens the clock tower door.[21]Got it.[22]All right, I'll go there right now.[23]Good luck, dear.[24]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格雷厄姆太太，你是怎样让这个大钟[1]启动的？[2]我并不知道那些事，亲爱的。[3]你...不知道？[4]这是格雷厄姆家族的秘密，不会随随便便的乱说给[5]想知道的外人听的。[6]我父亲本杰明把这个秘密传给了[7]我丈夫。[8]而他把这个秘密又传给奥利维亚。[9]在秘密传递过程中我被略过。所以我不知道[10]怎样启动它。[11]那我要怎样做才能启动它啊？[12]我确信我父亲留下来的说明书[13]在钟楼的某个地方。[14]如果你找到说明，你自己就可以弄明白[15]怎样再一次启动这个大钟了。[16]希望如此...[17]阿修蕾，你是个勇敢的人，我相信你能[18]做到的。[19]还有，记住剑之钥匙是用来[20]打开钟楼大门的。[21]了解。[22]好了，我现在出发去钟楼。[23]祝你好运，亲爱的。[24]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -73,8 +71,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]I'm sure that my father left the instructions[1]written down somewhere in the clock tower.[2]And remember, the sword key is the one that[3]opens the clock tower door.[4]Good luck, Ashley.[5]I'll head right there.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我确信我父亲留下来的说明[1]在钟楼的某个地方。[2]还有，记住剑之钥匙是用来[3]打开钟楼大门的。[4]祝你好运，阿修蕾。[5]等一下我会过去的。[6]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -83,8 +80,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Where are you going?[1]Aren't you going to the clock tower?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要上哪去啊？[1]你不是要去钟楼吗？[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -102,8 +98,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I wonder how Matt is...[1]I hope his fever's gone down.[2]I'd best drop by and check on him.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想知道马修怎样了...[1]我希望他的烧退了。[2]我最好顺便去看看他。[3]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -115,8 +110,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Welcome to Bob's![1]Oh, hi there, Ashley.[2]Bob, thanks for the recommendation.[3]Mrs Graham gave me a recipe for the medicine.[4]Hey, no problem kid, that's good to hear.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]欢迎来鲍勃小店！[1]噢，你好啊，阿修蕾。[2]鲍勃，谢谢你的介绍。[3]格雷厄姆夫人给了我一个药方。[4]嘿，没必要道谢，我很高兴听到好消息。[5]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -125,8 +119,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Next time bring your friend along too![1]Okay...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]下次也带你朋友一起来！[1]好的...[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
