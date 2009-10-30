@@ -84,7 +84,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]You really think the test tube kit might be here[2]in this room?[3]</Original>
-    <Translation>[0]嘿，阿蕾。[1]你真认为那个试管套装会在这间[2]屋子里？[3]</Translation>
+    <Translation>[0]嘿，小蕾。[1]你真认为那个试管套装会在这间[2]屋子里？[3]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -93,7 +93,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Let's look around a bit more.[2]</Original>
-    <Translation>[0]嘿，阿蕾。[1]我们看看别处吧。[2]</Translation>
+    <Translation>[0]嘿，小蕾。[1]我们看看别处吧。[2]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -129,7 +129,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blue box[2] in the drawer.[3]What's this?[4]I'll take a look.[5]There's something written on the inside.[6]"Easy Water Analysis Kit MS100P[7]This kit is designed to indicate the pH value of[8]a water sample.[9]The supplied reagent fluid will determine if the[10]water is acidic or alkaline."[11]So it's a water pH testing kit...[12]"Fill to the grey line with water. Add the reagent[13]up to the red line. Shake gently.[14]Pink indicates alkalinity. Red indicates acidity.[15]Deep red indicates strong acidity.[16]If there is no change in colour, the sample is[17]pH neutral.[18]Too much reagent can result in unreliable [19]results. Please re-test the sample in this case."[20]It's got a test tube and a small bottle in it.[21]Found something, Ash?[22]Yeah, there was a water testing kit in the[23]drawer here.[24]So we can use that to check the lake water?[25]Yep. C'mon, let's head for the mermaid statue.[26]Right![27]But remember, I promised not to go to the clock [28]tower.[29]</Original>
-    <Translation>[0]抽屉里[1]有一个[2]蓝色的盒子。[3]里面有什么？[4]等我打开看看。[5]里面似乎写着些什么。[6]“简易水样分析套件 MS100P[7]本套件可以用来显示水样的[8]PH值。[9]配套的液体试剂可测定出水样的[10]酸碱性。”[11]原来是水质PH测试套件……[12]“将水填至灰色刻度线。加入试剂[13]至红色刻度线。轻轻摇晃。[14]粉色代表碱性。红色代表酸性。[15]深红代表强酸性。[16]如果颜色没有发生变化，则水样[17]呈中性。[18]过多的试剂会导致结果 [19]不稳定。如果结果不稳定，请重新测试水样。”[20]里面附有一个试管和小瓶子。[21]发现什么了吗，阿蕾？[22]嗯，抽屉里有一个[23]水样测试套件。[24]那么我们可以用这个测一下湖水吧？[25]是啊。走，去美人鱼雕像。[26]好！[27]不过别忘了，我承诺过不去 [28]钟楼的。[29]</Translation>
+    <Translation>[0]抽屉里[1]有一个[2]蓝色的盒子。[3]里面有什么？[4]等我打开看看。[5]里面似乎写着些什么。[6]“简易水样分析套件 MS100P[7]本套件可以用来显示水样的[8]PH值。[9]配套的液体试剂可测定出水样的[10]酸碱性。”[11]原来是水质PH测试套件……[12]“将水填至灰色刻度线。加入试剂[13]至红色刻度线。轻轻摇晃。[14]粉色代表碱性。红色代表酸性。[15]深红代表强酸性。[16]如果颜色没有发生变化，则水样[17]呈中性。[18]过多的试剂会导致结果 [19]不稳定。如果结果不稳定，请重新测试水样。”[20]里面附有一个试管和小瓶子。[21]发现什么了吗，小蕾？[22]嗯，抽屉里有一个[23]水样测试套件。[24]那么我们可以用这个测一下湖水吧？[25]是啊。走，去美人鱼雕像。[26]好！[27]不过别忘了，我承诺过不去 [28]钟楼的。[29]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -138,7 +138,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Weren't we going to the mermaid statue?[2]</Original>
-    <Translation>[0]阿蕾……[1]我们不是要去美人鱼雕像吗？[2]</Translation>
+    <Translation>[0]小蕾……[1]我们不是要去美人鱼雕像吗？[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -147,7 +147,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]I can't go this way...[2]</Original>
-    <Translation>[0]阿蕾……[1]我不能走这条路……[2]</Translation>
+    <Translation>[0]小蕾……[1]我不能走这条路……[2]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -206,7 +206,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can see you![1]So Connect really does bring up pictures[2]from the security cameras...[3]It's okay now, Matt![4]Well?[5]Yep, I saw you from the security camera.[6]Oh yeah, that's me![7]Awesome![8]Your dad's machine can do everything![9]Okay, now you go stand by the statue.[10]Sure.[11]Ash![12]Hey Ash, try looking at the DAS![13]It should have you this time![14]Yeah, I'll check the Connect feed.[15]</Original>
-    <Translation>[0]我看到你了！[1]看来图像就是从这个监视器[2]传过来的……[3]可以了，马修！[4]怎么样？[5]没错，我从监视器里看到你了。[6]哦，的确是我啊！[7]真棒！[8]你爸爸的机器简直是万能的！[9]好了，现在你过去站到雕像旁边试试。[10]没问题。[11]阿蕾！[12]嘿，阿蕾，看看DAS！[13]这次应该能看到你在画面上面了！[14]好，我看看连接数据。[15]</Translation>
+    <Translation>[0]我看到你了！[1]看来图像就是从这个监视器[2]传过来的……[3]可以了，马修！[4]怎么样？[5]没错，我从监视器里看到你了。[6]哦，的确是我啊！[7]真棒！[8]你爸爸的机器简直是万能的！[9]好了，现在你过去站到雕像旁边试试。[10]没问题。[11]小蕾！[12]嘿，小蕾，看看DAS！[13]这次应该能看到你在画面上面了！[14]好，我看看连接数据。[15]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -236,7 +236,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoA</Command>
     </Commands>
     <Original>[0]Did the DAS feed just not update?[1]Matt, can you try standing over there again?[2]I just want to see if it's stopped updating the[3]feed.[4]Yeah, sure.[5]Go for it, Ash![6]Okay, hold on![7]Right, I'll check the Connect feed again.[8]</Original>
-    <Translation>[0]是不是DAS的数据还没更新？[1]马修，你能再去站一下吗？[2]我想看看是不是数据[3]没有更新。[4]当然，没问题。[5]试试看，阿蕾！[6]好，等一下！[7]那么，再来检查一下连接数据。[8]</Translation>
+    <Translation>[0]是不是DAS的数据还没更新？[1]马修，你能再去站一下吗？[2]我想看看是不是数据[3]没有更新。[4]当然，没问题。[5]试试看，小蕾！[6]好，等一下！[7]那么，再来检查一下连接数据。[8]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -287,7 +287,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]I got it![2]Yeah?[3]I figured out why it didn't take any pictures of[4]you![5]Really?[6]It must be the DAS![7]I bet it sends out some kind of interference to[8]stop the camera taking your picture.[9]Interference?[10]What makes you think that?[11]It was in this TV show I saw.[12]A...TV show.[13]Yeah![14]The hero was sneaking into the bad guy's[15]hideout, right?[16]And he had a thing that sent out interference[17]waves.[18]So the security cameras didn't show him at all.[19]So the bad guy didn't see him and...[20]Interference waves?[21]For sure, that's what it is.[22]Ask your dad when he gets back.[23]Yeah, I should.[24]Anyway, now that you've worked out the[25]Connect thing,[26]let's check out the water with the testing kit.[27]Right.[28]</Original>
-    <Translation>[0]嘿，阿蕾！[1]我知道了！[2]知道什么？[3]我知道为什么监视器没有拍下[4]你了！[5]真的？[6]一定和DAS有关！[7]我敢打赌一定是DAS发出某种干扰信号[8]阻止监视器拍下你。[9]干扰信号？[10]你怎么会这么想？[11]我在电视节目里看到过。[12]电视节目……[13]没错！[14]知道吗，主人公英雄潜入坏蛋的[15]老巢。[16]他有一个能够发射干扰电波[17]的东西。[18]这样一来监视器就会完全无视他。[19]那些坏蛋也就不会看到他了，之后……[20]干扰电波？[21]没错，一定是的。[22]等你爸爸回来问问他。[23]嗯，我会的。[24]不论怎样，你现在已经知道连接[25]是从哪里来的了，[26]我们用测试套件来检查一下水吧。[27]好吧。[28]</Translation>
+    <Translation>[0]嘿，小蕾！[1]我知道了！[2]知道什么？[3]我知道为什么监视器没有拍下[4]你了！[5]真的？[6]一定和DAS有关！[7]我敢打赌一定是DAS发出某种干扰信号[8]阻止监视器拍下你。[9]干扰信号？[10]你怎么会这么想？[11]我在电视节目里看到过。[12]电视节目……[13]没错！[14]知道吗，主人公英雄潜入坏蛋的[15]老巢。[16]他有一个能够发射干扰电波[17]的东西。[18]这样一来监视器就会完全无视他。[19]那些坏蛋也就不会看到他了，之后……[20]干扰电波？[21]没错，一定是的。[22]等你爸爸回来问问他。[23]嗯，我会的。[24]不论怎样，你现在已经知道连接[25]是从哪里来的了，[26]我们用测试套件来检查一下水吧。[27]好吧。[28]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -306,7 +306,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This, Ash?[1]</Original>
-    <Translation>[0]阿蕾，是这个吗？[1]</Translation>
+    <Translation>[0]小蕾，是这个吗？[1]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -405,7 +405,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, how'd it go?[1]Matt...[2]I think the lake water's been polluted.[3]Really?[4]I think so.[5]It looks clean, but the test definitely shows a[6]reaction.[7]Why's it been polluted?[8]No idea.[9]But Dan was saying that the lake water is[10]famous for being clean.[11]Does everyone know that there's all this...stuff[12]in the water?[13]</Original>
-    <Translation>[0]阿蕾，结果怎么样？[1]马修……[2]看来这部分湖水被污染了。[3]真的？[4]我想是的。[5]虽然湖水看起来很纯净，但是测试结果显示的是[6]污染反应无疑。[7]污染的原因呢？[8]不知道。[9]不过丹曾经说过这谭湖水可是[10]出了名的纯净。[11]大家知道湖水里有这种……东西[12]吗？[13]</Translation>
+    <Translation>[0]小蕾，结果怎么样？[1]马修……[2]看来这部分湖水被污染了。[3]真的？[4]我想是的。[5]虽然湖水看起来很纯净，但是测试结果显示的是[6]污染反应无疑。[7]污染的原因呢？[8]不知道。[9]不过丹曾经说过这谭湖水可是[10]出了名的纯净。[11]大家知道湖水里有这种……东西[12]吗？[13]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -458,7 +458,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]What do we do now?[2]Hmm...[3]How about we take the kit and test the water[4]somewhere else?[5]Okay![6]</Original>
-    <Translation>[0]阿蕾……[1]我们现在怎么办？[2]嗯……[3]试试用套件测试一下别处的湖水[4]怎么样？[5]好！[6]</Translation>
+    <Translation>[0]小蕾……[1]我们现在怎么办？[2]嗯……[3]试试用套件测试一下别处的湖水[4]怎么样？[5]好！[6]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -483,7 +483,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]C'mon, test the water![2]</Original>
-    <Translation>[0]阿蕾！[1]来啊，测试一下水样！[2]</Translation>
+    <Translation>[0]小蕾！[1]来啊，测试一下水样！[2]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -519,7 +519,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Let's try the water somewhere else too.[2]</Original>
-    <Translation>[0]阿蕾……[1]咱们再去试试别处的湖水吧。[2]</Translation>
+    <Translation>[0]小蕾……[1]咱们再去试试别处的湖水吧。[2]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -529,7 +529,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Are you sure we shouldn't go back to your[2]dad's?[3]</Original>
-    <Translation>[0]嘿，阿蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
+    <Translation>[0]嘿，小蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -539,7 +539,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Are you sure we shouldn't go back to your[2]dad's?[3]</Original>
-    <Translation>[0]嘿，阿蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
+    <Translation>[0]嘿，小蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -549,7 +549,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Are you sure we shouldn't go back to your[2]dad's?[3]</Original>
-    <Translation>[0]嘿，阿蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
+    <Translation>[0]嘿，小蕾。[1]我们真的不回去你爸爸的[2]小屋看一看吗？[3]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -612,7 +612,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGhYBAAsxAAQAEQFDX1IwMTFfRAAAAAoaBgAADAAKGgcAAAMH0AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoGAAAMAAoaBwAAAwPoChodAAAFV1NEX1NFX0RPT1JfV09PRF9DTE9TRQAAChoSAAAYQ19SMDEwX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]I'm pretty tired...[1]Me too.[2]Hey, Ash...[3]Yeah?[4]Someone's here.[5]Ashley? Are you home?[6]It's me. Dan Maxwell.[7]...![8]</Original>
-    <Translation>[0]我太累了……[1]同感。[2]嘿，阿蕾……[3]嗯？[4]这有人。[5]阿修蕾，你在家吗？[6]是我。丹·玛克斯韦尔。[7]……！[8]</Translation>
+    <Translation>[0]我太累了……[1]同感。[2]嘿，小蕾……[3]嗯？[4]这有人。[5]阿修蕾，你在家吗？[6]是我。丹·玛克斯韦尔。[7]……！[8]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -629,7 +629,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll hide in here, Ash.[1]Keep quiet about me, OK?[2]You got it.[3]</Original>
-    <Translation>[0]我就躲在这儿，阿蕾。[1]不要告诉他有关我的事情，行吗？[2]放心吧。[3]</Translation>
+    <Translation>[0]我就躲在这儿，小蕾。[1]不要告诉他有关我的事情，行吗？[2]放心吧。[3]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -859,8 +859,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go water testing now, I have to sort out[1]this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在还不能去检测湖水，我得先整理[1]一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -876,8 +875,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go water testing now, I have to sort out[1]this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在还不能去检测湖水，我得先整理[1]一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -886,8 +884,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go water testing now, I have to sort out[1]this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在还不能去检测湖水，我得先整理[1]一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -903,8 +900,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go water testing now, I have to sort out[1]this bag stuff...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在还不能去检测湖水，我得先整理[1]一下这个大家伙……[2]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -914,7 +910,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMD6AoaDgAAOTsAAAAAWgAAAAoaBgAADAAKGgcAAAMD6AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoGAAAMAAoaBwAAAwPoChoJAAAxCA+gAAoaCAAAOwgBAAoaBgAAVwgKGgYAAAwAChoHAAADA+gKGg4AADk7AABaAAAAAAAKGgYAAAwAChoHAAADA+gKGh0AAAVXU0RfU0VfRE9PUl9XT09EX0NMT1NFAAAKGgYAAAwAChoHAAADAfQKGggAADsIAAAKGhUAAARTVFJNX0JHTV8xMAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Who is it?[1]Ashley, it's Dan.[2]Come in![3]</Original>
-    <Translation>[0]谁啊？[1]是我，丹。[2]请进！[3]</Translation>
+    <Translation>[0]是谁啊？[1]是我，丹。[2]请进！[3]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -1012,7 +1008,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDEKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAxX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]A contest flyer![1]"Be the Band![2]Wanna be a rock star? Want your songs to[3]change the world? Then write a song that will[4]stop time and space! Take the world by storm!"[5]I'm there![6]</Original>
-    <Translation>[0]一张比赛传单！[1]“来组建世界瞩目的乐队吧！[2]想成为摇滚明星吗？梦想用你的歌[3]改变世界吗？那还不赶紧动笔，写一首[4]凝固时空、席卷世界的神作吧！"[5]我不是鲍勃·迪伦！[6]</Translation>
+    <Translation>[0]一张比赛传单！[1]“巅峰乐队！[2]想成为摇滚明星吗？梦想用你的歌[3]改变世界吗？那还不赶紧动笔，写一首[4]凝固时空、席卷世界的神作吧！"[5]我会去参加的！[6]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1025,8 +1021,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDIKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAyX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]I brought this T-shirt as a change of clothes.[1]There is a worn and faded[2] T-shirt[3].[4]This is one of my favourites, but I haven't worn[5]it in ages...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这件T恤是我带来做换洗衣服的。[1]一件用旧的褪色[2] T恤[3]。[4]这件是我最喜欢的衣服之一，不过我有好几年[5]没穿过了……[6]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1041,8 +1036,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDMKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAzX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAzX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAzX29mZgoA</Command>
     </Commands>
     <Original>[0]Wow, my wallet's still here![1]There is a wallet with [2]20 dollars [3]and[4]a[5] student ID[6] inside.[7]Phew... I'm glad my student ID's still here.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，我的钱包还在！[1]一个装有 [2]20美元 [3]和[4]一张[5] 学生卡[6] 的钱包。[7]呼……学生卡没丢真是太好了。[8]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1054,8 +1048,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]And what else...[1]What the...?![2]My pick case is gone![3]Oh man...just my luck that this one thing would[4]go missing![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还有什么呢……[1]怎么……？！[2]我的吉他拨片盒不见了！[3]唉……真倒霉，偏偏是拨片盒[4]不见了！[5]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1063,8 +1056,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Check everything's still there.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]检查一下是否包里少了什么。[1]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1089,8 +1081,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZNkAAoA</Command>
     </Commands>
     <Original>[0]Ashley, is everything in there?[1]Not everything...[2]What's missing?[3]My pick case is gone![4]Your pick case, you say?[5]Well, ain't that a bother? So there was[6]something missing after all.[7]Dan, where did you find my bag?[8]In an empty lot around here.[9]An empty lot?[10]Yeah. I never thought your bag would end up[11]somewhere like that[12], though...[13]To tell you the truth, I wasn't actually the one[14]who found your bag.[15]It was [16]Bob[17].[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，东西都在吧？[1]不是都在……[2]少了什么？[3]我的拨片盒不见了！[4]啥，拨片盒？[5]啊，这还真是个麻烦。到底还是有东西[6]丢了。[7]丹，你是在哪找到的我的包的？[8]这附近的一块空地。[9]空地？[10]是啊。谁能想到你的包[11]会在那种地方[12]，不过确实……[13]跟你说实话吧，不是我[14]发现了你的包。[15]是 [16]鲍勃[17]。[18]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1103,8 +1094,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZRkAAoA</Command>
     </Commands>
     <Original>[0]Somewhere like where? Is there something[1]special about where you found my bag?[2]It was on the ground by that[3] half-built cottage[4].[5]Kinda odd anyone would be 'round there.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那种地方？我的包被[1]发现的地点有什么特别的吗？[2]当时包就在那个[3] 废弃小屋一旁的地上[4]。[5]有点奇怪，一般没人会去哪的。[6]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1120,8 +1110,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who's Bob?[1]He owns the local diner.[2]He picked up your bag and let me know he'd[3]found it.[4]That's not the diner over by the roundabout,[5]is it?[6]That's the one.[7]They do some of the finest burgers you'll ever[8]have. Even your pops is a regular there.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]鲍勃是谁？[1]他在这儿开着一家小餐馆.[2]是他捡了你的包，然后告诉[3]我的。[4]是不是经过旋转平台就能[5]看到的那个餐馆？[6]就是那个。[7]他们那的牛肉饼可是[8]举世无双。你老爸还经常去吃一顿哪。[9]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1138,8 +1127,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why is there a half-built cottage?[1]Remember when I told you about the resort[2]company that was here?[3]Crusoe Resort, right?[4]That's right.[5]When the company shut down, some cottages[6]were still only half built.[7]There's one around here, still covered in[8]scaffolding.[9]And your bag was just lying there beside it.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那儿怎么会有一个废弃的小屋？[1]还记得我跟你说过的那个[2]旅游公司吧？[3]克鲁索度假村？[4]对。[5]那家公司倒闭的时候，一些别墅[6]还没盖完。[7]那边就有一个，[8]脚手架都还没撤下来。[9]你的包就躺在那栋废屋旁的地上。[10]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1160,16 +1148,14 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGg4BAAs2AQgACAEAAAAKGgYAAAwAChoHAAARAAAaBwAAEggAChoNAAAVAACIAAAAAAAKGgwAAAgAAIgAAAAAChoNAAAVCAAAAAAAAAAKGgwAAAgIACsAAAAAChocAAAFV1NEX1NFX0RPT1JfV09PRF9PUEVOAAAKGg4AADk7AAAAAHcAAAAKGgYAAAwAChoHAAADBdwKGggAABoAAAwKGgYAAAwAChoHAAADC7gKGgYAAAwAChoHAAARAAAaBwAAEggAChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]I still don't understand why the thief took your[1]bag...[2]Maybe they were after the pick case?[3]Ashley, you have any bright ideas?[4]Not a clue. Sorry.[5]Not to worry.[6]Well, I'll take a look around for your pick case...[7]But I must say, miss, I don't know how much[8]luck I'll have.[9]Yeah, it's pretty small.[10]Right, Ashley, I'd better be on my way.[11]Okay... And Dan, thanks for bringing back my[12]bag.[13]No problem, Ashley.[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还不明白，偷你的包[1]有什么用……[2]或许他们就是想拿走那个拨片盒？[3]阿修蕾，你有什么线索吗？[4]很遗憾，没有。[5]别着急。[6]我去周围转转，看能不能找到你的拨片盒……[7]不过事先声明，小姐，我可不能保证[8]找到啊。[9]嗯，毕竟盒子太小了。[10]好了，阿修蕾，我最好现在就开始行动了。[11]嗯…… 丹，谢谢你把我的背包[12]带过来。[13]举手之劳。[14]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
       <Command>Gh0AAAVXU0RfU0VfRE9PUl9XT09EX0NMT1NFAAAKGgYAAAwAChoOAQALEAEAAAAAAAAAChoHAABJA+gKGgYAAAwAChoHAAADA+gKGhwAAARTVFJNX0JHTV9ST09NX0FSRUEAAAAAAAoaBgAADAAKGgcAAAMD6AoaBgAADAAKGgkAAEYBAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1180,8 +1166,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABNAQAAAAoaBgAADAAKGgcAAGkANQoA</Command>
     </Commands>
     <Original>[0]Right.[1]I'll put my stuff down here.[2]My teddy bear's gotten pretty dirty...[3]Gotta practise some more for the contest...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了。[1]把东西放在这吧。[2]我的泰迪熊变得这么脏……[3]为了比赛，得多多练习练习……[4]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1189,8 +1174,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABNAQAAAAoaBgAADAAKGgcAAGkANwoA</Command>
     </Commands>
     <Original>[0]I hope you like this, Jessica...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]希望你会喜欢，杰西卡……[1]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1198,8 +1182,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABNAQAAAAoaBgAADAAKGgcAAGkAOAoA</Command>
     </Commands>
     <Original>[0]Better make sure this doesn't break...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]最好确认一下这个还没坏……[1]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1207,8 +1190,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABNAQAAAAoaBgAADAAKGgcAAGkAOQoA</Command>
     </Commands>
     <Original>[0]Maybe I should've got a different colour...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]或许我当初应该选另一种颜色……[1]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1216,16 +1198,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABNAQAAAAoaBgAADAAKGgcAAGkAKgoA</Command>
     </Commands>
     <Original>[0]Hmm...this T-shirt'd look better on Dad...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……这件T恤爸爸穿更合适……[1]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -1234,8 +1214,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]What's wrong?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1243,8 +1222,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1252,8 +1230,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd better tell Matt that Dan's gone...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我最好去告诉马修丹已经走了……[1]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1269,8 +1246,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Matt![1]Is he gone?[2]Yeah, and I got my bag back![3]Awesome.[4]Who was the thief then? Did they catch him?[5]Not a clue.[6]They found the bag over by a half-built[7]cottage.[8]Right. What was it doing there? Weird, huh?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，马修！[1]他走了？[2]是啊，我的包找回来了！[3]很好。[4]是谁偷走的？他们抓住那个贼了吗？[5]一点头绪都没有。[6]他们发现这个包躺在一幢[7]废弃小屋的旁边。[8]哦。怎么会在那种地方？真怪。[9]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -1283,8 +1259,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]This is so weird...[1]Why was my bag stolen in the first place?[2]And why did the thief leave my wallet behind?[3]Were they after something else?[4]Ashley![5]Huh?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是很奇怪……[1]首先是我的背包为什么会被偷呢？[2]而且偷走之后有没动我的钱包？[3]他们在找别的什么东西？[4]阿修蕾！[5]嗯？[6]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1295,8 +1270,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBBAARAU5QQzAxMgAAAAoA</Command>
     </Commands>
     <Original>[0]Really getting worried about these blackouts of[1]yours. Anyway, where's your bag?[2]Over by the table. What blackouts?[3]Ah, here it is![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你这动不动就神游爪哇国的习惯[1]还真是让人着急。算了，你的包呢？[2]就在桌子旁边。什么爪哇国？[3]啊，就是这个啊！[4]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1348,8 +1322,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yep. This is the same bag I saw over at the[1]burned-down place.[2]I'm glad you found it.[3]Me too, but...[4]But what?[5]My pick case is still missing.[6]Your...pick case.[7]Seriously, I need it![8]I'm entering a contest as soon as I get back,[9]and I need my guitar picks.[10]What kind of contest?[11]It's called "Be the Band". It's like a big battle of[12]the bands.[13]"Be the Band"?[14]You're in a band?[15]Yep.[16]What kind of band is it?[17]A guitar-piano duo.[18]A guitar-piano duo. Which means...[19]No way. [20]Don't tell me you're the guitarist![21]Yeah, I'm the guitarist.[22]A guy from another class in my school's on the[23]piano.[24]A guy on the piano...[25]He's awesome at arranging songs. He's really[26]set on making it big as a musician.[27]You guys been playing together long?[28]We only started playing together for the[29]contest.[30]He wrote the song and I wrote the lyrics.[31]Is the contest big?[32]Pretty huge. Whoever wins has the chance to[33]make their major debut on the big stage.[34]I really want to be a musician, so I'm giving it[35]my all.[36]For real?[37]For real![38]I want everyone in the world to hear my songs.[39]And one day, I want to be on a huge stage and[40]perform in front of thousands![41]I didn't know you were a [42]dreamer[43]...[44]Huh?[45]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错。这就是我在废墟[1]看到的那个包。[2]我很高兴你能找回来。[3]我也高兴，可是……[4]可是什么？[5]我的吉他拨片盒却不在包里。[6]你的……拨片盒。[7]我是认真的，我需要它！[8]等我回去之后我就要赶紧准备参加一个比赛，[9]所以不能没有拨片盒。[10]什么比赛？[11]比赛的名字是“巅峰乐队”。是一场乐队之间的[12]大对决。[13]“巅峰乐队”？[14]你参加了乐队？[15]没错。[16]什么样的乐队？[17]吉他和钢琴合奏。[18]吉他和钢琴合奏。就是说……[19]不会吧。 [20]别跟我说你就是那个吉他手！[21]没错，我就是吉他手。[22]钢琴手来自另一个[23]班。[24]钢琴手……[25]他很擅长编曲。他可是决定[26]要拿出音乐家水准的作品。[27]你们已经在一起合作了很长时间？[28]我们是决定了参赛之后[29]才开始合作的。[30]他作曲，我填词。[31]那个比赛规模大吗？[32]相当大。赢得比赛的乐队[33]可以在大舞台上进行处女秀。[34]我梦想着成为音乐家，所以我会[35]全力以赴。[36]你是认真的？[37]认真的！[38]我希望我的歌能够传遍世界的每一个角落。[39]我希望，未来的某一天，我能站在华丽的大舞台上[40]在千万人面前演奏！[41]我从不知道你原来还是一个 [42]梦想家[43]……[44]啊？[45]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1367,8 +1340,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt, something you said bothers me...[1]What do you mean, "Don't tell me you're the[2]guitarist"?[3]Well, duh.[4]You just don't really...look like the guitar[5]type.[6]The guitar type?[7]What's that supposed to mean?[8]I bet you'd think twice if you heard me play...[9]Are you that good?[10]Maybe. You'll have to see.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修，你的话让我有点在意……[1]你是指，“别告诉我说你就是那个[2]吉他手”这句？[3]嗯，是啊。[4]你只不过看起来真的……不像是吉他手[5]那种风格。[6]吉他手风格？[7]到底是什么意思？[8]我打赌等你听过我的演奏后就会刮目相看了……[9]你有这么厉害？[10]差不多。有机会一定让你瞧瞧。[11]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1396,8 +1368,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You think dreams don't come true?[1]Well, it's not easy to become a pro musician.[2]You want to be like those famous ones that're[3]all over TV?[4]Dunno. Maybe.[5]Then no way.[6]Dreams like that never come true.[7]Ouch, Matt, that's pretty nasty.[8]Where'd that come from?[9]Dad said so.[10]Your dad?[11]What'd he say?[12]He told me one day, dead serious...[13]He told me [14]his dream[15] wouldn't come true.[16]Oh, come on.[17]I believe any dream can come true if you want[18]it enough.[19]They won't come true.[20]They can, Matt.[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你觉得梦想不会实现吗？[1]好吧，只不过想成为一个大音乐家不容易啦。[2]你是想成为那种经常上电视[3]的知名音乐家吧？[4]我也不知道。或许吧。[5]那不可能。[6]这种梦想不会实现。[7]哎呀，马修，你嘴巴真毒。[8]你怎么这么确信？[9]我爸爸说的。[10]你爸爸？[11]他说什么了？[12]有一天，他阴沉着脸……[13]他告诉我 [14]他的梦想[15] 再也无法实现了。[16]拜托。[17]我相信有志者[18]事竟成。[19]成不了。[20]能成，马修。[21]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1415,8 +1386,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was your dad's dream?[1]He wanted to make Lake Juliet into a place[2]that everyone would love, a beautiful place.[3]He wanted to expand his company and earn[4]lots of money so he could make us happy.[5]But before he disappeared he told me:[6]"Matt, I'm sorry.[7]My dream isn't going to come true...[8]And I'm sorry for putting everyone through[9]all this for nothing."[10]Oh, Matt...[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你爸爸曾经的梦想是什么？[1]他想把朱丽叶湖变成一个人见人爱[2]的美丽地方。[3]他想要扩大公司，然后挣好多[4]钱让我们高兴。[5]但是他在离开前告诉我：[6]“抱歉，马修。[7]我的梦想无法实现了……[8]我很抱歉最后[9]把一切都搞砸了，什么都没有了。”[10]是这样啊，马修……[11]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -1436,8 +1406,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZhkAAoA</Command>
     </Commands>
     <Original>[0]Say, Matt.[1]Yeah?[2]What do you want to be when you grow up?[3]Huh?[4]There has to be something, come on.[5]I don't really wanna say...[6]Come on, I told you what I wanted to be![7]A baseball player? A pilot? An astronaut?[8]Ugh, no way.[9]Then what?[10]I... I want to be...a [11]scientist[12].[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]说说吧，马修。[1]嗯？[2]你长大后想干什么？[3]啊？[4]总有一些你想干的事情吧，说来听听。[5]我不太想说……[6]说说嘛，我都告诉你我的梦想了！[7]棒球选手？飞行员？宇航员？[8]呃，不是。[9]那是什么？[10]我…我想…成为一个 [11]科学家[12]。[13]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1469,8 +1438,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You want to be a scientist?[1]Yeah...[2]I want to be a great scientist and win the Nobel[3]Prize.[4]Wow, that's really something.[5]Yeah, it is.[6]So...that's why I know it won't come true.[7]Don't be like that, Matt! Of course it will![8]Huh?[9]You never know until you try and make it[10]happen.[11]Just because your dad's dream didn't come true[12]doesn't mean yours won't.[13]Yeah, but...[14]Listen, Matt.[15]I'm going to be a musician. I know it's a hard[16]path.[17]But I don't care. I'll try my hardest, and I'll[18]believe that it's gonna come true.[19]There's lots of things in the world you can do[20]if you just put your mind to it, right?[21]Maybe...[22]Definitely.[23]I know you can do it, Matt. You'll be a scientist[24]and you'll get that Nobel Prize.[25]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你想当科学家？[1]是……[2]我想成为伟大的科学家，然后拿诺比尔[3]奖。[4]喔，这可真是不得了。[5]没错，是很不得了。[6]所以……我认为根本实现不了。[7]别这样，马修！当然能实现！[8]啊？[9]你不去试试看怎么知道[10]行不行。[11]你爸爸的梦想没有实现不代表[12]你的也不行。[13]不过……[14]听着，马修。[15]我要成为音乐家。我知道这条路[16]很难。[17]但是我不在乎。我会尽自己最大的努力，而且我相信[18]我能成功。[19]在这个世界上，你只要下决心去做，[20]就能做到很多事情。[21]或许是吧……[22]绝对是的。[23]我知道你能行，马修。你会成为科学家的，[24]会拿到诺贝尔奖的。[25]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1534,16 +1502,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Yeah?[2]Sorry about earlier...[3]I guess it was pretty mean to say you weren't[4]the guitar type.[5]No problem. Don't worry about it.[6]To be honest, you might be right anyway...[7]What d'you mean?[8]People tell me stuff like that from time to time...[9]I don't look like a guitarist, or the guitar doesn't[10]suit me.[11]Hahaha, really?[12]So that's why I'm practising so hard to play[13]it like a pro.[14]Then don't give up![15]Not in a million years![16]And I guess I shouldn't either. I should study[17]hard so I can be a scientist...[18]But first...I need to find my dad.[19]Look at me, Matt.[20]Huh?[21]If you don't give it your all, how are you ever [22]going to find him?[23]We're searching for clues together, right?[24]Right![25]Okay, Matt.[26]Let's list off all the places you've already[27]searched for clues.[28]Let's see...[29]The shack and the mines...[30]The old cottage I hid in, the mermaid statue...[31]And the boathouse we checked out earlier.[32]So what's left?[33]I tried to go to my dad's old office building[34]last year.[35]Where's that?[36]It's a good bit on past the cottages.[37]I wanted to go there yesterday, but there was a[38]landslide blocking the way.[39]But you searched it last year?[40]I couldn't, there was a big fence around it I[41]couldn't get past.[42]And then...there's the clock tower.[43]And where else? Hmm...[44]Oh, I know![45]How about the place my bag was found?[46]Uh, where was that again?[47]That half-built cottage, remember?[48]The one Crusoe Resort never finished work on.[49]You mean my dad's company?[50]Yeah. So there might be some sort of clue[51]around there.[52]Plus...[53]Yeah?[54]My pick case might be around there too.[55]Good idea.[56]Right, let's go![57]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾……[1]嗯？[2]我为之前说过话道歉……[3]说你不像吉他手是我[4]太刻薄了。[5]没什么，别介意。[6]说实话，或许你是对的……[7]你指的什么？[8]一直以来都有人这么说……[9]说我不像一个吉他手，或者说吉他不[10]适合我。[11]哈哈哈，真的吗？[12]所以我才要加倍练习，达到专业[13]水平。[14]那就坚持下去！[15]决不放弃！[16]我想我也不应该放弃。我也要努力学习，[17]成为一名科学家……[18]不过首先……我得找到爸爸。[19]看着我，马修。[20]嗯？[21]如果不竭尽全力，你怎么会 [22]找到他呢？[23]我们不是一直在一起寻找线索吗？[24]没错！[25]那么，马修。[26]我们来把你去找过的地方[27]列个清单吧。[28]让我想想……[29]棚屋、矿洞……[30]我藏身的破旧小屋，美人鱼雕像……[31]还有我们之前查看过的船屋。[32]还有哪些？[33]去年我曾经想去爸爸的[34]旧办公楼。[35]在哪？[36]小屋再过去一点。[37]昨天我本来想去的，但是坍塌物[38]挡住了去路。[39]去年你已经找过那里了？[40]我本来可以的，可是大楼周围[41]有栅栏，我翻不过去。[42]那么……那是钟楼。[43]还有哪些地方呢……[44]哦，我想起来了！[45]还记得我的包被发现的地点吗？[46]呃，在哪来着？[47]废弃小屋，想起来了吗？[48]克鲁索度假村被迫停工建设的那个。[49]你是说我爸爸的公司？[50]对。所以我想那附近应该会有[51]什么线索。[52]而且……[53]嗯？[54]我的拨片盒也有可能在那。[55]有道理。[56]那好，我们走！[57]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
@@ -1552,8 +1518,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1561,8 +1526,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪，小蕾？[1]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1578,8 +1542,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDMKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAzX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAzX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAzX29mZgoA</Command>
     </Commands>
     <Original>[0]Maybe I should bring my wallet.[1]There are [2]20 dollars [3]and a [4]student ID[5] in the wallet.[6]But then again...[7]Dad said I don't need money if I grab a takeout[8]from the diner.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该带上钱包。[1]钱包里 [2]有 [3]20美元 [4]和一张 [5] 学生卡。[6]不过等等……[7]爸爸说过我从餐馆叫外卖[8]不用付钱了。[9]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1587,8 +1550,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's go look for your pick case![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]咱们去找你的拨片盒吧！[1]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
@@ -1620,8 +1582,7 @@
       <Command>ChoFAAABChoIAABIAwEEChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBQAAMwoA</Command>
     </Commands>
     <Original>[0]Hey, someone's there...[1]Hey![2]It's the guy from in front of the mermaid[3]statue...[4]Mr Sunglasses...no, wait. John Smith.[5]Hmm?[6]Yeah. It's me.[7]I wonder who he's talking to...[8]Ash, what's up?[9]Shh![10]Matt, let's hide over here so he doesn't see us.[11]Cool.[12]Ah, Mike. What is it?[13]Oh, you're having problems with the security [14]system? Quite a fix.[15]And Dr Robins has returned to the lab.[16]What is happening at JC Valley?[17]I see...[18]Yes... Understood.[19]No, there is still no clear connection to[20]Crusoe Resort.[21]Let me know if something happens.[22]I can see you, you know.[23]Wait here, Matt. I want to talk to him.[24]Okay.[25]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Hey, someone's there...[1]Hey![2]It's the guy from in front of the mermaid[3]statue...[4]Mr Sunglasses...no, wait. John Smith.[5]Hmm?[6]Yeah. It's me.[7]I wonder who he's talking to...[8]Ash, what's up?[9]Shh![10]Matt, let's hide over here so he doesn't see us.[11]Cool.[12]Ah, Mike. What is it?[13]Oh, you're having problems with the security [14]system? Quite a fix.[15]And Dr Robins has returned to the lab.[16]What is happening at JC Valley?[17]I see...[18]Yes... Understood.[19]No, there is still no clear connection to[20]Crusoe Resort.[21]Let me know if something happens.[22]I can see you, you know.[23]Wait here, Matt. I want to talk to him.[24]Okay.[25]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
