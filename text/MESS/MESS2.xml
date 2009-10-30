@@ -994,7 +994,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm 18.[1]Don't kid around.[2]There is no way you're 18.[3]You, older than me? Like I'd ever believe that.[4]And how old are you?[5]16.[6]16?[7]Yeah, so?[8]Just funny that you're younger than me.[9]I was thinking that you look a bit childish.[10]</Original>
-    <Translation>[0]18岁。[1]别骗人了。[2]怎么也不像18岁啊！[3]你……就像我猜得那样……比我大？[4]到底多大了？[5]16。[6]16？[7]是啊，怎么了？[8]只是好奇你比我还小。[9]我还以为你只是看上去有点孩子气呢。[10]</Translation>
+    <Translation>[0]18岁。[1]别把我当小孩了。[2]你怎么也不像18岁啊！[3]你……就像我猜的那样……比我大？[4]那你多大了？[5]16。[6]16？[7]是啊，怎么了？[8]只是好奇你比我还小。[9]我还以为你只是看上去有点孩子气呢。[10]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -1531,7 +1531,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here.[1]Thank you.[2]Ryan, was your briefcase that filthy before?[3]Look at it, it's just covered in someone's[4]grubby little fingerprints.[5]What?[6]This briefcase gets dirty very easily.[7]The front is plastic coated, which makes it quite[8]easy to leave finger marks on it.[9]Sorry for dirtying it.[10]Don't worry about it, Ashley.[11]Hmph.[12]Oh, did you find the music player?[13]Not yet.[14]We searched all around here, but there is still[15]no sign of it.[16]Ah...[17]Well, now that I no longer need to go back to[18]the campsite...[19]I'll stay here for a while to help Elizabeth search.[20]Ryan, are you done chatting?[21]I'm sure talking to Ashley is riveting and all,[22]but...[23]...![24]Elizabeth. Please wait your turn.[25]I shall help you once I have finished talking.[26]Fine.[27]Ashley, have you remembered anything else[28]since we talked last?[29]Nothing...[30]I want to remember everything from 13 years[31]ago, but...nothing's coming to me.[32]I see...[33]You haven't remembered any more about[34]Sayoko... Well, you were only three years old.[35]Needless to say, remembering events from[36]13 years ago must be quite a difficult challenge.[37]Yeah...[38]</Original>
-    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]什么？[6]这个包很容易变脏啊。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起啊，把它弄脏了。[10]别在意，阿修蕾。[11]唔……[12]噢对了，找到音乐盒了吗？[13]还没呢。[14]我们都找遍这儿了，但还是没什么[15]线索。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]I'll stay here for a while to help Elizabeth search.[20]Ryan, are you done chatting?[21]I'm sure talking to Ashley is riveting and all,[22]but...[23]...![24]Elizabeth. Please wait your turn.[25]I shall help you once I have finished talking.[26]Fine.[27]Ashley, have you remembered anything else[28]since we talked last?[29]Nothing...[30]I want to remember everything from 13 years[31]ago, but...nothing's coming to me.[32]I see...[33]You haven't remembered any more about[34]Sayoko... Well, you were only three years old.[35]Needless to say, remembering events from[36]13 years ago must be quite a difficult challenge.[37]Yeah...[38]</Translation>
+    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]什么？[6]这个包很容易变脏啊。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起，把它弄脏了。[10]别在意，阿修蕾。[11]唔……[12]噢对了，找到音乐盒了吗？[13]还没呢。[14]我们都找遍这儿了，但还是没什么[15]线索。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]我就在这里一起帮伊丽莎白找东西吧。[20]莱恩，你聊够了嘛！[21]我知道跟阿修蕾聊天很爽很有趣，[22]但是……[23]……！[24]伊丽莎白，等一会儿好吗。[25]我说完话就帮你一起找。[26]好吧。[27]阿修蕾，刚刚我们分开后，[28]你有没有再想起点什么？[29]一点也没有……[30]我想记起13年前的所有事，[31]但是……还是一片空白。[32]我明白了……[33]你没有想起更多关于沙夜子的事，[34]好吧，当时你才三岁而已啊。[35]不用说，要去回忆13年前[36]的事情，的确是个大大的难题啊。[37]是啊……[38]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1539,8 +1539,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, I can't show him the TAS...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，我不能给他看TAS……[1]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1549,8 +1548,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, wasn't there something you wanted to[1]give me?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你有东西想要[1]给我吗？[2]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1558,8 +1556,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That isn't mine.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那不是我的。[1]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1567,8 +1564,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here, you left this behind.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]给你，你忘了这个。[1]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1586,8 +1582,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ryan. Who's this Sayoko person?[1]You wouldn't know her, Elizabeth.[2]Oh...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，莱恩。这个叫沙夜子的是谁啊？[1]你不会知道的，伊丽莎白。[2]噢……[3]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1606,8 +1601,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ashley.[1]Didn't you tell me you were 18?[2]Big fat lie, right?[3]Huh?[4]Well, you're talking about 13 years ago, when[5]you were three years old, right?[6]Now I'm not a math genius or anything, but[7]doesn't that make you 16?[8]Yeah, okay, I'm really 16.[9]I knew it![10]No way anyone'd believe you were 18. Seriously,[11]you barely even look 16.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，阿修蕾。[1]你不是告诉我你18岁吗？[2]弥天大谎哦？[3]嗯？[4]你说13年前，[5]你才只有3岁，不是吗？[6]我可不是个数学专家，但是[7]显然你才16岁吧？[8]是啊，好吧，我确实是16岁。[9]我就知道！[10]没有人会相信你所谓的18岁的。说真的，[11]你看上去也顶多16岁了。[12]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1621,8 +1615,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAABKbglwMTBfYmFzZV9SX0FybV9IYW5kChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AAkACQFJT1AwMDAAAAAKGgYAAAwAChoHAAADC7gKGgcAAEkD6AoaBgAADAAKGhQBAAs1AQUAEQFJT1AwMDEAAAAKGgUAADMKAA==</Command>
     </Commands>
     <Original>[0]I think it's time we went to look somewhere else.[1]Right.[2]Ashley...[3]I hope we meet each other again while you're[4]here.[5]I'd like to talk to you more about Sayoko.[6]Definitely.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想我们应该去其他地方看看了。[1]好的。[2]阿修蕾……[3]我希望在你离开前，还能[4]再跟你见面。[5]聊聊更多关于沙夜子的事情。[6]一定会再见面的。[7]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1639,8 +1632,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What?[1]You think I want to talk to you?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么？[1]你认为我要跟你说话？[2]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1649,8 +1641,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]I have to give Ryan his briefcase.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢！[1]我必须把这个公文包还给莱恩。[2]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1658,8 +1649,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1670,8 +1660,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Um...[1]Sorry, Ashley.[2]I'm talking to Elizabeth. Could you please wait [3]for a minute?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]阿修蕾，对不起。[2]我正在跟伊丽莎白说话，你能[3]等一会儿吗？[4]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1680,8 +1669,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]What?[1]You think I want to talk to you?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么？[1]你认为我要跟你说话？[2]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1691,8 +1679,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaBgAADAAKAA==</Command>
     </Commands>
     <Original>[0]That lake...[1]That must be Lake Juliet.[2]...![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个湖……[1]一定是朱丽叶湖了。[2]……！[3]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -1711,8 +1698,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAABLbglwMTBfYmFzZV9SX0FybV9IYW5kChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now.[1]I was here with my mom, looking out over the[2]lake.[3]Mom...[4]Every time I remember you, it's like a rush[5]of a thousand emotions...[6]But...I feel a bit happier.[7]The only memory I had of you was the night[8]of my third birthday...[9]But when I came here, I found out that there's[10]so much more...[11]Mom...[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我记起来了。[1]我和妈妈一起站在这里，向着湖面[2]眺望。[3]妈妈……[4]每次想起你，就有千万种[5]感情涌入胸中……[6]但是……渐渐感到快乐了呢。[7]以前对你唯一的记忆[8]只有我三岁生日的那个晚上……[9]但当我到了这里，才发现[10]还有那么多的片段……[11]妈妈……[12]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1721,8 +1707,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhkBAApQX01FTU9SWV9MYWtlc2lkZV9vbgoaHAAABVdTRF9TRV9QQVJUX01FTU9SWV9JTgAACho7AQAJUF9NRU1PUllfTGFrZXNpZGVfb2ZmAFBfTUVNT1JZX0xha2VzaWRlX29mZl9vZmYuYnJsYW4AChoGAAAMAAoaGgEAClBfTUVNT1JZX0xha2VzaWRlX29mZgoaBgAADAAKGgcAAEkB9AoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]The lake area...[1]I was here with Mom...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在这湖区……[1]我和妈妈曾经在一起……[2]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1756,8 +1741,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9NMTIwX0QAQUxMAQoA</Command>
     </Commands>
     <Original>[0]Hey, that's...[1]That kid![2]Hey, you![3]Huh?[4]You talking to me?[5]Yeah, you.[6]Why?[7]What, you don't recognise me?[8]Huh?[9]Remember? The fence? Behind the[10]guesthouse?[11]Oh![12]Now, I have something to ask you.[13]That teddy bear you had, my teddy bear...[14]![15]Hey, wait![16]Woof![17]Not you again![18]Woof![19]Argh...[20]Grr...[21]Don't bark at me![22]I don't have time to feed you![23](whine)[24]Oh...[25]He got away again.[26]Right, I'm going after him![27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，那是……[1]之前的小孩！[2]嘿！等等！[3]啊？[4]你在跟我说话？[5]是的，就是你。[6]怎么了？[7]什么？你认不出我了？[8]啊？[9]记得了吗？铁丝网？商店[10]后面的？[11]噢！！[12]好了，那该我问你问题了。[13]你拿着的那个泰迪熊，跟我的……[14]！[15]嘿，等等！[16]呼！[17]怎么又是你！[18]呼！[19]呜……[20]汪……[21]别对着我叫！[22]我没时间再来喂你了！[23]（哀号）[24]噢……[25]又跑了。[26]好，我得跟着他！[27]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -1774,8 +1758,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9NMTIwX0QAQUxMAQoA</Command>
     </Commands>
     <Original>[0]No, not this way...[1]I need to go after that kid![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，不是这条路……[1]我得去追那个男孩！[2]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1784,8 +1767,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9NMTIwX0QAQUxMAQoA</Command>
     </Commands>
     <Original>[0]No, not this way...[1]I need to go after that kid![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，不是这条路……[1]我得去追那个男孩！[2]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1796,8 +1778,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzUAAwAJAUlPUDAwMQAAAAoaBgAADAAKGgcAAAMPoAoaCQAARQMH0AAKGgcAAAMAAAoaCQAAMWMD6AEKGgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]Someone's there.[1]Oh, that man...[2]Is he the one Dan was talking about?[3]The man with the sunglasses?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有人在那里。[1]噢！那个男人……[2]是丹说的那个人？[3]戴着墨镜的男人？[4]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1806,8 +1787,7 @@
       <Command>Ggb/AAAAChoMAAAIAAB6AQAAAAoaDQAAFQAAbQEAMgAAChoFAAABChoOAQALNgAAADwBAAAACgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
@@ -1818,8 +1798,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Dan![2]Your pops' cottage isn't that way.[3]Well, yeah, but...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]丹啊！[2]你爸爸的小屋不在那个方向。[3]嗯，是的。但……[4]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
@@ -1828,8 +1807,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
@@ -1840,8 +1818,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Dan![2]I thought you'd already be at your pops' cottage.[3]Well...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]丹啊！[2]我还以为你已经在你爸爸的小屋那里了。[3]呃……[4]</Translation>
   </Sentence>
   <Sentence id="130">
     <Commands>
@@ -1867,16 +1844,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQgAEQFDU1AwMDAAAAAKAA==</Command>
     </Commands>
     <Original>[0]I just saw a suspicious man and I wanted to[1]know where he was going...[2]A suspicious man?[3]Yeah, the one in the sunglasses.[4]He was walking over that way.[5]The man in the sunglasses was?[6]Ashley, that way leads to the old mines.[7]Nobody goes near there any more.[8]You shouldn't go there either.[9]Oh, and I saw that kid again![10]What? Where?[11]Right by the lake after I passed the campsites.[12]But he ran off somewhere...[13]So he really is around here...[14]Thanks for telling me, Ashley.[15]I'll go and see what that man is doing...[16]So you head right along to your pops' cottage.[17]Understood?[18]Right.[19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我只是看到了一个可疑的男人，并且想知道[1]他要去哪里……[2]可疑的男人？[3]是的，戴着墨镜的人。[4]他朝那个方向走去了。[5]戴墨镜的男人到底是？[6]阿修蕾，那条路是去废弃矿洞的。[7]现在已经没有人会去那里了，[8]你也不应该过去。[9]噢，而且我又看见那个男孩了！[10]什么？在哪里？[11]我离开营地后，就在湖边那里。[12]但他又跑开了……[13]也就是说，他确实在这里咯……[14]阿修蕾，谢谢你告诉我啊。[15]我会去看看那个男人在干什么……[16]所以你只管去你爸爸的小屋，[17]懂了吗？[18]好吧。[19]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
       <Command>Gg0AABUIAAAAAAAAAAoaDAAACAgBVQAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
@@ -1889,8 +1864,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Dan...[1]Ten-four. Over.[2]Negative. Over.[3]Roger. I'll keep looking. Over.[4]He's on his radio.[5]I'd better not interrupt...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹……[1]收到，完毕。[2]没有，完毕。[3]收到，我会继续调查，完毕。[4]他正在通无线电。[5]我还是不要打扰他了……[6]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
