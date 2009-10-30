@@ -40,6 +40,7 @@
  * Alfred Residence ：阿尔弗雷德公馆
  * shack ：棚屋
  * boathouse ：船屋
+ * clock tower :钟楼
 
 = 物品名 =
 
