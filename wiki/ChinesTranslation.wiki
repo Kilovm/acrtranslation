@@ -43,6 +43,7 @@
  * shack ：棚屋
  * boathouse ：船屋
  * clock tower :钟楼
+ * bob's : 鲍勃小店
 
 = 物品名 =
 
