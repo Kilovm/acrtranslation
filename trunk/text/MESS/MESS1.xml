@@ -1251,7 +1251,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Is there something behind those blinds?[1]</Original>
-    <Translation>[0]窗帘后面有什么东西么？[1]</Translation>
+    <Translation>[0]百叶窗后面有什么东西么？[1]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1285,7 +1285,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]The blinds won't open properly.[2]What should I do?[3]</Original>
-    <Translation>[0]Huh?[1]The blinds won't open properly.[2]What should I do?[3]</Translation>
+    <Translation>[0]嗯？[1]百叶窗拉不开[2]我该怎么办？[3]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1293,8 +1293,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]...?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]……？[1]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -1303,8 +1302,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]Huh? What?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨！小蕾！[1]啊？什么事？[2]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1316,8 +1314,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]See those pamphlets on the table? You should[1]grab one for yourself.[2]It has a map of the Lake Juliet area on it, so[3]it could come in handy.[4]Right. Thanks.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看见桌子上的手册了吗？ [1]你应该拿一本带上[2]上边有朱丽叶湖地区的地图[3]所以应该能派上用场[4]好的，谢谢[5]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1326,16 +1323,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash, grab a pamphlet.[1]Oh, right.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，小蕾，拿一本手册[1]哦，好的[2]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1361,8 +1356,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah...[1]I should take a picture of the stone Tommy[2]was talking about.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Oh yeah...[1]I should take a picture of the stone Tommy[2]was talking about.[3]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
