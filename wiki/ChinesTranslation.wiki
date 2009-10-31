@@ -47,7 +47,7 @@
  * shack ：棚屋
  * boathouse ：船屋
  * clock tower :钟楼
- * bob's : 鲍勃小店
+ * bob's : 鲍勃的餐馆
  * Old Mine: 废弃的矿洞
 
 = 物品名 =
