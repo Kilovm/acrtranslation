@@ -1317,7 +1317,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad, just listen to me![1]Matt's not a liar![2]Matt? Who's Matt?[3]Me...[4]Oh, you're Matt?[5]Yeah, he's my friend.[6]And Elizabeth's giving him the third degree on[7]everything he says![8]"Third degree"?[9]Matt, have you done anything to warrant this[10]third degree?[11]I haven't done anything![12]Dr Robins...[13]That child stole my music player.[14]He what?[15]That's right. He stole it.[16]He stole my music player and now he's lying[17]about it.[18]I told him I'd forgive him if he were to[19]apologise, but he refuses.[20]Matt, is this true?[21]...![22]Look at him, he won't answer. A sure sign of[23]guilt.[24]Well, Matt?[25]...![26]Well?[27]If you don't say anything, I won't know if you're[28]telling the truth or not.[29].....[30]Dad, just shut up![31]Ashley...[32]Why are you believing everything Elizabeth[33]says and attacking Matt?[34]He hasn't done anything wrong![35]Ashley, I'm not attacking him, I just want to...[36]You're always the same![37]What?[38]You never listen to anyone![39]You never keep a single promise![40]Ashley, just calm down for a second...[41]I come to see you and then you just disappear[42]off again![43]You're the worst dad in the entire world![44]Ashley![45]That's enough![46]</Original>
-    <Translation>[0]爸爸，你听我说！[1]马修不是那种爱说谎的人！[2]马修？谁是马修？[3]是我……[4]恩，你就是马修？[5]是的，他是我朋友。[6]伊丽莎白对他说的一切都[7]严厉质询！[8]“严厉的质询”？[9]马修，你做了什么事招来这些[10]质询？[11]我什么都没做过！[12]罗宾斯博士……[13]那孩子偷了我的音乐播放器。[14]他？[15]正是。就是他偷的。[16]他偷了播放器，现在又[17]在狡辩。[18]我跟他说只要他认错这事就算了，[19]但是他拒不承认。[20]马修，是这样的吗？[21]……！[22]看吧，他都不说话。很明显[23]他有负罪感。[24]呃，马修？[25]……！[26]嗯？[27]If you don't say anything, I won't know if you're[28]telling the truth or not.[29].....[30]Dad, just shut up![31]Ashley...[32]Why are you believing everything Elizabeth[33]says and attacking Matt?[34]He hasn't done anything wrong![35]Ashley, I'm not attacking him, I just want to...[36]You're always the same![37]What?[38]You never listen to anyone![39]You never keep a single promise![40]Ashley, just calm down for a second...[41]I come to see you and then you just disappear[42]off again![43]You're the worst dad in the entire world![44]Ashley![45]That's enough![46]</Translation>
+    <Translation>[0]爸爸，你听我说！[1]马修不是那种爱说谎的人！[2]马修？谁是马修？[3]是我……[4]恩，你就是马修？[5]是的，他是我朋友。[6]伊丽莎白对他说的一切都[7]严厉质询！[8]“严厉的质询”？[9]马修，你做了什么事招来这些[10]质询？[11]我什么都没做过！[12]罗宾斯博士……[13]那孩子偷了我的音乐播放器。[14]他？[15]正是。就是他偷的。[16]他偷了播放器，现在又[17]在狡辩。[18]我跟他说只要他认错这事就算了，[19]但是他拒不承认。[20]马修，是这样的吗？[21]……！[22]看吧，他都不说话。很明显[23]他有负罪感。[24]呃，马修？[25]……！[26]嗯？[27]如果你什么都不肯说，我也没法判断你的话[28]是真是假。[29]……[30]爸爸，别说了！[31]Ashley...[32]为什么伊丽莎白说什么你都相信，[33]马修做什么却都要遭到非议呢？[34]他根本没做错事！[35]Ashley, 我没有针对他的意思，我只是想……[36]你一点都没变！[37]什么？[38]你从来不肯听别人解释！[39]你甚至从来没有遵守过承诺！[40]Ashley, 冷静点……[41]我来找你，却发现你又[42]消失了！[43]你是这个世界上最差劲的爸爸！[44]Ashley![45]够了！[46]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1328,8 +1328,7 @@
       <Command>ChoFAAABChoHAABJAfQKGgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzChoGAAAMAAoaFAEACzMBBQAJAUlPUDAwMQAAAAoA</Command>
     </Commands>
     <Original>[0]Oh dear, how embarrassing.[1]I can't just stand here while you two have a big[2]father-daughter row. Awkward.[3]I think this is my cue to depart.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔，天呐，情况有点糟。[1]我不能傻傻的站这儿看你们[2]父女俩争吵。太尴尬了。[3]我想应该由我出面阻止了。[4]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1341,8 +1340,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley...[1]You can let it go now.[2]I don't want you to fight with your dad.[3]But...[4]Matt![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Ashley...[1]消消气。[2]我可不希望你跟你爸爸吵架。[3]但是……[4]马修！[5]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1370,8 +1368,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1]Ashley...[2]What do I do now?[3].....[4]Ashley.[5]What?[6]I'm sorry I shouted at you.[7]It's okay.[8]I think I went a bit too far as well.[9]When did you meet that boy?[10]After the barbecue.[11]I see...[12]I think I've wronged that boy.[13]Yeah.[14]I should apologise to him.[15]And to you for running off and leaving you[16]alone again.[17]Dad...[18]Oh, Ashley.[19]Did you have fun [20]at the barbecue?[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修……[1]Ashley...[2]我这是在干什么呀？[3]……[4]Ashley.[5]嗯？[6]很抱歉冲你发火。[7]没事了。[8]我想我也过激了点。[9]你什么时候认识那个男孩的？[10]那次烧烤之后。[11]让我想想……[12]我可能真的冤枉那个孩子了。[13]是的。[14]我该向他道歉。[15]当然还有突然不辞而别重新把你一人[16]留那儿。[17]爸爸……[18]Oh, Ashley.[19]你在烧烤野餐 [20]中玩的开心吗？[21]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1379,8 +1376,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的[1]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1388,8 +1384,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Kind of[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一般[1]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1401,8 +1396,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, it was great![1]I haven't had a barbecue in ages.[2]So it was really great eating outside again.[3]That's good to hear.[4]I must thank Gina for looking after you.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯，很开心！[1]这些年我从来没参加过烧烤。[2]所以能在外面吃东西真的很不错。[3]你这么认为就好。[4]我得谢谢吉娜，是她找到你的。[5]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1417,8 +1411,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Kind of.[1]The food was good, but...[2]But?[3]Did something happen?[4]Well, I'd rather have had it with you.[5]Is that so?[6]Well, I must thank Gina for helping with the[7]barbecue.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一般。[1]食物是不错，不过……[2]不过什么？[3]难道发生了什么事？[4]那个，我觉得能跟你一起参加烧烤更好。[5]是吗？[6]嗯，我得谢谢吉娜组织这次的[7]烧烤。[8]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1456,8 +1449,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAABPAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgcAAEkB9AoaBgAADAAKGhQBAAszAQEACQFJT1AwMDEAAAAKGgkAADFjAAABCgA=</Command>
     </Commands>
     <Original>[0]Gina?[1]Dad, Gina didn't come.[2]Huh?[3]Ryan came instead of her.[4]Ryan?[5]Yeah.[6]He said she had something urgent to look[7]after, so he came instead.[8]And?[9]We had the barbecue, then when we were done[10]eating, Elizabeth showed up.[11]She'd lost her music player, and demanded that[12]Ryan go with her to find it.[13]So I was on my own again.[14]I see...[15]Then I met Matt and he said he'd found that[16]same music player.[17]We told Elizabeth about it and then she accused[18]Matt of stealing it.[19]Then we started arguing and you came[20]along...[21]I see.[22]I understand now, Ashley.[23]I really do have to apologise to Matt now.[24]I wonder where he ran off to...[25]Go and find him, Ashley.[26]Then bring him back to the cottage.[27]Right.[28]I'll go on ahead and wait for the two of you[29]there.[30]Okay.[31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉娜？[1]爸爸，吉娜她没来。[2]啊？[3]莱恩代替她来的。[4]莱恩？[5]是的。[6]他说她有些事急着要处理，[7]所以换他来了。[8]那然后呢？[9]烧烤正常进行，当我们吃完的时候，[10]伊丽莎白来了。[11]她的音乐播放器丢了，然后喊[12]莱恩陪她一起去训找。[13]所以我就又独自一人了。[14]我了解了……[15]之后我遇到了马修，他说他找到一个[16]相同的播放器。[17]我们把这事告诉伊丽莎白，她就[18]非说是马修偷的。[19]然后我们就吵起来了，这时你也[20]来了……[21]我知道了.[22]现在我都明白了, Ashley.[23]我真的该向马修道歉。[24]我知道他会跑去哪里……[25]去找他吧， Ashley.[26]然后带他回小屋来。[27]好的。[28]我先走一步，然后等你们俩，[29]在小屋。[30]好的。[31]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
