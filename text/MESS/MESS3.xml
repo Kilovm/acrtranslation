@@ -1457,8 +1457,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You want something?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你想要什么吗？[1]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1467,8 +1466,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh...[1]Elizabeth's there.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔……[1]伊丽莎白在那里。[2]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1476,8 +1474,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, we're still talking, right?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，我们还在交谈，对吧？[1]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1485,8 +1482,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, we're still talking, right?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，我们还在交谈，对吧？[1]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1495,8 +1491,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, not this way...[1]I have to talk to Matt.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，不是这条路……[1]我必须跟马修交谈。[2]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1505,8 +1500,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, not this way...[1]I have to talk to Matt.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，不是这条路……[1]我必须跟马修交谈。[2]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -1519,8 +1513,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Oh, there he is![1]Matt![2]He hasn't seen me.[3]Wait...[4]Oh no.[5]He's crying...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔，他在那儿！[1]马修！[2]他还没看见我。[3]等等……[4]喔，不。[5]他在哭泣……[6]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1554,8 +1547,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATBkAAoA</Command>
     </Commands>
     <Original>[0]Matt![1]...?[2]So this is where you ran off to.[3]You just disappeared again.[4]You keep doing that...[5]But...[6]But?[7]I didn't want you all to see me.[8]I was about to[9] burst into tears[10]...[11]Ah...[12]Well, Elizabeth's just a horrible, spoilt[13]brat.[14]Accusing you out of nowhere like that...[15]My dad was way out of line too, just taking[16]Elizabeth's story as law.[17]Does your dad think I stole the music player?[18]Nah, not anymore.[19]I talked to him after, he knows you didn't do[20]anything wrong.[21]Okay...[22]You know...[23]Maybe we would've been better off just not[24]telling her about the music player.[25]Yeah...[26]I can't stand her.[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修！[1]……？[2]原来你跑这儿来了。[3]你又消失了。.[4]你总是这样……[5]但是……[6]但是什么？[7]我不想让你们看到我。[8]我会[9]突然哭出来。10]……[11]呃……[12]其实，伊丽莎白就是一个令人讨厌的、被宠坏了的[13]家伙。[14]毫无道理的责备你……[15]我爸爸也很出格，把伊丽莎白编的故事[16]都当真了。[17]你爸爸认为是我偷的播放器吗？[18]不，再也不会了。[19]后来我跟他谈过，他知道你什么[20]坏事也没干。[21]太好了……[22]你看……[23]也许我们不告诉她关于播放器的事[24]情况也不会好到哪儿去。[25]也许是……[26]我受不了她。[27]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1585,8 +1577,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why were you about to cry?[1]Well, Elizabeth was going on and on, and getting[2]me really upset...[3]And then...[4]Then?[5]Your dad's voice. It sounded just like my dad.[6]And it made me remember Dad...[7]And the tears started coming.[8]Sorry for running away all the time.[9]No problem, Matt.[10]You get less annoyed about these things when[11]you hit 16.[12]Really?[13]You bet.[14]Hey, Matt. What was your dad like?[15]Really kind.[16]But when I did something bad, his voice would[17]always hit the roof.[18]"Matt, stop that right now!"[19]I hated his angry voice, but...[20]But?[21]It's weird.[22]I kind of want to hear him yell at me again.[23]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你为什么要哭呢？[1]伊丽莎白总是一而再再而三的[2]使我感到不安……[3]然后……[4]然后？[5]你爸爸的语气。听上去跟我爸的好像。[6]这让我想到了我爸爸……[7]然后眼泪就止不住了。[8]对不起，我总是在逃避。[9]别在意，马修。[10]你这16年来并没有被这些事[11]所困扰。[12]真的？[13]你得发誓。[14]嘿，马修。你爸爸是怎样的一个人？[15]非常和善。[16]但是当我做错事的时候，他就会[17]很火大。[18]“马修，别再想这些了！”[19]我讨厌他怒吼，但是……[20]但是什么？[21]也许有些奇怪。[22]但我现在很想听他再冲我怒吼。[23]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1600,8 +1591,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt, why can't you can't stand Elizabeth?[1]She just seems so rude and nasty...[2]You're right. She's mean and selfish too.[3]Right.[4]I bet she's never been yelled at, never had to[5]apologise to anyone...[6]Yeah, I bet.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修，你为什么没法忍受伊丽莎白呢？[1]她看上去既没礼貌又恶毒……[2]你说的对。她还很自私。[3]对。[4]我打赌她从没被训过，也从来[5]不用向别人道歉……[6]恩，我同意。.[7]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -1613,8 +1603,7 @@
       <Command>Ggb/AAAAChoFAAABChodAAAEU1RSTV9CR01fVEFOU0FLVV8wMgAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash. This tree's pretty huge, isn't it?[1]Yeah, I guess it is.[2]They call it the Lonely Oak.[3]I used to play around here when I was little.[4]Really?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，阿修蕾。这棵树真够高大的，是吧？[1]恩，我也觉得。[2]他们叫它孤独橡树。[3]我小时候还常常在这儿玩呢。[4]真的？[5]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1643,8 +1632,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAASQPoChoGAABkBAoaHQAABFNUUk1fQkdNX1RBTlNBS1VfMDIAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Yeah.[1]I played hide and seek, went bug-catching, the[2]works.[3]Dad was the one who told me about this place.[4]He always said this was his favourite place,[5]where he could just sit and watch the lake.[6]He was always busy with work and sometimes[7]he'd get really stressed and scary,[8]but as soon as he came here, he'd be back to[9]the old kind, smiling Dad.[10]So I grew to love this place too.[11]I used to come here with Kelly as well.[12]She adored me, so she followed me around[13]everywhere.[14]And she always carried around the same little[15]doll she'd had since she was a baby.[16]She was really cute, but she was a real[17]crybaby too.[18]As soon as she turned on the waterworks,[19]Mom would start yelling at me.[20]So I was always telling her "Don't cry, Kelly![21]Don't cry!"[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是啊。[1]I played hide and seek, went bug-catching, the[2]works.[3]就是爸爸告诉我这个地方的。[4]他总说这是他最喜欢的地方，[5]在这里他可以席地而坐，欣赏湖景。[6]他总是忙于工作，所以有时[7]压力会很大。[8]但是一旦他来到这里，那个慈祥的[9]始终微笑的爸爸就回来了。[10]So I grew to love this place too.[11]I used to come here with Kelly as well.[12]She adored me, so she followed me around[13]everywhere.[14]And she always carried around the same little[15]doll she'd had since she was a baby.[16]She was really cute, but she was a real[17]crybaby too.[18]As soon as she turned on the waterworks,[19]Mom would start yelling at me.[20]So I was always telling her "Don't cry, Kelly![21]Don't cry!"[22]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
