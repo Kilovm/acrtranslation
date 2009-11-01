@@ -14,8 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh... Better turn off the tap before I [1]disconnect the hose.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦…… 在断开水管之前必须[1]先关闭龙头……[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -31,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Eek![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呀！[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -40,8 +38,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is so not going to work...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这样不行……[1]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>

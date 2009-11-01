@@ -14,8 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The keys are stuck and I can't get[1]them out...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]钥匙卡住了[1]没法拿出来……[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -24,8 +23,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. Looks like that was too heavy.[1]I'd better try again...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呜。看起来那个太重了。[1]我得再试试看……[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -33,8 +31,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's not heavy enough yet...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还不够重……[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -43,8 +40,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's not heavy enough yet...[1]Just a tiny bit more, I think.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还不够重……[1]我觉得还要加一点点。[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -52,8 +48,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm. I don't think I can put any more on.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯。我觉得不能再放更多了。[1]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -69,8 +64,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe I can get the keys now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]或许这样就可以拿出钥匙了？[1]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -79,8 +73,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This coin doesn't seem to be helping...[1]Have I got anything else I could use?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这些硬币好像没什么用……[1]还有其它可用的东西吗？[2]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -89,8 +82,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait...[1]What's that button in the middle?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等……[1]中间那个按钮是什么？[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>

@@ -14,8 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What am I going to do?[1]This dog just won't move...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么办呢？[1]这条狗一直在这里……[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -31,7 +30,6 @@
       <Command>Ggb/AAAAChoFAAABCgAAAAAAAAAAAAAAAAAAAAA=</Command>
     </Commands>
     <Original>[0]He ate all of them![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他都吃完了！[1]</Translation>
   </Sentence>
 </Session>

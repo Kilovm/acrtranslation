@@ -30,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's got to be a crack or something[1]around here somewhere...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这附近应该有个[1]裂缝什么的……[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -40,8 +39,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]This looks like it might open...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔！[1]好像可以打开……[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>

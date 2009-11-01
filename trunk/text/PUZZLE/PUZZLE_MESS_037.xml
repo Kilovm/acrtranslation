@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Looks like it won't turn that way...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好像那样不行……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -23,8 +22,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What?! They all turned back...[1]Was I too slow?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么？！又转回来了……[1]是我太慢了吗？[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -32,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why won't the keys go in?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]钥匙怎么插不进去？[1]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>

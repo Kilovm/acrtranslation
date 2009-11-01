@@ -5,8 +5,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've got to fix that cover slip, quickly...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得赶快修好那个滑盖……[1]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -31,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh? Something catches when I try to put[1]it back...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊？放回去的时候[1]好像什么东西钩上了……[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -41,8 +39,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait, there's something stuck to the back of[1]this...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等，[1]什么东西卡在后面了……[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
