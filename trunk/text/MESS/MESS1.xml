@@ -1356,7 +1356,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah...[1]I should take a picture of the stone Tommy[2]was talking about.[3]</Original>
-    <Translation>[0]Oh yeah...[1]I should take a picture of the stone Tommy[2]was talking about.[3]</Translation>
+    <Translation>[0]噢……[1]我应当给汤米所说的[2]那块石头照张相[3]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1368,8 +1368,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoA</Command>
     </Commands>
     <Original>[0]Oh![1]This must be the stone Tommy was talking[2]about.[3]It just looks like a normal stone, though...[4]May as well take a picture of it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦！[1]这一定就是汤米[2]所说的那块石头[3]虽然看起来就像块普通的石头……[4]我最好还是给它照张相[5]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1379,8 +1378,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoA</Command>
     </Commands>
     <Original>[0]Huh?[1]Is this the stone Tommy was talking about?[2]I should take a picture of it.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]这就是汤米说的那块石头？[2]我应该给它照张相[3]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1390,8 +1388,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah.[1]I should take a picture of the stone Tommy[2]was talking about...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢[1]我需要给汤米所说的[2]那块石头照张相……[3]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1402,8 +1399,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large, strangely-coloured [2]stone[3] on the stand.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一块 [1]巨大的， [2]奇怪颜色[3]的石头[4]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1426,8 +1422,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large, strangely-coloured [2]stone[3] on the stand.[4]Hey, take a picture of that stone.[5]Trust me, it's magic. Look at the picture and[6]you'll agree.[7]Magic?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一块 [1]巨大的， [2]奇怪颜色[3]的石头[4]嘿，给这块石头照张相[5]相信我，它是有魔力的，照张相[6]你就知道了[7]魔力？[8]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1438,8 +1433,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large, strangely-coloured [2]stone[3] on the stand.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一块 [1]巨大的， [2]奇怪颜色[3]的石头[4]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1453,8 +1447,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]pamphlets[2] on the stand.[3]These must be the pamphlets Tommy was[4]talking about.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有 [1]一本[2]小册子[3]These must be the pamphlets Tommy was[4]talking about.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
