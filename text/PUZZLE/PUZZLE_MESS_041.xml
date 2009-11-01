@@ -15,8 +15,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. That was wrong.[1]Got to turn the puzzle box to the colour of[2]the note...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呜，错了。[1]应该把颜色调成[2]和笔记上的一样……[3]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -26,8 +25,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm.[1]Wait, what if I turn the puzzle box to the[2]colour of the note?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯。[1]等等，我如果[2]把谜题盒的颜色调成和笔记里的一样会怎样？[3]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>

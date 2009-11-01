@@ -30,8 +30,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ouch! [1]Should've eaten my carrots.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎哟！[1]手指吃萝卜了。[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
