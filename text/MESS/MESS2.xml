@@ -2338,8 +2338,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAsxAQQAEQFJT1AwMDAAAAAKGgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]Ashley, how old are you?[1]I'm 16.[2]Ah, 16...[3]What about it?[4]Just wondering if everyone gets like that when[5]they turn 16...[6]"Like that"? What's that supposed to mean?[7]As soon as I open my mouth, you instantly[8]decide I'm lying...[9]I don't want to be like that.[10]I don't ever want to be 16![11]Huh?[12]It's fine. I don't care if you believe me or not.[13]I'm outta here.[14]Matthew...[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你今年几岁啊？[1]16岁。[2]啊，16岁啊……[3]怎么样呢？[4]只是好奇是不是每个人到了16岁[5]都会这样……[6]“都会这样？”这是什么意思？[7]只要我一开口说话，你就马上[8]认定我在撒谎……[9]我不要变成这样，[10]我不要长大变成16岁！[11]啊？[12]没关系，你信不信都无所谓，[13]我要走人了。[14]马修……[15]</Translation>
   </Sentence>
   <Sentence id="165">
     <Commands>
@@ -2350,8 +2349,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]"I don't care if you believe me or not"?[1]What a rude kid.[2]I don't care what he thinks about me.[3]But he did tell me where my bag was...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“信不信都无所谓”？[1]这孩子真没礼貌。[2]他怎么看我都没关系，[3]但他刚刚说我的包在……[4]</Translation>
   </Sentence>
   <Sentence id="166">
     <Commands>
@@ -2368,8 +2366,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey.[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿。[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="168">
     <Commands>
@@ -2378,8 +2375,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was that noise?[1]I'd better go find out...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是什么声音？[1]我得去看看……[2]</Translation>
   </Sentence>
   <Sentence id="169">
     <Commands>
@@ -2388,8 +2384,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That voice...[1]Who could it have been?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那声音……[1]会是谁的呢？[2]</Translation>
   </Sentence>
   <Sentence id="170">
     <Commands>
@@ -2397,8 +2392,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="171">
     <Commands>
@@ -2407,8 +2401,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Whoa![1]That dog again![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哇哦！[1]又是那条狗！[2]</Translation>
   </Sentence>
   <Sentence id="172">
     <Commands>
@@ -2424,8 +2417,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]What're you doing, sitting around here?[1]C'mon! Here, boy![2]Woof![3]Huh?[4]He's ignoring me...[5]Hey, look at me![6]Woof![7]What's wrong?[8]Something over there?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你坐在这里干什么呀？[1]过来！这里啊，狗狗！[2]汪！[3]啊？[4]我被无视了……[5]嘿！过来这边！[6]汪！[7]怎么了？[8]那里有东西？[9]</Translation>
   </Sentence>
   <Sentence id="173">
     <Commands>
@@ -2434,8 +2426,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll get it out, hang on a sec...[1]Woof![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等一下哦，我把它拿出来……[1]汪！[2]</Translation>
   </Sentence>
   <Sentence id="174">
     <Commands>
@@ -2445,8 +2436,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sorry, I can't get it out on my own...[1](whine)[2]I'll come back later, okay?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对不起啊，太重了，赤手空拳地拿不出来……[1]（哀嚎声）[2]过一会儿我会回来的，好吗？[3]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -2463,8 +2453,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Something[1] is lying between the [2]boxes.[3]That thing...[4]It's a pink music player![5]Almost exactly like the one Dad gave me![6]Woof![7]Ah, that's what you want...[8]What's it doing in there?[9]Hang on, I'll get it out.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有东西[1]夹在[2]箱子中间。[3]那是……[4]是粉红色的播放器！[5]和爸爸跟我的那个几乎一模一样！[6]汪！[7]啊，你想要那个啊……[8]怎么会在那里的？[9]等等啊，我把它拿出来。[10]</Translation>
   </Sentence>
   <Sentence id="176">
     <Commands>
@@ -2491,8 +2480,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No use...[1]I can lift up the top one, but I need both hands.[2]Sorry, doggy.[3]I can't get the thing out.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没用……[1]虽然能举起一个箱子，但是腾不出手了。[2]狗狗，对不起啦。[3]看来我拿不出来了。[4]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -2500,8 +2488,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No luck...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没成功……[1]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
@@ -2509,8 +2496,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么做？[1]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -2522,8 +2508,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pink music player[2] at the [3]back.[4]I might as well try to get it out...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个 [1]粉红色的播放器[2]在[3]后面。[4]不妨试着拿出来看看……[5]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
@@ -2534,8 +2519,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADHAoA</Command>
     </Commands>
     <Original>[0]There is an[1] iron bar[2] on the floor.[3]Maybe I can use this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一根[1]铁条[2]在地板上。[3]或许能用这个。[4]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -2546,8 +2530,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll try using the bar to get the music[1]player out of there...[2]No, the iron bar won't reach in there...[3]I don't think I can do this on my own.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，我试试看用铁条把播放器[1]弄出来。[2]不行，这根铁条够不着那么里面……[3]看样子单靠我一个人办不到了。[4]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -2558,8 +2541,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]You've given up too?[2]Right, I'd better go check out the remains of[3]that villa.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]你也放弃了？[2]好吧，我还是去看看烧毁别墅[3]的废墟吧。[4]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -2568,8 +2550,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, the iron bar won't reach in there...[1]I don't think I can do this on my own.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行，这根铁条够不着那么里面……[1]看来单靠我一个人办不到了。[2]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
@@ -2578,8 +2559,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]Huh? What's up?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]嗯？怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="187">
     <Commands>
@@ -2589,8 +2569,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah.[1]I should go to the villa before I go to Dad's[2]cottage.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢对了。[1]在去爸爸的小屋前，我还是先去[2]别墅那里看看吧。[3]</Translation>
   </Sentence>
   <Sentence id="188">
     <Commands>
@@ -2599,8 +2578,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dan warned me not to go this way...[1]But my bag's in there! I have to![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹提醒我不要走这条路……[1]但是我的包在里面啊，必须破例了！[2]</Translation>
   </Sentence>
   <Sentence id="189">
     <Commands>
@@ -2636,8 +2614,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]There is a [1]gate[2] in front of the [3]remains of the villa.[4]So this is the burned villa...[5]Looks like there's nothing left standing.[6]I wonder if Matthew really did find my bag here.[7]One way to find out![8]The gate's locked.[9]What now?[10]Huh?[11]That was the TAS.[12]The TAS is responding to something again![13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一扇[1]大铁门[2]挡在了[3]别墅的废墟前面。[4]那么这里就是被烧毁的别墅了……[5]看样子已经被烧得没剩什么竖立着的东西了。[6]真怀疑马修是不是真的在这里找到过我的包包。[7]只有亲自去看看了！[8]大门锁着。[9]现在怎么办？[10]嗯？[11]是TAS啊。[12]TAS又对什么东西起反应了。[13]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -2654,8 +2631,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right...[1]I'll try using the TAS on this.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的……[1]在这上面用TAS试试。[2]</Translation>
   </Sentence>
   <Sentence id="194">
     <Commands>
@@ -2671,8 +2647,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gate[2] in front of the [3]remains of the villa.[4]So this is the burned villa...[5]Looks like there's nothing left standing.[6]I wonder if Matthew really did find my bag here.[7]Right...[8]I'll try the TAS on this.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一扇[1]大铁门[2]挡在了[3]别墅的废墟前面。[4]那么这里就是被烧毁的别墅了……[5]看上去已经被烧得没剩什么竖立着的东西了。[6]真怀疑马修是不是真的在这里找到过我的包包。[7]好吧……[8]在这上面用TAS试试。[9]</Translation>
   </Sentence>
   <Sentence id="195">
     <Commands>
@@ -2697,8 +2672,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That noise...[1]That must've been the gate unlocking.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个声音……[1]一定是门锁打开了。[2]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2706,8 +2680,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]What do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么做？[1]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
@@ -2715,8 +2688,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再使一次！[1]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -2724,8 +2696,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already unlocked it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我已经打开大门了。[1]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
@@ -2734,8 +2705,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already unlocked it, I don't need to use my[1]card.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我已经打开门了，不需要用[1]卡了。[2]</Translation>
   </Sentence>
   <Sentence id="202">
     <Commands>
@@ -2752,8 +2722,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's all burned down.[1]The fire must've been real bad.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]全部都烧毁了。[1]看来火真的非常大啊。[2]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
@@ -2773,8 +2742,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]band score[2] on the ground.[3]Hey![4]This is the band score from my bag![5]Which means my bag really must have been[6]here...[7]Matthew was telling the truth.[8]Huh? There's something under the sheets.[9]What's this?[10]A door knocker...[11]It's got two lions' heads on it.[12]...![13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There is a [1]band score[2] on the ground.[3]Hey![4]This is the band score from my bag![5]Which means my bag really must have been[6]here...[7]Matthew was telling the truth.[8]Huh? There's something under the sheets.[9]What's this?[10]A door knocker...[11]It's got two lions' heads on it.[12]...![13]</Translation>
   </Sentence>
   <Sentence id="205">
     <Commands>
