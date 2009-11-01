@@ -50,7 +50,9 @@
  * clock tower :钟楼
  * bob's : 鲍勃的餐馆
  * Old Mine: 废弃的矿洞
+ * Storage Room: 储藏室
 
+ 
 = 物品名 =
 
  * pick case : 吉他拨片盒
@@ -58,6 +60,7 @@
  * band scores : 乐谱
  * missing items report : 失物招领单
  * pendant : 挂饰
+
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
  * Crusoe Resort ：克鲁索度假村
