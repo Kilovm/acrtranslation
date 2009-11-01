@@ -1893,7 +1893,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's an old building...[1]Is it a shack?[2]</Original>
-    <Translation>[0]这是座老房子啊……[1]是棚屋吗？[2]</Translation>
+    <Translation>[0]这是座老建筑啊……[1]是棚屋吗？[2]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -1909,7 +1909,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]entrance[2] to the shack is [3]closed off.[4]Where'd that kid go?[5]This is a dead end...[6]Huh?[7]The entrance is closed off, but the door's just[8]leaning on the building...[9]</Original>
-    <Translation>[0]这个[1]门[2]是通向棚屋的，[3]现在关着。[4]那孩子去哪里了？[5]这里是死路……[6]嗯？[7]入口的关着，但是门却只是[8]靠着房子……[9]</Translation>
+    <Translation>[0]这个[1]门[2]可以进屋子，[3]现在关着。[4]那孩子去哪里了？[5]这里是死路……[6]嗯？[7]门虽然关着，但是却只是[8]靠在那儿……[9]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
@@ -2090,7 +2090,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AM9kAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUEAAAAAAAAAAoaDAAACAQAYwAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Oh, phew...[1]I thought I'd be stuck in there forever![2]Are you crazy, hiding in there?[3]But...[4]But what?[5]It's the only hiding place I could get to...[6]You shouldn't even be hiding in the first place![7]Why were you taking food from the guesthouse[8]stores?[9]I was hungry...[10]I don't care how hungry you are, you shouldn't[11]steal food![12]Sorry...[13]I hadn't eaten since yesterday, I was starving...[14]Well, you were asking for it by running away[15]from home.[16]What?[17]How d'you know I ran away?[18]I just do.[19]I know a few things...Matthew Crusoe.[20]How d'you know my name?![21]Who told you?[22]I suppose I might as well tell you...[23]But first, you have to answer a few of my[24]questions. Got it?[25]Fine. Ask.[26]First, where did you get that teddy bear you[27]were carrying around?[28]Found it.[29]Found it?[30]Yeah. Over [31]where that place got burned down[32].[33]Second, how did you get into the guesthouse[34]storage room?[35]According to Tommy, that door's always[36]locked.[37]I just used my[38] ID card [39]to get in.[40]And the last question...[41]That dog that always stops me whenever I see[42]you... Is it yours?[43]Nah, just follows me around.[44]I dunno why, that [45]stray[46] just seems to like[47]me. It's not mine.[48]</Original>
-    <Translation>[0]噢！呼……[1]我还以为会死在里面呢！[2]你疯了？躲在那里？[3]但是……[4]但是什么？[5]这是我唯一能躲得地方……[6]你首先就不应该想到躲起来啊！[7]为什么之前在商店里偷吃[8]东西？[9]我饿了……[10]不管你饿不饿，你也不能[11]偷东西啊！[12]对不起……[13]我从昨天开始就没吃东西……真的很饿了……[14]那又是你离家出走，[15]自讨苦吃。[16]什么？[17]你咋知道我离家出走的？[18]我就是知道。[19]我还知道一些事呢……马修·克鲁索。[20]你怎么还知道我的名字啊？[21]谁告诉你的？[22]我可以告诉你是谁说的……[23]但首先，你必须回答我的问题，[24]知道了吗？[25]好的，问吧。[26]首先，你从哪里得到[27]刚刚那只泰迪熊的？[28]是找到的。[29]找到的？[30]是的，就在[31]房子烧掉的那个地方[32]。[33]第二个问题，你是怎么进到[34]商店储藏室里的？[35]汤米说，那扇门平时一直[36]锁着的。[37]我就用了我的[38]ID卡[39]进去的。[40]那最后一个问题……[41]每次看到你的时候，都有条狗挡在[42]我面前……那是你的狗吗？[43]不啊，它老跟着我嘛。[44]不知道为什么，那只[45]迷路狗狗[46]好像蛮喜欢[47]我的，但不是我养的。[48]</Translation>
+    <Translation>[0]噢！呼……[1]我还以为会死在里面呢！[2]你疯了？躲在那里？[3]但是……[4]但是什么？[5]这是我唯一能躲得地方……[6]你首先就不应该想到躲起来啊！[7]为什么之前在商店里偷吃[8]东西？[9]我饿了……[10]不管你饿不饿，你也不能[11]偷东西啊！[12]对不起……[13]我从昨天开始就没吃东西……真的很饿了……[14]那是因为你离家出走，[15]自讨苦吃。[16]什么？[17]你咋知道我离家出走的？[18]我就是知道。[19]我还知道其他一些事呢……马修·克鲁索。[20]你怎么还知道我的名字啊？[21]谁告诉你的？[22]我可以告诉你是谁说的……[23]但首先，你必须回答我的问题，[24]知道了吗？[25]好的，问吧。[26]首先，你从哪里得到[27]刚刚那只泰迪熊的？[28]是找到的。[29]找到的？[30]是的，就在[31]房子烧掉的那个地方[32]。[33]第二个问题，你是怎么进到[34]商店储藏室里的？[35]汤米说，那扇门平时一直[36]锁着的。[37]我就用了我的[38]ID卡[39]进去的。[40]那最后一个问题……[41]每次看到你的时候，都有条狗挡在[42]我面前……那是你的狗吗？[43]不啊，它老跟着我嘛。[44]不知道为什么，那只[45]迷路狗狗[46]好像蛮喜欢[47]我的，但不是我养的。[48]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
@@ -2144,8 +2144,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why do you have an ID card?[1]Found it.[2]It got me into that storage room.[3]Mm-hmm...[4]I swear, it was just lying there with a music[5]player![6]A music player?[7]Yeah, I picked that up too.[8]But the batteries were dead, so I just threw it[9]away.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你怎么会有ID卡的？]找到的哦。[2]有了它我才能进储藏室。[3]嗯……4]我发誓，卡是和一个音乐盒[5]一起被扔在那里的。[6]音乐盒？[7]是的，我也把那个捡起来了，[8]不过电池用完了，我就把它[9]扔了。[10]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -2194,8 +2193,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ANFkAAoA</Command>
     </Commands>
     <Original>[0]Ah...[1]That all you wanted to ask?[2]I guess.[3]Right, my turn.[4]You want to ask me something?[5]First, what's your name?[6]Ashley. Ashley Mizuki Robins.[7]Right, Ashley, how do you know I ran away?[8]The Ranger told me about you.[9]Huh?[10]He showed me a photo of you and asked me[11]if I'd seen you around.[12]And? Did you tell him about me?[13]Of course.[14]What?![15]Oh, come on.[16]I did see you. Why would I lie?[17]But...[18]You think you can run away from home and[19]not get reported missing?[20]And you pulled the same stunt last year too?[21]You know about that too?[22]Sure do.[23]So why'd you run away? I bet your family's[24]worried sick.[25]As if.[26]If my uncle cares so much about me,[27]why doesn't he come and get me?[28]He knows I'm here![29]Your uncle?[30]My dad's brother. I live with him.[31]What about your parents?[32].....[33]My mom got sick and died. And my dad...[34]He disappeared five years ago.[35]Disappeared?[36]Yeah. That's why I wanted to come here.[37]You wanted to come here?[38]Yeah.[39]There's [40]something I have to do[41] here.[42]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊……[1]你问完了咯？[2]应该是吧。[3]好！轮到我啦。[4]你也要问我问题吗？[5]首先，你叫什么名字？[6]阿修蕾，阿修蕾·美月·罗宾斯。[7]好的，阿修蕾，你怎么知道我离家出走的？[8]护林员跟我提起你的。[9]喔？[10]他给我看了你的照片，[11]问我是不是看到你了。[2]那么……你有没有告诉他？[13]当然说了。[14]什么？！[15]嘿，别那么惊讶，[16]我本来就见到你了，为什么要撒谎？[17]但是……[18]你觉得你能离家出走，[19]又不被当做失踪处理？[20]而且，去年你也已经有过前科了不是吗？[21]这你也知道？[22]当然了。[23]好了，告诉我为什么你要离家出走？你家里人[24]一定得担心死了。[25]担心倒怪了。[26]如果我叔叔那么关心我，[27]为什么不自己来找我？[28]他可知道我会来这里的！[29]你叔叔？[30]我爸爸的兄弟啊，我和他住一起的。[31]那你父母呢？[32]……[33]我妈妈得病死了，我爸爸……[34]他五年前失踪了。[35]失踪？[36]是的，这也是我来这里的原因。[37]来这里的原因？[38]是啊。[39]有一些[40]我必须去做的事[41]哦。[42]</Translation>
   </Sentence>
   <Sentence id="156">
     <Commands>
@@ -2214,8 +2212,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ANJkAAoA</Command>
     </Commands>
     <Original>[0]What do you have to do?[1]I'm looking for clues.[2]Clues? Clues for what?[3]Clues to help track down my dad.[4]What do you mean?[5]Ashley, can you keep a secret?[6]A secret?[7]Yeah, sure, why not?[8]Right, I'll tell you if you don't tell anyone else.[9]I'm looking for my dad because he was[10]kidnapped[11].[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你必须做什么？[1]我在找线索。[2]线索？什么的线索？[3]追查我爸爸的线索。[4]什么意思？[5]阿修蕾，你可以替我保密吗？[6]保密？[7]当然可以了，没理由不答应啊。[8]好吧，如果你不告诉其他人，我就告诉你。[9]我在找我的爸爸，因为他[10]被绑架[11]了。[12]</Translation>
   </Sentence>
   <Sentence id="157">
     <Commands>
@@ -2249,8 +2246,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Kidnapped?[1]Your dad was kidnapped?[2]Yeah.[3]Ashley, my dad is really rich.[4]Rich?[5]Yeah, rolling in cash![6]And?[7]He was kidnapped here five years ago![8]Kidnapped by who?[9]Kidnappers, obviously![10]Really bad people![11]Uh-huh, and?[12]They set this huge ransom for him.[13]But my uncle wouldn't pay it, so my dad never[14]came back...[15]Then he was classed as missing. But he's alive[16]somewhere, I know it![17]So you came here to find him? To find clues[18]to tell you where he is?[19]Bingo.[20]Mm-hmm.[21]So why didn't your uncle pay the ransom?[22]Wasn't your dad rich?[23]Yeah, my dad is, but my uncle isn't.[24]And nobody but my dad had the key to his[25]safe.[26]Mm-hmm.[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]绑架？[1]你爸爸是被绑架的？[2]没错。[3]阿修蕾，我爸爸暴有钱的。[4]暴有钱？[5]是啊，财源滚滚来！[6]然后呢？[7]五年前他就是在这里被绑架的！[8]被谁绑架的？[9]当然是绑匪咯！[10]他们是大坏蛋呢！[11]那么，然后呢？[12]他们提出要很多很多赎金。[13]但我叔叔又不去付，所以我爸爸就再也没有[14]回来……[15]然后他就被定为失踪人口，但我知道[16]他一定在哪里还活着！[17]所以你就来这里找他？搜集[18]他在哪里的线索。[19]答对了！[20]嗯。[21]那么你叔叔为什么不付赎金呢？[22]你爸爸不是富翁吗？[23]我爸爸是，又没说我叔叔也是。[24]而且，除了爸爸之外，没人有[25]保险箱的钥匙。[26]这样啊……[27]</Translation>
   </Sentence>
   <Sentence id="158">
     <Commands>
@@ -2276,8 +2272,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Listen, Matthew.[1]I don't know if your dad was rich or whatever...[2]But I understand why you came here.[3]I swear! My dad's a rich man who got[4]kidnapped![5]And I'm trying to find him![6]My dad's super rich, he-[7]Okay, I got it![8]Your dad's rich, yeah, yeah.[9]Ashley...[10]Do you believe me?[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]听着，马修。[1]我不知道，也不管你爸爸是不是很有钱。[2]但我理解你为什么只身来到这里。[3]我发誓！我爸爸是因为太有钱而被[4]绑架的！[5]我也在试着找他呢！[6]我爸爸巨巨巨有钱，他~7]好好，我知道了！[8]你爸爸很有钱，没错没错。[9]阿修蕾……[10]你相信我说的吗？[11]</Translation>
   </Sentence>
   <Sentence id="160">
     <Commands>
