@@ -1447,7 +1447,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]pamphlets[2] on the stand.[3]These must be the pamphlets Tommy was[4]talking about.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Original>
-    <Translation>[0]有 [1]一本[2]小册子[3]These must be the pamphlets Tommy was[4]talking about.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Translation>
+    <Translation>[0]有 [1]一本[2]小册子[3]这一定就是汤米所说的[4]那个小册子[5]上边有这个地区的地图！[6]你现在可以查看地图了[7]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1461,8 +1461,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]pamphlets[2] on the stand.[3]Take one if you want.[4]Right.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有[1]一本[2]小册子[3]如果你想拿就拿一本吧[4]好的[5]上边有这个地区的地图！[6]你现在可以查看地图了[7]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1470,8 +1469,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I think one should be enough.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想一个人足够了[1]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -1479,8 +1477,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This must be an ID card scanner.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定就是ID卡扫描仪了[1]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1488,8 +1485,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the ID card scanner.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定就是ID卡扫描仪了[1]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1514,8 +1510,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAhwABAAAAChoMAAAIAACHAQAAAAoaLQAABVdTRF9TRV9FVkVOVF9KVUxJRVRfTEFLRV9HQVRFX0NIRUNLX09LAAAKAA==</Command>
     </Commands>
     <Original>[0]I just need to hold my card up close to it,[1]right?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我只需要把ID卡[1]靠近它，是吗？[2]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1525,8 +1520,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaBgAADAAKAA==</Command>
     </Commands>
     <Original>[0]It worked! Great![1]...?[2]What the?![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]它开始工作了！ 好的！[1]……？[2]什么？！[3]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1537,8 +1531,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]What just happened?[1]I watched the gate open...and suddenly[2]remembered seeing Mom here.[3]Where did that come from?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]发生什么事了？[1]我看着大门打开……[2]突然想起我在这看到过妈妈[3]怎么会出现这幅画面？[4]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1548,8 +1541,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhkBAApQX01FTU9SWV9DYW1wR2F0ZV9vbgoaHAAABVdTRF9TRV9QQVJUX01FTU9SWV9JTgAACho7AQAJUF9NRU1PUllfQ2FtcEdhdGVfb2ZmAFBfTUVNT1JZX0NhbXBHYXRlX29mZl9vZmYuYnJsYW4AChoGAAAMAAoaGgEAClBfTUVNT1JZX0NhbXBHYXRlX29mZgoaBgAADAAKGgcAAEkB9AoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]The campsite gate.[1]Mom was right here, in front of this gate...[2]I know it.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]营地大门[1]妈妈在这里，在这个大门前……[2]我知道了！[3]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
