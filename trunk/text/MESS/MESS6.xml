@@ -699,8 +699,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AlpkAAoA</Command>
     </Commands>
     <Original>[0]What's a puzzle box?[1]It's a toy, Dad bought one for Kelly.[2]It's the same one?[3]I think so. You turn it and it makes noises.[4]You play with it by spinning it around over and[5]over.[6]Are you sure?[7]Yeah![8]And that means... Ash![9]That means [10]my dad was here[11]![12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么类型的谜题箱啊？[1]是一种玩具，爸爸曾经给凯莉买了一个。[2]是同一个吗？[3]我想是。你一转动它，它就会发出声音。[4]你要玩它的话就把它一圈又一圈的[5]转动它。[6]你确定？[7]是的！[8]那就意味着... 小蕾！[9]那意味着[10]爸爸曾来过这里！[11][12]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
@@ -713,8 +712,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Your dad, up here?[1]It's not rocket science, Ash.[2]If the puzzle box is here, it means my dad was[3]here, right?[4]Which means Kelly was here too![5]Yeah, maybe...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你爸爸，上来这里？[1]这里可不是搞航天研究的地方啊，小蕾。[2]如果那个谜题箱在这的话，那就表示[3]我爸爸曾经来过这里，对吧？[4]那可能也表示凯莉曾来过这里！[5]是啊，也许吧...[6]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -723,8 +721,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, can you get the puzzle box out for me?[1]Sure![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你能帮我把谜题箱拿出来么？[1]好的！[2]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -741,8 +738,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey.[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿。[1]什么？[2]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
@@ -750,8 +746,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你上哪去啊，小蕾？[1]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -760,8 +755,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]Matt was right, there is something in here.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是啊...[1]马修说得对，这儿绝对有什么。[2]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -769,8 +763,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Can you get the puzzle box out for me?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你能帮我把谜题箱拿出来么？[1]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -786,8 +779,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADRQoA</Command>
     </Commands>
     <Original>[0]I got it![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]拿到了！[1]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -796,8 +788,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]Maybe I should use something to get it out.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯...[1]也许我该用些什么东西把谜题箱搞出来。[2]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -805,8 +796,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's too dangerous, I can't get it out.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这太危险了， 我不能将它取出来。[1]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -814,8 +804,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So what do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那我该干啥呢？[1]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
