@@ -332,7 +332,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] stairs leading up[2] are broken.[3]I can't climb these...[4]What do I do?[5]</Original>
-    <Translation>[0]那个[1] 向上的台阶[2] 坏了。[3]我可爬不到那去...[4]我该怎么办？[5]</Translation>
+    <Translation>[0]那个[1] 往上的梯子[2] 坏了。[3]我可爬不到那去...[4]我该怎么办？[5]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -343,8 +343,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADcwoA</Command>
     </Commands>
     <Original>[0]There is a [1]hammer[2] in the toolbox.[3]This might come in handy...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一个[1]锤子[2] 在工具箱里。[3]这东西迟早会有用的...[4]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -352,8 +351,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I just had some nails, I could fix those stairs...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]只要我有一些钉子，我就可以修好这些钉子...[1]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -364,8 +362,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADcgoA</Command>
     </Commands>
     <Original>[0]There are some [1]nails[2] in the box.[3]Maybe I can use these...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有些[1]钉子[2] 在盒子里。[3]也许我能用到它们...[4]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -373,8 +370,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I just had a hammer, I could fix those stairs...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]只有有一个锤子，我就可以修好这些楼梯了...[1]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -391,8 +387,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the hammer and nails to fix the[1]stairs.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了，我可以用手边的锤子和钉子来修好[1]楼梯。[2]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -401,8 +396,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No good...[1]I can't fix the stairs with just nails...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行啊...[1]只有这些钉子我可修不好这梯子...[2]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -419,8 +413,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the hammer and nails to fix the[1]stairs.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了，我可以用手边的锤子和钉子来修好[1]梯子。[2]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -429,8 +422,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No good...[1]I can't fix the stairs with only a hammer...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行啊...[1]只有锤子我可修不好这梯子...[2]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -453,8 +445,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDQAAFQQAggABAACCChoMAAAIBACCAQAAAAoaBgAADAAKGgcAABEAABoHAAASBAAKGgYAAAwAChoMAAAIBAB3AAAAAAoaDQAAFQQAAAAAAAAAChoNAAAVAABnAAEAAGcKGgwAAAgAAGcBAAAACgA=</Command>
     </Commands>
     <Original>[0]Great, now we can use the stairs.[1]Matt, let's head to the top![2]Right![3]Uh...do we have to?[4]You bet![5]Oh...right.[6]What's wrong?[7]Nothing...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]太棒了，现在我们可以用这些梯子了。[1]马修，我们去楼顶吧！[2]好的！[3]呃...我们必须得去？[4]你说呢！[5]噢...好吧。[6]怎么呢？[7]没事...[8]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -462,8 +453,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Drat, the nail bent...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]该死，钉子歪了...[1]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -471,8 +461,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我这该怎么办呢？[1]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -484,8 +473,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old cupboard[2] in the [3]corner.[4]I wonder what's in here...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一个[1]旧食橱[2] 在[3]角落。[4]我想里边会不会有什么东西...[5]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -500,8 +488,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old diary[2] in the [3]cupboard.[4]"Benjamin Graham" is written [5]on the front.[6]Benjamin Graham?[7]That's Mrs Graham's father...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一本[1]旧日记本[2] 在[3]食橱里。[4]“本杰明·格雷厄姆”写在[5]封面上。[6]本杰明·格雷厄姆？[7]那是格雷厄姆的父亲...[8]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -512,8 +499,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old diary[2] in the [3]cupboard.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一本[1]旧日记本[2] 在[3]食橱里。[4]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -529,8 +515,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder what's written in it...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想这日记里边有写些什么东西...[1]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -539,8 +524,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder what that picture was supposed to[1]be of?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我很好奇这是什么的[1]照片啊？[2]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -555,8 +539,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoaBgAATwQKGgkAAEYCAQAAChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Wow, we're inside the clock...[1]Uh...Ash...[2]What's up?[3]I...I've never...[4]I've never been up this high before...[5]My legs won't move...[6]Agh![7]Matt![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哇哦，我们在大钟里...[1]呃...小蕾...[2]怎么呢？[3]我...我从未...[4]我从未来这么高的地方...[5]我的腿动不了...[6]啊！[7]马修！！[8]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -567,8 +550,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Matt...[1]I'm scared, Ash...[2]I can't stand up...[3]Okay, just hold on there.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修...[1]我很怕，小蕾...[2]我站不起来了...[3]好吧，呆在那别动啊。[4]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -585,8 +567,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMjNfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDIzXzAxX29mZgBJTlRFUlJVUFRfQl9SMDIzXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDIzXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is [1]something[2] on the floor by [3]the shelves.[4]What's this?[5]It's a badge.[6]It's got the same logo as the music player on it.[7]It must be from JC Valley.[8]Hmm? There's something on the back...[9]What's this number for?[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一些[1]东西[2] 在地板上的[3]架子旁。[4]这是什么？[5]是个徽章。[6]徽章上的图案和那个mp3上的一模一样。[7]这一定是来自JC山谷。[8]嗯？ 还有些什么在背后...[9]这是什么号码啊?[10]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -601,8 +582,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAhwABAAAAChoMAAAIAACHAQAAAAoA</Command>
     </Commands>
     <Original>[0]The [1]clock mechanism[2] is in the [3]centre of the room.[4]There is a small door on one side of [5]the machine.[6]What's this?[7]I wonder if it'll open...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那 [1]机芯[2] 在[3]房间中央。[4]有个小门在 [5]机器的一边。[6]这是？[7]我想这门能开么...[8]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -610,8 +590,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey! It opened![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿！ 门开了！[1]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -627,8 +606,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]crest[2] embossed into the [3]side of the machine.[4]It has the moon, sword and flower [5]emblems and three keyholes.[6]Let's see...[7]It's the same crest as the one on the clock[8]tower door.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一个[1]饰章[2] 被浮雕在[3]机器的一边。[4]浮雕上有月亮，剑和花的[5]标志与三个钥匙孔。[6]我看看...[7]这个饰章的图案与[8]钟楼大门上的一样啊。[9]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -636,8 +614,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the three clock tower keys.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了，我可以用这三把钟楼钥匙。[1]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -653,8 +630,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAgChoGAAAMAAoaBgAADAAKGgUAABsKAA==</Command>
     </Commands>
     <Original>[0]It's working![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一切顺利！[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -662,8 +638,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该做什么呢？[1]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -672,8 +647,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The clock's working now, I don't need to use[1]these any more.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]大钟又开始运转起来了，我用不到[1]这些东西了。[2]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -706,8 +680,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AllkAAoA</Command>
     </Commands>
     <Original>[0]You okay, Matt?[1]Yeah, I'm fine![2]Huh?[3]Hey it's working! Neat![4]Ash, look![5]Matt...[6]I thought you couldn't move because you were[7]scared of heights.[8]Whoa! You're right![9]Don't tell me you forgot you were scared of[10]heights?[11]I guess I did![12]The clock started running and my legs just[13]started working again![14]You're so weird![15]I guess I am![16]Well, looks like you got over your fear, Matt.[17]That's pretty cool.[18]Yeah![19]Hey Ash, take a look inside this machine.[20]There's something in it.[21]There is?[22]Oh yeah, in between the gears.[23]I bet it's the [24]puzzle box[25]![26]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你还好吗，马修？[1]是的，还好啦！[2]啊？[3]嘿，大钟又转起来了！干得漂亮！[4]小蕾，看！[5]马修...[6]你之前是因为怕高[7]而动不了了吧。[8]哇哦，你说对了！[9]别告诉我你忘了[10]你怕高？[11]我猜我还是怕的！[12]但这时钟一开始转起来[13]我的腿也神奇般的可以动了！[14]你可真够奇怪的！[15]我就是啦！[16]唔，看来你战胜了你的恐惧了，马修。[17]那很酷哦。[18]是的！[19]嘿，小蕾看看机器里面。[20]貌似有东西在里边。[21]在这？[22]是的，在两个齿轮之间。[23]我想这是一个[24]谜题箱！[25] [26]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
