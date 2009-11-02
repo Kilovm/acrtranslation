@@ -19,7 +19,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I asked Mrs Graham to let me go into the clock[1]tower.[2]I found the three keys, so she let me borrow[3]them.[4]Matt... We can look around in the clock tower[5]now.[6]Maybe we can find some answers in there.[7]</Original>
-    <Translation>[0]我向格雷厄姆太太要求允许我进[1]钟楼。[2]我发现了那三把钥匙，所以她也同意我借走[3]钥匙。[4]马修...我们可以调查钟楼内部了[5]现在。[6]也许我们可以在那里找到一些答案。[7]</Translation>
+    <Translation>[0]我向格雷厄姆太太请求让我进[1]钟楼。[2]我发现了那三把钥匙，所以她也同意我借走[3]钥匙。[4]马修...我们可以调查钟楼内部了[5]现在。[6]也许我们可以在那里找到一些答案。[7]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -216,8 +216,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Matt![2]You shouldn't be up![3]My fever's gone![4]Seriously?[5]Totally![6]I woke up and my headache was gone, I wasn't[7]burning up any more...[8]No way![9]Seriously![10]Your medicine was top notch![11]Like I said, it was Mrs Graham's recipe.[12]She told me how to make it. Maybe you were[13]a bit out of it when I told you before...[14]Must be hanging around with you too much.[15]So wasn't it hard to make?[16]And wasn't it a pain having to do everything[17]on your own?[18]Not at all![19]What? Not even a bit?[20]Nope.[21]I was doing fine without you. But actually...[22]Yeah?[23]I guess, maybe...[24]Maybe what?[25]I missed you a bit.[26]Seriously?[27]Just a little. Tiny bit. Barely at all.[28]Hahaha![29]Hey, Ash, did you go to that cranky old[30]Charlotte's place?[31]Mrs Graham, Matt. She doesn't like it when we[32]call her Charlotte.[33]Seriously?[34]Yeah...[35]She doesn't let anyone outside her own family[36]call her Charlotte.[37]Whoa...[38]She sounds pretty scary.[39]No way![40]She was a bit scary at first, but when you get[41]past that, she's really nice.[42]It kind of felt like I was talking to my own[43]grandma after a while.[44]Really?[45]Yeah...[46]"If I had a grandma, would she be like that?"[47]That kind of thing.[48]You don't have a grandma?[49]Not one that I've ever met.[50]My dad's parents died in an airplane accident[51]when he was 18.[52]And my mom's parents are somewhere in Japan,[53]but I've never met them.[54]How about you?[55]My uncle said I have a grandma in Chicago,[56]but I've never met her either.[57]Guess we're in the same boat then...[58]Oh, did you ask about the clock tower?[59]Yep.[60]Mrs Graham said it was her father who built the[61]clock tower.[62]She stopped it five years ago, and uh...[63]Oh yeah, there are three keys for it.[64]Three?[65]Yeah. A moon key, a sword key and a flower[66]key.[67]Mrs Graham said I could borrow them.[68]No way! You're the best! So we can look[69]around?[70]You bet.[71]But there's something we have to do there.[72]What is it?[73]Just something Mrs Graham asked me to do.[74]And that is?[75]To get the clock running again.[76]Ash, can you do that?[77]I dunno...[78]But I can try.[79]Ash, let's head to the clock tower.[80]No, I'll go and you'll stay here.[81]What? Why?[82]You've just got over a fever, you shouldn't be[83]going out again so soon.[84]I'm fine![85]Look at me, I'm right as a fiddle! Fit as rain![86]All that! Come on![87]You sure?[88]Sure I'm sure![89]All right then, let's get going.[90]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎呀！[1]马修！[2]你不该起来的！[3]我的烧退了！[4]真的？[5]完全退了！[6]我一醒来头就不疼了，[7]也不发烧了...[8]不可能！[9]真的啦！[10]你拿来的药真是牛逼啊！[11]我说过，那是格雷厄姆太太给的秘方。[12]她告诉我怎样配药的。[13]我之前告诉你时你可能神游去了...[14]一定是和你一起逛太久了。[15]嗯，事情很难搞定么？[16]而且就你一个人承担所有的事[17]你不会痛苦么？[18]一点事也没有！[19]什么？什么事都没有？[20]没事。[21]没有你我一样做得到。但是，实际上...[22]嗯？[23]我猜，也许...[24]也许什么？[25]我有点想你。[26]真的？[27]只是有一点，一点点的一点点。[28]哈哈哈！[29]喂，小蕾，你去找那个脾气很坏的[30]夏洛蒂？[31]马修，人家那是格雷厄姆太太。她不喜欢我们直接[32]称呼她夏洛蒂。[33]真的假的？[34]真的啦...[35]她不喜欢她家以外的人[36]叫她夏洛蒂。[37]哇哦...[38]她听起来挺可怕的。[39]一的也不啦！[40]刚刚接触时可能会有一点怕怕的，[41]但是你和她接触久了就会发现她人还是很好的。[42]接触不久后感觉就有点就像我在和[43]自己的奶奶说话一样。[44]真的？[45]是啊...[46]“如果我有奶奶，她会是什么样的呢？”[47]等诸如此类的。[48]你没有奶奶，外婆么？[49]没有一个是我见过的。[50]我爸爸的双亲死于空难[51]在他18岁的时候。[52]我妈妈的父母则在日本的某地。[53]但是我没见过他们。[54]你呢？[55]我叔叔说过我有一个奶奶在芝加哥，[56]但是我也没见过她。[57]我猜我们的情况一样呢...[58]噢，你问到了钟楼的消息没？[59]问到了。[60]格雷厄姆太太说是她的父亲建造了[61]钟楼。[62]她五年前就把钟楼的钟给停了，还有就是...[63]对了，钟楼有三把钥匙呢。[64]三把？[65]是的，月之匙，剑之匙和[66]花之匙。[67]格雷厄姆太太同意我借这些钥匙。[68]不会吧！你太棒了！所以我们可以去[69]调查一番了？[70]你答对了。[71]但是我们还有事情必须要做啊。[72]什么事啊？[73]只是一些格雷厄姆太太要我做的。[74]那是？[75]让钟楼重新运转起来。[76]小蕾，你行吗？[77]我不知道呃...[78]但是我会试试。[79]小蕾，我们快点去钟楼那吧。[80]不，我去，而你呆在这。[81]什么？ 为啥啊？[82]你的烧才刚刚退，你实在不应该[83]立刻又出门。[84]我没事啦！[85]看看我，现在我身体好的牛逼大发了！[86]别留下我啊！[87]你确定你没事了？[88]我百分之二百确定！[89]那好吧，我们出发吧。[90]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -228,8 +227,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder how Matt is...[1]I should head back to the cottage and check on[2]him.[3]Then I can go to the clock tower.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我担心马修的情况...[1]我想先回去看看[2]他。[3]过后再去钟楼那。[4]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -239,8 +237,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]The clock tower's not that way.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]你上哪去啊？[2]钟楼不在那边啦。[3]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -250,8 +247,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]The clock tower's not that way.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]你上哪去啊？[2]钟楼不在那边。[3]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -261,8 +257,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]The clock tower's not that way.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]你上哪去啊？[2]钟楼不在那边。[3]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -272,8 +267,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]The clock tower's not that way.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]你上哪去啊？[2]钟楼不在那边啦。[3]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -283,8 +277,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, Mrs Graham said it was the sword key[1]that opened the door. Let's try it out.[2]The door opened![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那么，格雷厄姆太太说过剑之匙[1]是大门钥匙。 让我们试试吧。[2]门打开了！[3]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -294,8 +287,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] clock tower door[2] is locked.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1] 钟楼大门[2] 被锁上了。[3]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -312,8 +304,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's wrong?[1]Come on, let's go inside![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么啦？[1]快点，我们进去吧！[2]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -329,8 +320,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's pretty old and musty in here.[1]Yeah, there's dust everywhere![2]So this is the clock tower...[3]Whoa...it's really tall...[4]Well, yeah, it's a clock tower.[5]Matt...are you getting any feelings about being[6]here before?[7]Not really...[8]Right, let's take a look around.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这钟楼历史太久，里边都发霉了。[1]是啊，这里到处都是灰尘！[2]这就是那个钟楼啊...[3]哇哦...这的确够大...[4]那自然，这就是钟楼。[5]马修...你觉得你来过这地方吗[6]在此之前？[7]应该没有...[8]好吧，我们四处看看。[9]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -342,8 +332,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] stairs leading up[2] are broken.[3]I can't climb these...[4]What do I do?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1] 向上的台阶[2] 坏了。[3]我可爬不到那去...[4]我该怎么办？[5]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
