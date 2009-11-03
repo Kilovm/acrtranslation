@@ -60,10 +60,10 @@ namespace BrfntGenerator
 
             foreach (string name in names)
             {
-                if (fileName.ToLower().EndsWith(".xml")) enc = "utf-8";
+                if (name.ToLower().EndsWith(".xml")) enc = "utf-8";
                 else enc = encoding;
 
-                using (BinaryReader reader = new BinaryReader(File.Open(fileName, FileMode.Open), Encoding.GetEncoding(enc)))
+				using (BinaryReader reader = new BinaryReader(File.Open(name, FileMode.Open), Encoding.GetEncoding(enc)))
                 {
                     try
                     {
