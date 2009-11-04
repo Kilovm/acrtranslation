@@ -14,6 +14,7 @@
  * Ryan Gray : 莱恩·格雷
  * Matt : 马修（简写）
  * Michael Crusoe : 迈克尔·克鲁索 
+ * Emily: 艾米丽
  * Tommy Harrison : 汤米·哈里森
  * Gina : 吉娜
  * Elizabeth : 伊丽莎白
