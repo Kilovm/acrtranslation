@@ -905,7 +905,7 @@
       <Command>ChoFAAABChoJAABGAAEAAAoaBgAATwUKGgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Huh?[2]Hi![3]Elizabeth.[4]What are you doing here?[5]Well, I asked Daddy and...[6]He told me you were here.[7]I see.[8]Do you need me for something?[9]I've lost something.[10]Lost something?[11]The thing we got for JC Valley's anniversary[12]thing or whatever.[13]You got one too, right? It's that one.[14]And?[15]Ryan, won't you do me a favour?[16]What is it?[17]Help me find my [18]music player[19]![20]I'm sorry, but I have to refuse.[21]What? Why?[22]I can't leave until Dr Robins comes back.[23]And why not?[24]I promised Dr Robins that I'd stay here to[25]keep Ashley company.[26]Come on, Ryan. Just forget that promise, no[27]one'll know.[28]</Original>
-    <Translation>[0]莱恩！[1]嗯？[2]好啊！[3]是伊丽莎白啊。[4]你在这里干什么？[5]那个……我刚刚问了我爸，[6]他说你在这里。[7]这样啊。[8]我能帮上什么忙吗？[9]我掉了点东西。[10]掉了东西？[11]就是JC山谷的……[12]纪念品什么的。[13]你不是也有一个吗？就是那东西。[14]那么？[15]莱恩，帮我个忙怎么样？[16]你先说吧。[17]帮我找到那个[18]音乐盒[19]！[20]不好意思，我想我得拒绝这个请求。[21]啊？为什么？[22]罗宾斯博士回来前我都不会离开这里的。[23]为什么不会？[24]我答应好罗宾斯博士[25]在这里陪阿修蕾。[26]得了吧！先别管那个承诺了，没有人[27]会知道你稍稍走开一会儿的。[28]</Translation>
+    <Translation>[0]莱恩！[1]嗯？[2]好啊！[3]是伊丽莎白啊。[4]你在这里干什么？[5]那个……我刚刚问了我爸，[6]他说你在这里。[7]这样啊。[8]我能帮上什么忙吗？[9]我掉了点东西。[10]掉了东西？[11]就是JC山谷的……[12]纪念品什么的。[13]你不是也有一个吗？就是那东西。[14]那么？[15]莱恩，帮我个忙怎么样？[16]你先说吧。[17]帮我找到那个[18]播放器[19]！[20]不好意思，我想我得拒绝这个请求。[21]啊？为什么？[22]罗宾斯博士回来前我都不会离开这里的。[23]为什么不会？[24]我答应好罗宾斯博士[25]在这里陪阿修蕾。[26]得了吧！先别管那个承诺了，没有人[27]会知道你稍稍走开一会儿的。[28]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -1023,7 +1023,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where'd you lose your music player?[1]Sorry, was I talking to you about that?[2]I was asking Ryan to help me look for it.[3]So do kindly mind your own business.[4]What's your problem?[5]What problem?[6]You know what I mean![7]</Original>
-    <Translation>[0]你的音乐盒在哪里弄丢的？[1]请问，我有跟你说要你帮忙吗？[2]我只是让莱恩帮忙找东西吧。[3]你还是忙你自己的事吧。[4]你“那个”有问题吗？[5]哪个？[6]你知道我说什么！[7]</Translation>
+    <Translation>[0]你的播放器在哪里弄丢的？[1]请问，我有跟你说要你帮忙吗？[2]我只是让莱恩帮忙找东西吧。[3]你还是忙你自己的事吧。[4]你“那个”有问题吗？[5]哪个？[6]你知道我说什么！[7]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -1531,7 +1531,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here.[1]Thank you.[2]Ryan, was your briefcase that filthy before?[3]Look at it, it's just covered in someone's[4]grubby little fingerprints.[5]What?[6]This briefcase gets dirty very easily.[7]The front is plastic coated, which makes it quite[8]easy to leave finger marks on it.[9]Sorry for dirtying it.[10]Don't worry about it, Ashley.[11]Hmph.[12]Oh, did you find the music player?[13]Not yet.[14]We searched all around here, but there is still[15]no sign of it.[16]Ah...[17]Well, now that I no longer need to go back to[18]the campsite...[19]I'll stay here for a while to help Elizabeth search.[20]Ryan, are you done chatting?[21]I'm sure talking to Ashley is riveting and all,[22]but...[23]...![24]Elizabeth. Please wait your turn.[25]I shall help you once I have finished talking.[26]Fine.[27]Ashley, have you remembered anything else[28]since we talked last?[29]Nothing...[30]I want to remember everything from 13 years[31]ago, but...nothing's coming to me.[32]I see...[33]You haven't remembered any more about[34]Sayoko... Well, you were only three years old.[35]Needless to say, remembering events from[36]13 years ago must be quite a difficult challenge.[37]Yeah...[38]</Original>
-    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]什么？[6]这个包很容易变脏啊。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起，我把它弄脏了。[10]别在意，阿修蕾。[11]唔……[12]噢对了，找到音乐盒了吗？[13]还没呢。[14]我们都找遍这儿了，但还是没什么[15]线索。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]我就在这里一起帮伊丽莎白找东西吧。[20]莱恩，你聊够了嘛！[21]我知道跟阿修蕾聊天很爽很有趣，[22]但是……[23]……！[24]伊丽莎白，等一会儿好吗。[25]我说完话就帮你一起找。[26]好吧。[27]阿修蕾，刚刚我们分开后，[28]你有没有再想起点什么？[29]一点也没有……[30]我想记起13年前的所有事，[31]但是……还是一片空白。[32]我明白了……[33]你没有想起更多关于沙夜子的事，[34]好吧，当时你才三岁而已啊。[35]不用说，要去回忆13年前[36]的事情，的确是个大大的难题啊。[37]是啊……[38]</Translation>
+    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]什么？[6]这个包很容易变脏啊。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起，我把它弄脏了。[10]别在意，阿修蕾。[11]唔……[12]噢对了，找到播放器了吗？[13]还没呢。[14]我们都找遍这儿了，但还是没什么[15]线索。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]我就在这里一起帮伊丽莎白找东西吧。[20]莱恩，你聊够了嘛！[21]我知道跟阿修蕾聊天很爽很有趣，[22]但是……[23]……！[24]伊丽莎白，等一会儿好吗。[25]我说完话就帮你一起找。[26]好吧。[27]阿修蕾，刚刚我们分开后，[28]你有没有再想起点什么？[29]一点也没有……[30]我想记起13年前的所有事，[31]但是……还是一片空白。[32]我明白了……[33]你没有想起更多关于沙夜子的事，[34]好吧，当时你才三岁而已啊。[35]不用说，要去回忆13年前[36]的事情，的确是个大大的难题啊。[37]是啊……[38]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -2144,7 +2144,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why do you have an ID card?[1]Found it.[2]It got me into that storage room.[3]Mm-hmm...[4]I swear, it was just lying there with a music[5]player![6]A music player?[7]Yeah, I picked that up too.[8]But the batteries were dead, so I just threw it[9]away.[10]</Original>
-    <Translation>[0]你怎么会有ID卡的？]找到的哦。[2]有了它我才能进储藏室。[3]嗯……4]我发誓，卡是和一个音乐盒[5]一起被扔在那里的。[6]音乐盒？[7]是的，我也把那个捡起来了，[8]不过电池用完了，我就把它[9]扔了。[10]</Translation>
+    <Translation>[0]你怎么会有ID卡的？]找到的哦。[2]有了它我才能进储藏室。[3]嗯……4]我发誓，卡是和一个播放器[5]一起被扔在那里的。[6]播放器？[7]是的，我也把那个捡起来了，[8]不过电池用完了，我就把它[9]扔了。[10]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -3407,7 +3407,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, but I have my ID card now.[1]That'll get us in.[2]Didn't you pick that up somewhere? You[3]should think about handing that in.[4]Plus Dan, that Ranger guy, warned me about[5]this place.[6]He said there were some bad people hanging[7]around here.[8]Bad people?[9]Yeah. Like that guy in the sunglasses you saw[10]earlier.[11]He was here too?[12]Looks like it.[13]Then we really do have to go in![14]If there's bad people hanging around, it means[15]there has to be something in there![16]They might even be looking for clues about my[17]dad too![18]Well, you shouldn't go in.[19]It's dangerous to go alone. What if something[20]happens to you?[21]Well...[22]If you come with me, then I won't be alone,[23]will I?[24]Go in with you?[25]Why do I have to go in with you?[26]Fine, never mind.[27]I'll go on my own.[28]I'll be fine by myself anyway.[29]Matt...[30]What?[31]If you want me to go in with you, then just[32]say so.[33]If I do, will you?[34]Only one way to find out.[35]OK. Ash, you can come in with me.[36]If you want to.[37]Bah.[38]That's not asking me either![39]But whatever, let's go.[40]Right![41]</Original>
-    <Translation>[0]没错，不过现在我已经有ID卡啦。[1]这样就进得去了。[2]这张卡不是你从其他地方捡来的吗？你[3]应该先去把卡交给管理员吧。[4]而且那个护林员丹，叫我[5]当心这个地方。[6]他说有些坏人在这里附近[7]游荡哦。[8]坏人？[9]是的，就像你之前看到的[10]墨镜男。[11]他也在这里？[12]挺有可能的！[13]那我们必须进去啦！[14]如果说坏人都在这里游荡，[15]说明里面一定有什么东西啊！[16]他们很可能也是来找关于我爸爸[17]的线索的！[18]不行，你不能进去。[19]一个人很危险，如果发生什么事了[20]怎么办？[21]那么……[22]如果你跟我一起进去，我就不是一个人了，[23]对吧？[24]跟你一起？[25]为什么我要跟你一起进去？[26]Fine, never mind.[27]I'll go on my own.[28]I'll be fine by myself anyway.[29]Matt...[30]What?[31]If you want me to go in with you, then just[32]say so.[33]If I do, will you?[34]Only one way to find out.[35]OK. Ash, you can come in with me.[36]If you want to.[37]Bah.[38]That's not asking me either![39]But whatever, let's go.[40]Right![41]</Translation>
+    <Translation>[0]没错，不过现在我已经有ID卡啦。[1]这样就进得去了。[2]这张卡不是你从其他地方捡来的吗？你[3]应该先去把卡交给管理员吧。[4]而且那个护林员丹，叫我[5]当心这个地方。[6]他说有些坏人在这里附近[7]游荡哦。[8]坏人？[9]是的，就像你之前看到的[10]墨镜男。[11]他也在这里？[12]挺有可能的！[13]那我们必须进去啦！[14]如果说坏人都在这里游荡，[15]说明里面一定有什么东西啊！[16]他们很可能也是来找关于我爸爸[17]的线索的！[18]不行，你不能进去。[19]一个人很危险，如果发生什么事了[20]怎么办？[21]那么……[22]如果你跟我一起进去，我就不是一个人了，[23]对吧？[24]跟你一起？[25]为什么我要跟你一起进去？[26]那算了，当我没说。[27]我还是自己进去。[28]反正一个人也没关系。[29]马修……[30]怎么啦？[31]如果你要我陪你一起去，那么应该用嘴巴[32]说出来。[33]我说了，你就答应？[34]那得说了才知道啊。[35]好的，小蕾，如果你要进去，[36]就一起进去吧。[37]汗。[38]这根本不是在请求吧！[39]好了随便了，走吧！[40]好的！[41]</Translation>
   </Sentence>
   <Sentence id="248">
     <Commands>
@@ -3416,8 +3416,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey.[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿！[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="249">
     <Commands>
@@ -3425,8 +3424,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="250">
     <Commands>
@@ -3434,8 +3432,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你要去哪里啊？[1]</Translation>
   </Sentence>
   <Sentence id="251">
     <Commands>
@@ -3446,8 +3443,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]That's not the boathouse![3]Yeah, yeah...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]你要去哪里？[2]船屋不在那里啊！[3]对……对……[4]</Translation>
   </Sentence>
   <Sentence id="252">
     <Commands>
@@ -3458,8 +3454,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]C'mon, let's go in the boathouse![3]Right...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]你这是去哪里啊？[2]快点啊，我们一起去船屋看看！[3]好的……[4]</Translation>
   </Sentence>
   <Sentence id="253">
     <Commands>
@@ -3501,8 +3496,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] door [2]is locked.[3]It's got the same card lock as the guesthouse[4]storage room...[5]Yeah...[6]Hang on.[7]I'll try opening it with my ID card.[8]Here we go...[9]What?[10]The card won't open it![11]That card probably doesn't work on this door.[12]Huh?[13]What's up?[14]The TAS just beeped![15]I knew it...[16]What's that, Ash?[17]Oh...[18]What's it do?[19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这扇[1]门[2]锁着呢。[3]这个卡锁和商店储藏室[4]的那个一样哦……[5]是的……[6]等一等。[7]用我的ID卡来开门吧。[8]要开咯……[9]什么？[10]开不了门！[11]这张卡好像不能用在这扇门上。[12]嗯？[13]怎么了？[14]TAS发出哔哔的声音。[15]我知道了……[16]那是什么啊小蕾？[17]噢……[18]那是干什么的？[19]</Translation>
   </Sentence>
   <Sentence id="256">
     <Commands>
@@ -3510,8 +3504,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's a secret[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是一个秘密噢[1]</Translation>
   </Sentence>
   <Sentence id="257">
     <Commands>
@@ -3519,8 +3512,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nothing[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没什么[1]</Translation>
   </Sentence>
   <Sentence id="258">
     <Commands>
@@ -3539,8 +3531,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's a secret.[1]A secret?[2]Yeah.[3]So I can't tell you what it does.[4]Mm-hmm.[5]I've actually seen something just like that on[6]TV.[7]On TV?[8]Yeah, in my favourite TV show I watch.[9]The main character uses that on a door, and[10]beep! - the door's unlocked![11]A TV show. Right.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是个秘密噢。[1]秘密？[2]是的。[3]所以我就不能告诉你啦。[4]唔……[5]我在电视上看到过[6]这种东西。[7]电视上？[8]是啊，在我最喜欢看的节目里。[9]主角把那个放在门前，然后[10]哔的一声——门打开了！[11]电视节目……好吧。[12]</Translation>
   </Sentence>
   <Sentence id="259">
     <Commands>
@@ -3551,8 +3542,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's nothing.[1]Oh, come on...[2]Never mind, it doesn't matter what it is.[3]Mm-hmm.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没什么。[1]噢，别这样……[2]别管了，只是无关紧要的东西。[3]唔……[4]</Translation>
   </Sentence>
   <Sentence id="260">
     <Commands>
@@ -3562,8 +3552,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, I wanna go inside.[1]How do we [2]open the door?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，我想进去。[1]怎么才能[2]打开门呢？[3]</Translation>
   </Sentence>
   <Sentence id="261">
     <Commands>
@@ -3571,8 +3560,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Take a look around[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]到附近去看看吧[1]</Translation>
   </Sentence>
   <Sentence id="262">
     <Commands>
@@ -3580,8 +3568,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Close your eyes[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]闭上眼睛噢[1]</Translation>
   </Sentence>
   <Sentence id="263">
     <Commands>
@@ -3599,8 +3586,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How about you take a look around?[1]For what?[2]Maybe someone's hidden the key.[3]Hidden the key?[4]Yeah.[5]You know, people always stash their keys[6]under mats or pots.[7]So maybe it's around here.[8]Besides, there might be some clues about your[9]dad...[10]Good point.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在这附近看看有什么吧？[1]看什么？[2]或许……有人把钥匙藏在附近了。[3]有人藏起来了吗？[4]对啊。[5]你想啊，很多人习惯把钥匙[6]藏在垫子啦罐子啦什么的下面。[7]所以或许就在附近。[8]另外，也可能有关于你爸爸的[9]线索……[10]有道理哦。[11]</Translation>
   </Sentence>
   <Sentence id="264">
     <Commands>
@@ -3629,8 +3615,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Close your eyes.[1]My eyes?[2]Yeah. Just for a sec. [3]If you close your eyes...[4]You'll open the door?[5]Yep.[6]Seriously?[7]Just close your eyes![8]Fine.[9]Okay?[10]Right, while his eyes are closed...[11]Ash...[12]No peeking![13]Sorry...[14]I don't really like having my eyes closed.[15]Gah.[16]Hey, Ash.[17]The key might be stashed around here[18]somewhere.[19]Back at home, we always hide the key under[20]a bucket by the garage.[21]Good idea, let's take a look.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]闭上眼睛。[1]闭眼吗？[2]是的，就一会儿。[3]如果你闭上了眼睛……[4]你就能打开门？[5]对啊。[6]真的吗？[7]你只管闭上好了！[8]好吧。[9]好了吗？[10]好的，他闭上眼睛的时候……[11]小蕾……[12]不准偷看！[13]不好意思……[14]我不喜欢闭上眼睛啊。[15]哎唷……[16]嘿，小蕾。[17]钥匙可能藏在[18]附近什么地方。[19]一回到家，我们不是总喜欢把钥匙[20]藏在车库的水桶里吗？[21]说得对，那我们来看看吧。[22]</Translation>
   </Sentence>
   <Sentence id="265">
     <Commands>
@@ -3642,8 +3627,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll take a look around the door.[1]Matt, you try around there, okay?[2]Gotcha.[3]Now that Matt's out of the way, I can use the[4]TAS![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，我在附近看看。[1]马修，也到那里看看好吗？[2]遵命！[3]既然马修已经走开了，那我就能用[4]TAS了！[5]</Translation>
   </Sentence>
   <Sentence id="266">
     <Commands>
@@ -3659,8 +3643,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I didn't find anything, Ash.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，我什么都没找到。[1]</Translation>
   </Sentence>
   <Sentence id="268">
     <Commands>
@@ -3669,8 +3652,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going?[1]I wanna look around in the boathouse.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你去哪里啊？[1]我想在船屋里到处看看。[2]</Translation>
   </Sentence>
   <Sentence id="269">
     <Commands>
@@ -3679,8 +3661,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I can't use it in front of Matt.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行……[1]不能在马修面前用这个。[2]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
@@ -3688,8 +3669,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, TAS time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，现在是TAS时间！[1]</Translation>
   </Sentence>
   <Sentence id="271">
     <Commands>
@@ -3714,8 +3694,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I put in a 3?[1]Hmm... This thing does have 1 and 2 buttons...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么才能输入3呢？[1]呃……这玩意儿只有1和2的按键……[2]</Translation>
   </Sentence>
   <Sentence id="274">
     <Commands>
@@ -3737,8 +3716,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Got it![1]Should be okay to call Matt now.[2]Hey, Matt![3]Ash, did you find something?[4]Yeah, I found the key card.[5]The door's open, let's go![6]Right![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]搞定了！[1]现在可以去叫马修过来了。[2]嘿，马修啊！[3]小蕾，你找到什么了吗？[4]是的，我找到门卡了。[5]门开了，走吧！[6]好哒！[7]</Translation>
   </Sentence>
   <Sentence id="276">
     <Commands>
@@ -3754,8 +3732,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]This is tricky...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]棘手啊……[1]</Translation>
   </Sentence>
   <Sentence id="278">
     <Commands>
@@ -3763,8 +3740,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]This is tricky...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]棘手啊……[1]</Translation>
   </Sentence>
   <Sentence id="279">
     <Commands>
@@ -3773,8 +3749,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]How do I put in a 3?[1]I have 1 and 2 buttons...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么输入3呢？[1]上面只有1和2……[2]</Translation>
   </Sentence>
   <Sentence id="280">
     <Commands>
@@ -3782,8 +3757,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试试看！[1]</Translation>
   </Sentence>
   <Sentence id="281">
     <Commands>
@@ -3791,8 +3765,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's already unlocked.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]已经打开了。[1]</Translation>
   </Sentence>
   <Sentence id="282">
     <Commands>
@@ -3801,8 +3774,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already unlocked it, I don't need to use my[1]card now.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]已经打开了，没必要再用[1]我的门卡了。[2]</Translation>
   </Sentence>
   <Sentence id="283">
     <Commands>
@@ -3812,8 +3784,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] card lock [2]on the door.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个[1]卡锁[2]在这扇门上。[3]</Translation>
   </Sentence>
   <Sentence id="284">
     <Commands>
@@ -3823,8 +3794,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] door[2] is unlocked.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这扇[1]门[2]被打开了。[3]</Translation>
   </Sentence>
   <Sentence id="285">
     <Commands>
@@ -3841,8 +3811,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd better unlock the door while Matt's looking[1]around.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得在马修闲逛的时候打开[1]这扇门。[2]</Translation>
   </Sentence>
   <Sentence id="287">
     <Commands>
@@ -3851,8 +3820,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd better unlock the door while Matt's looking[1]around.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得在马修闲逛的时候打开[1]这扇门。[2]</Translation>
   </Sentence>
   <Sentence id="288">
     <Commands>
@@ -3862,8 +3830,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nobody here...[1]Is it me or does this place stink of mould?[2]Ugh, yeah.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面没有人……[1]是我自己还是这个房间散发着霉味？[2]额，好吧。[3]</Translation>
   </Sentence>
   <Sentence id="289">
     <Commands>
@@ -3877,8 +3844,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]files[2] on the floor.[3]Why are they on the floor?[4]Looks like someone was searching through[5]them.[6]Could be...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有些[1]文件[2]在地板上。[3]为什么会掉在地板上？[4]看上去好像有人翻看[5]过这些文件了。[6]难道是……[7]</Translation>
   </Sentence>
   <Sentence id="290">
     <Commands>
@@ -3896,8 +3862,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nobody around...[1]Yeah...[2]Huh?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里没人……[1]是的……[2]嗯？[3]</Translation>
   </Sentence>
   <Sentence id="292">
     <Commands>
@@ -3921,8 +3886,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Look![1]What? What?[2]That's my bag![3]Where?[4]Out there![5]Floating, look![6]Oh yeah, I see it![7]Are you sure that's your bag?[8]I think so. But it's too far to know for sure.[9]Yeah, I can't tell either.[10]Hey, Ash.[11]Let's pull it over here![12]Pull it over? How?[13]Well, this is a boathouse, isn't it? They have to[14]have something in there we can use![15]Right, let's take a look![16]Okay![17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看啊！[1]什么？什么东西？[2]那是我的包！[3]哪里啊？[4]就那儿！[5]快看，飘在水面上！[6]对噢，我看到了！[7]你确定是你的包吗？[8]我觉得是，不过太远了，不能确定。[9]是啊，我也不确定。[10]嘿，小蕾。[11]我们把包拉过来吧！[12]拉过来？怎么拉？[13]不是有个船屋吗？里面一定有[14]什么能用到的啊。[15]说得对，我们去看看吧！[16]没问题！[17]</Translation>
   </Sentence>
   <Sentence id="293">
     <Commands>
@@ -3935,8 +3899,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADHwoA</Command>
     </Commands>
     <Original>[0]There is an [1]old rope[2] behind the [3]cardboard boxes.[4]A rope...[5]It's pretty long, it might just reach that bag...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一根[1]旧麻绳[2]在箱子[3]后面。[4]是绳子……[5]蛮长的，应该可以够得到那只包……[6]</Translation>
   </Sentence>
   <Sentence id="294">
     <Commands>
@@ -3952,8 +3915,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]life ring[2] on the ground.[3]A life ring...[4]This might come in handy.[5]Huh? There's something underneath it...[6]Is this a bracelet?[7]A fish design, that's pretty rare.[8](gasp)[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一根[1]救生圈[2]在地上。[3]救生圈……[4]可能会有用。[5]嗯？下面有什么东西？[6]是手镯吗？[7]鱼形的设计，很罕见啊。[8]（喘息）[9]</Translation>
   </Sentence>
   <Sentence id="295">
     <Commands>
@@ -3963,8 +3925,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now.[1]Someone gave something to Mom...[2]Mom...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我记起来了。[1]有人把什么给了妈妈……[2]妈妈……[3]</Translation>
   </Sentence>
   <Sentence id="296">
     <Commands>
@@ -3973,8 +3934,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaHAEAClBfTUVNT1JZX0JyYWNlbGV0TWFuX29uChocAAAFV1NEX1NFX1BBUlRfTUVNT1JZX0lOAAAKGkEBAAlQX01FTU9SWV9CcmFjZWxldE1hbl9vZmYAUF9NRU1PUllfQnJhY2VsZXRNYW5fb2ZmX29mZi5icmxhbgAKGgYAAAwAChodAQAKUF9NRU1PUllfQnJhY2VsZXRNYW5fb2ZmCgA=</Command>
     </Commands>
     <Original>[0]The man wearing this bracelet...[1]He gave something to Mom...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]戴着手镯的男人……[1]把什么东西给了妈妈……[2]</Translation>
   </Sentence>
   <Sentence id="297">
     <Commands>
@@ -3983,8 +3943,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]What's up?[1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="298">
     <Commands>
@@ -4019,8 +3978,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AN1kAAoA</Command>
     </Commands>
     <Original>[0]You were off with the fairies again.[1]Yeah, I guess...[2]Did you remember something?[3]Yeah.[4]What was it?[5]Were you here with your mom?[6]No idea.[7]But...didn't you say you started to remember [8]your mom after coming to Lake Juliet?[9]Could be, but maybe not.[10]I just have these sudden flashes.[11]And it's mostly just fragments...[12]Fragments?[13]Just bits and pieces here and there. They don't[14]seem to make any sense by themselves.[15]Ah...[16]Hey Ash, you really wanna remember your mom,[17]right?[18]Yeah...[19]Maybe that's why I'm remembering her.[20]Why does it only work for you?[21]Huh?[22]I'm always thinking that too.[23]I want to remember my dad, I want to remember[24]everything I can about him...[25]But I can [26]barely remember him[27]![28]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你又神游了。[1]是的，你猜中了……[2]你又记起什么事了吗？[3]是的。[4]那是什么事啊？[5]和你妈妈一起在这里吗？[6]不清楚啊。[7]但是，你不是说你一来到朱丽叶湖[8]就回想起你妈妈吗？[9]有时是，有时又不是。[10]我只是能看到一些场景闪现[11]而且几乎只是些碎片。[12]碎片？[13]东一张西一张的画面，本身看来[14]没有丝毫意义。[15]啊……[16]嘿小蕾，你真的很想记起关于妈妈的事，[17]对吗？[18]是啊……[19]或许这也是我能不断回忆起妈妈的原因吧。[20]为啥只有你才能回忆起来啊？[21]哎？[22]我也很想记起点什么啊。[23]我想记起爸爸，[24]记起每一次和他一起的情景。[25]但是我[26]几乎记不起他了[27]！[28]</Translation>
   </Sentence>
   <Sentence id="299">
     <Commands>
@@ -4054,8 +4012,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You can barely remember your dad?[1]Yeah...[2]I don't really remember much from when he[3]disappeared.[4]And it was only five years ago, too.[5]You can remember things from over 13 years[6]ago.[7]But me...[8]I just can't remember.[9]How am I supposed to find him if I can't[10]remember him?[11]Matt...[12].....[13]Hey, Matt. You want to find your dad, don't[14]you? Really?[15]Yeah.[16]I'll find him, I know I will.[17]Then that's all that matters.[18]I know you'll remember him. I know you'll[19]find clues about him.[20]Really?[21]Definitely![22]A couple of years ago, I was searching for my[23]dad too.[24]I wanted to see him, I really did. And because I[25]kept telling myself that, I found him in the end.[26]Okay...[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你几乎记不起关于爸爸的事了？[1]是的……[2]从他失踪起，我就不太[3]记得他的事了。[4]而且，那只是5年前的事啊。[5]你就能记得13年前的[6]事啊。[7]可是我……[8]我就记起不来。[9]连记都不记得爸爸，那要[10]怎么找到他呢？[11]马修……[12]……[13]嘿，马修。你不是要找你爸爸吗？[14]想清楚了吗？[15]没错。[16]我要找到他，而且我会找到他的。[17]那就够了啊。[18]我相信你会记起他的，我也肯定[19]你能找到关于他的线索的。[20]真的吗？[21]千真万确啊！[22]几年前，我也找过我的[23]爸爸。[24]我想要见到他，非常想见他。 就是因为[25]有这个信念，才能在最后找到他。[26]太好了……[27]</Translation>
   </Sentence>
   <Sentence id="300">
     <Commands>
@@ -4067,8 +4024,7 @@
       <Command>ChoMAAAIBACHAQAAAAoaDQAAFQQAaAEAAAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, d'you wanna see a photo of my dad?[1]You have one?[2]Yeah.[3]Just a sec...[4]Here.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了，想看看我爸爸的照片吗？[1]你带着吗？[2]没错哦。[3]等等……[4]给！[5]</Translation>
   </Sentence>
   <Sentence id="301">
     <Commands>
@@ -4087,8 +4043,7 @@
       <Command>ChoFAAABChoGAAAMAAoaJgEACzgBAAAAAElOVEVSUlVQVF9GYW1pbHlQSE9UT25pbgAAAAoA</Command>
     </Commands>
     <Original>[0]That's my dad.[1]His name's Michael. Michael Crusoe.[2]And beside him is my mom.[3]Her name's Emily.[4]And in front of her is my kid sister Kelly.[5]And in front of Dad...[6]You, right?[7]Right.[8]When my dad disappeared, I found this photo[9]in his room.[10]And since then, I've always carried it around [11]with me.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是我爸爸。[1]他的名字叫迈克尔，迈克尔·克鲁索。[2]在他旁边的是我妈妈。[3]她叫艾米丽。[4]在妈妈前面的是我妹妹凯利。[5]在爸爸前面的……[6]就是你了对吧？[7]没错。[8]爸爸失踪后，我在他房间找到了[9]这张照片。[10]从那时起，我就把照片一直[11]带在身边。[12]</Translation>
   </Sentence>
   <Sentence id="302">
     <Commands>
@@ -4107,8 +4062,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGwEACzgBAAAAAElOVEVSUlVQVF8wMTcAAAAKAA==</Command>
     </Commands>
     <Original>[0]That's my dad.[1]His name's Michael. Michael Crusoe.[2]And beside him is my mom.[3]Her name's Emily.[4]And in front of her is my kid sister Kelly.[5]And in front of Dad...[6]You, right?[7]Right.[8]When my dad disappeared, I found this photo[9]in his room.[10]And since then, I've always carried it around [11]with me.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是我爸爸。[1]他的名字叫迈克尔，迈克尔·克鲁索。[2]在他旁边的是我妈妈。[3]她叫艾米丽。[4]在妈妈前面的是我妹妹凯利。[5]在爸爸前面的……[6]就是你了对吧？[7]没错。[8]爸爸失踪后，我在他房间找到了[9]这张照片。[10]从那时起，我就把照片一直[11]带在身边。[12]</Translation>
   </Sentence>
   <Sentence id="303">
     <Commands>
@@ -4135,8 +4089,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Thanks for showing me your family.[1]Your dad looks really kind.[2]Yeah![3]He's really strong and really kind.[4]He taught me everything I wanted to know...[5]Oh![6]What's wrong?[7]Ash, I remember now.[8]Remember what?[9]I was here, on a boat with my dad.[10]Really?[11]Yeah![12]Dad taught me how to row here![13]Looks like you got your wish about[14]remembering your dad...[15]Yeah![16]I can't believe it, I was here! On a boat! With[17]Dad![18]I'm glad you remembered him, Matt.[19]Me too![20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谢谢给我看你的全家福。[1]你爸爸看上去很亲切啊。[2]没错噢！[3]爸爸很强的，而且也很亲切。[4]他教会了我很多东西。[5]噢！[6]怎么了？[7]小蕾，现在我记起来了。[8]记起什么了？[9]我在这个地方，和爸爸一起在船上。[10]真的吗？[11]没错！[12]爸爸在这里教我怎么划船！[13]记起了你爸爸的事，[14]看来你已经实现愿望咯……[15]没错！[16]真不敢相信，我以前来过这里！在船上！和[17]爸爸一起！[18]马修，我很高兴你能想起来哦！[19]我也是！[20]</Translation>
   </Sentence>
   <Sentence id="304">
     <Commands>
@@ -4146,8 +4099,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]So...[1]It looks like Matt's remembering things too.[2]I hope I keep remembering stuff about Mom...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那么……[1]看来马修也记起事情了。[2]但愿我能一直回忆起妈妈的一些事。[3]</Translation>
   </Sentence>
   <Sentence id="305">
     <Commands>
@@ -4156,8 +4108,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey.[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿。[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="306">
     <Commands>
@@ -4165,8 +4116,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, listen to me![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，听我说！[1]</Translation>
   </Sentence>
   <Sentence id="307">
     <Commands>
@@ -4174,8 +4124,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't throw the life ring in on its own![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]单单把救生圈扔出去并没用啊！[1]</Translation>
   </Sentence>
   <Sentence id="308">
     <Commands>
@@ -4183,8 +4132,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't use the life ring on its own![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]只有一个救生圈并没有用啊！[1]</Translation>
   </Sentence>
   <Sentence id="309">
     <Commands>
@@ -4192,8 +4140,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't throw the rope on its own...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]单单把绳子扔出去没用啊……[1]</Translation>
   </Sentence>
   <Sentence id="310">
     <Commands>
@@ -4201,8 +4148,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't use the rope on its own...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]只有一根绳子并没用啊……[1]</Translation>
   </Sentence>
   <Sentence id="311">
     <Commands>
@@ -4211,8 +4157,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Try using some items together! Like, combine[1]them or something.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]试试看把道具用在一起！比如，组合[1]起来什么的。[2]</Translation>
   </Sentence>
   <Sentence id="312">
     <Commands>
@@ -4220,8 +4165,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll put the rope on the winch...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]把绳子系在卷扬机上……[1]</Translation>
   </Sentence>
   <Sentence id="313">
     <Commands>
@@ -4229,8 +4173,7 @@
       <Command>Ggb/AAAAChoFAAABChoHAABpAAkKAA==</Command>
     </Commands>
     <Original>[0]I'll tie this to the rope...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]把这个和绳子系在一起……[1]</Translation>
   </Sentence>
   <Sentence id="314">
     <Commands>
@@ -4239,8 +4182,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I hope this works...[1]Fingers crossed.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]但愿可以成功……[1]祈求好运。[2]</Translation>
   </Sentence>
   <Sentence id="315">
     <Commands>
@@ -4248,8 +4190,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, one more time.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，再试一次。[1]</Translation>
   </Sentence>
   <Sentence id="316">
     <Commands>
@@ -4257,16 +4198,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, one more time.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，再试一次。[1]</Translation>
   </Sentence>
   <Sentence id="317">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="318">
     <Commands>
@@ -4275,16 +4214,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Got it![1]Sweet![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]成功了！[1]开心！[2]</Translation>
   </Sentence>
   <Sentence id="319">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="320">
     <Commands>
@@ -4292,8 +4229,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No luck...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真倒霉……[1]</Translation>
   </Sentence>
   <Sentence id="321">
     <Commands>
@@ -4325,8 +4261,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQQAEQFOUEMwMDQAAAAKGgYAAAwAChoOAQALNgEEABsBAAAACgA=</Command>
     </Commands>
     <Original>[0]This isn't my bag...[1]Yeah, it's not the one I saw over where the fire[2]was, either.[3]It's not the same at all.[4]No way![5]Matt, what's wrong?[6]Ash...[7]That bag looks just like the one my dad had.[8]Your dad?[9]Oh, it does look a lot like the one in the photo[10]you showed me...[11]But what would your dad's bag be doing out[12]here?[13]Dunno...[14]Hmm...[15]Okay then![16]Let's open it up![17]Huh?[18]If we open it up and look inside, we might find[19]some sort of clue about your dad.[20]Yeah![21]It won't open...[22]There's a lock on it.[23]Here, you try.[24]I'm on it.[25]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个不是我的包啊……[1]是啊，这个不是我在被烧掉的地方看到[2]的那只。[3]根本就不一样嘛。[4]不是吧！[5]马修，怎么了？[6]小蕾……[7]这个包，看上去就像我爸爸的那个。[8]你爸爸的？[9]噢！确实跟你给我看的照片里[10]那个一样啊……[11]但为什么你爸爸的包会在[12]这里啊？[13]不知道啊……[14]唔……[15]就这样吧！[16]我们把它打开！[17]嗯？[18]如果我们把这个打开看看，或许就能[19]找到些关于你爸爸的线索呢。[20]对噢！[21]打不开……[22]上面有个锁。[23]来，你来试试。[24]看我的。[25]</Translation>
   </Sentence>
   <Sentence id="322">
     <Commands>
@@ -4340,8 +4275,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX00wMzBfMDEKGj4BAAlJTlRFUlJVUFRfQl9NMDMwXzAxX29mZgBJTlRFUlJVUFRfQl9NMDMwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9NMDMwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]logo[2] on the bottom right [3]of the bag.[4]I wonder what it is...[5]It's got "LAKE JULIET" written on it. Must be[6]the campsite logo.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个 [1]标示[2]在包的[3]右下方。[4]不知道这是什么呢……[5]上面写着“朱丽叶湖”，一定是[6]营地的标志了。[7]</Translation>
   </Sentence>
   <Sentence id="323">
     <Commands>
@@ -4354,8 +4288,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX00wMzBfMDEKGj4BAAlJTlRFUlJVUFRfQl9NMDMwXzAxX29mZgBJTlRFUlJVUFRfQl9NMDMwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9NMDMwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]logo[2] on the bottom right [3]of the bag.[4]It's got "LAKE JULIET" written on it. Must be[5]the campsite logo.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个 [1]标示[2]在包的[3]右下方。[4]上面写着“朱丽叶湖”，一定是[5]营地的标志了。[6]</Translation>
   </Sentence>
   <Sentence id="324">
     <Commands>
@@ -4366,8 +4299,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We can't look in the bag unless we open the[1]combination lock.[2]There's four dials... Matt, any ideas?[3]Not a clue.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]除非打开这个密码锁，不然[1]就不能看到里面是什么了。[2]有四个拨表……马修你知道什么吗？[3]完全不知道。[4]</Translation>
   </Sentence>
   <Sentence id="325">
     <Commands>
@@ -4377,8 +4309,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The lock's made up of letter dials.[1]Four letters... Matt, any ideas?[2]Not a clue.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个锁是由字母加密的。[1]四个字母……马修你知道什么吗？[2]完全不知道。[3]</Translation>
   </Sentence>
   <Sentence id="326">
     <Commands>
@@ -4388,16 +4319,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The lock's made up of letter dials.[1]Four letters... Matt, any ideas?[2]Not a clue.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个锁是由字母加密的。[1]四个字母……马修你知道什么吗？[2]完全不知道。[3]</Translation>
   </Sentence>
   <Sentence id="327">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="328">
     <Commands>
@@ -4408,8 +4337,7 @@
       <Command>ChoFAAABChoIAABsACgACgA=</Command>
     </Commands>
     <Original>[0]Cracked it![1]You got it?[2]Yup.[3]You're a genius, Ash![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]打开啦！[1]搞定啦？[2]是的。[3]小蕾，你真是个天才啊！[4]</Translation>
   </Sentence>
   <Sentence id="329">
     <Commands>
@@ -4418,8 +4346,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBQAAIAoA</Command>
     </Commands>
     <Original>[0]What do I put in?[1]It's pretty tough...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是哪些字母呢？[1]真头痛啊……[2]</Translation>
   </Sentence>
   <Sentence id="330">
     <Commands>
@@ -4468,8 +4395,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaDQAAFQAAAAAAAAAAChoMAAAIAAAAAAAAAAoaBgAADAAKGgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]Ash, what's in it?[1]Hmm... Is this a floppy disk?[2]A floppy disk?[3]It's probably got data stored on it.[4]But with all that water, I don't think it'll work[5]any more...[6]Maybe this logo could be a clue, though.[7]Hey![8]Matt, you remember something else?[9]Ash, that logo...[10]It's my dad's company logo![11]Your dad's company?[12]Yeah![13]Is there anything else in the bag?[14]Er...there's documents, letters...[15]But the water's ruined them, I can't read a[16]word.[17]Oh...[18]And then we have...[19]Oh, this is odd.[20]What did you find?[21]A toy car.[22]A toy car?![23]What?![24]That's mine![25]Yours?[26]Yeah![27]Why was it in your dad's bag?[28]Oh, hang on, there's something else.[29]What's this?[30]The box is all dirty, it's difficult to make out...[31]Easy...Water...Analysis...Kit...[32]Water analysis?[33]Yeah. There's a test tube and two small bottles[34]inside. I think it's for testing pH or something.[35]And lastly, we have...[36]A photo album.[37]The photos inside are still kind of clear...[38]Yeah, that's Dad![39]Look, in the top one![40]The top one?[41](gasp)[42]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，里面是什么？[1]唔……这是软盘吗？[2]软盘？[3]上面或许有什么资料。[4]不过上面都是水啊，我估计[5]不能用了……[6]或许这个标志是个线索。[7]嘿！[8]马修，又记起什么了？[9]小蕾，那个标志……[10]这是我爸爸公司的标志！[11]你爸爸的公司？[12]没错！[13]包里还有其他东西吗？[14]呃……有文件、信……[15]不过被水浸泡过了，一个字也[16]看不清了。[17]噢……[18]然后是……[19]噢，这个很奇怪。[20]你找到什么了？[21]玩具汽车。[22]玩具汽车？！[23]什么？！[24]这是我的！[25]你的？[26]没错！[27]那为什么会在你爸爸包里？[28]噢等等，还有其他东西。[29]这是什么？[30]这个盒子很脏了，很难看清……[31]简易……水……分析……套……[32]水质分析？[33]是的。里面有一根试管和两个小瓶子。[34]我猜这是测试pH值什么的。[35]最后一样东西，是……[36]相册。[37]里面的照片还蛮清晰地……[38]没错，这是爸爸！[39]看，上面那张！[40]上面那张？[41]（喘息）[42]</Translation>
   </Sentence>
   <Sentence id="331">
     <Commands>
@@ -4479,8 +4405,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now...[1]I've seen the door in this picture somewhere[2]before...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我记起来了……[1]之前我在哪里看到过照片[2]里的门……[3]</Translation>
   </Sentence>
   <Sentence id="332">
     <Commands>
@@ -4489,8 +4414,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhgBAApQX01FTU9SWV9Ub3dlckRSX29uChocAAAFV1NEX1NFX1BBUlRfTUVNT1JZX0lOAAAKGjkBAAlQX01FTU9SWV9Ub3dlckRSX29mZgBQX01FTU9SWV9Ub3dlckRSX29mZl9vZmYuYnJsYW4AChoGAAAMAAoaGQEAClBfTUVNT1JZX1Rvd2VyRFJfb2ZmCgA=</Command>
     </Commands>
     <Original>[0]A door with that crest on it...[1]Mom was standing in front of it...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门上有这种饰章……[1]妈妈就站在门前……[2]</Translation>
   </Sentence>
   <Sentence id="333">
     <Commands>
@@ -4499,8 +4423,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Earth to Ashley![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]醒醒阿修蕾！[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="334">
     <Commands>
@@ -4523,8 +4446,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGwEACzgBAAAAAElOVEVSUlVQVF8wNDkAAAAKAA==</Command>
     </Commands>
     <Original>[0]Did you remember something again?[1]Yeah...[2]What was it?[3]My mom was in front of that door.[4]Matt, do you know where that door is?[5]No idea.[6]Oh, okay...[7]Huh?[8]What?[9]Matt, look at the bottom picture.[10]What's that a photo of?[11]Not a clue.[12]These look like my mom's pendant.[13]Your mom's pendant?[14]Yeah, the things in the...is that a test tube[15]rack?[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你又记起什么了？[1]是的……[2]是什么啊？[3]我妈妈站在这道门前……[4]马修，你知道这门在哪里吗？[5]不知道啊。[6]噢，好吧……[7]嗯？[8]什么？[9]马修，看下面那张照片。[10]照片里的是什么？[11]看不懂。[12]这些东西就像我妈妈的挂饰一样。[13]你妈妈的挂饰？[14]是的，那东西在……是一个[15]试管架吗？[16]</Translation>
   </Sentence>
   <Sentence id="335">
     <Commands>
@@ -4533,8 +4455,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAmAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoHAAADA+gKGgYAAAwAChoGAAAMAAoaBQAAGwoaBgAADAAKGg4BAAs2AQABGAEAAAAKAA==</Command>
     </Commands>
     <Original>[0]Someone's coming![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有人来了！[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="336">
     <Commands>
@@ -4542,16 +4463,14 @@
       <Command>GggAAAABA+gaBv8AAAAKGgUAAAEKGg4BAAsAAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Matt![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修！[1]</Translation>
   </Sentence>
   <Sentence id="337">
     <Commands>
       <Command>GgYAAAwAChoTAAAvJ3wnhj6zJxAqWCcQmFgKGgkAADBjAAABChoGAAAMAAoaFAEACzEBBAARAU5QQzAwMwAAAAoaBgAADAAKGg4BAAuKAQQAAAEAAAAKGgYAAAwAChoNAAAVBAAAAAEAAAAKGgwAAAgEAJ8BAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="338">
     <Commands>
@@ -4559,8 +4478,7 @@
       <Command>GgcAAAMD6BoH/wABAGQKGgUAAAEKGg0AABUIAAAAAAAAAAoaDAAACAgAmAAAAAAKGgYAAAwAChoGAAAMAAoaFAEACzMACAAJAE5QQzAwMAAAAAoaBgAADAAKGgcAAAMH0AoaCQAAMWMAAAEKAA==</Command>
     </Commands>
     <Original>[0]Ashley![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]</Translation>
   </Sentence>
   <Sentence id="339">
     <Commands>
@@ -4574,8 +4492,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dan...[1]Ashley.[2]Didn't I tell you to keep away from the[3]boathouse?[4]Yeah, but...[5]So what are you doing here?[6]Uh...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹啊……[1]阿修蕾。[2]我不是告诉你不要接近这个[3]船屋吗？[4]是的，但是……[5]那你在这里干什么？[6]呃……[7]</Translation>
   </Sentence>
   <Sentence id="340">
     <Commands>
@@ -4586,8 +4503,7 @@
       <Command>GggAAAABA+gaBv8AAAAKGgUAAAEKGgYAAAwAChoHAABJAfQKGg4BAAsfAQAAAAAAAAAKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]What do I tell him?[1]If he finds Matt...[2]Ashley![3]Huh?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该告诉他什么？[1]如果他发现马修……[2]阿修蕾！[3]嗯？[4]</Translation>
   </Sentence>
   <Sentence id="341">
     <Commands>
@@ -4607,8 +4523,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How did you get in?[1]The door...it was open.[2]Well, that is mighty strange.[3]This place should always be locked up...[4]Really?[5]Yeah, JC Valley owns the buildings around here.[6]So they put one of their own card locks on the[7]door.[8]Does the boathouse belong to JC Valley too?[9]It sure does.[10]By the way, Ashley...[11]Just what were you [12]doing here, anyway?[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你是怎么进来的？[1]The door...it was open.[2]Well, that is mighty strange.[3]This place should always be locked up...[4]Really?[5]Yeah, JC Valley owns the buildings around here.[6]So they put one of their own card locks on the[7]door.[8]Does the boathouse belong to JC Valley too?[9]It sure does.[10]By the way, Ashley...[11]Just what were you [12]doing here, anyway?[13]</Translation>
   </Sentence>
   <Sentence id="342">
     <Commands>
