@@ -1598,8 +1598,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDAAACBEAbQAAAAAKGgwAAAgFAHMAAAAACgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Yeah?[2]Actually, if you don't mind...[3]Kinda in the middle of something.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿……[1]嗯？[2]其实，如果你不介意……[3]看样子正在忙什么啊[4]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
