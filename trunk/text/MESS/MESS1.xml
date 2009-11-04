@@ -1447,7 +1447,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]pamphlets[2] on the stand.[3]These must be the pamphlets Tommy was[4]talking about.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Original>
-    <Translation>[0]有 [1]一本[2]小册子[3]这一定就是汤米所说的[4]那个小册子[5]上边有这个地区的地图！[6]你现在可以查看地图了[7]</Translation>
+    <Translation>[0]有 [1]几本[2]小册子[3]这一定就是汤米所说的[4]那个小册子[5]上边有这个地区的地图！[6]你现在可以查看地图了[7]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1461,7 +1461,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]pamphlets[2] on the stand.[3]Take one if you want.[4]Right.[5]There's a map of the whole area on it![6]You can now display the Map.[7]</Original>
-    <Translation>[0]有[1]一本[2]小册子[3]如果你想拿就拿一本吧[4]好的[5]上边有这个地区的地图！[6]你现在可以查看地图了[7]</Translation>
+    <Translation>[0]有[1]几本[2]小册子[3]如果你想拿就拿一本吧[4]好的[5]上边有这个地区的地图！[6]你现在可以查看地图了[7]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1571,8 +1571,7 @@
       <Command>ChoFAAABChoNAAAVAAAAAAAAAAAKGgwAAAgAATQAAAAAChoNAAAVBQBpAAAAAAAKGgwAAAgFAAgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Worst. Day. Ever.[1]That music player I got, yeah?[2]I totally can't find it.[3]Bummer. Where did you lose it?[4]If I knew that, then it wouldn't be lost, would it?[5]Chill! Shoot, only tryin' to help...[6]And it had my favourite song on it, too...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真－是－倒－霉－透－了！！[1]还记得我那个播放器吗？[2]我完全找不到它！[3]太衰了，掉哪里去了？[4]我要早知道是这样，它绝对丢不了[5]汗啊！不就是想帮上忙吗？至于吐我槽嘛……[6]那个播放器里还有我超爱的歌呢……[7]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
