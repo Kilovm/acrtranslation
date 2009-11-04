@@ -37,7 +37,7 @@
 
  * JC Valley : JC山谷
  * Lake Juliet : 朱丽叶湖
- * guesthouse : 商店
+ * guesthouse : 接待处
  * cottage : 小屋
  * campsite : 营地
  * villa : 别墅
