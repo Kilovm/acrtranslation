@@ -995,7 +995,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white bag[2] on the table[3]with a picture of Pinkie Rabbit on it.[4]I'm so glad I got this back...[5]</Original>
-    <Translation>[0]桌上[1]有一个[2]白色的背包。[3]包上面有一张粉粉兔的图片。[4]我很高兴能找回背包……[5]</Translation>
+    <Translation>[0]桌上[1]有一个[2]白色的背包。[3]包上面画有一个粉粉兔。[4]我真高兴能找回背包……[5]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -2160,16 +2160,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The contest's just something fun to do?[1]I suppose you get people like that in everything.[2]Not taking it seriously, got no drive to win...[3]Nothing wrong with that, is there?[4]"I'm putting my whole life and soul into this! It's[5]the most important thing in my life ever!"[6]Seriously. No.[7]We just wanna enjoy the atmosphere. No more.[8]Mm-hmm...[9]Ash, you seem to know a lot about the contest.[10]You're not thinking of entering too, are you?[11]You bet.[12]My band's gonna be there.[13]Seriously?[14]Seriously.[15]Hey Sam, this fires things up a bit, doesn't it?[16]Sure does.[17]So Ash, you know this means war, right?[18]Oh yeah. Bring it![19]Haha, good to see you're confident.[20]So who's in your band?[21]We're a guitar-piano duo.[22]And which one are you?[23]I'm on guitar.[24]Oh wow, a female guitarist.[25]You singing too?[26]Nope.[27]The pianist is also the lead vocalist.[28]Another girl, right?[29]No, a guy.[30]This should be fun.[31]Well Tommy, looks like we got ourselves some[32]rivals for the competition.[33]Guess it does.[34]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]参加比赛只不过是为了好玩？[1]我看你总是这么玩世不恭。[2]别这么一本正经，我只是没有赢得比赛的劲头……[3]这也没什么错吧？[4]“我将自己的全部生命和灵魂投入其中！对于我来说[5]这是一生中最重要的事情！”[6]说真的。我可不是这种人。[7]我们只是为了享受一下比赛的氛围。别无他求。[8]呃……[9]小蕾，你似乎很了解这次比赛嘛。[10]你不会也想参赛吧？[11]你说对了。[12]我的乐队也会参加。[13]当真？[14]当真。[15]嗨 萨姆，这消息可有点震撼吧。[16]当然震撼。[17]那么小蕾，你明白我们可就是比赛的对手啦。[18]哦 当然，奉陪到底！[19]哈哈，你能有信心就是好事。[20]那你乐队里的搭档呢？[21]我们是吉他钢琴组合。[22]你演奏哪部分？[23]吉他。[24]喔喔，一个女吉他手。[25]你也担任演唱？[26]不。[27]钢琴手兼任演唱。[28]也是个女孩吧？[29]不，是个男孩。[30]那可有的瞧了。[31]汤米，看来我们有[32]竞争对手了。[33]看起来是的。[34]</Translation>
   </Sentence>
   <Sentence id="172">
     <Commands>
       <Command>GgUAADMKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="173">
     <Commands>
@@ -2184,16 +2182,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Anyway, I'll take off.[1]Hold on, Ash.[2]Now I know you're entering, there's something[3]I really wanna hear.[4]What?[5]Isn't it obvious?[6]Let's see your guitar skills. [7]How about it?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，我得走了。[1]等一下，小蕾。[2]既然你说你们也要参赛，我还真想[3]了解点事情。[4]什么事？[5]这不是明摆着吗？[6]让我们欣赏一下你的吉他演奏水平。 [7]怎么样？[8]</Translation>
   </Sentence>
   <Sentence id="174">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -2201,8 +2197,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You're on![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]正合我意！[1]</Translation>
   </Sentence>
   <Sentence id="176">
     <Commands>
@@ -2210,8 +2205,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Don't think so...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在不是时候……[1]</Translation>
   </Sentence>
   <Sentence id="177">
     <Commands>
@@ -2233,8 +2227,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You're on![1]Okay, use my guitar.[2]Where is it?[3]Over there.[4]Oh, wait, you use a solid body...[5]Mine's electro-acoustic.[6]Hmm...electro-acoustic.[7]You use effects?[8]Nope.[9]Guess you won't be able to handle my guitar[10]then.[11]Mine's all about the guitarist's technique.[12]...![13]Hey, don't start that 'til you hear me play![14]Go on then...[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]正合我意！[1]那好，用我的吉他！[2]吉他在哪？[3]那边。[4]哦，等一下，你用的是实心体吉他……[5]我的是电吉他。[6]嗯……电吉他。[7]你演奏的时候用特效吗？[8]不用。[9]看来你不太会用我的这种[10]吉他。[11]我的演奏可是全凭演奏技术啊。[12]……！[13]嘿，别这么早下判断，你还没听过我演奏！[14]那么请继续……[15]</Translation>
   </Sentence>
   <Sentence id="178">
     <Commands>
@@ -2250,8 +2243,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nah, I don't think so.[1]Hey, where'd all that confidence go?[2]It's not that.[3]I need to play on my own guitar. Or it's not the[4]same at all.[5]Mm-hmm. What kind d'you use?[6]Electro-acoustic.[7]Oh wow, electro-acoustic... You use effects?[8]No, but...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，我想现在不是时候。[1]嘿，刚才那股自信到哪去啦？[2]不是没自信。[3]我得用我自己的吉他弹。不然找不到[4]感觉。[5]嗯… 你用的是哪种吉他？[6]电吉他。[7]喔，电吉他……你演奏的时候用特效？[8]不用，不过……[9]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -2273,8 +2265,7 @@
       <Command>ChoFAAABChoJAABEAAPoAAoaCQAAMQAD6AEKGgYAAAwAChoGAAAMAAoaBwAAAwPoCgA=</Command>
     </Commands>
     <Original>[0]Hey, somebody's at the door...[1]Honey, I'm home! Hahaha![2]Sup, Bob?[3]Howdy, superstar. You done with practice?[4]Yeah, just finished up.[5]That's me, always got perfect timing.[6]Yeah. Real cool timing.[7]Hey, Tommy, who's the lady?[8]A new band member?[9]No, no...[10]My name's Ashley Mizuki Robins.[11]She's Doc Robins' daughter. You know, from[12]JC Valley.[13]Our Doc Robins? Of course.[14]Ash, this is Bob, the owner of this place.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，有人在敲门……[1]宝贝儿，我回来啦！哈哈哈哈！[2]呦，是鲍勃？[3]怎么样，我的大明星。练习完了吗？[4]完了，刚刚结束。[5]总是在恰到好处的时机出现，我就是这样的男人。[6]是啊。真是恰到好处。[7]嘿，汤米，这位女士是谁？[8]乐队新成员？[9]不是，不是……[10]我的名字是阿修蕾·美月·罗宾斯。[11]她是罗宾斯博士的女儿。你认识的，[12]在JC山谷工作的那个。[13]我们的罗宾斯博士？我当然认识。[14]小蕾，这位就是鲍勃，这家餐馆的主人。[15]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
