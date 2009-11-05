@@ -61,7 +61,7 @@
  * band scores : 乐谱
  * missing items report : 失物招领单
  * pendant : 挂饰
- * bracelet : 手镯
+ * bracelet : 手环
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
