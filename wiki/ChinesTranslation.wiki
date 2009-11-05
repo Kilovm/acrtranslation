@@ -22,7 +22,7 @@
  * Sam Hillman: 萨姆·希尔曼
  * Judd Fitzgerald : 贾德·菲茨杰拉德
  * Gilbert Moss : 吉尔伯特·莫斯
- * Bob : 鲍勃
+ * Bob Fox : 鲍勃·福克斯
  * Janet : 珍妮特
  * Rex : 雷克斯
  * Liz : 莉斯
