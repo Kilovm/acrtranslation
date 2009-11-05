@@ -813,8 +813,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADIwoA</Command>
     </Commands>
     <Original>[0]There's a wiper...[1]This should do the trick![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有个挺杆...[1]它一定有什么作用！[2]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -822,8 +821,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, here goes![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，去吧！[1]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -831,8 +829,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Can you get the puzzle box out for me?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你能帮我把谜题箱拿出来么？[1]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -840,8 +837,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你上哪去啊，小蕾？[1]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
@@ -863,8 +859,7 @@
       <Command>Ggb/AAAAChoMAAAIAAE9AQAAAAoaDQAAFQAAagABAACgChoFAAABChoNAAAVAAAAAAAAAAAKGgwAAAgAAT4AAAAAChoGAAAMAAoaBgAADAAKGgcAAAMH0AoaGgAAS2wAcDAxX2Jhc2VfUl9Bcm1fSGFuZAoaBgAADAAKGgcAABEAABoHAAASBAAKGgYAAAwAChoNAAAVAAAAAAEAAAAKGgwAAAgAAT4BAAAACgA=</Command>
     </Commands>
     <Original>[0]Matt! I did it![1]Awesome![2]One sec...[3]Here.[4]Thanks.[5]Does it open up?[6]Yeah, I remember seeing Dad open it.[7]It's really easy. Watch and learn, Ash![8]I think he did this...[9]No, it was definitely this...[10]Oh yeah...it's actually like this...[11]Yeah, Ash...I don't know how to open it.[12]No luck, hmm?[13]D'you mind holding on to it for me?[14]Sure.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修！我成功了！[1]太棒了！[2]等等...[3]这儿。[4]谢谢。[5]它能打开么？[6]是的，我记得以前看过爸爸打开过。[7]那就简单了。依葫芦画瓢就成，小蕾！[8]我想他以前开过啊...[9]不会错的，就是这个盒子...[10]噢，好吧...那只是和这个盒子很像而已...[11]哎，小蕾...我不知道怎样打开它。[12]人品不好，嘿嘿？[13]你帮我继续开如何？[14]当然。[15]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -876,8 +871,7 @@
       <Command>GggAAAABA+gaBv8AAAAKGgUAAAEKGgYAAAwAChoHAABJAfQKGg4BAAsfAQAAAAAAAAAKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]What was that box doing in the clockwork[1]anyway?[2]Why would Matt's dad put it there?[3]Ash![4]Huh?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个盒子怎么会在钟表装置里啊？[1]这为啥啊？[2]为什么马修的爸爸会把它放在这呢？[3]小蕾！[4]怎么？[5]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -892,8 +886,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AltkAAoA</Command>
     </Commands>
     <Original>[0]Welcome back to the world of the living, Ash.[1]I remembered something![2]What?[3]I remember turning the cube over and over,[4]like I was doing just there.[5]Where?[6]In my dad's office[7]![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]欢迎活着回来，小蕾。[1]我想起一些事了！[2]什么？[3]我想起来了，[4]之前我在那个地方也干过刚才的事。[5]哪儿？[6]在我爸爸的办公室里[7]![8]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -908,8 +901,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So you've been to your dad's office?[1]Yeah...[2]I just remembered something else too![3]I went there with Dad.[4]Do you remember what you were doing there?[5]Yeah...about that...[6]No idea. Sorry.[7]Matt...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]所以说你以前去过你爸爸的办公室？[1]是的...[2]我刚刚想起一些其他的事！[3]我是和爸爸一起去的。[4]你还记得你在那干什么不？[5]嗯...那个嘛...[6]我想不起来了。对不起。[7]马修...[8]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -924,8 +916,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's okay, don't worry about it.[1]You don't need to remember everything all at[2]once.[3]I guess...[4]Hey, Ash.[5]Have you remembered [6]anything about your[7]mom?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没事，不用担心。[1]你没必要一下子想起[2]所有的事。[3]我想...[4]嘿，小蕾。[5]你还记得[6]她的事吗？[7]你妈妈的事。[8]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -941,8 +932,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wish[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我希望我记得[1]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -950,8 +940,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nope[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不记得了[1]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -960,8 +949,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wish I could...[1]But?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我希望我能记得...[1]但是？[2]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -970,8 +958,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nope, not a bit.[1]Really?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，一点也想不起来了。[1]真的？[2]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -999,8 +986,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I dunno, when I came here I was remembering[1]her a lot. But now, not at all...[2]I wonder why...[3]I bet it's because of me.[4]What?[5]Why would you say that, Matt?[6]Well, you've been running all over the place[7]'cause of me.[8]You don't have time to think about your mom.[9]Matt, it's not you.[10]Don't worry.[11]You sure?[12]Yeah.[13]Say... I just had a thought...[14]Didn't you say you couldn't look in your dad's[15]old office last time you were here?[16]Yeah, there's a fence up all around it.[17]Let's go take a look.[18]Maybe the two of us can find a way in[19]somewhere.[20]Okay![21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不清楚，当我刚来时我还记得她很多[1]但现在，一点也想不起来了...[2]我很在意为什么会这样...[3]我想是因为我自己。[4]什么？[5]你为什么那么说呢，马修？[6]哎，因为我你一直[7]在这地方跑来跑去的。[8]你都没时间去想你的妈妈。[9]马修，并不是你的错。[10]不用担忧。[11]你确定？[12]是的。[13]我只说说我的看法而已...[14]你之前好像说过上次你在这的时候[15]你不能进到你爸爸以前的办公室了？[16]是的，周围有一圈栅栏挡住了。[17]我们去看看吧。[18]也许我们能找到方法进去[19]在某地方。.[20]好的！[21]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -1009,8 +995,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey.[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿。[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1018,8 +1003,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ash?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你上哪去啊，小蕾？[1]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1028,8 +1012,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]I'll...wait here.[1]Okay.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我在...这等等吧。[1]好的。[2]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -1038,8 +1021,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You done?[1]Yeah.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你事办完了？[1]是的。[2]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1052,8 +1034,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is really high up...[1]So this is the bell chamber, huh?[2]Wow, look at that view![3]You can see the whole lake from up here.[4]I'm glad Matt didn't come up, he'd probably[5]have got scared and fallen off.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这真的蛮高的...[1]那这就是钟室了吧？[2]哇哦，看这景色！[3]在这上面你可以看到整个湖。[4]我很庆幸马修没上来，[5]他也许会被吓得摔下去。[6]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1066,8 +1047,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] large bell [2]hanging in the [3]bell chamber.[4]I hope this doesn't start ringing while I'm up[5]here...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一个[1] 大钟[2]吊在[3]钟室里。[4]我在这的期间[5]这钟别响啊...[6]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1078,8 +1058,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Part of the column seems to be [1]cracked[2].[3]What could have happened?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]柱子的一部分看起来好像 [1]坏了[2].[3]这怎么搞的？[4]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -1113,8 +1092,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I haven't really looked around the very top of [1]the tower...[2]I want to go and take another look.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还没好好的调查[1]钟楼楼顶呢...[2]我想再去看看。[3]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1124,8 +1102,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I haven't really looked around the floor above[1]this one...[2]Maybe I should take a look.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还没好好调查清楚呢[1]楼上的东西...[2]也许我应该去看看。[3]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1133,8 +1110,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe I should look around a bit more...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]也许我应该再调查一下周围...[1]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1142,8 +1118,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe I'll take another look around.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]也许我应再看一次。[1]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1151,8 +1126,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops! I left Matt up there...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎呀！我把马修忘在上面了...[1]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1163,8 +1137,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaBgAADAAKAA==</Command>
     </Commands>
     <Original>[0]What the...?[1]That's a bell ringing...[2]It must be the clock tower bell![3](gasp)[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是...?[1]那是大钟在响...[2]那一定是钟楼的大钟！[3](喘气)[4]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1175,8 +1148,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I've heard that bell before...[1]Yeah...[2]I was in the car and I saw Mom...[3]Mom...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我以前听过这钟声...[1]是的...[2]我那时在车里，还看见了妈妈...[3]妈妈...[4]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1185,8 +1157,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEAClBfTUVNT1JZX1BlbmRhbnRfb24KGhkAAAVXU0RfU0VfUEFSVF9NRU1PUlkAAAoaOQEACVBfTUVNT1JZX1BlbmRhbnRfb2ZmAFBfTUVNT1JZX1BlbmRhbnRfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoZAQAKUF9NRU1PUllfUGVuZGFudF9vZmYKAA==</Command>
     </Commands>
     <Original>[0]That pendant...[1]Someone was giving that pendant to Mom...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个垂饰...[1]有人以前将那垂饰给了妈妈...[2]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
