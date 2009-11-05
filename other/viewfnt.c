@@ -98,10 +98,10 @@ int main()
 	clear_to_color(screen, makecol(0, 0x7f, 0));
 	//draw_something("utf8_J.brfnt");
 	//draw_something("FONT_A.BRFNT");
-	draw_something("FONT_A_19.BRFNT");
+	//draw_something("FONT_A_19.BRFNT");
 	//draw_something("FONT_A_21.BRFNT");
 	//draw_something("FONT_B.BRFNT");
-	//draw_something("FONT_B_16.BRFNT");
+	draw_something("FONT_B_16.BRFNT");
 	readkey();
 	return 0;
 }
