@@ -171,7 +171,7 @@ void print_name(FSTentry *ent)
 void print_check_table(u8 sort_table)
 {
 	u32 i;
-	u32 prev_off;
+	u32 prev_off, data_from, data_to;
 	if (check_table == NULL)
 	{
 		fprintf(stderr, "Not initialized.\n");
@@ -191,20 +191,25 @@ void print_check_table(u8 sort_table)
 			continue;
 		if (check_table[i]->is_dir)
 			continue;
+		data_from = check_table[i]->offset << 2;
+		if (check_table[i]->size == 0)
+			data_to = data_from + 32;
+		else
+			data_to = data_from + ((((check_table[i]->size + 31) >> 5)) << 5);
 		if (sort_table)
 		{
-			if (check_table[i]->offset > prev_off)
-				printf("Blank [%x - %x] Size: %u\n", prev_off << 2, check_table[i]->offset << 2, (check_table[i]->offset - prev_off) << 2);
-			if (check_table[i]->offset < prev_off)
-				fprintf(stderr, "Conflict Area: [%x - %x]\n", check_table[i]->offset << 2, prev_off << 2);
+			if (data_from > prev_off)
+				printf("Blank [%x - %x] Size: %u\n", prev_off, data_from, data_from - prev_off);
+			if (data_from < prev_off)
+				fprintf(stderr, "Conflict Area: [%x - %x]\n", data_from, prev_off);
 		}
-        printf("Offset: [%x - %x], Size: %u, Name: ", check_table[i]->offset << 2, (check_table[i]->offset + (check_table[i]->size >> 2)) << 2, check_table[i]->size);
+        printf("Offset: [%x - %x], Size: %u, Name: ", data_from, data_to, check_table[i]->size);
 		print_name(check_table[i]);
 		printf("\n");
-		if (sort_table || check_table[i]->offset + (check_table[i]->size >> 2) > prev_off)
-			prev_off = check_table[i]->offset + (check_table[i]->size >> 2);
+		if (sort_table || data_to > prev_off)
+			prev_off = data_to;
 	}
-	printf("Total size: %u\n", prev_off << 2);
+	printf("Total size: %u\n", prev_off);
 	for (i = 0; i < proc_count; i ++)
 		free(check_table[i]);
 	free(check_table);
