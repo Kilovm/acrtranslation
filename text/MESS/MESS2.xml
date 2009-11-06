@@ -762,7 +762,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A musician![1]A...musician?[2]Yeah![3]I want to be a musician![4]One day, I want to write my own songs.[5]I really want to move people with my music.[6]I think that'd be the best feeling of all.[7]I see...[8]I'm sure everyone dreams of becoming a musician[9]when they're a certain age.[10]Although it is rather unlikely to become reality, [11]one is free to dream as one pleases.[12]</Original>
-    <Translation>[0]我要搞音乐哦！[1]搞音乐？[2]对！[3]我想成为一个乐者！[4]总有一天，我要写出我自己的曲子。[5]我想用我自己的音乐来感动身边的人。[6]对我来说，这将是世界上最美妙的感觉！[7]大致了解……[8]我想……每个人在某个年龄阶段……[9]都想着要去做音乐。[10]虽然这个梦想不太靠谱，[11]但人人都有梦想的权利。[12]</Translation>
+    <Translation>[0]我要搞音乐哦！[1]搞音乐？[2]对！[3]我想成为一个音乐人！[4]总有一天，我要写出我自己的曲子。[5]我想用我自己的音乐来感动身边的人。[6]对我来说，这将是世界上最美妙的感觉！[7]大致了解……[8]我想……每个人在某个年龄阶段……[9]都想着要去做音乐。[10]虽然这个梦想不太靠谱，[11]但人人都有梦想的权利。[12]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -3915,7 +3915,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]life ring[2] on the ground.[3]A life ring...[4]This might come in handy.[5]Huh? There's something underneath it...[6]Is this a bracelet?[7]A fish design, that's pretty rare.[8](gasp)[9]</Original>
-    <Translation>[0]有一根[1]救生圈[2]在地上。[3]救生圈……[4]可能会有用。[5]嗯？下面有什么东西？[6]是手镯吗？[7]鱼形的设计，很罕见啊。[8]（喘息）[9]</Translation>
+    <Translation>[0]有一根[1]救生圈[2]在地上。[3]救生圈……[4]可能会有用。[5]嗯？下面有什么东西？[6]是手环吗？[7]鱼形的设计，很罕见啊。[8]（喘息）[9]</Translation>
   </Sentence>
   <Sentence id="295">
     <Commands>
@@ -3934,7 +3934,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaHAEAClBfTUVNT1JZX0JyYWNlbGV0TWFuX29uChocAAAFV1NEX1NFX1BBUlRfTUVNT1JZX0lOAAAKGkEBAAlQX01FTU9SWV9CcmFjZWxldE1hbl9vZmYAUF9NRU1PUllfQnJhY2VsZXRNYW5fb2ZmX29mZi5icmxhbgAKGgYAAAwAChodAQAKUF9NRU1PUllfQnJhY2VsZXRNYW5fb2ZmCgA=</Command>
     </Commands>
     <Original>[0]The man wearing this bracelet...[1]He gave something to Mom...[2]</Original>
-    <Translation>[0]戴着手镯的男人……[1]把什么东西给了妈妈……[2]</Translation>
+    <Translation>[0]戴着手环的男人……[1]把什么东西给了妈妈……[2]</Translation>
   </Sentence>
   <Sentence id="297">
     <Commands>
@@ -4523,7 +4523,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How did you get in?[1]The door...it was open.[2]Well, that is mighty strange.[3]This place should always be locked up...[4]Really?[5]Yeah, JC Valley owns the buildings around here.[6]So they put one of their own card locks on the[7]door.[8]Does the boathouse belong to JC Valley too?[9]It sure does.[10]By the way, Ashley...[11]Just what were you [12]doing here, anyway?[13]</Original>
-    <Translation>[0]你是怎么进来的？[1]The door...it was open.[2]Well, that is mighty strange.[3]This place should always be locked up...[4]Really?[5]Yeah, JC Valley owns the buildings around here.[6]So they put one of their own card locks on the[7]door.[8]Does the boathouse belong to JC Valley too?[9]It sure does.[10]By the way, Ashley...[11]Just what were you [12]doing here, anyway?[13]</Translation>
+    <Translation>[0]你是怎么进来的？[1]这扇门……是开着的啊。[2]那可实在是奇怪了。[3]这地方应该一直锁着的……[4]真的？[5]是啊，这里附近的房子都归JC山谷所有。[6]所以他们在门上安自己内部[7]的锁。[8]那这幢船屋也是JC山谷的咯？[9]当然是了。[10]对了，阿修蕾……[11]你到底在这里[12]干什么啊？[13]</Translation>
   </Sentence>
   <Sentence id="342">
     <Commands>
@@ -4531,8 +4531,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I found a bag[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我找到一个包[1]</Translation>
   </Sentence>
   <Sentence id="343">
     <Commands>
@@ -4540,8 +4539,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nothing[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没什么[1]</Translation>
   </Sentence>
   <Sentence id="344">
     <Commands>
@@ -4552,8 +4550,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I found a bag![1]A bag?[2]This?[3]You mean this bag?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我找到一个包！[1]包？[2]这个？[3]你是说这个包？[4]</Translation>
   </Sentence>
   <Sentence id="345">
     <Commands>
@@ -4568,8 +4565,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nothing...[1]I just wanted to walk out to the pier, so I[2]could see the lake properly.[3]It's a mighty fine day to come and look at the[4]lake.[5]Oh...[6]What have we here?[7]Ashley, what's this bag doing here?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没什么……[1]我只是想到这个小码头上来走走，[2]这样就能好好观赏湖景了。[3]今天的天气非常适合来看看[4]湖光粼粼啊。[5]Oh...[6]What have we here?[7]Ashley, what's this bag doing here?[8]</Translation>
   </Sentence>
   <Sentence id="346">
     <Commands>
