@@ -15,8 +15,7 @@
       <Command>Ggb/AAAAChoFAAABChopAAAFV1NEX1NFX0VWRU5UX0FOU0hJVFNVX0FUQVJJX1NBR1VSVQAACgA=</Command>
     </Commands>
     <Original>[0]Matt, hurry up![1]I'm trying! Just a bit longer![2]I can't hold this much longer![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修，快点！[1]再坚持一会儿！我正在拿呢！[2]我就要坚持不住了！[3]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -24,8 +23,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I got it![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]拿到了！[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -34,8 +32,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What are you doing?![1]My hand nearly got squished![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你在干什么？！[1]我的手差点被压扁了！[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -44,8 +41,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's too heavy![1]I can't hold it any more![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]太重啦！[1]我快坚持不住了！[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -56,8 +52,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's no good, the gap is too small to reach[1]in and grab it...[2]If I can move the crate, maybe someone could[3]get it out from above...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行啊，这个缝隙太小了，[1]手伸不进去……[2]如果我能抬起箱子，或许谁[3]能从上面把手伸进去拿东西。[4]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
