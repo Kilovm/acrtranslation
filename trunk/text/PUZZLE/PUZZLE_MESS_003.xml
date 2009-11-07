@@ -7,8 +7,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Please insert DAS"?[1]Wait, that means...[2]You need a DAS to use this computer?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“请插入DAS”[1]等等，也就是说……[2]使用这台电脑还需要DAS？[3]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -16,8 +15,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, looks like it's working now...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，看上去启动了……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -26,8 +24,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hang on...[1]That's not the internet icon.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等……[1]这个不是网络的标志。[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -37,8 +34,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, I need to type the keyword I want to[1]search for here.[2]First, let's try "Michael Crusoe"...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那么我需要在这里输入[1]要找的关键词。[2]首先，试试看“迈克尔·克鲁索”……[3]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -57,8 +53,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Setting up a company with his lottery win![1]Michael Crusoe, who won a staggering three[2]million dollars in the 1999 lottery grand prize[3]draw, has decided to use his money to show[4]all of America the beauty of his home town,[5]Lake Juliet. He set up the Crusoe Resort[6]Development company to do just that.[7]Let's hope he has the same good luck with [8]this company as he did with the lottery!"[9]Wow...so Matt's dad was totally loaded.[10]And he used the money from winning the[11]lottery to set up his company.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“迈克尔·克鲁索，在1999年[1]赢得了令人咋舌的三百万彩票巨奖[2]并以此款建立了自己的公司。[3]通过这笔钱，他打算向全国[4]民众展示出他家乡朱丽叶湖最[5]美丽的一面。他的克鲁索度假村[6]发展公司仿佛就是为此而生。[7]让我们期待他在生意上[8]也有像中了彩票一样的好运！”[9]哇……那么说马修的爸爸真的很有钱。[10]而且他用从彩票上赢来的钱[11]建立了公司。[12]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -67,8 +62,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, next up...[1]Let's try searching for "Crusoe Resort".[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，下一词条……[1]那就试试看“克鲁索度假村”[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -87,8 +81,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Looks like Crusoe Resort has its own [1]website![2]Huh?[3]What's this on the page?[4]"NEWS: 8 March 2002[5]We are no longer able to accept any [6]communication by e-mail.[7]We apologise for any inconvenience this may[8]cause our customers."[9]That's from back in 2002![10]So, this website hasn't been updated for...five[11]years?[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看来克鲁索度假村有自己的[1]主页！[2]嗯？[3]这页面上说什么？[4]“新闻：2002年3月8日，[5]我公司不再接受任何[6]电子邮件来信。[7]对由此造成的不便，[8]我们表示诚挚的道歉。”[9]这是2002年的东西啊！[10]所以，网站已经有……五年[11]没更新了？[12]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -96,8 +89,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh great, it's password protected...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢酷毙了，密码保护……[1]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -105,8 +97,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm. The password to open the folder is...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……打开邮件的密码是……[1]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -114,8 +105,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm past the password![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，密码正确！[1]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -123,8 +113,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh great, that's not the right password...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的……密码错误……[1]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -134,8 +123,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"DAS CONNECT START UP"[1]What?![2]What's going on?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“DAS联动开始”[1]什么？！[2]发生什么事了？[3]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -143,8 +131,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe I should stay and read Dad's e-mail...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]或许我应该呆在这里读爸爸的邮件……[1]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -161,8 +148,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already found everything I can about [1]Matt's dad, so I don't need the internet again.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我已经找到了所有能找到的关于[1]马修爸爸的东西，所以不需要再上网了。[2]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -171,8 +157,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's Dad's e-mail...[1]I don't think I need to look at that...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸的电子邮件……[1]我认为没必要去看……[2]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -181,8 +166,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It says "notes", but...[1]This is like Dad's diary.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]标题是“笔记”，但……[1]里面好像是爸爸的日记。[2]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -190,8 +174,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So I click on the Internet icon...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那么我来点击上网的图标……[1]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -199,8 +182,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I've got a search engine page.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，来到了搜索引擎的页面。[1]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -209,8 +191,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, that's a photo of the lake.[1]Where exactly was this taken?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，这是朱丽叶湖的照片。[1]这是从哪个地方拍的呢？[2]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -218,8 +199,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm sure I've seen this place before...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我肯定之前见过这个地方……[1]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -227,8 +207,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Did Dad take this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是爸爸拍的吗？[1]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -236,8 +215,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...why didn't you just say something?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，你为什么不告诉我些什么呢？[1]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -246,8 +224,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]An anonymous email? [1]What is he talking about?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一封匿名信？[1]信上写什么？[2]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -256,8 +233,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So Dad was looking into the pollution at the[1]lake as well...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看来爸爸也在调查湖水的[1]污染状况……[2]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -265,8 +241,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸……[1]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -274,8 +249,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who's Mike?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谁是迈克？[1]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -284,8 +258,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So Jessica was giving Dad a hard time...[1]She never mentioned anything to me![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看来杰西卡也曾对爸爸施压啊……[1]她从没告诉过我！[2]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -299,8 +272,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This has got to be the e-mail from "Rex" that[1]Jessica mentioned on the phone.[2]So Dad came to work at JC Valley after being[3]invited up here by this guy.[4]Wait a minute... Rex?[5]No way![6]That's Elizabeth's dad...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定就是那个雷克斯发来的信，[1]杰西卡在电话里提到了。[2]也就是说爸爸是在受到这个人的邀请后，[3]来到了JC山谷工作的。[4]等等……雷克斯？[5]不会吧！[6]那个伊丽莎白的爸爸……[7]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -310,8 +282,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]An e-mail with no name for the sender...[1]This is the e-mail that Jessica was talking[2]about![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]发信人匿名的邮件……[1]这就是杰西卡所说的[2]那封信了！[3]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
