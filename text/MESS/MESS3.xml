@@ -1109,7 +1109,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQQAGgcAABIFAAoaDQAAFQQAAAAAAAAAChoMAAAIBABjAAAAAAoA</Command>
     </Commands>
     <Original>[0]Elizabeth.[1]What?[2]You know that music player you were looking[3]for?[4]It's in a shack at the back of the campsite.[5]A shack?![6]What in the world is it doing there?[7]The music player in the shack?[8]Oh, that was yours?[9]Wait, how do you know about it?[10]I found it over by the mines.[11]I brought it back to the shack to listen to some[12]music, but there was no battery in it.[13]So I started throwing it around and it fell[14]behind some boxes.[15]You what?[16]I'm pretty sure it's yours.[17]And how do you know that?[18]Because I got the same kind of music player[19]from my dad.[20]Oh, really? [21]And what's it look like?[22]</Original>
-    <Translation>[0]伊丽莎白。[1]怎么了？[2]你认识你要找的那个音乐播放器吗[3]？[4]它在营地背后的棚屋里。[5]棚屋？！[6]它怎么会在那儿？[7]棚屋里的播放器？[8]噢，那是你的？[9]等等，你怎么知道那个播放器的？[10]我在矿山上找到的。[11]我想把它带回棚屋用来听音乐的，[12]但是没电了。[13]所以我就把它随便乱放，[14]最后掉在箱子后面了。[15]什么？[16]我敢肯定这是你的。[17]你怎么会知道的？[18]因为我从爸爸那里拿到的播放器[19]跟这个一样。[20]噢，真的吗？ [21]那是什么样的播放器？[22]</Translation>
+    <Translation>[0]伊丽莎白。[1]怎么了？[2]你认识你要找的那个音乐播放器吗[3]？[4]它在营地背后的棚屋里。[5]棚屋？！[6]它怎么会在那儿？[7]棚屋里的播放器？[8]噢，那是你的？[9]等等，你怎么知道那个播放器的？[10]我在矿洞上找到的。[11]我想把它带回棚屋用来听音乐的，[12]但是没电了。[13]所以我就把它随便乱放，[14]最后掉在箱子后面了。[15]什么？[16]我敢肯定这是你的。[17]你怎么会知道的？[18]因为我从爸爸那里拿到的播放器[19]跟这个一样。[20]噢，真的吗？ [21]那是什么样的播放器？[22]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1182,7 +1182,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVBACCAAAAAIIKGgwAAAgEAIIAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Well, that's all I have to say.[1]Come on, Matt, let's go.[2]Hold on![3]What?[4]You're lying![5]Lying?[6]I've never been near the mines![7]Why the heck would my music player be over[8]there?[9]I swear, I found it by the mines.[10]Listen, kid, I don't trust you.[11]How do I know you didn't just steal it from me?[12]You did, didn't you?[13]I didn't![14]Elizabeth, how dare you![15]I don't steal things![16]So what's your name? Where are you from?[17]I, uh...[18]Thought so.[19]Won't even tell me your name? Sorry, I don't[20]believe a word you say.[21]There's a reason he can't say...[22]Oh, just tell the truth already.[23]Then we can just forget this whole thing.[24]I am telling the truth! I found it![25]Matt didn't steal it![26]</Original>
-    <Translation>[0]好吧，我想说的就是这些了。[1]马修，打起精神来，快走吧。[2]等下！[3]怎么了？[4]你在撒谎！[5]撒谎？[6]我从来没有靠近过矿山！[7]你说我的播放器怎么会出现在[8]那种地方？[9]我发誓，就是在矿山找到的。[10]听着小子，我不再相信你了。[11]我怎么知道你是不是从我那儿偷来的？[12]你是偷来的，对吧？[13]我没有！[14]伊丽莎白，你怎么能这样！[15]我没偷东西！[16]那你叫什么？你从哪儿来？[17]我，呃……[18]就是这样。[19]连名字都不打算告诉我？抱歉，我不会[20]相信你说的任何话[21]他不说是苦衷的……[22]噢，只要你说出真相。[23]我们可以既往不咎。[24]我说的就是真相！就是找到的！[25]马修没有偷播放器！[26]</Translation>
+    <Translation>[0]好吧，我想说的就是这些了。[1]马修，打起精神来，快走吧。[2]等下！[3]怎么了？[4]你在撒谎！[5]撒谎？[6]我从来没有靠近过矿洞！[7]你说我的播放器怎么会出现在[8]那种地方？[9]我发誓，就是在矿洞找到的。[10]听着小子，我不再相信你了。[11]我怎么知道你是不是从我那儿偷来的？[12]你是偷来的，对吧？[13]我没有！[14]伊丽莎白，你怎么能这样！[15]我没偷东西！[16]那你叫什么？你从哪儿来？[17]我，呃……[18]就是这样。[19]连名字都不打算告诉我？抱歉，我不会[20]相信你说的任何话[21]他不说是苦衷的……[22]噢，只要你说出真相。[23]我们可以既往不咎。[24]我说的就是真相！就是找到的！[25]马修没有偷播放器！[26]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1931,7 +1931,7 @@
       <Command>ChoFAAABChoIAABIBAE2ChoaAAAYQl9NMDIwX0QAU1RSTV9CR01fMTgBCgA=</Command>
     </Commands>
     <Original>[0]Oh, Matt...[1]So that's why this letter's your treasure?[2]Yeah.[3]But why bury your mom's letter here?[4]Last summer, when I decided to find clues [5]about my dad and ran away,[6]I was all alone during the nights and when I[7]read Mom's letter I would start crying.[8]I decided that I couldn't go looking for clues[9]like that. I needed to be strong.[10]So I buried the letter here.[11]Ah...[12]You know...[13]I've never told anyone about this until you.[14]I wonder why...[15]Because we're friends, right?[16]Friends? Why is that important?[17]When I have a good friend, I feel like I want to[18]tell them everything.[19]I want them to know more about me.[20]I guess that's what friends are for...[21]Oh, Matt, before I forget.[22]Let's go get the music player.[23]Elizabeth's one? Why?[24]Well, if we don't, Elizabeth will tell everyone[25]you stole it.[26]Let's bring it back and make her apologise,[27]yeah?[28]Yeah![29]Ash, I swear, I did find it down by the mines.[30]The player and the ID card were there, covered[31]in a hanky-thingy.[32]A handkerchief?[33]Yeah.[34]Actually, when we met Elizabeth back there I[35]was thinking...[36]That hanky looked a lot like Elizabeth's[37]bandanna.[38]Where's the handkerchief now?[39]I didn't take it with me.[40]So it should still be by the mines...[41]Let's go get it.[42]Okay.[43]Oh yeah.[44]Your map.[45]There you go.[46]Thanks.[47]</Original>
-    <Translation>[0]喔，马修……[1]这封信是你的宝藏是因为这个原因？[2]是的。[3]那你为什么要把你妈妈的信埋这儿呢？[4]去年夏天，当我决定寻找跟爸爸有关的 [5]线索便离家出走了，[6]夜晚我总是孤零零的一个人，每当我[7]读妈妈的信就会忍不住哭起来。[8]我下决心不能像这样去寻找线索。[9]我需要变坚强。[10]所有就把信埋在了这里。[11]这样啊……[12]你得知道……[13]除了你之外我没告诉过任何人。[14]我想知道为什么……[15]因为我们是好朋友，不是吗？[16]好朋友？很重要吗？[17]当我有了好朋友，我会想要[18]告诉他们所有的事情。[19]我希望他们对我有更多了解。[20]我猜这就是好朋友的意义……[21]噢，马修，在我还没忘记之前。[22]我们得去找音乐播放器。[23]伊丽莎白的那个？为什么？[24]你想想，如果我们这样做的话，伊丽莎白就会跟每个人说[25]播放器是你偷的。[26]让我们把它找回来然后要她道歉，[27]怎样？[28]好啊！[29]小蕾，我发誓。我真的在矿山旁发现播放器的。[30]它和一张ID卡都在那儿，被包在[31]一块手帕里。[32]一块手帕？[33]嗯。[34]事实上，当我们遇到伊丽莎白从那边回来我[35]就一直在想……[36]那块手帕很像伊丽莎白的[37]印度扎染手帕。[38]现在那块手帕在哪儿？[39]我没拿。[40]也就是说它应该还在矿山旁……[41]我们去找到它吧。[42]好的。[43]噢 太好了。[44]你的地图。[45]这边。[46]谢了。[47]</Translation>
+    <Translation>[0]喔，马修……[1]这封信是你的宝藏是因为这个原因？[2]是的。[3]那你为什么要把你妈妈的信埋这儿呢？[4]去年夏天，当我决定寻找跟爸爸有关的 [5]线索便离家出走了，[6]夜晚我总是孤零零的一个人，每当我[7]读妈妈的信就会忍不住哭起来。[8]我下决心不能像这样去寻找线索。[9]我需要变坚强。[10]所有就把信埋在了这里。[11]这样啊……[12]你得知道……[13]除了你之外我没告诉过任何人。[14]我想知道为什么……[15]因为我们是好朋友，不是吗？[16]好朋友？很重要吗？[17]当我有了好朋友，我会想要[18]告诉他们所有的事情。[19]我希望他们对我有更多了解。[20]我猜这就是好朋友的意义……[21]噢，马修，在我还没忘记之前。[22]我们得去找音乐播放器。[23]伊丽莎白的那个？为什么？[24]你想想，如果我们这样做的话，伊丽莎白就会跟每个人说[25]播放器是你偷的。[26]让我们把它找回来然后要她道歉，[27]怎样？[28]好啊！[29]小蕾，我发誓。我真的在矿洞旁发现播放器的。[30]它和一张ID卡都在那儿，被包在[31]一块手帕里。[32]一块手帕？[33]嗯。[34]事实上，当我们遇到伊丽莎白从那边回来我[35]就一直在想……[36]那块手帕很像伊丽莎白的[37]印度扎染手帕。[38]现在那块手帕在哪儿？[39]我没拿。[40]也就是说它应该还在矿洞旁……[41]我们去找到它吧。[42]好的。[43]噢 太好了。[44]你的地图。[45]这边。[46]谢了。[47]</Translation>
   </Sentence>
   <Sentence id="134">
     <Commands>
@@ -2026,7 +2026,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's head for the mines to pick up the[1]handkerchief.[2]Okay.[3]</Original>
-    <Translation>[0]让我们一起去矿山找到[1]手帕吧。[2]好的。[3]</Translation>
+    <Translation>[0]让我们一起去矿洞找到[1]手帕吧。[2]好的。[3]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -2349,7 +2349,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzUAAwAJAU5QQzAwNgAAAAoaBgAADAAKGgcAAAMLuAoaCQAARQMH0AAKGgkAADFjA+gBChoGAAAMAAoaBwAAAwPoCgA=</Command>
     </Commands>
     <Original>[0]Someone's there...[1]It's that man! Mr Sunglasses![2]The one I saw going to the mines![3]Where's he going?[4]</Original>
-    <Translation>[0]那边有人……[1]是那人！戴墨镜的男人！[2]我看他去过矿山！[3]他要去哪儿？[4]</Translation>
+    <Translation>[0]那边有人……[1]是那人！戴墨镜的男人！[2]我看他去过矿洞！[3]他要去哪儿？[4]</Translation>
   </Sentence>
   <Sentence id="174">
     <Commands>
@@ -2570,7 +2570,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ATFkAAoaBgAADAAKGgcAABEAABoHAAASAwAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]You were just standing there with a vacant[1]look on your face.[2]Are you sick?[3]No, it's nothing.[4]I just remembered being here before.[5]You remember being here?[6]This isn't your first time here, then?[7]No, it's not.[8]You must be...[9]Ashley Mizuki Robins, correct?[10]Huh?[11]You know me?[12]Yes. I also know that you're the only daughter[13]of Dr Richard Robins.[14]Wait, who are you?[15]My name is...[16]John Smith[17].[18]Mr Smith...[19]How do you know my name?[20]How indeed?[21]What, you can't tell me?[22]I don't really want to say, no.[23]What's that supposed to mean?[24]Coming here in a suit, renting a campsite[25]without camping...[26]Wandering around everywhere...[27]You know everyone's calling you a weirdo,[28]right?[29]A weirdo? You certainly don't pull your[30]punches.[31]But don't worry yourself. I'm not here to do [32]anyone any harm.[33]Then tell me.[34]What are you doing here?[35]Research.[36]Research? You a scientist or something?[37]No, I'm a journalist.[38]I'm researching what happened here [39]five years[40]ago[41].[42]</Original>
-    <Translation>[0]你刚刚一直一脸茫然的[1]站在那里。[2]是不是哪儿不舒服？[3]不，我没事。[4]我只是想起来之前来过这里。[5]你记得来过这里？[6]那么，这不是你第一次来了？[7]不，不是。[8]你应该就是…….[9]阿修蕾·美月·罗宾斯，我说的对吗？[10]嗯？[11]你认识我？[12]是啊，我还知道你是罗宾斯博士[13]的独生女。[14]等下，你是？[15]我是……[16]约翰·史密斯[17]。[18]史密斯先生……[19]你怎么会知道我的名字？[20]究竟怎么回事？[21]难道，你不能告诉我？[22]我的确不想说，不能。[23]那意味着什么？[24]Coming here in a suit, renting a campsite[25]without camping...[26]Wandering around everywhere...[27]You know everyone's calling you a weirdo,[28]right?[29]A weirdo? You certainly don't pull your[30]punches.[31]But don't worry yourself. I'm not here to do [32]anyone any harm.[33]Then tell me.[34]What are you doing here?[35]Research.[36]Research? You a scientist or something?[37]No, I'm a journalist.[38]I'm researching what happened here [39]five years[40]ago[41].[42]</Translation>
+    <Translation>[0]你刚刚一直一脸茫然的[1]站在那里。[2]是不是哪儿不舒服？[3]不，我没事。[4]我只是想起来之前来过这里。[5]你记得来过这里？[6]那么，这不是你第一次来了？[7]不，不是。[8]你应该就是…….[9]阿修蕾·美月·罗宾斯，我说的对吗？[10]嗯？[11]你认识我？[12]是啊，我还知道你是罗宾斯博士[13]的独生女。[14]等下，你是？[15]我是……[16]约翰·史密斯[17]。[18]史密斯先生……[19]你怎么会知道我的名字？[20]究竟怎么回事？[21]难道，你不能告诉我？[22]我的确不想说，不能。[23]那意味着什么？[24]穿戴整齐来到这里，租了营地[25]却不宿营……[26]还到处闲逛……[27]所有人都叫你怪人，[28]你知道吗？[29]怪人？[30]punches.[31]不过你也别紧张。我来这里不会[32]做伤害别人的事。[33]那你得告诉我。[34]你来这里是做什么的？[35]调查。[36]调查？你是科学家还是？[37]不，我是个新闻记者。[38]我正在调查这里曾经发生过的事， [39]五年[40]前的了[41]。[42]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -2600,8 +2600,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mr Smith, what happened here five years ago?[1]If I knew, I wouldn't be here...[2]It's an unsolved case.[3]Unsolved case?[4]That's correct.[5]Something happened five years ago at Lake[6]Juliet. I'm here to get to the bottom of it.[7]What happened?[8]It's none of your concern.[9]I'd advise you not to pry into it.[10]I'm not prying![11]My friend's dad disappeared here five years ago.[12]And he's looking for him now.[13]So I was wondering if that's connected to what[14]happened here.[15]Your friend's looking for his father?[16]Yeah. We just met today.[17]His name's Matt.[18]His dad was Michael Crusoe.[19]Really? Michael Crusoe?[20]Mr Smith, the case you're researching...[21]Does it have anything to do with Matt's dad?[22].....[23]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]史密斯先生，五年前这里发生过什么事？[1]如果我知道的话，就不会在这里了……[2]那是个未解之谜。[3]未解之谜？[4]正是。[5]五年前在朱丽叶湖发生了些事情。[6]我来这里就是想到湖底看看。[7]发生了什么？[8]能说重点吗。[9]我建议你还是别窥探这件事。[10]我不是在窥探！[11]我一个好朋友的爸爸五年前在这里失踪了。[12]现在他正在寻找他爸爸。[13]所以我想是不是跟曾经的那件事[14]有关。[15]你朋友在找他爸爸？[16]嗯，我们今天刚刚遇到。[17]他叫马修。[18]他爸爸叫迈克尔·克鲁索。[19]真的吗？迈克尔·克鲁索？[20]史密斯先生，你要调查的事件……[21]跟马修的爸爸是不是有什么联系？[22]……[23]</Translation>
   </Sentence>
   <Sentence id="193">
     <Commands>
@@ -2622,8 +2621,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhQBAAszAQMACQFJT1AwMDAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Ashley.[1]Has your friend Matt been to the clock tower?[2]No, he doesn't want to go.[3]He promised his mom he'd stay away from it.[4]How wise.[5]Mr Smith, what happened here five years ago?[6]Please tell me something![7]Ashley, I won't tell you again.[8]You're prying into matters that have nothing[9]to do with you.[10]So keep out of it.[11]You'd do well to listen to Matt's mother, too.[12]Keep away from that clock tower.[13]Mr Smith...[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾。[1]你朋友马修去过钟楼吗？[2]没有，他不想去。[3]他答应过他妈妈会离钟楼远远的。[4]真明智。[5]史密斯先生，五年前这里发生了什么？[6]摆脱告诉我吧！[7]阿修蕾，我不会告诉你的。[8]你要打听的和你[9]一点关系都没有。[10]所以别管这事了。[11]你最好也听马修妈妈的话。[12]离那个钟楼远点。[13]史密斯先生……[14]</Translation>
   </Sentence>
   <Sentence id="194">
     <Commands>
@@ -2640,8 +2638,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="196">
     <Commands>
@@ -2649,8 +2646,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪里？[1]</Translation>
   </Sentence>
   <Sentence id="197">
     <Commands>
@@ -2664,8 +2660,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]crest[2] on the clock tower [3]door.[4]It has a flower, a moon and a sword [5]on it.[6]That crest...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个 [1]纹饰[2] 刻在钟楼的 [3]门上。[4]上面有花、月亮和剑[5]。[6]那个纹饰……[7]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2673,8 +2668,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember, I saw Mom in front of this door...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了，我看过妈妈在这扇门前面……[1]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
@@ -2684,8 +2678,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]So that was it...[1]The place with the crest was the clock tower[2]door.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那就对了……[1]有这种纹饰的地方就是钟楼的[2]门。[3]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -2695,8 +2688,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to know what Mr Smith was talking[1]about...[2]I'm going to that clock tower.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想知道史密斯先生在谈论[1]什么……[2]我想去钟楼。[3]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
@@ -2707,8 +2699,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt![1]Have you gone to the clock tower yet?[2]I'll be waiting here, so hurry up![3]Right.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修！[1]你去钟楼了吗？[2]我会一直在这里等你的，快去吧！[3]好的。[4]</Translation>
   </Sentence>
   <Sentence id="202">
     <Commands>
@@ -2719,8 +2710,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt![1]You done?[2]Yup.[3]Right, let's go.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修！[1]你去过了？[2]是的。[3]那我们走吧。[4]</Translation>
   </Sentence>
   <Sentence id="203">
     <Commands>
@@ -2728,8 +2718,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah! I need to go pick up Matt...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]太好了！我得赶上马修……[1]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
@@ -2779,8 +2768,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgcAAAMCWAoA</Command>
     </Commands>
     <Original>[0]The [1]gate[2] on the bridge is locked.[3]Hey, it's closed![4]Oh, drat...[5]It won't open.[6]Ash, this is really weird. That gate is always,[7]always open.[8]Yeah...[9]My dad wouldn't have told me to come through[10]here if it was locked.[11]Someone must've locked it.[12]Well, what now?[13]It has the same card lock as the storage room[14]in the guesthouse...[15]Maybe my ID Card will work.[16]No luck, it won't open it...[17]How about that card you found at the[18]boathouse?[19]Huh?[20]Uh, I...left it in the boathouse.[21]Aw, shoot.[22]Huh?[23]What was that?[24]That, uh...[25]There it goes again![26]Yeah...[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那扇 [1]大门[2] 在桥上的，被锁上了。[3]嘿，门关上了！[4]噢，真讨厌……[5]它打不开。[6]小蕾，这事真奇怪。那门一直是，[7]一直是敞开的。[8]是啊……[9]我爸爸让我过桥的时候还不知道[10]它是锁着的。[11]一定有人之前锁上的。[12]那，现在该怎么办？[13]那个卡锁和储藏室里的是一样的，[14]接待处的……[15]也许我的ID卡有用。[16]很不幸，门打不开……[17]试试你找到的那张卡呢，[18]船屋的？[19]嗯？[20]呃，我……把它忘在船屋了。[21]喔~太打击了。[22]嗯？[23]那是什么？[24]那个，呃……[25]又得回去一趟！[26]是啊……[27]</Translation>
   </Sentence>
   <Sentence id="207">
     <Commands>
@@ -2789,8 +2777,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]If I use the TAS, I can open the gate...[1]What should I do now?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果我使用TAS的话，就能打开大门……[1]现在我该怎么做？[2]</Translation>
   </Sentence>
   <Sentence id="208">
     <Commands>
@@ -2817,8 +2804,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABSAQAAAAoA</Command>
     </Commands>
     <Original>[0]The TAS is responding again...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The TAS is responding again...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
