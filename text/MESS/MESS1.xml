@@ -478,7 +478,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's white, with pink around the edges.[1]There's a big pocket on the outside with[2]a picture of a rabbit on it.[3]A rabbit?[4]Yeah. Pinkie Rabbit.[5]Ah, Pinkie Rabbit. That sure brings back some[6]old memories.[7]I've had that bag since I was a kid.[8]Are there any valuables in the bag?[9]There's a little money in it...[10]But more importantly, my favourite teddy[11]bear is in it.[12]Then there's my pick case, band scores...lots[13]of important stuff.[14]All right then.[15]I'll keep an eye out for your bag while I patrol.[16]I'll soon find some clues about where it went.[17]Really?[18]Leave it to me.[19]Oh yeah...[20]You should also go to the guesthouse and[21]file a missing items report.[22]That way, you're even more likely to get your[23]bag back.[24]Okay.[25]</Original>
-    <Translation>[0]包是白色的， 有粉色花边[1]边上有个大口袋[2]上面有一个可爱的兔子[3]兔子？[4]对。 粉粉兔[5]啊，粉粉兔， [6]真让人怀念啊[7]这是我从小用的包。[8]包里有什么贵重物品么？[9]里面有一点钱……[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒，乐谱……[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索。[17]真的？[18]交给我好了。[19]太好了……[20]你也需要去接待处[21]出示一下这个失物招领单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
+    <Translation>[0]包是白色的， 有粉色花边[1]边上有个大口袋[2]上面有一个可爱的兔子[3]兔子？[4]对。 粉粉兔[5]啊，粉粉兔， [6]真让人怀念啊[7]这是我从小用的包。[8]包里有什么贵重物品么？[9]里面有一点钱……[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒，乐谱……[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索。[17]真的？[18]交给我好了。[19]嗯……[20]你也需要去接待处[21]出示一下这个失物招领单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -600,7 +600,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AGZkAAoA</Command>
     </Commands>
     <Original>[0]Ashley, give it a chance and enjoy the natural[1]beauty of Lake Juliet.[2]We might not have malls or cinemas here, but[3]you can still enjoy yourself just as much.[4]I hope so.[5]And promise me something.[6]When you're finished at the campsite...[7]I know, I know.[8]Clean up all of my trash, right?[9]Well, I'll be. Exactly![10]You know, it'd be fine and dandy if all our[11]visitors were like you.[12]But unfortunately, we've had some bother with[13]a few [14]troublesome visitors[15] lately.[16]Yep. Turning out to be quite a pain, I can tell[17]you that for free.[18]All it's doing is making more and more [19]work[20]for Rangers like me[21].[22]</Original>
-    <Translation>[0]阿修蕾， 放松一下[1]享受朱丽叶湖美丽的自然景观吧[2]这里虽然没有购物中心和电影院[3]但是你仍然可以享受很多乐趣的[4]我希望如此[5]不过要答应我一些事情[6]当你结束野营的时候……[7]我知道了，我知道了[8]清理掉所有垃圾， 是吧？[9]没错！[10]你知道，如果所有的游客都像你这样 [11]那该多好啊[12]但是很不幸的是[13]最近经常有一些[14]讨厌游客[15]来到这里[16]唉。 巡逻是很累的， [17]我可以告诉你，我们是志愿的[18]他们给像我[19]这样的护林员[20]找了不少的麻烦[21]。[22]</Translation>
+    <Translation>[0]阿修蕾， 放松一下[1]享受朱丽叶湖美丽的自然景观吧[2]这里虽然没有购物中心和电影院[3]但是你仍然可以享受很多乐趣的[4]我希望如此[5]不过要答应我一些事情[6]当你结束野营的时候……[7]我知道了，我知道了[8]清理掉所有垃圾， 是吧？[9]没错！[10]你知道，如果所有的游客都像你这样 [11]那该多好啊[12]但是很不幸的是[13]最近经常有一些[14]很讨厌的游客[15]来到这里[16]唉。 巡逻是很累的， [17]我可以告诉你，我们是志愿的[18]他们给像我[19]这样的护林员[20]找了不少的麻烦[21]。[22]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -1028,7 +1028,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well, that's the check-in done.[1]Have a good time at Lake Juliet, Ash.[2]Will do! Thanks, Tommy.[3]Oh yeah.[4]This is your first time here, right?[5]Right.[6]Take a look around the shop, then.[7]We sell souvenirs and drinks here. And take[8]a look at that stone over there. It's magic.[9]Take a picture of it and you'll see. Trust me.[10]It's a rare stone, straight from the local mine.[11]Plus, we have a sale going on for the souvenirs.[12]Five bucks for anything on the shelf![13]I don't have any cash on me, though...[14]No prob, just use your ID card to buy stuff.[15]I can buy things with this?[16]You bet. You want something, use the ID card.[17]It keeps a record of everything you buy, then[18]you can settle up at check out time.[19]So go crazy, I bet your dad will cover it for[20]you.[21]Gotcha![22]</Original>
-    <Translation>[0]那么，你已经登记完了[1]在朱丽叶湖好好玩吧，小蕾[2]让然了！谢谢你， 汤米[3]噢[4]这是你第一次来这里，是吧？[5]是的[6]先看看周围的店铺吧[7]我们这卖饮料和纪念品[8]瞧瞧那边的石头吧，他是有魔力的[9]给它照一张相，然后你就会看到的，相信我[10]这是一块罕见的石头，是从本地的煤矿里挖出来的[11]另外，我们现在特价大酬宾.[12]所有商品只卖五元[13]我现在一点钱也没有……[14]没事，可以用你的ID卡买东西[15]我可以买这个东西么[16]当然可以，你想要什么东西的话，用ID卡就可以了[17]它会记下你的账单[18]然后在你离开的时候结账就行了[19]这太爽了，我打赌[20]你爸爸肯定会为你付钱的[21]明白了！[22]</Translation>
+    <Translation>[0]那么，你已经登记完了[1]在朱丽叶湖好好玩吧，小蕾[2]让然了！谢谢你， 汤米[3]噢[4]这是你第一次来这里，是吧？[5]是的[6]先看看周围的店铺吧[7]我们这卖饮料和纪念品[8]瞧瞧那边的石头吧，他是有魔力的[9]给它照一张相，然后你就会看到的，相信我[10]这是一块罕见的石头，是从本地的煤矿里挖出来的[11]另外，我们现在特价大酬宾.[12]所有商品只卖五元[13]我现在一点钱也没有……[14]没事，可以用你的ID卡买东西[15]我可以买东西么[16]当然可以，你想要什么东西的话，用ID卡就可以了[17]它会记下你的账单[18]然后在你离开的时候结账就行了[19]这太爽了，我打赌[20]你爸爸肯定会为你付钱的[21]明白了！[22]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -1045,7 +1045,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Something up?[2]</Original>
-    <Translation>[0]喂……[1]东西呢？[2]</Translation>
+    <Translation>[0]喂……[1]什么？[2]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
