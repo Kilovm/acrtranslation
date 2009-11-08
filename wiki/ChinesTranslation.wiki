@@ -71,3 +71,4 @@
  * Musician： 音乐家（不要争论太多了，找到更合适的意思前，就先用音乐家吧——By Mr.Knight）
  * Flashback: 闪影
  * Salmon Rice Burger: 鲑鱼米饼汉堡
+ * special token: 纪念币
