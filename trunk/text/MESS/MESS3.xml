@@ -2768,7 +2768,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgcAAAMCWAoA</Command>
     </Commands>
     <Original>[0]The [1]gate[2] on the bridge is locked.[3]Hey, it's closed![4]Oh, drat...[5]It won't open.[6]Ash, this is really weird. That gate is always,[7]always open.[8]Yeah...[9]My dad wouldn't have told me to come through[10]here if it was locked.[11]Someone must've locked it.[12]Well, what now?[13]It has the same card lock as the storage room[14]in the guesthouse...[15]Maybe my ID Card will work.[16]No luck, it won't open it...[17]How about that card you found at the[18]boathouse?[19]Huh?[20]Uh, I...left it in the boathouse.[21]Aw, shoot.[22]Huh?[23]What was that?[24]That, uh...[25]There it goes again![26]Yeah...[27]</Original>
-    <Translation>[0]那扇 [1]大门[2] 在桥上的，被锁上了。[3]嘿，门关上了！[4]噢，真讨厌……[5]它打不开。[6]小蕾，这事真奇怪。那门一直是，[7]一直是敞开的。[8]是啊……[9]我爸爸让我过桥的时候还不知道[10]它是锁着的。[11]一定有人之前锁上的。[12]那，现在该怎么办？[13]那个卡锁和储藏室里的是一样的，[14]接待处的……[15]也许我的ID卡有用。[16]很不幸，门打不开……[17]试试你找到的那张卡呢，[18]船屋的？[19]嗯？[20]呃，我……把它忘在船屋了。[21]喔~太打击了。[22]嗯？[23]那是什么？[24]那个，呃……[25]又得回去一趟！[26]是啊……[27]</Translation>
+    <Translation>[0]那扇 [1]大门[2] 在桥上的，被锁上了。[3]嘿，门关上了！[4]噢，真讨厌……[5]它打不开。[6]小蕾，这事真奇怪。那门一直是，[7]一直是敞开的。[8]是啊……[9]我爸爸让我过桥的时候还不知道[10]它是锁着的。[11]一定有人之前锁上的。[12]那，现在该怎么办？[13]那个卡锁和储藏室里的是一样的，[14]接待处的……[15]也许我的ID卡有用。[16]很不幸，门打不开……[17]试试你找到的那张卡呢，[18]船屋的？[19]嗯？[20]呃，我……把它忘在船屋了。[21]喔~太打击了。[22]嗯？[23]那是什么？[24]那个，呃……[25]TAS又响了！[26]是啊……[27]</Translation>
   </Sentence>
   <Sentence id="207">
     <Commands>
@@ -2804,7 +2804,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABSAQAAAAoA</Command>
     </Commands>
     <Original>[0]The TAS is responding again...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Original>
-    <Translation>[0]The TAS is responding again...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Translation>
+    <Translation>[0]TAS...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
