@@ -22,7 +22,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I used Dad's computer to look up info on[1]Matt's dad.[2]I looked at the files on the computer and found[3]out that my dad was studying the lake water,[4]and that he was here at JC Valley trying to[5]find out the truth behind Mom's death.[6]When I put the DAS in Dad's computer...[7]It activated a function which lets me look at[8]feeds from the security cameras all around.[9]Why would Dad put something like that in the[10]DAS?[11]</Original>
-    <Translation>[0]我用爸爸的电脑搜索了有关[1]马修父亲的信息。[2]我看着屏幕显示出的文件，终于明白了[3]爸爸一直在研究这谭湖水，[4]他也曾来到JC山谷试图[5]找出妈妈死亡背后的真相。[6]在我把DAS放入爸爸的电脑中后...[7]出现了一个功能，使我可以查看设置在四周的监视器[8]的数据。[9]爸爸为什么要在DAS里设置[10]这样的功能呢？[11]</Translation>
+    <Translation>[0]我用爸爸的电脑搜索了有关[1]马修父亲的信息。[2]我查看了电脑里的文件后，终于明白了[3]爸爸一直在研究这谭湖水，[4]他当初来到JC山谷是想[5]找出妈妈死亡背后的真相。[6]在我把DAS放入爸爸的电脑中后……[7]出现了一个功能，使我可以查看设置在四周的监视器[8]的数据。[9]爸爸为什么要在DAS里设置[10]这样的功能呢？[11]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -74,7 +74,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Actually, something you said before's been[1]eating at me...[2]Something I said?[3]When we looked at the picture of my mom and[4]dad in the basement of that cottage,[5]you said you saw my dad at the mermaid[6]statue checking something out.[7]Yeah, he had some water in a test tube, and he[8]was testing something with a little kit.[9]I wonder...[10]You think the test tube kit might be here in this[11]room?[12]</Original>
-    <Translation>[0]其实你刚才说过的一些话一直[1]让我很在意……[2]嗯？我说的什么？[3]当我们在小屋地下室看到[4]我爸爸和妈妈的画像的时候，[5]你说你曾经看到我爸爸在美人鱼雕像那里[6]检查什么东西。[7]对，他当时拿着一个装有水的试管，并且用[8]一个小工具在测试什么。[9]我觉得……[10]你认为那个试管套装可能就在[11]这间屋子里？[12]</Translation>
+    <Translation>[0]其实你刚才说过的一些话一直[1]让我很在意……[2]嗯？我说的什么？[3]当我们在小屋地下室看到[4]我爸爸和妈妈的画像的时候，[5]你说你曾经看到我爸爸在美人鱼雕像那里[6]检查什么东西。[7]对，他当时拿着一个装有水的试管，并且用[8]一个小工具在测试什么。[9]我觉得……[10]你觉得那个试管套装可能就在[11]这间屋子里？[12]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -129,7 +129,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blue box[2] in the drawer.[3]What's this?[4]I'll take a look.[5]There's something written on the inside.[6]"Easy Water Analysis Kit MS100P[7]This kit is designed to indicate the pH value of[8]a water sample.[9]The supplied reagent fluid will determine if the[10]water is acidic or alkaline."[11]So it's a water pH testing kit...[12]"Fill to the grey line with water. Add the reagent[13]up to the red line. Shake gently.[14]Pink indicates alkalinity. Red indicates acidity.[15]Deep red indicates strong acidity.[16]If there is no change in colour, the sample is[17]pH neutral.[18]Too much reagent can result in unreliable [19]results. Please re-test the sample in this case."[20]It's got a test tube and a small bottle in it.[21]Found something, Ash?[22]Yeah, there was a water testing kit in the[23]drawer here.[24]So we can use that to check the lake water?[25]Yep. C'mon, let's head for the mermaid statue.[26]Right![27]But remember, I promised not to go to the clock [28]tower.[29]</Original>
-    <Translation>[0]抽屉里[1]有一个[2]蓝色的盒子。[3]里面有什么？[4]等我打开看看。[5]里面似乎写着些什么。[6]“简易水样分析套件 MS100P[7]本套件可以用来显示水样的[8]PH值。[9]配套的液体试剂可测定出水样的[10]酸碱性。”[11]原来是水质PH测试套件……[12]“将水填至灰色刻度线。加入试剂[13]至红色刻度线。轻轻摇晃。[14]粉色代表碱性。红色代表酸性。[15]深红代表强酸性。[16]如果颜色没有发生变化，则水样[17]呈中性。[18]过多的试剂会导致结果 [19]不稳定。如果结果不稳定，请重新测试水样。”[20]里面附有一个试管和小瓶子。[21]发现什么了吗，小蕾？[22]嗯，抽屉里有一个[23]水样测试套件。[24]那么我们可以用这个测一下湖水吧？[25]是啊。走，去美人鱼雕像。[26]好！[27]不过别忘了，我承诺过不去 [28]钟楼的。[29]</Translation>
+    <Translation>[0]抽屉里[1]有一个[2]蓝色的盒子。[3]里面有什么？[4]等我打开看看。[5]里面似乎写着些什么。[6]“简易水样分析套件 MS100P[7]本套件可以用来显示水样的[8]PH值。[9]配套的液体试剂可测定出水样的[10]酸碱性。”[11]原来是水质PH测试套件……[12]“将水填至灰色刻度线。加入试剂[13]至红色刻度线。轻轻摇晃。[14]粉色代表碱性。红色代表酸性。[15]深红代表强酸性。[16]如果颜色没有发生变化，则水样[17]呈中性。[18]过多的试剂会导致结果 [19]不稳定。如果出现这种情况，请重新测试水样。”[20]里面附有一个试管和小瓶子。[21]发现什么了吗，小蕾？[22]嗯，抽屉里有一个[23]水样测试套件。[24]那么我们可以用这个测一下湖水吧？[25]是啊。走，去美人鱼雕像。[26]好！[27]不过别忘了，我承诺过不去 [28]钟楼的。[29]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -159,7 +159,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There it is![1]What? Where?[2]There, the white pole.[3]You think that's the security camera?[4]Has to be.[5]</Original>
-    <Translation>[0]就在那儿！[1]什么？在哪？[2]那儿啊，白色的柱子。[3]你觉得那个就是监视器？[4]一定是的。[5]</Translation>
+    <Translation>[0]就在那儿！[1]什么？在哪？[2]那儿啊，白色的杆子。[3]你觉得那个就是监视器？[4]一定是的。[5]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -184,7 +184,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a round [1]security camera [2]on[3]top of a white pole.[4]That must be one of the security cameras my[5]DAS is connected to![6]You think?[7]I think so, yeah.[8]I know![9]What?[10]Matt, go stand by the statue.[11]Then I'll check the DAS and see if it's taken a[12]picture of you standing there.[13]Gotcha![14]Okay, ready![15]Stay there, Matt![16]Right, I'll check the Connect function on the[17]DAS.[18]</Original>
-    <Translation>[0]白色柱子的顶端 [1]有一个 [2]圆形[3]的监视器。[4]那个一定就是和我的DAS连接[5]上的监视器！[6]是吗？[7]没错，我想就是这样。[8]我明白了！[9]明白什么了？[10]马修，过去站在雕像旁边。[11]我看看DAS是否会显示出[12]你站在那里的画面。[13]明白![14]OK，准备好了！[15]就站在那儿，马修！[16]好，我试试启动DAS的[17]连接功能。[18]</Translation>
+    <Translation>[0]白杆子的顶端 [1]有一个 [2]圆形[3]的监视器。[4]那个一定就是和我的DAS连接[5]上的监视器！[6]是吗？[7]没错，我想就是这样。[8]我明白了！[9]明白什么了？[10]马修，过去站在雕像旁边。[11]我看看DAS是否会显示出[12]你站在那里的画面。[13]明白![14]OK，准备好了！[15]就站在那儿，马修！[16]好，我这就启动DAS的[17]连接功能。[18]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -221,7 +221,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]Well?[2]That's really weird.[3]I'm not in it.[4]Huh?[5]Yeah, definitely not there.[6]That's totally weird.[7]Why didn't it take my picture?[8]</Original>
-    <Translation>[0]嗯？[1]怎么样？[2]真奇怪。[3]画面里没有我。[4]啊？[5]是啊，的确没有。[6]太奇怪了。[7]为什么监视器没有拍到我的身影？[8]</Translation>
+    <Translation>[0]嗯？[1]怎么？[2]真奇怪。[3]画面里没有我。[4]啊？[5]是的，真的没有。[6]太奇怪了。[7]为什么监视器没有拍到我的身影？[8]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -252,7 +252,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAAwfQCgA=</Command>
     </Commands>
     <Original>[0]He's right there![1]All clear, Matt![2]Well?[3]Yeah, it showed you again.[4]Look.[5]Yeah, there I am.[6]Why didn't it take a picture of me?[7]Maybe your DAS just wasn't getting anything?[8]You think?[9]</Original>
-    <Translation>[0]他就在图像里！[1]回来吧，马修！[2]怎么样？[3]嗯，还是能看到你。[4]你看。[5]是啊，我在画面里。[6]为什么图像里没有我呢？[7]也许你的DAS并不是总能准确工作？[8]你这么认为？[9]</Translation>
+    <Translation>[0]他就在图像里呀！[1]回来吧，马修！[2]怎么样？[3]嗯，还是能看到你。[4]你看。[5]是啊，我在画面里。[6]为什么图像里没有我呢？[7]也许你的DAS并不是总能准确工作？[8]你这么认为？[9]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -298,7 +298,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a round [1]security camera [2]on[3]top of a white pole.[4]</Original>
-    <Translation>[0]白色柱子的顶端 [1]有一个 [2]圆形[3]的监视器。[4]</Translation>
+    <Translation>[0]白杆子的顶端 [1]有一个 [2]圆形[3]的监视器。[4]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -322,7 +322,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check out the camera.[1]</Original>
-    <Translation>[0]我去检查一下监视器。[1]</Translation>
+    <Translation>[0]我得检查一下监视器。[1]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -330,7 +330,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check out the camera.[1]</Original>
-    <Translation>[0]我去检查一下监视器。[1]</Translation>
+    <Translation>[0]我得检查一下监视器。[1]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -338,7 +338,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check the Connect feed.[1]</Original>
-    <Translation>[0]我来检查一下连接数据。[1]</Translation>
+    <Translation>[0]我得检查一下连接数据。[1]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -346,7 +346,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAABoAAAAAAAKGgwAAAgAAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I'll check the Connect feed.[1]</Original>
-    <Translation>[0]我来检查一下连接数据。[1]</Translation>
+    <Translation>[0]我得检查一下连接数据。[1]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -2227,7 +2227,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You're on![1]Okay, use my guitar.[2]Where is it?[3]Over there.[4]Oh, wait, you use a solid body...[5]Mine's electro-acoustic.[6]Hmm...electro-acoustic.[7]You use effects?[8]Nope.[9]Guess you won't be able to handle my guitar[10]then.[11]Mine's all about the guitarist's technique.[12]...![13]Hey, don't start that 'til you hear me play![14]Go on then...[15]</Original>
-    <Translation>[0]正合我意！[1]那好，用我的吉他！[2]吉他在哪？[3]那边。[4]哦，等一下，你用的是实心体吉他……[5]我的是电吉他。[6]嗯……电吉他。[7]你演奏的时候用特效吗？[8]不用。[9]看来你不太会用我的这种[10]吉他。[11]我的演奏可是全凭演奏技术啊。[12]……！[13]嘿，别这么早下判断，你还没听过我演奏！[14]那么请继续……[15]</Translation>
+    <Translation>[0]正合我意！[1]那好，用我的吉他！[2]吉他在哪？[3]那边。[4]哦，等一下，你用的是实心体吉他……[5]我的是电吉他。[6]嗯……电吉他。[7]你演奏的时候用特效吗？[8]不用。[9]看来你不太会用我的这种[10]吉他。[11]我的演奏可是全凭技术啊。[12]……！[13]嘿，别这么早下判断，你还没听过我演奏！[14]那么请继续……[15]</Translation>
   </Sentence>
   <Sentence id="178">
     <Commands>
@@ -2265,7 +2265,7 @@
       <Command>ChoFAAABChoJAABEAAPoAAoaCQAAMQAD6AEKGgYAAAwAChoGAAAMAAoaBwAAAwPoCgA=</Command>
     </Commands>
     <Original>[0]Hey, somebody's at the door...[1]Honey, I'm home! Hahaha![2]Sup, Bob?[3]Howdy, superstar. You done with practice?[4]Yeah, just finished up.[5]That's me, always got perfect timing.[6]Yeah. Real cool timing.[7]Hey, Tommy, who's the lady?[8]A new band member?[9]No, no...[10]My name's Ashley Mizuki Robins.[11]She's Doc Robins' daughter. You know, from[12]JC Valley.[13]Our Doc Robins? Of course.[14]Ash, this is Bob, the owner of this place.[15]</Original>
-    <Translation>[0]嘿，有人在敲门……[1]宝贝儿，我回来啦！哈哈哈哈！[2]呦，是鲍勃？[3]怎么样，我的大明星。练习完了吗？[4]完了，刚刚结束。[5]总是在恰到好处的时机出现，我就是这样的男人。[6]是啊。真是恰到好处。[7]嘿，汤米，这位女士是谁？[8]乐队新成员？[9]不是，不是……[10]我的名字是阿修蕾·美月·罗宾斯。[11]她是罗宾斯博士的女儿。你认识的，[12]在JC山谷工作的那个。[13]我们的罗宾斯博士？我当然认识。[14]小蕾，这位就是鲍勃，这家餐馆的主人。[15]</Translation>
+    <Translation>[0]嘿，有谁来了……[1]宝贝儿，我回来啦！哈哈哈哈！[2]谁啊，是鲍勃？[3]怎么样，我的大明星。练习完了吗？[4]完了，刚刚结束。[5]总是在恰到好处的时机出现，我就是这样的男人。[6]是啊。真是恰到好处。[7]嘿，汤米，这位女士是谁？[8]乐队新成员？[9]不是，不是……[10]我的名字是阿修蕾·美月·罗宾斯。[11]她是罗宾斯博士的女儿。你认识的，[12]在JC山谷工作的那个博士。[13]我们的罗宾斯博士？我当然认识。[14]小蕾，这位就是鲍勃，这家餐馆的主人。[15]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
@@ -2290,24 +2290,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ah, phone call.[1]Yeah?[2]Oh, hi Elizabeth.[3]What's up?[4]You're not coming?[5]Seriously, you could've said sooner...[6]Fine, see you later then.[7]Sup, Tommy?[8]Elizabeth's not coming.[9]Whaa?[10]Another fight with her dad, apparently.[11]C'mon Sam, let's split.[12]Aw man, but...[13]Sam, if you're done practising then off you go.[14]I need to get this place ready for opening up.[15]Sorry we couldn't hear you play, Ash.[16]Guess we'll hear you on stage at the contest.[17]You bet![18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，电话。[1]喂？[2]哦，嗨，伊丽莎白。[3]怎么？[4]你不来了？[5]那你应该早点说啊……[6]好吧，回见。[7]怎么了， 汤米？[8]伊丽莎白不来了。[9]啥？[10]很明显，又和她爸吵架了。[11]萨姆，我看我们原地解散吧。[12]哦 伙计，可是……[13]萨姆，如果你练得差不多了，就该离开。[14]我得为餐馆开业准备准备了。[15]很遗憾，我们不能听你演奏了，小蕾。[16]看来我们只能在比赛现场欣赏了。[17]没问题！[18]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
       <Command>GgYAAAwAChoUAQALMwAHAAkBSU9QMDAwAAAAChoGAAAMAAoaBwAAAwPoChoNAAAVAAAAAAAAAAAKGgwAAAgAATQAAAAAChoGAAAMAAoaFAEACzMAEQAJAUlPUDAwMAAAAAoaBgAADAAKGgcAAAMD6AoaBgAADAAKGg4BAAs2AQAAPAAAAAAKGg4BAAsAAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
       <Command>Gg4BAAs2AA8AqgEAA+gKGiMAAAVXU0RfU0VfRE9PUl9HVUVTVF9IT1VTRV9PUEVOAAAKGgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzChokAAAFV1NEX1NFX0RPT1JfR1VFU1RfSE9VU0VfQ0xPU0UAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -2316,8 +2313,7 @@
       <Command>ChoFAAABChoVAAAEU1RSTV9CR01fNDMAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Tommy...[1]What's up?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汤米……[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -2326,8 +2322,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Sup.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿……[1]呦。[2]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -2336,32 +2331,28 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm up for the big stage, even if Tommy says he[1]isn't.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]即使汤米打算放弃，我也要[1]去参加大赛。[2]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="187">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="188">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="189">
     <Commands>
@@ -2371,8 +2362,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]Huh?[2]Don't bail out on us.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，小蕾！[1]嗯？[2]别泼我们冷水。[3]</Translation>
   </Sentence>
   <Sentence id="190">
     <Commands>
@@ -2424,8 +2414,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]And there go the troublemakers.[1]You're really nice to them.[2]Nice? Me? Hahaha![3]Yeah![4]You're giving them a place to practise and[5]all...[6]Not many people'd be willing to lend out their[7]diner for that.[8]Haha, those people obviously haven't tried[9]watching a band practice.[10]I look at them play, and I guess I can't resist[11]doing them a favour.[12]I was the same as them when I was young. [13]Obnoxious as heck, but devoted to what I did.[14]By the way, I'm [15]Bob Fox[16], the owner of this[17]here diner.[18]Call me Bob.[19]Hi Bob. Say, does my dad come in here a lot?[20]Oh yeah, Doc Robins is one of my regulars.[21]He loves the food here, so he's always in and[22]out.[23]Sometimes he orders deliveries too.[24]No wonder his kitchen was so clean...[25]A bunch of JC Valleyites are regulars here.[26]But your dad's the one I chat with the most.[27]We're both [28]heavy into our music[29] and all...[30]Is the doc himself back at home?[31]No, he's at the lab.[32]I come here to see him, then off he goes to[33]work, leaving me as his house-sitter.[34]Ah, not the best visit ever, I imagine.[35]Y'know, I just came back from over JC Valley[36]way.[37]Today's supposed to be a day off, right?[38]But they're all [39]working like crazy[40] over there.[41]Oh yeah, looks like I forgot what this place was[42]too.[43]Are you hungry? [44]You want something to eat?[45]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]调皮的家伙都走啦。[1]你对他们真好。[2]真好？我？哈哈哈！[3]是啊！[4]你给他们提供了练习[5]场所……[6]一般没人愿意把自己的餐馆借出去[7]做练习场地用。[8]哈哈，客人当然不想[9]吃饭的时候看乐队练习了。[10]不过我看着他们练习的时候，实在不忍[11]袖手旁观。[12]看到他们我就想起了自己年轻的时候。 [13]往事不堪回首，不过我当年还是很执着的。[14]忘了自我介绍，我是 [15]鲍勃·福克斯[16]，这家餐馆的[17]主人。[18]叫我鲍勃好了。[19]你好，鲍勃。对了，我爸爸经常来这里吗？[20]哦，是啊，罗宾斯博士可是我的常客。[21]他很喜欢我们这的饭菜，[22]所以经常光顾。[23]有时候他也会叫外卖。[24]难怪他的厨房这么干净……[25]不少JC山谷的人都是这里的常客。[26]不过你爸爸是和我聊得最投机的一位。[27]我们都对[28]某些事物，比如音乐[29] 很着迷……[30]博士现在在家吗？[31]不，他还在实验室。[32]我来着见他，结果他又跑去工作[33]了，把我当看屋人。[34]啊，看来不是.[35]其实我刚从JC山谷那边[36]回来。[37]今天不是本来要放假的吗？[38]但是他们好像 [39]都在那儿[40] 忙得天昏地暗。[41]哦，我也忙得都忘了这里是[42]餐馆了。[43]你饿吗？[44]想吃点什么？[45]</Translation>
   </Sentence>
   <Sentence id="191">
     <Commands>
@@ -2433,8 +2422,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是有点饿了……[1]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -2442,8 +2430,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No thanks[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不用了，谢谢。[1]</Translation>
   </Sentence>
   <Sentence id="193">
     <Commands>
@@ -2462,8 +2449,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well, I'd love to but...[1]I don't have any money with me.[2]No problemo.[3]It's all on your dad's tab, so order as much as[4]you want, hahaha![5]Should I?[6]But Matt's waiting for me at home.[7]Actually...[8]I can't eat anything today. I've got a friend[9]waiting for me. Sorry.[10]That's a shame.[11]You don't know what you're missing...[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]其实，我是有点饿了……[1]不过我没带钱。[2]无妨。[3]都记在你爸爸的账上，所以别考虑钱的问题，[4]大吃一顿吧，哈哈哈！[5]要在这里吃吗？[6]可是马修还在家等着我。[7]实际上……[8]很遗憾这次我不能在此享用。家里有一个朋友[9]在等我。[10]那还真是可惜。[11]你可是错过了美味佳肴……[12]</Translation>
   </Sentence>
   <Sentence id="194">
     <Commands>
@@ -2474,8 +2460,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nah, I'm not really that hungry.[1]No wonder you're so skinny.[2]Well, if your belly decides otherwise, you[3]know where to come![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不了，我并不太饿。[1]难怪你这么苗条。[2]好吧，不过肚子发出抗议的时候，你知道[3]该来哪了吧！[4]</Translation>
   </Sentence>
   <Sentence id="195">
     <Commands>
@@ -2494,8 +2479,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, do you know what this diner's specialty[1]is?[2]You have a specialty?[3]Yep. The one thing everyone knows you can[4]only get at Bob's Food Hut.[5]What is it?[6]I call it the [7]Salmon Rice Burger[8].[9]Can you order it to go?[10]Course you can! You could order the whole[11]menu to go if you felt like carrying it all![12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你知道这家餐馆的特色菜[1]是什么吗？[2]你这还有特色菜？[3]当然。所有人都知道的，[4]只有在鲍勃的小餐馆才能享受到的佳肴。[5]到底是什么？[6]我将其命名为[7]鲑鱼米饼汉堡[8]。[9]这个汉堡能够外带吗？[10]当然喽！只要你愿意，[11]菜单上的所有食品都有外带！[12]</Translation>
   </Sentence>
   <Sentence id="196">
     <Commands>
@@ -2519,8 +2503,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Heavy into your music?[1]You mean...you talk about music? With my[2]dad? Are we talking about the same person?[3]Yeah, of course.[4]Your dad and I were the same as you when we[5]were kids.[6]Mad about our guitars. Had them everywhere[7]we went. That was all we'd talk about. Heh.[8]You're kidding. My dad played the guitar?![9]Hey, don't look so shocked.[10]We were teenagers too![11]We weren't born adults, y'know![12]Dad's never even said a word about that...[13]Well, y'see, that's a dad thing.[14]Unless you ask them direct like, they'll never[15]talk about those kinds of things.[16]Especially ones like the doc.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对音乐着迷？[1]你的意思是……你们在一起谈论音乐？ 和我[2]爸爸？我们说的是同一个罗宾斯博士吗？[3]当然是同一个人啦。[4]你爸爸和我年轻的时候，就和你们[5]一样。[6]对吉他十分着迷，形影不离。走到哪[7]带到哪。我们就是在谈这些过去的岁月啊。呵呵。[8]你在开玩笑吧。我爸爸会弹吉他？！[9]嘿，表情别这么夸张。[10]我们也曾经年轻过！[11]只不过，你知道，人早晚会长大的！[12]爸爸从没和我说过这些……[13]喔，这听起来可不是好事。[14]有些人你不去直接问他，他绝不会[15]主动开口和你说这些的往事的。[16]特别是像我们的博士这样的人。[17]</Translation>
   </Sentence>
   <Sentence id="197">
     <Commands>
@@ -2536,8 +2519,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's a Salmon Rice Burger?[1]Well, I use rice patties instead of burger buns,[2]and I put a grilled salmon fillet in as the filling.[3]Then on goes my special sauce and voila![4]Salmon Rice Burger![5]Uh...is it really that nice?[6]You bet it is! One bite and you're on a one-way[7]trip to cloud nine.[8]It's your dad's favourite, kid.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]鲑鱼米饼汉堡到底是什么做的？[1]啊，我用米饭肉饼替代了汉堡里的那两片小面包，[2]然后在中间放入烤过去刺的马哈鱼片。[3]再抹上我秘制的调味酱就完成啦！[4]鲑鱼米饼汉堡！[5]唔……真的那么好吃吗？[6]当然啦！吃一口就像[7]遨游九霄那么爽。[8]这可是你爸爸的最爱啊，孩子。[9]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2576,8 +2558,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AaVkAAoA</Command>
     </Commands>
     <Original>[0]So they're all working hard over at the lab?[1]Yeah, your dad's usually the only crazy[2]workaholic there at weekends.[3]But there's a lot of people there today.[4]Maybe an emergency came up or something.[5]Haha, maybe an experiment of theirs escaped![6]Well, Dad said there was some problem with the[7]security system over there.[8]Ah, that explains it.[9]They were going on about security system this,[10]cameras that...[11]All those cameras and things are a bit weird...[12]Ashley, this isn't just 'cause they're my best[13]customers or anything, but...[14]JC Valley's been great for us.[15]Thanks to their security cameras, there's[16]almost no crime around here.[17]And they're dead set on protecting the[18]environment at Lake Juliet.[19]They were the ones who set up the can[20]recyclers.[21]Oh yeah, the token dispensers.[22]Bingo. I do my bit for that too.[23]I've got a gumball machine in here that takes[24]those tokens.[25]Have you picked up any tokens from the [26]recyclers?[27]Yep![28]Well, here's something you might not know.[29]Sometimes the recyclers give out [30]special tokens[31].[32]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这么说实验室那边已经忙做一团了？[1]是啊，一般只有你爸爸是那种[2]周末还工作的狂人。[3]不过今天其他人也都在忙。[4]或许有什么紧急情况出现了。[5]哈哈，可能是他们的实验信息泄露啦！[6]其实爸爸说那的安全系统可能[7]出了些问题。[8]啊，说来听听。[9]他们一直在检查安全系统，[10]还有监视器之类的……[11]所有这些监视器这类的东西好像都有些不正常……[12]阿修蕾，并不是因为他们都是我最好的[13]顾客我才这么说……[14]JC山谷确实给我们带来了很多好处。[15]多亏了他们的监视器，这附近[16]几乎没有罪案发生。[17]而且那些人也确实是在为了[18]保护朱丽叶湖的环境工作到如今。[9]就是他们设置了[20]易拉罐回收桶。[21]哦，对了，糖果硬币。[22]没错。我也为此做了点小贡献呢。[23]我这也有一个硬币[24]摇糖机。[25]你用空易拉罐兑换过硬币了[26]吗？[27]换过了！[28]可能你还不知道。[29]有时候回收桶会换给你 [30]特典硬币[31]哦。[32]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
@@ -2592,8 +2573,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Special tokens?[1]Yeah, they have a unique design on them.[2]You can't use them in the gumball machines,[3]but they're a great collector's item.[4]They sound pretty rare.[5]Kinda. You might get one from the recycler in [6]front of my diner, give it a shot sometime.[7]Will do![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]特典硬币？[1]对，上面会有独特的图案。[2]虽然不能用来摇口香糖，[3]不过可是不错的藏品哦。[4]听起来好像很难得。[5]是不容易。我餐馆前的回收桶里就有这么一枚， [6]有空了去碰碰运气吧。[7]我会的！[8]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -2611,16 +2591,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIPAAoaDQAAFQ8AAAAAAAAAChoMAAAIDwFZAAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Oh yeah, Bob...[1]Yeah?[2]Can I have a Salmon Rice Burger to go?[3]Oh, your stomach decided it wants to get fed?[4]No...[5]I have a friend waiting for me at my dad's[6]cottage, it's for him.[7]Righto, one SRB coming right up![8]Just wait there a while. Look around if you[9]want.[10]Okay![11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，对了，鲍勃……[1]嗯？[2]我能带一个鲑鱼米饼汉堡走吗？[3]哦，你的胃口终于决定要吃这个了？[4]不是……[5]有一个朋友在爸爸的小屋等我，[6]这是给他带的。[7]好咧，鲑鱼米堡一个，马上就来！[8]在那稍等一会。可以四处[9]看看。[10]好的！[11]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="202">
     <Commands>
@@ -2629,8 +2607,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]什么事？[2]</Translation>
   </Sentence>
   <Sentence id="203">
     <Commands>
@@ -2640,24 +2617,21 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIPAAoaDQAAFQ8AAAAAAAAAChoMAAAIDwFZAAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Burger's coming together nicely![1]Just hold on a few![2]Okay.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]香喷喷的米堡马上就出锅了！[1]再稍等几分钟！[2]好的。[3]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="205">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="206">
     <Commands>
@@ -2667,8 +2641,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey![1]Huh?[2]Don't run out on me, hahaha![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿！[1]嗯？[2]食物还没做好就要走啦，哈哈哈！[3]</Translation>
   </Sentence>
   <Sentence id="207">
     <Commands>
@@ -2676,8 +2649,7 @@
       <Command>ChoFAAABChoNAAAVDwAAAAAAAAAKGgwAAAgPAVkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Don't need the burger then?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么不要米堡就要走啦？[1]</Translation>
   </Sentence>
   <Sentence id="208">
     <Commands>
@@ -2692,8 +2664,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2] on the wall.[3]Oh, that's Bob.[4]I wonder when this was taken. He looks pretty[5]young.[6]And I've seen that food cart before...[7]Wait![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]墙上 [1]挂着一副[2] 照片。[3]哦，那是鲍勃。[4]不知道是什么时候拍的照片。当时的他还很[5]年轻。[6]我对这个食品手推车有印象……[7]等等！[8]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
