@@ -999,7 +999,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Have other strange things happened?[1]Yeah. Three days ago, that villa down by the[2]campsite area burned down.[3]And for some reason, food keeps disappearing[4]from the stores out back.[5]Then there's your bag...[6]That's pretty messed up...[7]Is this a bad area or something?[8]Not in the least. Boring place out in the[9]sticks like this doesn't usually attract trouble.[10]Not even had a bit of excitement since I started[11]here. Until now, anyway.[12]Do you work here all year?[13]Nah, no way.[14]This is only part-time, a holiday job.[15]I know the owner of the campsite, so he hooks[16]me up with the job.[17]But this year's my last.[18]You're that bored?[19]That, and next year's graduation. So this is my[20]last summer away from civilisation.[21]</Original>
-    <Translation>[0]还有其他奇怪的事情发生么？[1]当然， 三天前， [2]别墅塌了，附近的营地也被烧毁了[3]不知为什么， 食品也开始不断的[4]从接待处里丢失[5]然后还有你的包……[6]这真是一团糟……[7]这是个很差劲的地方么?[8]当然不是，这种死气沉沉的地方[9]通常是不会惹上这种麻烦事的[10]甚至自从我开始在这工作，[11]直到现在甚至没有一点能让人兴奋的事情发生。[12]你在这里工作了一整年吗？[13]嗯，没办法[14]这只是兼职，是假期打工[15]我认识营地的老板， [16]所以他给我找了一份工作[17]但是今年是最后一次[18]你就那么无聊吗？[19]明年我就毕业了[20]所以这是我远离城市的最后一个夏天了[21]</Translation>
+    <Translation>[0]还有其他奇怪的事情发生么？[1]当然， 三天前， [2]别墅被烧塌了，附近的营地也被烧毁了[3]不知为什么， 食品也开始不断的[4]从接待处里丢失[5]然后还有你的包……[6]这真是一团糟……[7]这是个很差劲的地方么?[8]当然不是，这种死气沉沉的地方[9]通常是不会惹上这种麻烦事的[10]甚至自从我开始在这工作，[11]直到现在甚至没有一点能让人兴奋的事情发生。[12]你在这里工作了一整年吗？[13]嗯，没办法[14]这只是兼职，是假期打工[15]我认识营地的老板， [16]所以他给我找了一份工作[17]但是今年是最后一次[18]你就那么无聊吗？[19]明年我就毕业了[20]所以这是我远离城市的最后一个夏天了[21]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -1611,8 +1611,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDAAACBEAbQAAAAAKGgwAAAgFAHMAAAAACgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Hmm?[2]Oh, excuse you.[3]Can't you see I'm in the middle of a[4]conversation?[5]Some people, no manners at all...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿……[1]嗯？[2]噢，真对不起[3]你没看见我正聊到[4]一半么？[5]有些人啊，真是没礼貌……[6]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1625,8 +1624,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Dan?[1]Roger that. Over.[2]No sign of him. All clear here. Over.[3]Sorry, Ashley.[4]Just gimme a sec...[5]Sure, sorry.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹？[1]收到，完毕[2]没有情况， 周围安全，完毕[3]对不起，阿修蕾[4]等我几秒钟……[5]当然，抱歉[6]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1641,8 +1639,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDQAAFQgAAAAAAAAAChoMAAAICAFVAAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]Just where are you going, miss?[3]I'm headed for my dad's campsite.[4]Well, that way takes you right up to the lake.[5]There's no campsites up there. Take it from me.[6]Oh, right.[7]Thanks![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]你要去哪儿，小姐？[3]我要去我爸爸的营地[4]好的， 这条路是通往湖边的[5]相信我，营地不在那儿[6]哦，我知道了[7]谢谢！[8]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1651,8 +1648,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The guesthouse isn't this way.[1]I need to bring back some charcoal.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]去接待处不是这条路[1]我要带回一些木炭[2]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
@@ -1661,8 +1657,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to bring back the charcoal.[1]Dad's waiting for me.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我需要带回一些木炭[1]爸爸还等着我呢[2]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
@@ -1671,8 +1666,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't go.[1]I have to wait at the campsite for Dad.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不能出去[1]我得在营地等着爸爸[2]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
@@ -1685,8 +1679,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9QMDQwX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]Dad![1]Ashley![2]I wondered when you'd get here.[3]It's good to see you![4]So, how have you been?[5]I'm...okay.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Dad![1]Ashley![2]I wondered when you'd get here.[3]It's good to see you![4]So, how have you been?[5]I'm...okay.[6]</Translation>
   </Sentence>
   <Sentence id="130">
     <Commands>
