@@ -3512,15 +3512,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well, go on to Ryan's then.[1]I don't mind.[2]You sure?[3]Well, you have something you want to talk to[4]him about, right?[5]Yeah.[6]All right, I'll be back soon as I can.[7]Okay.[8]</Original>
-    <Translation>[0]Well, go on to Ryan's then.[1]I don't mind.[2]You sure?[3]Well, you have something you want to talk to[4]him about, right?[5]Yeah.[6]All right, I'll be back soon as I can.[7]Okay.[8]</Translation>
+    <Translation>[0]好吧，你去莱恩那吧。[1]我不介意。[2]确定？[3]嗯，你不是有些事情要找他[4]谈谈吗？[5]是的。[6]那就这样，我会尽快回来。[7]好的。[8]</Translation>
   </Sentence>
   <Sentence id="276">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="277">
     <Commands>
@@ -3529,8 +3528,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey.[1]What's up?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨。[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="278">
     <Commands>
@@ -3539,8 +3537,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's wrong?[1]Aren't you going to Ryan's?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]你不是要去莱恩那儿吗？[2]</Translation>
   </Sentence>
   <Sentence id="279">
     <Commands>
@@ -3548,8 +3545,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't just take off without talking to Matt...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不能不跟马修说一声就离开……[1]</Translation>
   </Sentence>
   <Sentence id="280">
     <Commands>
@@ -3562,16 +3558,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who is it?[1]Hi, it's Ashley.[2]Ah, Ashley.[3]Just a minute please.[4]It's unlocked now, come in.[5]Thanks![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哪位？[1]嗨，我是阿修蕾。[2]啊，阿修蕾。[3]稍等。[4]门开了，请进。[5]多谢！[6]</Translation>
   </Sentence>
   <Sentence id="281">
     <Commands>
       <Command>Gg0AABUAAAAAAAAAAAoaDAAACAAALAAAAAAKGgYAAAwAChoHAAADA+gKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaDgAAOUsAAAAAOwEAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="282">
     <Commands>
@@ -3580,8 +3574,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ryan's waiting for me.[1]I should go in.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩正在等我。[1]我得进去。[2]</Translation>
   </Sentence>
   <Sentence id="283">
     <Commands>
@@ -3608,8 +3601,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZpkAAoaEgAAGENfUjAzMF9EAEJHTQEKAA==</Command>
     </Commands>
     <Original>[0]It's good to see you, Ashley.[1]Wow, your cottage is really tidy.[2]Is it? I've never really thought about it...[3]I'm not very good at interior decoration, so I[4]just leave it as it is.[5]I'm also not here very much, which probably[6]explains why it's so clean.[7]So you're just as busy as Dad is?[8]I think I'm in the lab a similar amount of time to[9]Dr Robins. But, busy?[10]I've never said that to describe my work.[11]I do spend a lot of time in the lab, but that's[12]because I enjoy my research a great deal.[13]Ah... You're definitely in the right job then.[14]So, Ryan, you're...[15]Ashley, please, enough about me.[16]Isn't there [17]something more important[18] we should[19]be talking about?[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你能来真是太好了，阿修蕾。[1]喔，你的屋子真整洁。[2]会吗？我从未注意过……[3]我对内部装潢不太在行，所以我只是[4]维持原样而已。[5]我也不常住在这里，所以可能[6]显得比较干净吧。[7]这么说你和我爸爸一样忙了？[8]我想我和罗宾斯博士待在实验室的时间[9]差不多吧。不过，忙？[10]我对工作可从没有这中感受。[11]我花在实验室里的时间很多，不过那只是[12]我在享受研究的乐趣。[13]啊……那你还真是选对了工作。[14]所以，莱恩，你是……[15]阿修蕾，关于我的话题请到此为为之吧。[16]我们[17]不是有[18] 更重要的事情[19]要谈吗？[20]</Translation>
   </Sentence>
   <Sentence id="284">
     <Commands>
@@ -3627,8 +3619,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZxkAAoA</Command>
     </Commands>
     <Original>[0]Something more important?[1]Yes. You came here to ask about some things,[2]didn't you?[3]Ah, yeah, I guess so.[4]So which should we talk about first?[5]About[6] Crusoe Resort[7]?[8]Or about [9]Sayoko[10]?[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]更重要的事？[1]是的。你不是来着打算问我[2]一些事情吗？[3]哦，是的，我是有事要问。[4]那么先来谈什么呢？[5]关于[6] 克鲁索度假村[7]？[8]还是关于[9]沙夜子[10]？[11]</Translation>
   </Sentence>
   <Sentence id="285">
     <Commands>
@@ -3666,8 +3657,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to know about Crusoe Resort.[1]Very well.[2]Ashley, let me explain why the company went[3]bankrupt five years ago.[4]Crusoe Resort bought up the land around[5]Lake Juliet.[6]They were using questionable methods to turn[7]the area into a tourist resort.[8]And they didn't care about the consequences[9]of their actions on the environment.[10]What's that mean?[11]Thanks to their development activities, the lake[12]itself became polluted.[13]Polluted? No way...[14]The Lake Juliet residents discovered the[15]pollution, and blamed the resort development.[16]But Crusoe Resort continued to deny its[17]involvement in the pollution,[18]and so the water and greenery continued to[19]be devastated.[20]I can't believe they did that. That's terrible![21]Indeed.[22]But rest assured, they didn't get away with it.[23]Five years ago, JC Valley reported Crusoe[24]Resort's activities to the media.[25]The resort received a lot of negative attention[26]from all sides, and so they went bankrupt.[27]That's pretty bad...[28]Now do you understand?[29]Your friend is the son of the man JC Valley[30]reported.[31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想要了解一下克鲁索度假村。[1]很好。[2]阿修蕾，我来告诉你这家公司为什么[3]会在五年前倒闭。[4]当初克鲁索度假村看重了[5]朱丽叶湖附近的土地。[6]打算将这片区域开发为旅游景点。[7]不过他们所用的方法却存在隐患。[8]然而他们对于自己的所作所为将给自然环境[9]带来什么样的后果漠不关心。[10]这到底是什么意思？[11]因为他们的开发活动，这片[12]湖水被污染了。[13]污染？不会吧……[14]朱丽叶湖周围的居民发现湖水被[15]污染后，开始指责度假村开发计划。[16]但是克鲁索度假村却一直否认自己[17]与污染有关，[18]之后原来青山绿水就持续[19]荒凉下去了。[20]我真不敢相信他们居然敢这样。真是太恶劣了！[21]的确是难以置信。[22]不过恶有恶报。[23]五年前，JC山谷将克鲁索度假村[24]的所作所为透露给了媒体。[25]度假村遭到了社会各界舆论的一致谴责，[26]所以最终倒闭了。[27]这真是太糟了……[28]现在你明白了吧？[29]你的朋友正是JC山谷曾经检举的那个人[30]的儿子。[31]</Translation>
   </Sentence>
   <Sentence id="286">
     <Commands>
@@ -3688,8 +3678,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZ5kAAoA</Command>
     </Commands>
     <Original>[0]I want to know about my mom.[1]What would you like to know about her?[2]I want to know why she brought me here 13[3]years ago.[4]Why did she come here? What did she have to[5]do that was so important?[6]Ah yes, I think I can shed some light on that[7]matter.[8]I know [9]why she came to Lake Juliet[10].[11]And [12]what she was worried about[13].[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想要了解我妈妈的事情。[1]你想知道哪方面的呢？[2]我想知道十三年前她为什么要带我来[3]这儿。[4]为什么她要来这里？她来做什么[5]对于你那么重要吗？[6]嗯，好吧，或许我可以告诉你一些有关[7]的事情。[8]我知道[9]她为什么要来朱丽叶湖[10]。[11]以及[12]她所担心的事情[13]。[14]</Translation>
   </Sentence>
   <Sentence id="287">
     <Commands>
@@ -3718,8 +3707,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why did she come here?[1]13 years ago, Sayoko left the lab so that she[2]could raise you.[3]But she heard that JC Valley had been built[4]here at Lake Juliet so she came here to see it.[5]She wanted to see JC Valley?[6]Why would she want to?[7]Well, it was probably because her old boss,[8]Judd Fitzgerald, set it up to research memory.[9]Your mother was also a scientist, so I imagine[10]she would have been at least curious.[11]Judd Fitzgerald... I've heard that name before.[12]He was an exceptional scientist. He was also[13]like a mentor to Sayoko.[14]It was their research together that allowed[15]Sayoko to complete her thesis on Another.[16]Huh?[17]But Mom and Dad worked together to write[18]the thesis on Another, didn't they?[19]Did Dr Robins tell you that?[20]Yeah...[21]Then I won't try to convince you otherwise.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为什么她会来这儿？[1]十三年前，为了照顾年幼的你沙夜子离开了[2]实验室。[3]不过当她听说朱丽叶湖旁JC山谷建立的消息[4]后就想来看看。[5]她想来看JC山谷？[6]为什么她会这样想？[7]我想，大概是因为她曾经的导师，[8]贾德·菲茨杰拉德吧。那个开创了记忆研究领域的人。[9]你母亲也是一位科学家，所以我想[10]她应该是抱着起码的好奇心想要来看看。[11]贾德·菲茨杰拉德……我曾经听到过这个名字。[12]他是一位杰出的科学家。对于沙夜子来说[13]也像启蒙导师一样。[14]沙夜子关于Another的论文正是从[15]他们两个的共同研究发展而来。[16]唔？[17]可是据我所知，是爸爸和妈妈一起[18]完成的那篇关于Another的论文，不是吗？[19]罗宾斯博士这样告诉你的？[20]是的……[21]那么我对这件事就不再多说什么了。[22]</Translation>
   </Sentence>
   <Sentence id="288">
     <Commands>
@@ -3739,8 +3727,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was my mom worried about?[1]She had to make a very difficult choice.[2]Whether to live as a mother to you...[3]Or whether to live as a scientist and leave her[4]mark on human history.[5]Mom...[6]Ashley, I met Sayoko 13 years ago and she [7]explained her worries to me.[8]I told her she should return to being a scientist.[9]And what did she say?[10]Nothing. Not a word to me.[11]And she passed away soon after that, so I [12]never did get an answer.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]妈妈当时担心什么？[1]她当时必须要做出两难的选择。[2]是作为一个母亲放弃研究工作……[3]还是作为一个卓越的科学家[4]名留青史。[5]妈妈……[6]阿修蕾，我在十三年前见到沙夜子的时候，她 [7]向我倾诉了这些烦恼。[8]我当时告诉她应该继续科学家生涯。[9]她说什么了？[10]没说什么。一句话都没说。[11]那之后不久她就去世了，所以我[12]永远也不知道答案。[13]</Translation>
   </Sentence>
   <Sentence id="289">
     <Commands>
@@ -3754,16 +3741,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Mom...[1]Mom was making the biggest decision of her[2]life.[3]She gave up being a scientist to look after me.[4]And she died...protecting me.[5]Ashley?[6]Huh?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]妈妈……[1]妈妈当时正面临着人生中最重大的[2]抉择。[3]她为了照顾我放弃了自己的研究。[4]之后又为了保护我……而死。[5]阿修蕾？[6]啊？[7]</Translation>
   </Sentence>
   <Sentence id="290">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="291">
     <Commands>
@@ -3773,16 +3758,14 @@
       <Command>ChoFAAABChoJAABGAAEAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoUAQALMQEJAAkBTlBDMDAxAAAAChoGAAAMAAoaCQAARgEAAAAKGgYAAAwAChoOAQALNgEJASIBAAAAChoGAAAMAAoaEwAALybxJ5wnXicLJ4YnEMNQChoJAAAwYwAAAQoaDQAAFQkAAAAAAAAAChoMAAAICQArAAAAAAoaBgAADAAKGgcAAAMB9AoaDgAAOUQBAAAATQAAAAoaBgAADAAKGgcAAAMF3AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoGAAAMAAoaBwAAAwXcChoGAAAMAAoaDQAAFQkAAAABAAAAChoMAAAICQArAQAAAAoaCQAARQkH0AEKAA==</Command>
     </Commands>
     <Original>[0]You said before that there was something you[1]wanted to show me...[2]Ah yes. This way, please.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我记得你之前有东西[1]要让我看……[2]啊，是的。请跟着我这边走。[3]</Translation>
   </Sentence>
   <Sentence id="292">
     <Commands>
       <Command>GgkAADFjAAABChoGAAAMAAoaBwAAAwXcCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="293">
     <Commands>
@@ -3791,8 +3774,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="294">
     <Commands>
@@ -3800,8 +3782,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's on top of the shelving unit beside me.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，就在我旁边的隔板上。[1]</Translation>
   </Sentence>
   <Sentence id="295">
     <Commands>
@@ -3810,8 +3791,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Are you leaving already?[1]Please, we have more to talk about.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要走了？[1]我们还有些话没说啊。[2]</Translation>
   </Sentence>
   <Sentence id="296">
     <Commands>
@@ -3819,8 +3799,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Please, we have more to talk about.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们还有些话没说啊。[1]</Translation>
   </Sentence>
   <Sentence id="297">
     <Commands>
@@ -3828,8 +3807,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Please, we have more to talk about.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们还有些话没说啊。[1]</Translation>
   </Sentence>
   <Sentence id="298">
     <Commands>
@@ -3837,8 +3815,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I won't just leave without telling him...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不能就这样不辞而别……[1]</Translation>
   </Sentence>
   <Sentence id="299">
     <Commands>
@@ -3846,8 +3823,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ryan's not in there. He's waiting for me...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩不是在那边。他在等我……[1]</Translation>
   </Sentence>
   <Sentence id="300">
     <Commands>
@@ -3856,8 +3832,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This room's really clean...[1]Ashley, it's on the shelving unit beside me.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这间屋子真干净……[1]阿修蕾，就在我旁边的隔板上。[2]</Translation>
   </Sentence>
   <Sentence id="301">
     <Commands>
@@ -3865,8 +3840,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, it's on the shelving unit beside me.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，就在我旁边的隔板上。[1]</Translation>
   </Sentence>
   <Sentence id="302">
     <Commands>
@@ -3877,8 +3851,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]What's this?[1]Is it a kaleidoscope?[2]There's a cherry blossom pattern on it.[3]![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是什么？[1]万花筒？[2]上面有樱花图案。[3]！[4]</Translation>
   </Sentence>
   <Sentence id="303">
     <Commands>
@@ -3887,8 +3860,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now...[1]Mom had one like this...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了……[1]妈妈也有一个这样的万花筒……[2]</Translation>
   </Sentence>
   <Sentence id="304">
     <Commands>
@@ -3897,8 +3869,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaHQEAClBfTUVNT1JZX0thbGVpZG9zY29wZV9vbgoaGQAABVdTRF9TRV9QQVJUX01FTU9SWQAAChpDAQAJUF9NRU1PUllfS2FsZWlkb3Njb3BlX29mZgBQX01FTU9SWV9LYWxlaWRvc2NvcGVfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoeAQAKUF9NRU1PUllfS2FsZWlkb3Njb3BlX29mZgoA</Command>
     </Commands>
     <Original>[0]A kaleidoscope...[1]Mom was holding this...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一个万花筒……[1]妈妈当时正拿着它……[2]</Translation>
   </Sentence>
   <Sentence id="305">
     <Commands>
@@ -3908,8 +3879,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Mom...[1]Is something wrong?[2]Huh?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]妈妈……[1]有什么问题吗？[2]啊？[3]</Translation>
   </Sentence>
   <Sentence id="306">
     <Commands>
@@ -3926,16 +3896,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley...[1]Sayoko gave me this kaleidoscope.[2]Really?[3]Yes.[4]She said that she got it when she entered[5]university in Japan, and brought it over.[6]Then she gave it to me when I was 17.[7]When you were 17?[8]Yes, before you were born.[9]Please, take a look through the eyepiece.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾……[1]这个万花筒是沙夜子给我的。[2]真的？[3]是的。[4]她说这个万花筒从她进入大学[5]开始一直陪伴着她。[6]在我十七岁的那年，她把这个给了我。[7]你十七岁的时候？[8]对，在你出生之前。[9]请从目镜里看看。[10]</Translation>
   </Sentence>
   <Sentence id="307">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="308">
     <Commands>
@@ -3957,8 +3925,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCQAJAUlPUDAwMAAAAAoaCQAARgMBAAAKAA==</Command>
     </Commands>
     <Original>[0]It's so pretty...[1]It is lovely, is it not?[2]Sayoko said that her mother gave her that[3]kaleidoscope.[4]And she told me that no matter how lonely she[5]felt, looking at that made her warm inside.[6]That's really nice... I could look at this for hours.[7]When I met you, I instantly thought of this[8]kaleidoscope.[9]Please, you should have this.[10]For real? Are you sure?[11]Yes, I insist.[12]Thanks, Ryan. This means a lot.[13]Oh, the phone.[14]Excuse me for one second.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真是太……[1]很美吧？[2]沙夜子说这个万花筒是她的母亲[3]交给她的。[4]他还告诉我不论多孤单的时候，[5]只要看看这个就会感到温暖。[6]确实很美……我可以盯着看几个小时。[7]见到你的时候，我立刻就想起了这个[8]万花筒。[9]请收好吧。[10]当真？你确定吗？[11]是的，我是认真的。[12]谢谢你，莱恩。这个万花筒对于我来说很有意义。[13]哦，电话。[14]失陪一下。[15]</Translation>
   </Sentence>
   <Sentence id="309">
     <Commands>
@@ -3976,8 +3943,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQ19NMDMwX0QAQkdNAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGg4BAAtlAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Ryan Gray speaking.[1]Yes.[2]Yes.[3]Understood.[4]I shall go directly.[5]I'm sorry, Ashley.[6]I apologise for the abruptness of this, but I[7]must return to the lab right away.[8]I have to leave right now, so do you mind going[9]home?[10]No problem, I understand.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我是莱恩·格雷。[1]嗯。[2]是的。[3]明白了。[4]我直接过去。[5]抱歉，阿修蕾。[6]我很抱歉，事情来得太突然，我得[7]立刻赶回实验室了。[8]我现在就要出门了，你也回家[9]好吗？10]好的，我明白了。[11]</Translation>
   </Sentence>
   <Sentence id="310">
     <Commands>
@@ -3987,8 +3953,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I use this?[1]Take another look at it.[2]Okay...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]到底要怎么用？[1]再看看。[2]好的……[3]</Translation>
   </Sentence>
   <Sentence id="311">
     <Commands>
@@ -3997,8 +3962,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Can I take another look?[1]Of course.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我能再看看吗？[1]当然。[2]</Translation>
   </Sentence>
   <Sentence id="312">
     <Commands>
@@ -4006,8 +3970,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going, Ashley?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪，阿修蕾？[1]</Translation>
   </Sentence>
   <Sentence id="313">
     <Commands>
@@ -4017,8 +3980,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AAkACQFJT1AwMDEAAAAKGgYAAAwAChoOAQALNgEAAFABAAAAChoOAQALAAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]I'll go back to the lab now.[1]See you again, Ashley.[2]See you![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要回实验室了。[1]再见，阿修蕾。[2]再见！[3]</Translation>
   </Sentence>
   <Sentence id="314">
     <Commands>
@@ -4027,8 +3989,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQ19NMDMwX0QAQkdNAQoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]I don't know what it is about Ryan...[1]How does he know so much about Mom?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不太了解莱恩……[1]他怎么知道这么多妈妈的事情？[2]</Translation>
   </Sentence>
   <Sentence id="315">
     <Commands>
@@ -4039,8 +4000,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an[1] intercom[2] by the door.[3]Oh yeah, Ryan went back to the lab.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门旁有一部[1] 对讲机[2]。[3]哦，对了。莱恩回实验室了。[4]</Translation>
   </Sentence>
   <Sentence id="316">
     <Commands>
@@ -4072,8 +4032,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AZFkAAoA</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]Huh?[2]I knew it was you, Ash.[3]What're you doing out here in the middle of[4]nowhere?[5]Oh, Janet![6]You're kidding, Janet. You know Ashley?[7]Yeah! We're in the same class.[8]She's your classmate? No way![9]I'm totally surprised! I had no idea you were[10]Elizabeth's cousin, Janet.[11]For sure! I totally didn't expect to see you out[12]here either![13]So how come you're here?[14]I always spend the last weekend of summer with[15]Liz.[16]Oh, right...[17]I'm staying in my dad's cottage here.[18]Her dad works for my dad at JC Valley.[19]Oh, wow.[20]Hey, Ash, the band contest's coming up.[21]I take it coming out here means you're [22]all set[23]to hit the stage[24]?[25]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，小蕾！[1]嗯？[2]我就知道是你。[3]你在这种前不着村后不着店的地方[4]干什么？[5]哦，珍妮特！[6]开玩笑的吧，珍妮特。你认识阿修蕾？[7]当然！我们是同班同学。[8]她是你的同学？不可能！[9]我太吃惊了！没想到你就是[10]伊丽莎白的表妹，珍妮特。[11]我也是！完全没想到能在这[12]见到你！[13]你怎么会来这儿的？[14]每年夏天的最后一个周末我都会来找[15]伊丽莎白玩。[16]哦，这样啊……[17]我现在住在我爸爸的小屋。[18]他的爸爸在JC山谷为我爸爸工作。[19]哦，喔。[20]对了，小蕾，乐队比赛的日子就要到了。[21]你在这里度假就表示[22]你们已经准备好[23]舞台秀[24]了？[25]</Translation>
   </Sentence>
   <Sentence id="317">
     <Commands>
@@ -4091,16 +4050,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Actually, Dad's invitation came out of nowhere.[1]So I haven't been able to practise as much as[2]I wanted to.[3]Ahh... Well, hope it's okay.[4]Wait, Ashley...you're in a band?[5]Yeah, I am.[6]We're entering the same contest as you guys.[7]Seriously?[8]The same contest as us?[9]Yep.[10]What a shocker.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]实际上，我爸爸突然就邀请我来这里。[1]我还没有完成到预期的[2]练习计划。[3]啊……总之，希望一切顺利。[4]等一下，阿修蕾……你也参加了乐队？[5]没错，参加了。[6]我们也会和你们参加同一个比赛。[7]真的？[8]参加同一个比赛？[9]对。[10]真让我吃惊。[11]</Translation>
   </Sentence>
   <Sentence id="318">
     <Commands>
       <Command>GgUAADMKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="319">
     <Commands>
