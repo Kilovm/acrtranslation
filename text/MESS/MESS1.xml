@@ -1598,7 +1598,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDAAACBEAbQAAAAAKGgwAAAgFAHMAAAAACgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Yeah?[2]Actually, if you don't mind...[3]Kinda in the middle of something.[4]</Original>
-    <Translation>[0]嘿……[1]嗯？[2]其实，如果你不介意……[3]你看起来正在为什么事情烦心啊[4]</Translation>
+    <Translation>[0]嘿……[1]嗯？[2]其实，真对不起……[3]我们现在正忙着呢[4]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
@@ -1611,7 +1611,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDAAACBEAbQAAAAAKGgwAAAgFAHMAAAAACgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Hmm?[2]Oh, excuse you.[3]Can't you see I'm in the middle of a[4]conversation?[5]Some people, no manners at all...[6]</Original>
-    <Translation>[0]嘿……[1]嗯？[2]噢，真对不起[3]你没看见我们[4]正在说话么？[5]有些人啊，真是没礼貌……[6]</Translation>
+    <Translation>[0]嘿……[1]嗯？[2]噢，真对不起[3]你没看见我们[4]正在说话么？[5]你可真没礼貌……[6]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1624,7 +1624,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Dan?[1]Roger that. Over.[2]No sign of him. All clear here. Over.[3]Sorry, Ashley.[4]Just gimme a sec...[5]Sure, sorry.[6]</Original>
-    <Translation>[0]丹？[1]收到，完毕[2]没有情况， 周围安全，完毕[3]对不起，阿修蕾[4]等我几秒钟……[5]当然，抱歉[6]</Translation>
+    <Translation>[0]丹？[1]收到，完毕[2]没有情况， 周围安全，完毕[3]对不起，阿修蕾[4]等我一会好么……[5]当然，抱歉[6]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1711,7 +1711,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I haven't seen my dad in six months.[1]He's a scientist studying memory.[2]He works here at Lake Juliet, in a lab called[3]JC Valley that specialises in memory research.[4]When he left to work here a year ago, he[5]told me:[6]"I'll be back at weekends, I promise."[7]And he was. For a while.[8]But after that...[9]Ashley, your father called today.[10]He said he's sorry, but he can't make it back[11]this weekend.[12]Come on, Ashley, don't look like that.[13]You know how busy he is with his work.[14]And you know as well as I do that he hasn't[15]forgotten you.[16]Sorry, Jessica, but you're wrong.[17]I know Dad cares about his research much[18]more than me.[19]There's nothing special about this camping[20]trip.[21]He just wants to make up for never coming[22]home.[23]Ashley![24]Huh?[25]</Original>
-    <Translation>[0]我已经六个月没有见到我爸爸了[1]他是一个研究记忆学的科学家[2]他在朱丽叶湖这里工作， 在这个[3]叫做JC山谷科技公司的地方专门从事记忆研究[4]一年前他离开家来这里工作前，[5]他对我说：[6]“周末我一定会来，我保证。”7]And he was. For a while.[8]But after that...[9]Ashley, your father called today.[10]He said he's sorry, but he can't make it back[11]this weekend.[12]Come on, Ashley, don't look like that.[13]You know how busy he is with his work.[14]And you know as well as I do that he hasn't[15]forgotten you.[16]Sorry, Jessica, but you're wrong.[17]I know Dad cares about his research much[18]more than me.[19]There's nothing special about this camping[20]trip.[21]He just wants to make up for never coming[22]home.[23]Ashley![24]Huh?[25]</Translation>
+    <Translation>[0]我已经六个月没有见到我爸爸了[1]他是一个研究记忆学的科学家[2]他在朱丽叶湖这里工作， 在这个[3]叫做JC山谷科技公司的地方专门从事记忆研究[4]一年前他离开家来这里工作前，[5]他对我说：[6]“周末我一定会来，我保证。”[7]And he was. For a while.[8]But after that...[9]Ashley, your father called today.[10]He said he's sorry, but he can't make it back[11]this weekend.[12]Come on, Ashley, don't look like that.[13]You know how busy he is with his work.[14]And you know as well as I do that he hasn't[15]forgotten you.[16]Sorry, Jessica, but you're wrong.[17]I know Dad cares about his research much[18]more than me.[19]There's nothing special about this camping[20]trip.[21]He just wants to make up for never coming[22]home.[23]Ashley![24]Huh?[25]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
