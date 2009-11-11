@@ -1167,8 +1167,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]You know, Ash, your face goes a funny shade[1]of pink when you have those blackouts.[2]Huh?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你知道吗，小蕾，每当你发痴的时候[1]你的脸好有趣哦，会有点粉红。[2]啊？[3]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1214,8 +1213,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt, I just remembered something![1]What was it?[2]The sound of the clock tower bell brought it[3]back to me![4]Mom was in front of the clock tower and[5]someone was giving her the pendant.[6]Wait, what pendant?[7]The one she gave me right before she died.[8]It's the only thing I have left of her.[9]So it's pretty special, huh?[10]Yeah... It's in the shape of a tear, and it has[11]some sort of liquid in it.[12]I usually carry it around everywhere, but I[13]let Dad borrow it for a while.[14]Right...[15]There's a message from Dad.[16]"If you don't want to wait, please go on home"?![17]What the heck? Where'd that come from?[18]What's wrong, Ash?[19]I got a weird message from Dad.[20]Weird how? What did it say?[21]He just told me to go. Totally out of the blue.[22]Go where?[23]Home.[24]What, back to his cottage?[25]No, back to my real home, to Jessica.[26]Ash, that really is weird. I didn't think your[27]dad would say something like that.[28]Yeah, it's not like him at all.[29]Hmm...[30]Anyway, I almost forgot.[31]Dan said your dad's old office is near JC Valley.[32]Really?[33]Yeah. Let's go to the office.[34]Then we can go check out JC Valley.[35]Sounds like a plan.[36]Yeah, I wanna ask Dad what he was thinking,[37]sending me that message.[38]Right.[39]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修， 我想起来了！[1]什么？[2]由于钟楼的钟声[3]我想起来的！[4]以前有人给了妈妈那个垂饰[5]就在那钟楼前面。[6]等等，什么垂饰啊？[7]就是我妈妈临终前给我的。[8]这是她留给我的唯一遗物。[9]所以比较特别，是吧？[10]是的...它的形状似是泪滴，[11]而且里边还有一些液体。[12]我一般去哪都带着它，[13]就只有爸爸借过。[14]原来是这样...[15]这里还有一条爸爸的留言呢。[16]“如果你不想等了，那就回家吧？！”[17]我晕啊，那留言哪来的啊？[18]怎么了，小蕾？[19]我收到了一条爸爸留下来的很古怪的留言。[20]有多古怪啊？说什么了？[21]他就只是叫我走。完全出乎意料。[22]去哪？[23]回家。[24]什么，回他的小屋？[25]不是，会真正的家，回到杰西卡那。[26]小蕾，那真的很古怪。[27]我想你爸爸不会对你说那样的话。[28]是啊，这完全不像他。[29]嗯...[30]不管怎样，我都快忘了。[31]丹说过你爸爸以前的办公室就在JA山谷。[32]真的？[33]是真的，我们去看看吧。[34]那么我们去查看一下JA山谷吧。[35]听起来貌似有谱了。[36]是啊，我想问问老爸留给我那种留言，[37]到底是啥意思。[38]好的。[39]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1246,8 +1244,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Elizabeth...[2]I heard a bell ringing.[3]You heard it, right?[4]Yeah, of course we did.[5]It wasn't what I think it was, was it?[6]The clock tower bell? Yeah.[7]I knew it...[8]Huh?[9]What, you've heard the clock tower bell before?[10]Yeah.[11]When Mom and Dad first brought me here...[12]When they were still together,[13]the clock was still going.[14]I wonder who made [15]the clock start again?[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]伊丽莎白...[2]我听到钟声了。[3]你也听到了吧？[4]是的，我们当然听到了。[5]原来我想错了，对吧？[6]那口钟楼里的大钟？是的。[7]我了解...[8]啊？[9]什么，你去以前听到过？[10]是的。[11]那是我爸爸妈妈第一次带我来这的时候...[12]那时他们还没分开，[13]那个大钟还在走呢。[14]我比较好奇[15]是谁让这个大钟再转起来的？[16]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1264,8 +1261,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dunno[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道[1]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1276,8 +1272,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I did.[1]Ashley, please, do you think I was born[2]yesterday?[3]You're lying, I know you are.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我干的。[1]阿修蕾，拜托，[2]你以为我白痴吗？[3]你在撒谎，我就知道。[4]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1286,8 +1281,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I dunno.[1]Thought so.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不知道。[1]想想也是。[2]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
