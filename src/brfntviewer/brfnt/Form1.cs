@@ -142,5 +142,18 @@ namespace brfnt
 				buf.Save(sfd.FileName);
 			}
 		}
+
+        private void toolStripMenuItem5_Click(object sender, EventArgs e)
+        {
+            Form2 f2 = new Form2();
+
+            if (f2.ShowDialog(this) == DialogResult.OK)
+            {
+                ii = f2.ImageWidth;
+                RefreshCanvas();
+
+                toolStripMenuItem5.Text = ii.ToString()+"...";
+            }
+        }
 	}
 }
