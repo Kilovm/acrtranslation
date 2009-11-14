@@ -2924,7 +2924,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So this is where you were hiding.[1]Ah, hey Ash.[2]What're you doing? There are books all over[3]the place...[4]I was reading them.[5]What, all of them?[6]Ash, you don't understand, your dad has loads[7]of really cool books![8]Interesting books? On my dad's bookcase? Are[9]you sick?[10]I'm pretty sure he's never read an interesting[11]book in his life.[12]No way![13]Your dad's books are pretty difficult, but the[14]stuff in them's really interesting![15]I think you're crazy.[16]</Original>
-    <Translation>[0]原来你躲在这儿。[1]啊，嗨，小蕾。[2]你在干嘛？散了一地的[3]书……[4]我正在读啊。[5]什么，所有这些？[6]小蕾，你不明白，你爸爸有这么一堆[7]很棒的书！[8]书架上的这些书有意思？你不是[9]发晕了吧？[10]我确定他这一辈子就没有看过[11]什么有意思的书。[12]不是的！[13]你爸爸的书很难懂，但是内容[14]很有趣！[15]我想你是疯了。[16]</Translation>
+    <Translation>[0]你原来在这儿。[1]啊，嗨，小蕾。[2]你在干嘛？散了一地的[3]书……[4]我正在读啊。[5]什么，所有这些？[6]小蕾，你不明白，你爸爸有这么一堆[7]很棒的书！[8]书架上的这些书有意思？你不是[9]发晕了吧？[10]我确定他这一辈子就没有看过[11]什么有意思的书。[12]不是的！[13]你爸爸的书很难懂，但是内容[14]很有趣！[15]我看你是疯了。[16]</Translation>
   </Sentence>
   <Sentence id="228">
     <Commands>
@@ -3179,7 +3179,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAuKAQQAAgEAAAAKGgYAAAwAChoNAAAVBAAAAAEAAAAKGgwAAAgEAJoBAAAAChoGAAAMAAoaBgAADAAKGgcAAAMF3AoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]All right, let's get these tidied up.[1]Only a few more now...[2]Okay.[3]</Original>
-    <Translation>[0]好啦，咱们来把这些整理一下吧。[1]只要再多来一点……[2]好啦。[3]</Translation>
+    <Translation>[0]好啦，咱们来把这些整理一下吧。[1]就剩一点了……[2]好啦。[3]</Translation>
   </Sentence>
   <Sentence id="250">
     <Commands>
@@ -3212,7 +3212,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Someone's at the door...shouldn't you go [1]answer it?[2]It might be Dan, so I'll stay up here.[3]</Original>
-    <Translation>[0]有人在按门铃……你不去 [1]开门吗？[2]可能是丹来了，我就呆在这。[3]</Translation>
+    <Translation>[0]有人在按门铃……你不去 [1]开门吗？[2]可能是丹来了，我就留在这。[3]</Translation>
   </Sentence>
   <Sentence id="253">
     <Commands>
@@ -3236,8 +3236,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAaQE6CgA=</Command>
     </Commands>
     <Original>[0]What was he doing with these?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他看这些干什么？[1]</Translation>
   </Sentence>
   <Sentence id="256">
     <Commands>
@@ -3381,7 +3380,7 @@
       <Command>ChoFAAABChoSAAAYQ19SMDEwX0QAQkdNAQoaEgAAGENfUjAxMV9EAEJHTQEKGhIAABhDX1IwMTJfRABCR00BChoSAAAYQ19SMDEzX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]Who's there?[1]It's me, Ryan.[2]Oh, come on in.[3]Hi, Ryan...[4]Good afternoon, Ashley.[5]Is Dr Robins at home?[6]No, he got a call and had to go back to the lab.[7]I thought he had come back from there... Did he[8]go again?[9]Yeah, there was some sort of security system[10]trouble there, apparently.[11]Security system trouble? I see...[12]A scientist's work never ends.[13]Did you want Dad for something?[14]Yes.[15]But it can wait, there's no rush.[16]Oh, okay then.[17]So are you on your own here?[18]No, I've got a friend here with me.[19]A friend? Who?[20]His name's Matt Crusoe.[21]Crusoe? I've heard that name before...[22]Actually, do you know about Crusoe Resort?[23]Yes, indeed.[24]The resort company that shut down five years[25]ago, correct?[26]Yeah, Matt's dad ran the company.[27]Intriguing...[28]Tell me, Ashley, how exactly do you know this[29]person?[30]We met when I was looking for my bag.[31]Ashley, I don't want to sound malicious...[32]But it's not a good idea to be friends with that[33]boy.[34]Huh?[35]Why wouldn't it be?[36]Well...[37]Matt is connected to Crusoe Resort.[38]And anyone connected to JC Valley, as you are[39]through your father,[40]should not become friendly with those people[41]connected to Crusoe Resort.[42]Why?[43]There is a very good reason, but I'd rather not[44]explain it here.[45]What? Why?[46]It is something I'd prefer your friend Matt did[47]not hear.[48]</Original>
-    <Translation>[0]是谁啊？[1]是我，莱恩。[2]哦，请进吧。[3]嗨，莱恩……[4]下午好，阿修蕾。[5]罗宾斯博士在家吗？[6]不在，他接到一个电话然后就赶回实验室了。[7]我以为他已经回来过了……是不是又[8]出去了？[9]是的，安全系统好像出了[10]什么问题。[11]安全系统有问题？我明白了……[12]科学家的工作可是永无止境。[13]你在等着和你爸爸谈事情？[14]是。[15]不过可以等等再说，不是什么急事。[16]哦，那好吧。[17]这么说这里只有你一个人了？[18]不，有一个朋友也在这儿。[19]朋友？谁啊？[20]他叫马修·克鲁索。[21]克鲁索？我以前听说过这个名字……[22]实际上，你知道克鲁索度假村吗？[23]啊，的确知道。[24]五年前倒闭的度假村[25]公司，是吧？[26]对，那就是马修爸爸的公司。[27]有意思……[28]给我说说，阿修蕾，你对这个马修到底了解[29]多少？[30]我是在找包的时候遇到他的。[31]阿修蕾，我不想说他的坏话……[32]不过和那个男孩交朋友可不是[33]好事。[34]啊？[35]为什么？[36]这么说吧……[37]马修和克鲁索度假村有关联。[38]而和JC山谷有关系的人，比如你由于[39]你父亲的缘故，[40]不要和那些与克鲁索度假村的[41]人太友好。[42]为什么？[43]是有理由的，不过我不想在这[44]解释。[45]什么？为什么？[46]因为我不想让你的朋友马修[47]听到。[48]</Translation>
+    <Translation>[0]是谁啊？[1]是我，莱恩。[2]哦，请进吧。[3]嗨，莱恩……[4]下午好，阿修蕾。[5]罗宾斯博士在家吗？[6]不在，他接到一个电话然后就赶回实验室了。[7]我以为他已经回来过了……是不是又[8]出去了？[9]是的，安全系统好像出了[10]什么问题。[11]安全系统有问题？我明白了……[12]科学家的工作可是永无止境。[13]你找我爸爸有事？[14]是的。[15]不过可以等等再说，不是什么急事。[16]哦，那好吧。[17]这么说这里只有你一个人了？[18]不，有一个朋友也在这儿。[19]朋友？谁啊？[20]他叫马修·克鲁索。[21]克鲁索？我以前听说过这个名字……[22]实际上，你知道克鲁索度假村吗？[23]啊，的确知道。[24]五年前倒闭的度假村[25]公司，是吧？[26]对，那就是马修爸爸的公司。[27]有意思……[28]给我说说，阿修蕾，你对这个马修到底了解[29]多少？[30]我是在找包的时候遇到他的。[31]阿修蕾，我不想说他的坏话……[32]不过和那个男孩交朋友可不是[33]好事。[34]啊？[35]为什么？[36]这么说吧……[37]马修和克鲁索度假村有关联。[38]而和JC山谷有关系的人，比如你由于[39]你父亲的缘故，[40]不要和那些与克鲁索度假村的[41]人太友好。[42]为什么？[43]是有理由的，不过我不想在这[44]解释。[45]什么？为什么？[46]因为我不想让你的朋友马修[47]听到。[48]</Translation>
   </Sentence>
   <Sentence id="267">
     <Commands>
@@ -3497,7 +3496,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A cold voice?[1]I hate how he speaks.[2]I heard him from upstairs. He doesn't sound[3]nice at all. Sounds too cold.[4]No, Matt...[5]Ryan's a top-class scientist.[6]They're always calm like that.[7]But Ash, your dad doesn't talk like that.[8]And isn't he a top-level scientist too?[9]My dad's an exception.[10]I'll bet there aren't many scientists like him.[11]Mm-hmm...[12]</Original>
-    <Translation>[0]声音冷漠？[1]我讨厌他说话的方式。[2]我在楼上听到了他的声音。一点都不[3]好听。感觉很冷。[4]不是的，马修……[5]莱恩是一流的科学家。[6]他们这种人总是那样冷静。[7]可是 小蕾，你爸爸就不像他那样说话……[8]他不也是个一流科学家吗？[9]我爸爸是个例外。[10]我敢说世界上没有多少像他那样的科学家。[11]嗯唔……[12]</Translation>
+    <Translation>[0]声音冷漠？[1]我讨厌他说话的方式。[2]我在楼上听到了他的声音。一点都不[3]好听。感觉很阴森。[4]不是的，马修……[5]莱恩是一流的科学家。[6]他们这种人总是那样冷静。[7]可是 小蕾，你爸爸就不像他那样说话……[8]他不也是个一流科学家吗？[9]我爸爸是个例外。[10]我敢说世界上没有多少像他那样的科学家。[11]嗯唔……[12]</Translation>
   </Sentence>
   <Sentence id="275">
     <Commands>
