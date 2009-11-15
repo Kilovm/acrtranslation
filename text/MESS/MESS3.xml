@@ -2804,7 +2804,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABSAQAAAAoA</Command>
     </Commands>
     <Original>[0]The TAS is responding again...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Original>
-    <Translation>[0]TAS...[1]The sound came from this.[2]That's the secret thing you showed me back[3]at the boathouse, right?[4]Yeah, it's called a TAS.[5]A TAS?[6]It's a device my mom invented.[7]Ah yeah, your mom was a scientist, right?[8]She made that?[9]Yeah.[10]And I think I can use it to unlock this gate...[11]Just like in the TV show![12]Come on then, open the gate![13]I want to, but...[14]You can't use it?[15]I promised Dad I wouldn't show it to anyone.[16]So it's like, totally a secret, isn't it?[17]Can you keep it secret?[18]No problem. I won't say a word to anyone.[19]Thanks, Matt.[20]</Translation>
+    <Translation>[0]TAS又有答复了……[1]声音是从这里发出来的。[2]就是你在船屋偷偷使用的[3]神秘的东西？[4]正是，它名叫TAS。[5]TAS？[6]它是我妈妈发明的一种装置。[7]对了，你妈妈以前是个科学家，对吧？[8]是她制作的？[9]是的。[10]我想我能用它打开这扇门……[11]就好像电视里演的那样！[12]来吧，快开门吧！[13]我也想，但是……[14]你不能使用它？[15]我向爸爸保证过不能给任何人看。[16]所以它就像，一个天大的秘密，是吗？[17]你能保密吗？[18]没问题。我绝不会跟任何人提起的。[19]谢了，马修。[20]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
@@ -2831,8 +2831,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAABSAQAAAAoA</Command>
     </Commands>
     <Original>[0]The TAS is responding again...[1]The sound came from this.[2]What's that, Ash?[3]It's a TAS.[4]TAS?[5]It's a device Mom developed.[6]Ah yeah, your mom was a scientist, right?[7]She made that?[8]Yeah.[9]And I think I can use it to unlock this gate...[10]Really?[11]Matt, promise me something.[12]Yeah?[13]Promise you won't tell anyone else about this.[14]It's a secret.[15]A secret?[16]Yeah. A secret device only I can use.[17]Gotcha, Ash.[18]I promise I won't tell anyone about it.[19]Thanks, Matt.[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]TAS又有答复了……[1]声音是从这里发出来的。[2]小蕾，那是什么？[3]是TAS。[4]TAS？[5]它是我妈妈发明的装置。[6]对了，你妈妈以前是个科学家，对吧？[7]是她制作的？[8]是的。[9]我想我能用它打开这扇门……[10]真的？[11]马修，你得向我保证。[12]嗯？[13]保证你不会跟别人提到TAS。[14]这是个秘密。[15]一个秘密？[16]是的。它是仅仅供我使用的秘密装置。[17]我明白了，小蕾。[18]我保证不会跟任何人提起。[19]谢了，马修。[20]</Translation>
   </Sentence>
   <Sentence id="210">
     <Commands>
@@ -2841,8 +2840,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the TAS...[1]Let's get this gate open![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我要使用TAS了……[1]让我们打开这扇门吧！[2]</Translation>
   </Sentence>
   <Sentence id="211">
     <Commands>
