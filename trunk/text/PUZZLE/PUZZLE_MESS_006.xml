@@ -13,8 +13,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey! The cover moved...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯！盖子动了……[1]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -22,8 +21,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who is it?![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是谁？！[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
