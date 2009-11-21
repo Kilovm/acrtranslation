@@ -2867,8 +2867,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That was the unlocking sound...[1]It opened![2]Nice, Ash![3]Thanks.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是开锁的声音……[1]门打开了！[2]干得好，小蕾！[3]多谢夸奖。[4]</Translation>
   </Sentence>
   <Sentence id="214">
     <Commands>
@@ -2876,8 +2875,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么做？[1]</Translation>
   </Sentence>
   <Sentence id="215">
     <Commands>
@@ -2885,8 +2883,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再来一次！[1]</Translation>
   </Sentence>
   <Sentence id="216">
     <Commands>
@@ -2895,8 +2892,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I can't use this in front of Matt.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我不能当着马修的面使用。[2]</Translation>
   </Sentence>
   <Sentence id="217">
     <Commands>
@@ -2913,8 +2909,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAAByAAAAAAAKGgwAAAgAAHIAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Dad's cottage is the first one after the[1]covered bridge...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸的小屋是它之后的第一间，[1]即廊桥……[2]</Translation>
   </Sentence>
   <Sentence id="219">
     <Commands>
@@ -2930,8 +2925,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQ19SMDEwX0QAQkdNAAoA</Command>
     </Commands>
     <Original>[0]There is an [1]intercom [2]on the door.[3]Who is it?[4]It's me, Dad![5]Ashley![6]I'll open the door right away.[7]Okay, come in![8]Okay.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个 [1]对讲机 [2]在门上。[3]请问是谁？[4]是我，爸爸！[5]阿修蕾！[6]我马上开门。[7]好了，进来吧！[8]好的。[9]</Translation>
   </Sentence>
   <Sentence id="220">
     <Commands>
@@ -2940,8 +2934,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's already open.[1]I should head in.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门已打开。[1]我应该进去。[2]</Translation>
   </Sentence>
   <Sentence id="221">
     <Commands>
@@ -2958,8 +2951,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad's waiting.[1]I should head in.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸还在等着。[1]我该进去了。[2]</Translation>
   </Sentence>
   <Sentence id="223">
     <Commands>
@@ -2971,8 +2963,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sorry I took so long, Dad![1]No problem, Ashley.[2]Oh yeah...[3]I brought your bag for you.[4]Thanks.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，我很抱歉耽误了这么久！[1]没事的，阿修蕾。[2]噢 对了……[3]我把你的包带来了。[4]谢啦。[5]</Translation>
   </Sentence>
   <Sentence id="224">
     <Commands>
@@ -2983,8 +2974,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I brought your hat too, you left it at the[1]campsite.[2]Ah, thanks Ashley, I was wondering where[3]I'd left it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我也把你的帽子带来了，你把它丢在[1]营地了。[2]啊，谢谢你阿修蕾，我还在想它[3]被我放哪儿了呢。[4]</Translation>
   </Sentence>
   <Sentence id="225">
     <Commands>
@@ -3057,8 +3047,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBBAAJAU5QQzAwNAAAAAoA</Command>
     </Commands>
     <Original>[0]Hello...[1]Oh, Matt, nice to see you.[2]I'd like to apologise for before.[3]I think I went a bit over the top...[4]It's okay, don't worry about it.[5]That's good. So all is forgiven?[6]Yeah.[7]By the way, Matt... Do you live around here?[8]Nope...[9]My house is really far away.[10]So you're here camping with someone?[11]No, I came here on my own.[12]On your own?[13]Yeah...[14]I ran away from home.[15]You what?![16]No, no, it's okay.[17]Ash knows I ran away.[18]But why would you run away?[19]I'm looking for my dad.[20]Looking for your dad?[21]Yeah.[22]He disappeared five years ago, here at Lake[23]Juliet.[24]Disappeared?[25]Yeah.[26]So I came here to find clues about what[27]happened to him.[28]But my uncle reported me missing.[29]Oh, so you have family?[30]Yeah, my dad's brother.[31]I live with him, but he refuses to look for my[32]dad.[33]So I ran away to find him myself.[34]I understand why you did it, but...[35]But it's really not good to run away, Matthew.[36]You could tell your uncle the whole story and[37]look for your dad together...[38]Ash told me that too.[39]And Dan the Ranger's out looking for me too...[40]But if I go home, I'll be shipped off to school in[41]England...[42]Then I won't be able to come back for years and[43]years.[44]I see...[45]Yeah, so...[46]I made a promise to Ashley.[47]I'll spend today, and only today, searching for[48]clues about my dad. Then, if I don't find[49]anything, I'll go home. And Ash said she won't[50]tell Dan about me today.[51]So she's helping me find him.[52]I understand, Matt.[53]Thanks for telling me your story.[54]No problem.[55]But this is a fine mess...[56]What should a father do in this situation?[57]...?[58]Ah, yes. I know just the thing. Tell me Matt,[59]do you like Cool Pop?[60]Yeah![61]I love it![62]Fantastic.[63]Well, I have some in the fridge, so why don't[64]you go and help yourself?[65]Okay![66]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]您好……[1]哦，马修，你好。[2]我要为之前的事情道歉。[3]我想我有点过分了……[4]没事的，别太在意了。[5]那就好。你真的不介意了？[6]真的。[7]对了，马修……你住这附近吗？[8]不是……[9]我的家离这儿很远。[10]那么你是和别人一块儿来露营的咯？[11]不，我一个人来的。[12]就你一人？[13]嗯……[14]我离家出走的。[15]什么？！[16]不，不，没事的。[17]小蕾知道我离家。[18]但是你为什么要跑出来呢？[19]我在找我爸爸。[20]找你的爸爸？[21]是的。[22]五年前他失踪了，就在这儿[23]朱丽叶湖。[24]失踪了？[25]嗯。[26]所以我来这里寻找线索，当年他究竟[27]遇到了什么事。[28]但是我叔叔却对外说我不见了。[29]噢，就是说你还有亲戚？[30]是的，我爸爸的弟兄。[31]我跟他住，但是他拒绝寻找我的[32]爸爸。[33]所以我就独自跑出来了。[34]我能理解你的行为，不过……[35]不过私自离家确实不对，马修。[36]你可以把事情全部告诉你叔叔，然后[37]你们一同去找你爸爸……[38]小蕾也这样跟我说。[39]而且丹，那个护林员也在到处找我……[40]但是一旦我回家的话，我就会被送到学校去，在[41]英国……[42]然后我就很久很久都不能再[43]回来了。[44]我明白了……[45]就是这样，所以……[46]我向阿修蕾保证过。[47]我会用今天，就今天，去找[48]关于爸爸的线索。如果我什么都没找到，[49]就会回家去的。小蕾也答应今天她不会[50]跟丹说我的事。[51]所以她在帮我找他。[52]我明白了，马修。[53]很高兴你能告诉我你的事。[54]没关系。[55]但是这事的确很麻烦……[56]一个父亲在这种情况下会怎么做呢？[57]……？[58]啊，对了。我知道了。马修，[59]你喜欢喝Cool Pop吗？[60]喜欢！[61]非常喜欢！[62]很好。[63]冰箱里正好有几罐，干嘛[64]不去好好畅饮一下呢？[65]好的！[66]</Translation>
   </Sentence>
   <Sentence id="226">
     <Commands>
@@ -3096,8 +3085,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...[1]Ashley, that was quite a story from Matt.[2]How old is he?[3]He's 13.[4]Ah, 13...[5]The same age as you when you came to Blood[6]Edward Island.[7]Yeah, it was the day before my 14th birthday.[8]Ashley, tell me one thing.[9]Did you become friends with him because he's[10]searching for his father?[11]Well, there's that...[12]But not just that.[13]He reminds me of someone.[14]Who?[15]The first real friend I ever had.[16]So I can't just ignore him.[17]Ashley, who was your first real friend?[18]Do I know them?[19]No, it's not somebody you know.[20]Someone I don't know?[21]There's so much I don't know about you,[22]Ashley...[23]Well, yeah.[24]There's a lot I don't know about you too.[25]Indeed...[26]Ashley, next time...[27]Next time? What?[28]Next time you make [29]a close friend... Could you[30]introduce me?[31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸……[1]阿修蕾，那是马修的故事。[2]他多大了？[3]13岁。[4]啊，13岁……[5]你也是13岁来的布拉德[6]爱德华岛。[7]是啊，那是我14岁生日的前一天。[8]阿修蕾，问你件事。[9]你是因为他在寻找自己的爸爸才和他[10]成为朋友的吗？[11]那个，有这个原因……[12]但并不全是。[13]他让我想起了某个人。[14]谁？[15]我曾经拥有的第一个真正的好朋友。[16]所以我没法无视他。[17]阿修蕾，谁是你的第一个真正的好朋友？[18]我认识吗？[19]不，你不认识。[20]我不认识的人？[21]你有太多我不清楚的事情了，[22]阿修蕾……[23]嗯，是啊。[24]你也有很多我不清楚的事情。[25]事实上……[26]阿修蕾，下次……[27]下次？什么？[28]下次你有了 [29]很要好的朋友……能[30]向我介绍一下吗？[31]</Translation>
   </Sentence>
   <Sentence id="227">
     <Commands>
@@ -3105,8 +3093,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dunno[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不知道[1]</Translation>
   </Sentence>
   <Sentence id="228">
     <Commands>
@@ -3114,8 +3101,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sure[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当然[1]</Translation>
   </Sentence>
   <Sentence id="229">
     <Commands>
@@ -3134,8 +3120,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I dunno...[1]You don't want to introduce me?[2]It's not that...[3]But you're always busy, right?[4]If it's to meet a friend of yours, I'll free up my[5]day for it. Definitely.[6]Really?[7]Really. Trust me.[8]Okay.[9]Then I'll definitely tell you next time I make[10]a close friend.[11]Thank you, Ashley.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不知道……[1]你不愿意向我介绍一下？[2]也不是……[3]但是你总是很忙，对吧？[4]如果是要跟的朋友见面，我会[5]腾出时间来的。肯定的。[6]真的？[7]真的。相信我。[8]好吧。[9]那下次交到知心的朋友我也肯定[10]会告诉你。[11]谢谢你，阿修蕾。[12]</Translation>
   </Sentence>
   <Sentence id="230">
     <Commands>
