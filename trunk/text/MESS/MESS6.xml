@@ -19,7 +19,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I asked Mrs Graham to let me go into the clock[1]tower.[2]I found the three keys, so she let me borrow[3]them.[4]Matt... We can look around in the clock tower[5]now.[6]Maybe we can find some answers in there.[7]</Original>
-    <Translation>[0]我向格雷厄姆太太请求让我进[1]钟楼。[2]我发现了那三把钥匙，所以她也同意我借走[3]钥匙。[4]马修...我们可以调查钟楼内部了[5]现在。[6]也许我们可以在那里找到一些答案。[7]</Translation>
+    <Translation>[0]我向格雷厄姆太太请求让我进[1]钟楼。[2]我发现了有三把钥匙，而且她同意我借走[3]钥匙。[4]马修...我们可以调查钟楼内部了[5]现在。[6]也许我们可以在那里找到一些答案。[7]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -1252,8 +1252,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I did[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是我[1]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1378,8 +1377,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AmxkAAoA</Command>
     </Commands>
     <Original>[0]One more thing. Mrs Graham is not a scary[1]old bat![2]She told me how to make medicine, she's told[3]me lots of stuff...[4]Yeah...right. Like I'd believe any of that.[5]No way will I believe she's nice.[6]She screamed at me just for getting lost and[7]ending up in her stupid garden.[8]She doesn't yell at people unless they've done[9]something.[10]I'll bet you did something, Elizabeth.[11]Oh! I did not! How dare you![12]Yeah. She did something. For sure.[13]I did not! Nothing any normal person would[14]shout about, anyway![15]I just thought her flowers were pretty, so I[16]picked two or three of them.[17]So you did do something.[18]Well, yeah.[19]But it was just a couple of flowers. She didn't[20]need to scream at me like that.[21]A bit over the top, right?[22]Not really, no.[23]She cares a lot about her flowers. They're really[24]special to her![25]What?[26]Just like you with the music box.[27]Remember how you yelled at me for that?[28]Ashley...[29]But I am sorry about that, Elizabeth.[30]I shouldn't have messed around with it before[31]asking for your permission.[32]It's okay, I've already forgotten about it.[33]The music box has a birthday card from Mom[34]in it, from when I was small.[35]It's the last letter I ever got from her, so it's[36]really important to me.[37]So I guess I'm kind of possessive about it.[38]But yeah, about earlier... [39]I'm sorry too[40].[41]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还有一件事。格雷厄姆太太不是[1]老疯子！[2]她教我如何配药，[3]她还教会我许多事...[4]耶...是啊。好像我会相信你似的。[5]我才不信她有这么好。[6]以前我不小心迷路走到她的院子[7]为这点事她居然向我大吼大叫。[8]她才不会乱骂别人，[9]除非有人做了什么。[10]我打赌你一定干了什么好事吧，伊丽莎白。[11]天啊！我没有！你竟然怀疑我！[12]哼哼，她一定干过什么事。我确定。[13]我没有！[14]反正没干过一般人会骂我的事。[15]我只是觉得她的花很漂亮，[16]就摘了一两朵而已。[17]所以你还是干了些好事。[18]对对对。[19]但那只是一些花而已。[20]她也没必要骂我啊。[21]是不是有点过头啊？[22]不会，真的。[23]她很在意她的花。[24]那些花对她来说有特殊的意义！[25]啥？[26]就如你的音乐盒对你的意义一般。[27]你还记得你怎么对待我的音乐盒么？[28]阿修蕾...[29]对此我很抱歉，伊丽莎白。[30]我不应该没得到你的同意[31]就乱动它。[32]没事，我都快忘了那事了。[33]音乐盒里有一张生日贺卡，从我小时候就放在那里的[34]是我妈妈给我的。[35]那是我我妈妈的最后一封给我的信，[36]所以那对我非常非常重要。[37]我可能在那件事上太专横了，我想。[38]但是，刚才的事... [39]还是我的错，对不起。[40].[41]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
