@@ -3304,8 +3304,7 @@
       <Command>Ggb/AAAAChoFAAABChoHAABJB9AKGgkAAEYBAQAAChoGAAAMAAoaDgEACxABAAAAAAAAAAoaCQAAMQEAAAEKGgYAAAwAChoUAQALMQABAAkBTlBDMDA3AAAAChoGAAAMAAoaBwAAAwcIChoGAAAMAAoaCQAARgIAAAAKGg4BAAsAAQAAAAAAAAAKGgYAAAwAChoOAQALigEBAAgBAAAAChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAAChoNAAAVAQAAAAAAAAAKGgwAAAgBACsAAAAAChocAAAFV1NEX1NFX0RPT1JfV09PRF9PUEVOAAAKGg4AADk7AAAAAHcAAAAKGgYAAAwAChoHAAADCcQKGgkAAEUBAMgBCgA=</Command>
     </Commands>
     <Original>[0]Ashley, I'm really sorry.[1]That was from JC Valley. I have to get back[2]right away.[3]Did something happen?[4]There's a problem with the security system.[5]The security inside JC Valley?[6]No, the system running the security cameras[7]around here.[8]Security cameras?[9]JC Valley has a number of security cameras[10]installed around here.[11]Given our work, we can't let people know where[12]JC Valley is based.[13]There's a lot of sensitive information in there.[14]So the security cameras were installed around[15]the area to make sure nobody tries to get in.[16]And if they stop working, who knows what[17]could happen.[18]That sounds pretty bad.[19]Ashley, wait here for me.[20]Okay.[21]I might be a while, but I'll definitely be back.[22]Then we can talk more about your mother. [23]How does that sound?[24]Sounds okay.[25]I'm so sorry about this. But I'll be back.[26]Oh, if you're hungry, there's a diner around here[27]that does takeout.[28]A diner?[29]Yes. It's right by the roundabout, you can't[30]miss it.[31]Tell the owner who you are, he'll put it on my[32]tab.[33]And sorry again. See you soon![34]See you...[35]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，真的很抱歉。[1]JC山谷来电。我必须马上[2]赶回去。[3]发生什么事了吗？[4]安全系统出现了问题。[5]JC山谷内部的安全？[6]不是，系统运行了这一带的[7]监控设备。[8]监控设备？[9]JC山谷在这一带安装了[10]很多监控设备。[11]鉴于我们的工作性质，我们不能让其他人知道[12]JC山谷的基地在哪里。[13]那里面有很多重要的资料。[14]所以整个区域内安装了监控系统[15]来确保没人能试图得到资料。[16]如果他们停止工作了，后果[17]不堪设想。[18]听上去太糟了。[19]阿修蕾，在这里等我。[20]好的。[21]我可能得去一会儿，但是我肯定会回来。[22]然后我们继续聊聊你妈妈。 [23]你觉得怎么？[24]听起来不错。[25]对此我真的很抱歉，但是我会回来的。[26]对了，如果你饿了的话，这附近有叫外送的[27]晚餐.[28]晚餐？[29]是的。就在交叉路口的右边，别错过了。[31]告诉老板你是谁，他会记在我[32]账单上的。[33]还是要说声对不起。一会儿见！[34]再见……[35]</Translation>
   </Sentence>
   <Sentence id="238">
     <Commands>
@@ -3324,8 +3323,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Wow, Dad really is busy.[1]I was hoping we could talk about what I[2]remembered Mom doing here.[3]I hope he comes back soon...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哇，爸爸真是忙。[1]我一直期望我们能聊聊[2]妈妈在这里的事情。[3]希望他快点回来……[4]</Translation>
   </Sentence>
   <Sentence id="240">
     <Commands>
@@ -3358,8 +3356,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey Ash, where'd your dad go?[1]He had to go back to the lab. He said they were[2]having some problems with the security system.[3]He's really busy, isn't he?[4]Yeah, and I wanted to talk to him about stuff...[5]Will he be back soon?[6]He said he'd be back as soon as he could, but[7]I'm guessing it'll be a while.[8]Yeah...[9]Hey, Ash.[10]Is there a computer in the house?[11]A computer?[12]There should be.[13]And it's connected to the internet, right?[14]I guess so.[15]Then can I use it?[16]What for?[17]To look up my dad.[18]There might be something on the internet about[19]him.[20]My uncle wouldn't let me use the computer back[21]at home...[22]Yeah, good idea.[23]I'm sure he has a computer in his room. Let's[24]give it a shot.[25]Yeah![26]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿 小蕾，你爸爸去哪儿了？[1]他不得不回实验室去。他说他们[2]的安全系统出了点问题。[3]他真的很忙，是吗？[4]是啊，我还想跟他说关于材料的事……[5]他很快回来吗？[6]他说过尽量早点赶回来，但是[7]我估计也不是一时半会的事。[8]是喔……[9]嘿，小蕾。[10]房子里有电脑吗？[11]电脑？[12]应该有吧。[13]联网的，是吧？[14]我想是的。[15]那我能借用一下吗？[16]你要做什么？[17]查找我爸爸。[18]网上应该有关于他的[19]东西。[20]我叔叔从不让我在用家里的[21]电脑……[22]哈，这个主意不错。[23]我敢肯定爸爸房间里有台电脑。[24]一起去看看。[25]太好了！[26]</Translation>
   </Sentence>
   <Sentence id="241">
     <Commands>
@@ -3367,8 +3364,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was I saying?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我刚刚说了什么？[1]</Translation>
   </Sentence>
   <Sentence id="242">
     <Commands>
@@ -3394,8 +3390,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]We're still talking, aren't we?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]我们还在谈话，不是吗？[3]</Translation>
   </Sentence>
   <Sentence id="245">
     <Commands>
@@ -3403,8 +3398,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We're still talking, Ashley.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们一直在谈话，阿修蕾。[1]</Translation>
   </Sentence>
   <Sentence id="246">
     <Commands>
@@ -3416,8 +3410,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGg4BAAuKAQQA5gEAAAAKGgYAAAwAChoUAQALNQEEAAkBTlBDMDAzAAAAChoGAAAMAAoaDgEACzYBBAEEAQAAAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUEAAAAAAAAAAoaDAAACAQAqwAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]This must be Dad's room.[1]Oh, there's a computer![2]Yeah![3]Let's use it then.[4]Right![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这应该就是爸爸的房间了。[1]喔，有电脑！[2]耶！[3]开机。[4]太好了！[5]</Translation>
   </Sentence>
   <Sentence id="247">
     <Commands>
@@ -3429,8 +3422,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer[2] on the table.[3]So, Dad has a laptop...[4]Well, we'll just borrow it for a bit.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有台 [1]电脑[2] 在桌上。[3]爸爸有台笔记本电脑……[4]好吧，我们就借用一下下。[5]</Translation>
   </Sentence>
   <Sentence id="248">
     <Commands>
@@ -3454,8 +3446,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't use it without the DAS...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没有DAS我没法使用电脑……[1]</Translation>
   </Sentence>
   <Sentence id="251">
     <Commands>
@@ -3482,8 +3473,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's a slot on the side of the computer.[1]Maybe I should put the DAS in?[2]Now it should work.[3]Let's look up Matt's dad![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]笔记本一边有个狭缝。[1]也许我应该把DAS插进去？[2]现在它能启动了。[3]让我们来找找马修的爸爸！[4]</Translation>
   </Sentence>
   <Sentence id="254">
     <Commands>
@@ -3507,8 +3497,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's look up Matt's dad![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]让我们来找找马修的爸爸！[1]</Translation>
   </Sentence>
   <Sentence id="257">
     <Commands>
@@ -3528,8 +3517,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Your dad's company was called Crusoe Resort,[1]right?[2]They have a website, but it hasn't been updated[3]in five years.[4]Well, my dad disappeared then so the company[5]must've fallen apart.[6]That's what it looks like.[7]Do you remember anything about his company?[8]Not really.[9]I guess you were pretty young then...[10]Looks like there aren't many clues about your[11]dad on the internet...[12]Yeah...[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你爸爸的公司叫克鲁索度假村，[1]是吗？[2]他们拥有一个网站，但是没有更新已经[3]五年了。[4]嗯，我爸爸失踪之后公司就[5]解散了。[6]看来是这样。[7]你还记得有关他公司的事情吗？[8]不清楚.[9]我猜你那时还太小了……[10]看来网上也没多少跟你爸爸有关的[11]线索……[12]是啊……[13]</Translation>
   </Sentence>
   <Sentence id="258">
     <Commands>
