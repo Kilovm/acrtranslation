@@ -437,7 +437,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Ar5kAAoA</Command>
     </Commands>
     <Original>[0]So this is their meeting room...[1]Ashley.[2]Please wait in here. I'll go and get your father.[3]I'll be right back.[4]Wait![5]What is it?[6]Did you sort out the problem with the security[7]system?[8]What problem with the security system?[9]When Dad left, he said there was some sort of[10]problem at the lab.[11]I was just thinking, if it got sorted out then[12]maybe Dad can go home with me.[13]Ashley, I don't know what you're talking about.[14]There [15]haven't been any problems[16] here.[17]But Dad got a call saying there was a problem[18]with the security system, and he left for the lab.[19]And he said it was you on the phone...[20]Me?[21]Ashley,[22] I didn't call Dr Robins[23] [24]today.[25]</Original>
-    <Translation>[0]So this is their meeting room...[1]Ashley.[2]Please wait in here. I'll go and get your father.[3]I'll be right back.[4]Wait![5]What is it?[6]Did you sort out the problem with the security[7]system?[8]What problem with the security system?[9]When Dad left, he said there was some sort of[10]problem at the lab.[11]I was just thinking, if it got sorted out then[12]maybe Dad can go home with me.[13]Ashley, I don't know what you're talking about.[14]There [15]haven't been any problems[16] here.[17]But Dad got a call saying there was a problem[18]with the security system, and he left for the lab.[19]And he said it was you on the phone...[20]Me?[21]Ashley,[22] I didn't call Dr Robins[23] [24]today.[25]</Translation>
+    <Translation>[0]这里就是他们的会议室……[1]阿修蕾。[2]请在这里等一下。我会去找你的父亲。[3]我马上回来。[4]等一下！[5]什么事？[6]你们处理好保安系统的[7]问题了吗？[8]保安系统有什么问题？[9]当爸爸离开时，他说实验室[10]发生了一点问题。[11]我只是想，如果解决了问题[12]或许爸爸就可以和我一起回家。[13]阿修蕾，我一点也不明白你在说什么。[14]这里[15]一点问题也[16]没有。[17]但爸爸接到一个电话说保安系统发生了[18]一个问题，然后就离开前往实验室。[19]他说那是你打的电话……A[20]我？[21]阿修蕾，[22] 我今天没有给罗宾斯博士打过[23] [24]电话。[25]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -453,8 +453,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Are you sure there weren't any problems?[1]That's what I said.[2]Really?[3]There were no problems, Ashley.[4]Then why did Dad say there was?[5]Well...[6]Probably an excuse so that he could come back[7]to the lab without letting you down.[8]No way...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你确定一点问题也没有吗？[1]我说过了，没有。[2]真的？[3]什么问题也没有，阿修蕾。[4]那为什么爸爸会说有呢？[5]这个么……[6]或许这只是一个好让他离开回去[7]实验室的借口，而又不会让你心情低落。[8]怎么会……[9]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
