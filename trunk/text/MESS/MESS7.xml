@@ -471,8 +471,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So...it wasn't you who called him?[1]Didn't I just say that?[2]You're mistaken, Ashley. Please stop making me[3]repeat myself.[4]No...[5]He definitely said your name when he answered[6]the phone.[7]Well, I haven't called him all day.[8]But...[9]Stubborn, aren't you?[10]Just like your father.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那……真的不是你打的电话？[1]我刚才不是说了吗？[2]你搞错了，阿修蕾。请不要让我[3]再重复了。[4]不……[5]爸爸接电话的时候确实是喊了[6]你的名字。[7]总之，我今天一整天都没打过电话给教授。[8]但是……[9]你这不是在钻牛角尖吗？[10]就像你的父亲一样。[11]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
