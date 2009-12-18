@@ -499,8 +499,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AAoACQFJT1AwMDAAAAAKGhwAAAVXU0RfU0VfRE9PUl9BVVRPX09QRU4AAAoaDgAAOWsAAAAAdgEAAAoaBgAADAAKGgcAAAMJxAoaHQAABVdTRF9TRV9ET09SX0FVVE9fQ0xPU0UAAAoaDgAAOWsAAHYAAAEAAAoaDgEACwABAAAAAAAAAAoaBgAADAAKGgcAAAMD6AoaFgAABVdTRF9TRV9SQVNfTEFNUAAACgA=</Command>
     </Commands>
     <Original>[0]Ashley, if it matters so much to you, ask your[1]father when he comes up.[2]Ask him if there really was a problem with the[3]security system...[4]and ask him who the call was really from.[5]Okay...[6]But you know...maybe it would be better if you[7]didn't ask.[8]Why?[9]Well, you might not like the answer.[10]What?[11]What if it was someone he didn't want to tell[12]you about?[13]What if he only used my name to cover it up?[14]Who wouldn't he want to tell me about?[15]I have no idea, but I'm sure your father might[16]know one or two people...[17]After all, he knows a lot of different people...[18]What?[19]I'll be back soon, Ashley.[20]Wait for me here.[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，如果你这么在意的话，你父亲来了以后[1]你问问他就是了。[2]问他这里的保安系统是否真的[3]有问题……[4]还有究竟是谁给他打的电话。[5]好吧……[6]但你要知道……或许你不问会[7]比较好。[8]为什么？[9]算了，你应该不会喜欢那个答案。[10]什么？[11]如果那是一个博士不想跟你[12]提起的人呢？[13]如果博士只是用我的名字来蒙混呢？[14]他不想跟我提起什么人？[15]我不知道，但我肯定你父亲[16]认识一两个这样的人……[17]说到底，博士可是认识很多各种各样的人……[18]什么？[19]我马上就回来，阿修蕾。[20]在这里等我。[21]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -515,8 +514,7 @@
       <Command>Ggb/AAAAChoFAAABChoiAAAFV1NEX1NFX1NZU1RFTV9NQUlMX1JFQ0VJVkVEAQAKGggAAAkEAQAKGgYAAAwAChoHAABJAfQKGg4BAAsfAQAAAAAAAAAKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]I don't like Gina at all, and she was really mean[1]to Matt...[2]I'm glad she didn't come to the barbecue.[3]This is pretty weird, though...[4]Dad definitely said it was Gina on the phone.[5]And that there was a problem with the security[6]system.[7]Dad! Are you hiding something from me?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我一点也不喜欢吉娜，而且她真的对待马修[1]很过分……[2]我很庆幸她没有去烧烤。[3]尽管这有点离奇……[4]爸爸确实说是吉娜打的电话。[5]还说保安系统发生了一个[6]问题。[7]爸爸！难道你对我隐瞒了什么？[8]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -528,8 +526,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]Eek! That's the DAS...[1]There's a message from Dad.[2]"Something's happened at the lab"?[3]Why do you keep sending these weird[4]messages?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢! 是DAS……[1]爸爸给我发来了一条信息。[2]“实验室发生了一些事情”？[3]为什么你总是发给我一些不明所以的[4]信息？[5]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -543,16 +540,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAByAQAAAAoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]Something's wrong here.[1]What's happened, Dad?[2]I've got a bad feeling...[3]What do I do?[4]Right![5]I can't just wait around here! I'm going to[6]Dad's office![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有点不对劲。[1]究竟发生了什么事，爸爸？[2]我有一个不详的预感……[3]我要怎么办才好？[4]对了！[5]我不能只是在原地等待！我要去[6]爸爸的办公室！[7]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -561,8 +556,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]What is it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]这是什么？[2]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -571,8 +565,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Wait in here.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你去哪里？[1]在这里等着。[2]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -582,8 +575,7 @@
       <Command>Ggb/AAAAChoFAAABChoHAABJA+gKGgYAAAwAChoHAAADA+gKGhoAABhFX1IwNDBfTgBTVFJNX0JHTV8wNgEKAA==</Command>
     </Commands>
     <Original>[0]Huh?[1]The door won't open![2]Why?![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]这扇门开不了！[2]为什么？！[3]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -591,8 +583,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, the door won't open...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，门没有打开……[1]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -603,8 +594,7 @@
       <Command>Ggb/AAAAChoFAAABChoHAABJA+gKGgYAAAwAChoHAAADA+gKGhoAABhFX1IwNDBfTgBTVFJNX0JHTV8wNgEKAA==</Command>
     </Commands>
     <Original>[0]What?[1]The light's red.[2]The door's been locked![3]Why's it locked?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么？[1]显示灯是红色的。[2]这扇门被锁上了！[3]为什么会锁上？[4]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -613,8 +603,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The light's red.[1]Why's the door locked?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示灯是红色的。[1]为什么会锁上？[2]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -627,16 +616,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] door [2]is locked.[3]Actually...[4]I don't even know what batteries the TAS[5]takes...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这扇[1]门 [2]是锁着的。[3]确确实实地……[4]我甚至不知道TAS是用什么[5]电池……[6]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -649,8 +636,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]The light's red.[2]The door's been locked![3]Why's it locked?[4]This is really, really weird.[5]Right, time to use the TAS.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]显示灯是红色的。[2]这扇门被锁上了！[3]为什么会锁上？[4]这真的，真的很奇怪。[5]好，是时候使用TAS了。[6]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -659,16 +645,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is really, really weird.[1]Right, time to use the TAS.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这真的，真的很奇怪。[1]好，是时候使用TAS了。[2]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -677,24 +661,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]No way! The battery ran out?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]不可能！没电了？[2]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -704,8 +685,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]"R O O M No..."[2]The room number?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]"R O O M No..."[2]房间号码？[3]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -714,16 +694,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"R O O M"?[1]This one?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]"R O O M"?[1]这里？[2]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -731,8 +709,7 @@
       <Command>Ggb/AAAAChoFAAABChoHAABJA+gKGgYAAAwAChoHAAADA+gKGiIAABhFX1IwNDBfTgBTVFJNX0JHTV9UQU5TQUtVXzAyAQoaBgAADAAKGgYAAAwAChoFAAAbCgA=</Command>
     </Commands>
     <Original>[0]The door unlocked![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门锁打开了！[1]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -740,8 +717,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAhAABAACEChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -750,8 +726,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAhAABAACEChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]The door won't unlock...[1]How do I do this?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门锁没有打开……[1]我该怎么办？[2]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -760,8 +735,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]How do I do this?[1]"No" must be a number. Of what, this room?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么办？[1]"No" 肯定是一个号码。什么号码？这房间的？[2]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
@@ -773,8 +747,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't believe this.[1]The battery's dead?[2]Why now, of all times?[3]What do I do?[4]I can't get out of here unless I use the TAS...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我真不敢相信。[1]电池没电了？[2]为什么会是现在，在这种时候？[3]我该怎么办？[4]除非使用TAS，不然我无法离开这个房间……[5]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
