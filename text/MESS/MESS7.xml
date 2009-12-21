@@ -757,8 +757,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAgAABAACAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]Huh?[1]This battery's run out too...[2]What do I do now?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]这块电池也已经用光了……[2]我现在该怎么办？[3]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -767,16 +766,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAgAABAACAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]Oh, yeah.[1]This battery's dead too.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢。[1]这块电池也没电了。[2]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
@@ -785,8 +782,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAgAABAACAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]Oh, yeah.[1]The TAS battery's dead.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢。[1]TAS的电池没电了。[2]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -794,8 +790,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, yeah, the battery's been taken out.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，电池取出来了。[1]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -803,8 +798,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, time to use the TAS.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好，是时候使用TAS。[1]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -812,8 +806,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already unlocked the door.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我已经打开门锁了。[1]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -821,8 +814,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's already unlocked.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门锁已经打开了。[1]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -830,8 +822,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder if there's a battery here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想知道这里会否有电池。[1]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -839,8 +830,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder if there's a battery here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想知道这里会否有电池。[1]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -852,8 +842,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]remote[2] on the table.[3]I wonder what this is for...[4]Oh, the monitor turned on.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌子上[1]有一个[2]遥控器。[3]我想知道这是做什么用的……[4]噢，显示器打开了。[5]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -862,8 +851,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADLwoA</Command>
     </Commands>
     <Original>[0]I know![1]Maybe I can use the battery from this remote...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我知道了！[1]或许我可以使用这个遥控器上的电池……[2]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -875,8 +863,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADLwoA</Command>
     </Commands>
     <Original>[0]There is a [1]remote[2] on the table.[3]I know![4]Maybe I can use the battery from this remote...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌子上[1]有一个[2]遥控器。[3]我知道了！[4]或许我可以使用这个遥控器上的电池……[5]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -888,8 +875,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOgoA</Command>
     </Commands>
     <Original>[0]There is a [1]cordless phone[2] on the desk.[3]Hey![4]Maybe I can use the battery from this phone...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]办公桌上 [1]有一台[2] 无线电话。[3]嘿！[4]或许我可以使用这台无线电话上的电池……[5]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -904,8 +890,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] monitor [2]shows a map of the lab.[3]"JC Valley Refurbishment Plan 2009"[4]So, they're planning to refurbish the place?[5]This is a map of the B1F floor.[6]Ah...[7]This room is Room 101.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示器[1] 上 [2]出现了一幅实验室的地图。[3]“JC山谷整修计划2009”[4]那，他们是计划要整修这里咯？[5]这是B1F楼的地图。[6]啊……[7]这房间是101号房。[8]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
@@ -916,8 +901,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] monitor [2]shows a map of the lab.[3]This room is Room 101.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示器[1] 上 [2]出现了一幅实验室的地图。[3]这房间是101号房。[4]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -929,8 +913,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's a battery cover on the back of the TAS.[1]Let's see what kind of battery it takes.[2]Ah, so the TAS needs a lithium battery...[3]This one's dead, I'll leave it here.[4]I wonder if I can find another one...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]TAS的背后盖着一块电池。[1]让我来看看用的是什么样的电池。[2]啊，原来TAS是用锂电池……...[3]这一块电池已经没电了，我把它放下。[4]我看看能否找到另外一块……[5]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -938,8 +921,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SYXNfMDYKGjsBAAlJTlRFUlJVUFRfUmFzXzA2X29mZgBJTlRFUlJVUFRfRV9SMDQwXzA2X1RhZ18wMS5icmxhbgQKGhkBAApJTlRFUlJVUFRfUmFzXzA2X29mZgoaBgAADAEKGgUAAA4KGgYBAAM9ChoGAAAMAAoaBwAAAwDIChoGAAAMAQoaBQAADgoaBgEAAyQKGgYAAAwAChoNAAAVAACAAAEAAIAKGgwAAAgAAQ8BAAAACgA=</Command>
     </Commands>
     <Original>[0]I'll take out the battery.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我取出电池。[1]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -952,8 +934,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAaQAICgA=</Command>
     </Commands>
     <Original>[0]I'll open the cover on the remote.[1]What?![2]This is no good...[3]They aren't the same shape as the TAS battery[4]at all...[5]I'll put the remote back then...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我打开遥控器的后盖。[1]什么？！[2]真是倒霉……[3]这些跟TAS所用的电池根本就是不同的[4]型号。[5]那我把遥控器放回去吧……[6]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -963,16 +944,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SYXNfMDUKGjsBAAlJTlRFUlJVUFRfUmFzXzA1X29mZgBJTlRFUlJVUFRfRV9SMDQwXzA1X1RhZ18wMS5icmxhbgQKGhkBAApJTlRFUlJVUFRfUmFzXzA1X29mZgoaBgAADAEKGgUAAA4KGgYBAAM6ChoGAAAMAAoaBwAAAwDIChoGAAAMAQoaBQAADgoaBgEAAyQKAA==</Command>
     </Commands>
     <Original>[0]I'll open the battery cover on the phone.[1]Hmm...[2]This battery should fit in the TAS![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我打开电话的后盖。[1]嗯……[2]这电池肯定适合TAS！[3]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -980,16 +959,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SYXNfMTAKGjsBAAlJTlRFUlJVUFRfUmFzXzEwX29mZgBJTlRFUlJVUFRfRV9SMDQwXzA5X1RhZ18wMS5icmxhbgQKGhkBAApJTlRFUlJVUFRfUmFzXzEwX29mZgoaBgAADAEKGgUAAA4KGgYBAAM6ChoGAAAMAAoaBwAAAwDIChoGAAAMAQoaBQAADgoaBgEAAyQKAA==</Command>
     </Commands>
     <Original>[0]I'll take out the battery.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我取出电池。[1]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -997,16 +974,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]This should work.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定能行。[1]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1014,32 +989,28 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]Should be fine now.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在应该可以用了。[1]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -1051,8 +1022,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]A charger![4]Maybe I can use this...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]充电器！[4]或许我可以使用它……[5]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1064,8 +1034,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]Actually, I wonder what kind of battery the[4]TAS uses...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]事实上，我想知道TAS究竟是使用哪种[4]电池……[5]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1077,8 +1046,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]Actually, I wonder what kind of battery the[4]TAS uses...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]事实上，我想知道TAS究竟是使用哪种[4]电池……[5]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1088,8 +1056,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -1099,8 +1066,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SYXNfMTAKGjsBAAlJTlRFUlJVUFRfUmFzXzEwX29mZgBJTlRFUlJVUFRfRV9SMDQwXzA5X1RhZ18wMS5icmxhbgQKGhkBAApJTlRFUlJVUFRfUmFzXzEwX29mZgoaBgAADAEKGgUAAA4KGgYBAAMkChoGAAAMAAoaBwAAAwDIChoGAAAMAAoaBwAAaQEGCgA=</Command>
     </Commands>
     <Original>[0]If I put the phone in here...[1]Right, looks like it's charged.[2]I'll take out the battery...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果我把电话放在这里……[1]好了，就像在充电了。[2]我取出电池……[3]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -1108,8 +1074,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAaQAGCgA=</Command>
     </Commands>
     <Original>[0]I'll put the phone back.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我把电话放回去。[1]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1117,8 +1082,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, I took out the phone battery.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，我把电话的电池取出来了。[1]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -1128,8 +1092,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SYXNfMDcKGjsBAAlJTlRFUlJVUFRfUmFzXzA3X29mZgBJTlRFUlJVUFRfRV9SMDQwXzA3X1RhZ18wMS5icmxhbgQKGhkBAApJTlRFUlJVUFRfUmFzXzA3X29mZgoaBgAADAAKGg0AABUAAAAAAQAAAAoaDAAACAABDwEAAAAKAA==</Command>
     </Commands>
     <Original>[0]I wonder if I can charge the TAS in this...[1]No, it won't fit.[2]How do I charge the battery?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想知道我是否能用这个充电器来给TAS充电……[1]不，它的形状不适合。[2]我要怎样来为电池充电？[3]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1137,8 +1100,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SYXNfMDcKGjsBAAlJTlRFUlJVUFRfUmFzXzA3X29mZgBJTlRFUlJVUFRfRV9SMDQwXzA3X1RhZ18wMS5icmxhbgQKGhkBAApJTlRFUlJVUFRfUmFzXzA3X29mZgoaBgAADAAKGg0AABUAAAAAAQAAAAoaDAAACAABDwEAAAAKAA==</Command>
     </Commands>
     <Original>[0]Oh yeah, I can't use the TAS with this.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，我不能把TAS用在这上面。[1]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1146,8 +1108,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's gotten pretty dark outside...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]外面的天色已经相当黑了……[1]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1159,8 +1120,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] map[2].[3]Dad's room is...[4]Room 202.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有一幅[1] 地图[2]。[3]爸爸的房间是……[4]202号房。[5]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1170,8 +1130,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]The elevator door won't open.[2]Why won't it open?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]电梯门并没有打开。[2]为什么不打开呢？[3]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1181,8 +1140,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]The elevator isn't working.[2]Why's it stuck?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]电梯没有运作。[2]为什么会卡住呢？[3]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1195,8 +1153,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] shutter[2].[3]The shutter is locked.[4]A dead end?[5]What now?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有一扇[1] 百叶窗[2]。[3]窗户是锁着的。[4]一条死巷？[5]下面该是什么了？[6]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1204,8 +1161,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's nobody around.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]周围空无一人。[1]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1213,8 +1169,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEhAQAAAAoaBgAADAAKGgkAAEYBAAAACgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈？[1]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1231,8 +1186,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]The man on that panel...[1]I've seen him before, I think...[2]There is an [3]information panel about[4]the founder of JC Valley[5].[6]"Judd Fitzgerald[7]Founder of JC Valley"[8]So that's Judd...[9]Wait![10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]壁板上的男人……[1]我觉得，我曾经见过他……[2]这里有一面 [3]关于JC山谷创始人的[4]告示板[5]。[6]“贾德·菲茨杰拉德[7]JC山谷创始人”[8]那，这个就是贾德……[9]等一下！[10]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1247,8 +1201,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is an [1]information panel about[2]the founder of JC Valley[3].[4]"Judd Fitzgerald[5]Founder of JC Valley"[6]So that's Judd...[7](gasp)[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有一面 [1]关于JC山谷创始人的[2]告示板[3]。[4]“贾德·菲茨杰拉德[5]JC山谷创始人”[6]那，这个就是贾德……[7](倒抽一口气)[8]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1259,8 +1212,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now...[1]Mom knocked on the door with the lion[2]knocker...[3]and this man answered...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我现在想起来了……[1]妈妈拿起狮子模样的门环[2]敲了敲门……[3]开门的是这个男人……[4]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1269,8 +1221,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEAClBfTUVNT1JZX0p1ZGRfb24KGhkAAAVXU0RfU0VfUEFSVF9NRU1PUlkAAAoaMwEACVBfTUVNT1JZX0p1ZGRfb2ZmAFBfTUVNT1JZX0p1ZGRfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoWAQAKUF9NRU1PUllfSnVkZF9vZmYKGgYAAAwAChoHAABJAfQKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]Judd Fitzgerald...[1]Mom must've gone to see him...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]贾德·菲茨杰拉德……[1]妈妈一定去见他了……[2]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1289,8 +1240,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9FX1IwMzBfMDIKGj4BAAlJTlRFUlJVUFRfRV9SMDMwXzAyX29mZgBJTlRFUlJVUFRfRV9SMDMwXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfRV9SMDMwXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]"Judd Fitzgerald[1]Founder of JC Valley[2]Born on 2 November 1936.[3]A leading scholar in the memory[4]research field. While contributing [5]greatly to the academic community,[6]he remained ambitious in his research[7]and founded JC Valley in his later[8]years to carry out a project that[9]would set the direction for new[10]memory research. [11]Died in 2001."[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]…贾德·菲茨杰拉德[1]JC山谷创始人[2]出生于1936年11月2日。[3]记忆研究领域里的一个[4]领先学者。 当在学术上取得 [5]重大成就之时，[6]他在其研究上依然保有雄心壮志[7]并在后半生创立了[8]JC山谷，从而实行一个能[9]为新的记忆研究确立[10]一个方向的计划。[11]卒于2001年。”[12]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1303,8 +1253,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]glass wall[2] behind the counter.[3]I've seen that logo before![4]Yeah, this is where Mom met Ryan...[5]Oh![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有一面 [1]玻璃屏墙[2] 设置在柜台的后面[3]我以前见过这个标志！[4]没错，就在妈妈和莱恩见面的地方……[5]噢！[6]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1314,8 +1263,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now...[1]That was when...[2]Mom gave Ryan the kaleidoscope...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我现在记起来了……[1]那时候……[2]妈妈给了莱恩一个万花筒……[3]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1324,8 +1272,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaHQEAClBfTUVNT1JZX0thbGVpZG9zY29wZV9vbgoaGQAABVdTRF9TRV9QQVJUX01FTU9SWQAAChpDAQAJUF9NRU1PUllfS2FsZWlkb3Njb3BlX29mZgBQX01FTU9SWV9LYWxlaWRvc2NvcGVfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoeAQAKUF9NRU1PUllfS2FsZWlkb3Njb3BlX29mZgoaBgAADAAKGgcAAEkB9AoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]The cherry blossom kaleidoscope...[1]Mom gave it to Ryan...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个樱花万花筒……[1]妈妈把它交给莱恩了……[2]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
