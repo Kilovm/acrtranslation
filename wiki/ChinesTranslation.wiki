@@ -17,14 +17,14 @@
  * Emily: 艾米丽
  * Tommy Harrison : 汤米·哈里森
  * Gina : 吉娜
- * Elizabeth : 伊丽莎白
+ * Elizabeth : 伊丽莎白·阿尔弗雷德
  * Pinkie Rabbit : 粉粉兔  (这是人名吗 -`_`-!回：这不是人名，不过在CING的游戏里是个超级穿越的角色)
  * Sam Hillman: 萨姆·希尔曼
  * Judd Fitzgerald : 贾德·菲茨杰拉德
  * Gilbert Moss : 吉尔伯特·莫斯
  * Bob Fox : 鲍勃·福克斯
  * Janet : 珍妮特
- * Rex : 雷克斯
+ * Rex : 雷克斯·阿尔弗雷德
  * Liz : 莉斯
  * Graham : 格雷厄姆
  * Benjamin ：本杰明
@@ -36,7 +36,7 @@
  * Pochi : 波奇
  * Greg Davis ：格里格·戴维斯
  * Richard Robins: 理查德·罗宾斯
-
+ * Kate：凯特
 = 地名 =
 
  * JC Valley : JC山谷
