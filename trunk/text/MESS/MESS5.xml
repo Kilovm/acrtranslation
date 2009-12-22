@@ -1,11 +1,10 @@
-<Session title="MESS5.BMG">
+﻿<Session title="MESS5.BMG">
   <Sentence id="0">
     <Commands>
       <Command>GgcAAEkAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -20,15 +19,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I ran into my classmate Janet on the way back[1]from Ryan's cottage.[2]I was really surprised when I found out she was[3]Elizabeth's cousin.[4]Then Janet called and asked me to go around[5]to Elizabeth's house.[6]I said I'd go, but it's really just to make Elizabeth[7]apologise for the music player fiasco...[8]</Original>
-    <Translation>[0]在莱恩住的小屋后边的路上[1]我偶然碰见了我的同学珍妮特。[2]当我发现她是伊丽莎白的堂姐时[3]我相当惊讶。[4]当时珍妮特打电话给我[5]要我到伊丽莎白的住所去转转。[6]我答应了，但是实际上[7]我是为了mp3的事向伊丽莎白道歉...[8]</Translation>
+    <Translation>[0]在从莱恩小屋回来的路上[1]我偶然遇见了同班同学珍妮特。[2]让我十分惊讶的是她竟然是[3]伊丽莎白的堂妹。[4]在我回到爸爸的小屋后接到了珍妮特的[5]电话，邀我去伊丽莎白的家里。[6]我虽然嘴上答应了，但是实际上盘算着[7]让伊丽莎白为了mp3的事道歉而出发了……[8]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
       <Command>GhIAABhDX1IwMTBfRABCR00BChoSAAAYQ19SMDEwX0QARU5WAgoaEgAAGENfUjAxMF9EAEVOVgEKGgYAAAwAChoOAQALHwEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -37,7 +35,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm gonna go, Matt.[1]Cool. Don't be too long![2]</Original>
-    <Translation>[0]好了，马修，我要走了。[1]了解。但是别搞得太晚啊！[2]</Translation>
+    <Translation>[0]好吧，马修，我要走了。[1]了解。但是别搞得太晚啊！[2]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -46,7 +44,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, Janet's waiting for me.[1]I have to go to Elizabeth's house.[2]</Original>
-    <Translation>[0]不会的，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
+    <Translation>[0]不行，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -55,7 +53,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, Janet's waiting for me.[1]I have to go to Elizabeth's house.[2]</Original>
-    <Translation>[0]不会的，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
+    <Translation>[0]不行，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -64,7 +62,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, Janet's waiting for me.[1]I have to go to Elizabeth's house.[2]</Original>
-    <Translation>[0]不会的，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
+    <Translation>[0]不行，珍妮特还在等我呢。[1]我必须得去伊丽莎白那了。[2]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -80,15 +78,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2] by the door.[3]Who is it?[4]It's Ashley.[5]Ah, Ashley.[6]One second.[7]It's open now.[8]Okay, thank you.[9]</Original>
-    <Translation>[0]有一个[1]对讲机[2]在门边。[3]谁啊？[4]我，阿修蕾。[5]啊，是阿修蕾啊。[6]等等。[7]门开了哦。[8]嗯，谢谢。[9]</Translation>
+    <Translation>[0]有一个[1]对讲机[2]在门边。[3]谁啊？[4]是我，阿修蕾。[5]哦，阿修蕾啊。[6]等等。[7]门开了哦。[8]嗯，谢谢。[9]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
       <Command>Gg0AABUAAAAAAAAAAAoaDAAACAAAKgAAAAAKGgYAAAwAChoHAAADA+gKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaDgAAOUoAACQAPAEAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -119,15 +116,14 @@
       <Command>ChoFAAABChoGAAAMAAoaFgEACzMBEAAJAUNfUjAyM19EAAAAChoNAAAVBwBoAAAAAAAKGgwAAAgHAGgAAAAAChoNAAAVBQBoAAAAAAAKGgwAAAgFAGgAAAAAChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Hi...[1]Welcome to the Alfred Residence.[2]Well, don't just stand there. Come in.[3]Oh, someone else is at the door.[4]It had better not be your little friend, Ashley.[5]Who is it?[6]It's me, Tommy.[7]Tommy...[8]Elizabeth, you got a few minutes?[9]What's up?[10]It's about the band. Our band.[11]Hey, Liz, mind if we head upstairs?[12]We'll wait for you in your room.[13]Yeah, go on.[14]Come on, Ash, let's head up.[15]</Original>
-    <Translation>[0]你好...[1]欢迎来到阿尔弗雷德公馆。[2]嗯，别站在那啊。请进。[3]噢，还有其他人在门口呢。[4]千万不要是你那个小伙伴，阿修蕾。[5]谁啊？[6]是我，汤米。[7]汤米...[8]伊丽莎白，有空没？[9]怎么了？[10]是有关乐队的事，我们的乐队。[11]呃，莉斯，不介意的话我们上楼去咯？[12]我们会在你的房间等你。[13]好吧，去吧。[14]小蕾，快点，我们上楼啦。[15]</Translation>
+    <Translation>[0]你好……[1]欢迎来到阿尔弗雷德公馆。[2]好了，别站在那啊。请进。[3]噢，又有谁来了。[4]最好不是你那个小伙伴，阿修蕾。[5]谁啊？[6]是我，汤米。[7]汤米……[8]伊丽莎白，有空没？[9]怎么了？[10]是有关乐队的事，我们的乐队。[11]呃，莉斯，不介意的话我们上楼去咯？[12]我们会在你的房间等你。[13]好吧，去吧。[14]小蕾，快点，我们上楼啦。[15]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -136,7 +132,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sorry, Ash, need to talk to Elizabeth.[1]Oh, sorry...[2]</Original>
-    <Translation>[0]小蕾，抱歉，得与伊丽莎白好好谈谈。[1]哎，对不起...[2]</Translation>
+    <Translation>[0]小蕾，抱歉，我得与伊丽莎白好好谈谈。[1]哎，对不起……[2]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -145,7 +141,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Talking to Tommy. Can it wait?[1]Sorry...[2]</Original>
-    <Translation>[0]先和汤米聊聊，不能等一下么？[1]抱歉...[2]</Translation>
+    <Translation>[0]我正在和汤米说话，不能等一下么？[1]抱歉……[2]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -186,15 +182,14 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAuKARAAoAEAAAAKGgYAAAwAChoWAQALMwEQAAkBQ19SMDI1X0QAAAAKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaBgAADAAKGgcAAAMH0AoaHQAABVdTRF9TRV9ET09SX1dPT0RfQ0xPU0UAAAoA</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Yeah?[2]What're Liz and Tommy talking about?[3]I dunno...[4]Oh great, you didn't hear anything.[5]You think there's something up with those two?[6]Uh, yeah.[7]Those two've known each other since they were[8]kids, so it's pretty obvious.[9]What is?[10]Liz totally has the hots for Tommy. You[11]didn't notice?[12]She's got a thing for taller guys.[13]Seriously?[14]What's Tommy think of her?[15]Well, he likes her too.[16]But in more of a kid-sister way, not in a[17]will-you-be-my-girlfriend way.[18]Ah, that's pretty tough.[19]I totally didn't notice anything at all.[20]It's so obvious when you look at them together.[21]You're totally blind, Ash.[22]Hey, I'm not that bad...[23]Anyway, c'mon.[24]Liz's room is over here.[25]</Original>
-    <Translation>[0]嗨，小蕾。[1]嗯？[2]莉斯和汤米在聊些什么啊？[3]我不知道...[4]嗯，晕哦，你什么也没听到。[5]你认为他们两个之间有猫腻？[6]呃，是的。[7]他们从小就认识[8]所以，有些东西就显而易见了。[9]什么显而易见啊？[10]莉斯为了吸引汤米而变得更女人味了[11]你没注意到么？[12]她还蛮有一套嘛。[13]真的？[14]那汤米对莉斯呢？[15]呃，汤米也喜欢莉斯。[16]但对汤米来说莉斯更像是小妹妹[17]而不是准女友。[18]噢，这情况挺棘手的。[19]我完全没有注意到呃。[20]当你看到他们俩在一起的情况时就知道了。[21]你太迟钝了，小蕾。[22]喂，我也没那么糟啊...[23]不管怎样，快来。[24]莉斯的房间就在这。[25]</Translation>
+    <Translation>[0]嗨，小蕾。[1]嗯？[2]莉斯和汤米在聊些什么啊？[3]我不知道……[4]嗯，晕哦，你什么也没听到。[5]你认为他们两个之间有什么情况吗？[6]呃，是的。[7]他们可以算是青梅竹马，[8]所以有些事情根本就是明摆着的。[9]什么事明摆着？[10]莉斯为了吸引汤米而变得更女人味了[11]你没注意到？[12]她对那个高个儿有意思。[13]真的？[14]那汤米对莉斯呢？[15]呃，汤米也喜欢莉斯。[16]但对汤米来说莉斯更像是小妹妹[17]而不是准女友。[18]啊，这种情况挺麻烦的。[19]我完全没有注意到。[20]当你看到他们俩在一起的情况时就知道了。[21]你太迟钝了，小蕾。[22]喂，我也没那么糟啊……[23]不管怎样，快过来。[24]莉斯的房间就在这。[25]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -230,7 +225,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhVkAAoA</Command>
     </Commands>
     <Original>[0]So this is what Elizabeth's room looks like.[1]Yep.[2]I don't think I've ever seen so much pink in one[3]place before...[4]Get this, Ash. Liz said that everything in this[5]room was custom made.[6]For real? [7]Hey, that dresser's huge.[8]Was that custom made too?[9]You bet.[10]I bet nobody in our class has one like that.[11]I knew it. Elizabeth's got loads of makeup and[12]accessories.[13]Yeah, what do you expect?[14]Liz's all about Bella Regina right now. You [15]know, that huge brand with huge prices.[16]Oh yeah, her bandanna is Bella Regina, isn't it?[17]Yeah. And so are her clothes, sandals, bracelet...[18]The whole lot![19]Even her sandals?[20]Whoa, a total Bella Regina girl![21]Totally.[22]Her dad buys her whatever she wants.[23]No way. That's unbelievable.[24]Wish my dad was like that.[25]I bet she loves her dad to bits.[26]If only...[27]She can't stand him.[28] It's really awkward.[29]</Original>
-    <Translation>[0]这就是伊丽莎白的房间？[1]是的。[2]这房间是在我见过的房间中[3]粉色最多的了...[4]你得试着接受这一切，小蕾。[5]莉斯还提到过这房间的每一件东西都是定制的哦。[6]真的假的？ [7]喂，那化妆台也够大的。[8]那也是定制的？[9]你猜猜。[10]我猜我们班上没人有这么大个的化妆台。[11]我就知道，伊丽莎白有这么超多的化妆品与[12]首饰。[13]是啊，你想怎样？[14]莉斯现在就控Bella Regina这个品牌。[15]你要知道这可是很有价值的大品牌。[16]是啊是啊，估计她的手帕都是Bella Regina的吧？[17]是的，她的衣服，凉鞋，手镯啥的...[18]全都是！[19]连她的凉鞋都是？[20]嗯啊，完全是个Bella Regina女孩！[21]完全同意。[22]不管她想要什么他父亲都会买给她。[23]不会吧，那也太假了吧。[24]真希望我老爸也能像那样。[25]我打赌莉斯很爱她的爸爸。[26]要是那样就好了...[27]莉斯忍受不了她父亲。[28] 噢，那有够棘手的。[29]</Translation>
+    <Translation>[0]伊丽莎白的房间原来是这样。[1]是的。[2]我以前从没见过用到这么多粉色[3]的房间……[4]你得试着见怪不怪，小蕾。[5]莉斯说过这房间的每一件东西都是定制的哦。[6]真的假的？ [7]喂，那梳妆台也够大的。[8]那也是定制的？[9]当然。[10]我看我们班上没人有这么大的梳妆台。[11]我就知道，伊丽莎白会有这么多的化妆品与[12]首饰。[13]是啊，不然会是什么样？[14]莉斯现在就控Bella Regina这个品牌。[15]你要知道这个可是很贵的大品牌。[16]是啊是啊，估计她的手帕都是Bella Regina的吧？[17]是的，她的衣服，凉鞋，手镯啥的…… [18]全都是！[19]连凉鞋都是？[20]嗯啊，完全是个Bella Regina女孩！[21]从头到脚。[22]不管她想要什么他父亲都会买给她。[23]不会吧，真不敢相信。[24]真希望我爸爸也像这样。[25]所以莉斯应该很爱她的爸爸吧。[26]要是那样就好了……[27]莉斯忍受不了她父亲。[28] 真是十分麻烦的事。[29]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -286,7 +281,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhZkAAoA</Command>
     </Commands>
     <Original>[0]She doesn't like her dad?[1]Not one bit.[2]She says every word that comes out of his [3]mouth makes her want to hurl.[4]Ouch. That's pretty harsh.[5]To be honest, Ash...[6]That's why I asked you over.[7]Liz's dad is the one who asked me to come[8]here.[9]He's having real problems because he can't[10]even have a conversation with her.[11]So he asked me to come and ask her what her[12]problem is with him.[13]Did you try talking to her?[14]Not yet. It's a really difficult thing to bring up.[15]So I asked you over.[16]Your family is just you and your dad, right?[17]So you must have some idea of what she's[18]going through.[19]Have you ever gotten really mad at your dad?[20]I don't think it's quite as bad as Elizabeth...[21]But yeah, I've gotten pretty mad at him a few[22]times.[23]Like when?[24]Well, he always thinks it's fine to leave me on[25]my own.[26]You don't like that?[27]I dunno, he doesn't mean anything bad by it,[28]but he really only thinks about himself.[29]It's all about the science with him, and I always[30]get ditched for his work.[31]I'm okay on my own, and I can do whatever[32]I have to, but...[33]When he goes and says I'll be fine on my own[34]without even thinking about me,[35]it just makes my blood boil.[36]Aha...[37]I don't know how much help I'll be though,[38]since my dad's really weird.[39]Yeah, maybe you weren't the saviour I was[40]hoping for...[41]Is Elizabeth's mom not around either?[42]Her parents divorced four years ago.[43]Ah...[44]She acts selfish and all, but it's just a front.[45]She's actually really lonely.[46]I think she's[47] upset about her mom [48]too.[49]</Original>
-    <Translation>[0]莉斯不喜欢她爸爸？[1]相当的不喜欢啊。[2]她说她一听到她老爸说话[3]就想破口大骂。[4]%&gt;_&lt;%，那真够不舒服的。[5]老实说，小蕾...[6]这就是我要你过来一趟的原因。[7]我是被莉斯的父亲[8]叫过来的。[9]莉斯爸爸的问题比较严重[10]他与莉斯连个像样的对话都没有。[11]所以他要我来问问莉斯[12]他们父女间到底有什么问题？[13]你试着与莉斯谈了么？[14]还没有，这还真是比较难以启齿啊。[15]所以，我叫你来。[16]你家里就你和你父亲，是吧？[17]所以我想你大概了解[18]莉斯的情况。[19]你之前有没有对你的父亲发过怒？[20]我想虽然没有伊丽莎白的那么糟...[21]但是我还是向爸爸[22]发过几次脾气。[23]什么时候？[24]呃，他总是以为[25]把我单独留下无所谓。[26]你并不想这样，是吧？[27]不清楚，他也不是故意使坏。[28]但是他真的只考虑他自己。[29]他总是满脑子的科学研究[30]我经常被搞研究的他丢在一边不管。[31]不过还好我一个人时我想干嘛就干嘛。[32]我不得不这么想， 但是...[33]当他离开时要我一个人好好过活时[34]他甚至一点都不考虑一下我的感受。[35]这让我相当的热血沸腾。[36]啊...[37]自从我爸爸变得很神神秘秘，[38]我都不知道我可以做什么来补救我和他的关系。[39]原来如此，也许你并不是[40]我想的那种对父女之间比较了解的人...[41]伊丽莎白的母亲不在么？[42]莉斯父母十年前就离婚了。[43]啊...[44]虽然她的行为表现得很自私,但那只是表面而已。[45]实际上她很孤单的。[46]我想[47] 她也很烦她妈妈[48]的.[49]</Translation>
+    <Translation>[0]莉斯不喜欢她爸爸？[1]相当的不喜欢。[2]她说她一听到她爸说话[3]就想破口大骂。[4]喔，有点太过分了吧。[5]老实说，小蕾……[6]这就是我要你过来的原因。[7]我是被莉斯的父亲[8]叫过来的。[9]他现在很着急，因为他们之间连个[10]连个像样的对话都没有。[11]所以他要我来问问莉斯，[12]她到底为什么对他有那么大的怨气？[13]你试着与莉斯谈了吗？[14]还没有，找不到合适的机会啊。[15]所以我叫你过来是想问问。[16]你家里就你和你父亲，是吧？[17]所以我想你大概了解[18]莉斯的想法。[19]你之前有没有对你的父亲发过脾气？[20]虽然没有伊丽莎白的那么严重……[21]但是我还是对爸爸[22]发过几次脾气。[23]在什么情况下？[24]呃，他总是以为[25]把我单独留下无所谓。[26]你很讨厌这样，是吧？[27]不知道，他也不是故意要伤害我。[28]但是他真的只考虑他自己。[29]他总是满脑子的科学研究[30]我经常被搞研究的他丢在一边不管。[31]虽然我可以一个人应付生活，[32]但是……[33]当他离开时一点都不考虑一下我的感受，[34]只是跟我说“你一个人也没问题的”。[35]这真的让我气炸肺了。[36]啊哈……[37]不知道我的经历能帮上多少忙，[38]我爸爸实在是很古怪。[39]嗯，或许你不是我所期待的[40]父女问题救星……[41]伊丽莎白的妈妈不在吗？[42]莉斯父母十年前就离婚了。[43]啊…… [44]虽然她看起来很自私，但那不过是表面现象。[45]实际上她内心很孤独的。[46]我想她也在[47] 生妈妈的气[48]。[49]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -312,7 +307,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhdkAAoA</Command>
     </Commands>
     <Original>[0]Upset about her mom?[1]Yeah.[2]She misses her, but she never gets to see her.[3]Why not?[4]She hasn't contacted Liz since the divorce.[5]Not once.[6]And that's really hit Liz hard.[7]What's her mom like?[8]She's really beautiful. She works in fashion.[9]Liz was always so proud of her.[10]Why'd they get divorced?[11]No idea.[12]They used to fight like cats and dogs.[13]At least that's what Liz said.[14]When they divorced, her dad threw out[15]everything that belonged to her mom.[16]The only thing left of her is that [17]music box[18].[19]</Original>
-    <Translation>[0]烦她的妈妈？[1]是啊。[2]莉斯妈妈很想念莉斯的，但是她从来不来看看莉斯。[3]为什么不来呢?[4]她自从离婚后一直没有联系过莉斯。[5]一次都没有。[6]这深深的伤害了莉斯。[7]莉斯妈妈是怎样的人啊？[8]她真的很漂亮，而且是时尚界人士。[9]莉斯过去总是为她母亲感到自豪。[10]那为什么莉斯父母会离婚呢？[11]不清楚。[12]他们以前像猫见了狗似地矛盾不断啊。[13]至少这是莉斯说的。[14]当他们分开时，莉斯爸爸被撵出了这个家[15]所有的东西都归她妈妈。[16]莉斯爸爸唯一留下来的就是那个[17]音乐盒。[18][19]</Translation>
+    <Translation>[0]生她的妈妈的气？[1]是啊。[2]莉斯妈妈很想念莉斯的，但是她从来不来看看莉斯。[3]为什么不来呢?[4]她自从离婚后一直没有联系过莉斯。[5]一次都没有。[6]这深深地伤害了莉斯。[7]莉斯妈妈是怎样的人啊？[8]她真的很漂亮，而且是时尚界人士。[9]莉斯过去总是为她母亲感到自豪。[10]那莉斯父母为什么会离婚呢？[11]不清楚。[12]他们以前像猫见了狗似地矛盾不断啊。[13]至少莉斯是这么说的。[14]当他们分开时，莉斯爸爸把她妈妈[15]用过的东西全都扔了。[16]唯一留下来的就是那个[17]音乐盒。[18][19]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -328,7 +323,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What music box?[1]Look, over on the dresser. That fancy wooden[2]box.[3]That's the one.[4]Oh yeah...[5]It's really old, but the music is lovely.[6]Really romantic.[7]Yeah, I really like music boxes.[8]You think I could take a listen?[9]</Original>
-    <Translation>[0]什么音乐盒啊？[1]看，就在那边的化妆台上。那个高档木制的[2]盒子.[3]就是那个。[4]噢，这个...[5]这音乐盒很有历史了，但是音乐很动人。[6]听你说起来真的很传奇啊。[7]是啊，我真的大爱这音乐盒啊。[8]你认为我可以听听吗？[9]</Translation>
+    <Translation>[0]什么音乐盒啊？[1]看，就在那边的梳妆台上。那个高档木制的[2]盒子。[3]就是那个。[4]噢，这个……[5]这音乐盒很旧了，但是音乐很动人。[6]听你说起来真的很传奇啊。[7]是啊，我很喜欢这音乐盒啊。[8]我可以听听吗？[9]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -338,15 +333,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Go on then, why not?[1]You sure?[2]Liz isn't here yet. Go for it.[3]</Original>
-    <Translation>[0]为啥不听呢？那就听吧。[1]你确定？[2]莉斯又不在这，上吧。[3]</Translation>
+    <Translation>[0]当然，听听吧。[1]真的可以？[2]莉斯又不在这，没事。[3]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -355,7 +349,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Janet...[1]Yeah?[2]</Original>
-    <Translation>[0]珍妮特...[1]嗯?[2]</Translation>
+    <Translation>[0]珍妮特……[1]嗯?[2]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -375,15 +369,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]music box[2] on the dresser.[3]It's really pretty.[4]I wonder how it sounds...[5]</Original>
-    <Translation>[0]这有一个[1]音乐盒[2] 在化妆台上。[3]它很好看。[4]我在想它的音乐是怎样的...[5]</Translation>
+    <Translation>[0]有一个[1]音乐盒[2] 在梳妆台上。[3]非常好看。[4]不知道听起来感觉怎样……[5]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -391,7 +384,7 @@
       <Command>Ggb/AAAAChoFAAABChoIAABZQwYACgA=</Command>
     </Commands>
     <Original>[0]Wow... This is beautiful![1]</Original>
-    <Translation>[0]喔...这真漂亮！[1]</Translation>
+    <Translation>[0]喔……这真漂亮！[1]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -399,7 +392,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>[0]这事我该怎么办呢？[1]</Translation>
+    <Translation>[0]我该怎么办呢？[1]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -422,15 +415,14 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]Oops![1]Ahh![2]Ash! You dropped it![3]Oh no, what do I do?[4]Ash...[5]Is it broken?[6]I dunno. I hope not.[7]What now?[8]</Original>
-    <Translation>[0]噢！[1]哎呀！[2]小蕾！你把盒子摔倒地上了！[3]哦不，我该怎么办？[4]小蕾...[5]摔坏了吗？[6]我不知道，希望没坏。[7]现在怎么办？[8]</Translation>
+    <Translation>[0]噢！[1]哎呀！[2]小蕾！盒子掉在地上了！[3]哦不，我该怎么办？[4]小蕾……[5]摔坏了吗？[6]我不知道，希望没坏。[7]现在怎么办？[8]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -459,7 +451,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What now?[1]I have to do something...[2]</Original>
-    <Translation>[0]现在怎么办？[1]我必须得做些什么...[2]</Translation>
+    <Translation>[0]现在怎么办？[1]我必须得做些什么……[2]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -478,15 +470,14 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]That's my music box![1]Don't you dare lay a finger on it![2]Elizabeth...[3]Liz, relax.[4]Don't get so angry, we just took a little look[5]at it.[6]How dare you let HER touch my stuff![7]What did you just say?![8]Stop![9]Janet, don't fight with her![10]Just get out![11]Get out of my room, right now![12]</Original>
-    <Translation>[0]那是我的音乐盒！[1]你没有碰它吧！[2]伊丽莎白...[3]莉斯，放松点。[4]不要那么生气嘛，我们只是小看一下[5]音乐盒而已.[6]你竟敢让小蕾碰我的东西！[7]你刚才说什么？！[8]别吵了！[9]珍妮特，别和她吵！[10]出去！[11]给我滚出我的房间，现在，马上！[12]</Translation>
+    <Translation>[0]那是我的音乐盒！[1]你一下都不能碰！[2]伊丽莎白……[3]莉斯，放松点。[4]不要那么生气嘛，我们只是稍微看一下[5]音乐盒而已。[6]你竟敢让她碰我的东西！[7]你刚才说什么？！[8]别吵了！[9]珍妮特，别和她吵！[10]出去！[11]从我的房间出去，马上！[12]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
       <Command>GhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgUAADMKGggAADsAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -496,8 +487,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Now what?[1]If Elizabeth finds out about this, she'll go[2]ballistic.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么办？[1]如果让伊丽莎白发现了，一定会[2]发动世界末日的。[3]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -509,8 +499,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]What a pain.[1]She didn't need to lose it like that...[2]You too, Janet! Out![3]She's nothing but a selfish priss![4]What's all this shouting about?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真狼狈。[1]不管怎么说她也不用这么歇斯底里吧……[2]你也一样，珍妮特！给我出去！[3]她真是一个自私的傲娇！[4]这是在吵什么啊？[5]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -523,8 +512,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Oh, hello.[1]Hello there.[2]Do I know you?[3]I'm a classmate of Janet's.[4]Ah. I'm Elizabeth's dad.[5]Huh?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦，你好。[1]你好。[2]我好像没见过你啊？[3]我是珍妮特的同学。[4]这样啊，我是伊丽莎白的父亲。[5]嗯？[6]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -533,8 +521,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Wait... I've seen him before...[1]But where?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等……我以前见过他……[1]在哪来着？[2]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -543,8 +530,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhQBAApQX01FTU9SWV9SZXhfb24KGhwAAAVXU0RfU0VfUEFSVF9NRU1PUllfSU4AAAoaMQEACVBfTUVNT1JZX1JleF9vZmYAUF9NRU1PUllfUmV4X29mZl9vZmYuYnJsYW4AChoGAAAMAAoaFQEAClBfTUVNT1JZX1JleF9vZmYKAA==</Command>
     </Commands>
     <Original>[0]Elizabeth's dad...[1]I know him from somewhere...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白的爸爸……[1]我在哪见过他……[2]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -553,8 +539,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Uncle Rex![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]雷克斯叔叔！[1]哦？[2]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -597,16 +582,14 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhYBAAsxARAACQFDX1IwMjBfRAAAAAoaBgAADAAKGhQBAAsxARAACQFJT1AwMDEAAAAKGgYAAAwAChoUAQALMQEQAAkBSU9QMDAxAAAAChoGAAAMAAoaFAEACzMBEAAJAUlPUDAwMgAAAAoA</Command>
     </Commands>
     <Original>[0]Ah, Janet. I see you arrived safely.[1]Yeah, thanks.[2]It's been a while. Still full of life, I see.[3]Liz said you were working today. Are you[4]back already?[5]No, work never ends. But I knew you were[6]coming today, so I came to see you.[7]See how things were and all.[8]So you're going back to the lab?[9]Yes, I am.[10]Say, where's Elizabeth? I didn't see her[11]downstairs.[12]She's locked herself in her room.[13]Did something happen?[14]Just classic Liz. She threw us out.[15]That girl...[16]Don't worry about it.[17]I'm sure she'll calm down soon enough.[18]Well, in any case... I'm sorry, Janet.[19]By the way, this girl here, is she a friend of[20]yours?[21]Yeah, we ran into each other here totally by[22]accident.[23]Her name's Ashley Mizuki Robins.[24]Ashley Mizuki Robins, wait...[25]Her dad works at JC Valley, right?[26]Yes, indeed. So you're Richard's girl.[27]Pleasure to meet you, Ashley. I'm [28]Rex Alfred[29].[30]Nice to meet you, Mr Alfred.[31]Janet, would you mind making some tea[32]down in the kitchen?[33]Ashley's a guest, after all.[34]Sure thing.[35]I'll go do it now.[36]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，珍妮特。看来你安全到达了。[1]嗯，谢谢。[2]有一段时间没见你了，还是这么有活力。[3]莉斯说你现在应该在工作啊。已经下班[4]了？[5]不是，工作永无止境。不过我既然知道你[6]今天要来，就来见见你。[7]看看你是否顺利。[8]这么说你马上又要回实验室了？[9]是，就要回去了。[10]说起来，伊丽莎白呢？我在楼下也没看到[11]她。[12]她把自己锁在屋里了。[13]是不是出了什么事？[14]只不过又像往常一样发作了。她把我们赶出来了。[15]那孩子……[16]别担心。[17]她很快就会冷静下来了。[18]不管怎么说……我很抱歉，珍妮特。[19]对了，这位女孩是你的朋友[20]吗？[21]是，今天我们在外面恰好[22]碰到了。[23]她的名字是阿修蕾·美月·罗宾斯。[24]阿修蕾·美月·罗宾斯，等一下……[25]他的父亲在JC山谷工作，对吧？[26]这么说你就是罗宾斯的女儿了。[27]很高兴见到你，阿修蕾。我是[28]雷克斯·阿尔弗雷德[29]。[30]很高兴见到你，阿尔弗雷德先生。[31]珍妮特，可以请你去厨房准备些[32]茶饮吗？[33]阿修蕾也算是我们的客人。[34]没问题。[35]我这就去。[36]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -630,8 +613,7 @@
       <Command>ChoFAAABChoNAAAVBgCCAAAAAIIKGgwAAAgGAIIAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Janet, you still there?[1]No, Elizabeth, she's not.[2]Oh, you're back.[3]Janet came all this way to see you, so why did[4]you chase her out of your room?[5]It's her own fault![6] [7]Oh, Elizabeth...[8]You know you shouldn't blame other folks all[9]the time.[10]You should try being nice to them, talking to[11]them... Even try talking to me...[12]I have nothing to say to you![13]Elizabeth![14]Don't you still have work to do?[15]Go do it![16]Elizabeth...[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]珍妮特，你还在外面吗？[1]不在，伊丽莎白，她已经走了。[2]噢，你回来了。[3]珍妮特大老远的赶来看你，你怎么把她赶出[4]房间了？[5]是她的错！[6] [7]哦，伊丽莎白……[8]你要知道你不是世界的中心，不能要求别人[9]完全照你的想法做。[10]你应该试着对他们好一点，和他们多交流[11]……更应该和我谈谈……[12]我和你没什么好说的！[13]伊丽莎白！[14]你不是还有工作吗？[15]去干工作吧！[16]伊丽莎白……[17]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -658,8 +640,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhFkAAoA</Command>
     </Commands>
     <Original>[0]Um...[1]I'm sorry you had to see that bit of family[2]drama.[3]No problem.[4]I fight a lot with my dad too, so I'm used to it.[5]Perhaps all fathers and daughters have the[6]same problems...[7]Well, we had a fight today...[8]But I think I kind of need that energy, otherwise[9]we'd never talk.[10]I think you could be right.[11]Ashley, please try and be friends with[12]Elizabeth.[13]You're about the same age as her, right?[14]Yeah.[15]I've been friends with Richard since before you[16]were born.[17]We [18]go back a long way[19].[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]抱歉让你旁观了一场家庭[2]闹剧。[3]别介意。[4]我也和爸爸大吵过，所以我不觉得吃惊。[5]或许全世界的父女之间都有一样的[6]问题……[7]其实，我们今天刚吵了一架……[8]不过我想如果我连吵架的勇气都没有，也就[9]没机会和他谈话了。[10]我想你可能是对的。[11]阿修蕾，请试着和伊丽莎白做朋友[12]吧。[13]你们应该是同年吧？[14]是的。[15]在你出生之前我和理查德就已经是[16]朋友了。[17]我们 [18]很早就认识了[19]。[20]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -678,8 +659,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhJkAAoA</Command>
     </Commands>
     <Original>[0]Really? How long have you known each other?[1]After I graduated, I went to work at a lab.[2]I met him there.[3]You mean MJ Labs?[4]That's right.[5]I'm surprised you know about that, Ashley.[6]My mom was there too, right?[7]Sayoko? She was indeed.[8]She was working on the [9]EC Project[10] there. At[11]least, until you were born.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是吗？多久了？[1]大学毕业后，我进入了一个实验室工作。[2]就在那儿见到了他。[3]你是指MJ实验室？[4]对。[5]阿修蕾，你居然知道那里，真让我吃惊。[6]我妈妈曾经也在那里，对吧？[7]沙夜子？的确也在。[8]她当时还在研究[9]EC课题[10] 。起码在你[11]出生前是这样。[12]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -706,8 +686,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's the EC Project?[1]It was...[2]Never mind. It doesn't concern you.[3]No, I want to know.[4]I want to know what kind of stuff she was[5]working on.[6]Ryan told me about it too.[7]She came here 13 years ago to visit JC Valley,[8]right?[9].....[10]Mr Alfred?[11]Did you meet her when she came here 13 years[12]ago?[13]I think I remember seeing you somewhere...[14]No.[15]I didn't see her.[16]But...[17]Ashley, I told you I didn't see her.[18]Don't argue with me.[19]![20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么是EC课题？[1]是……[2]别在意。对你来说不是什么重要的事情。[3]不，我想知道。[4]我想知道她当时在进行什么[5]研究。[6]莱恩也告诉过我了。[7]她十三年前曾来这里访问JC山谷，[8]不是吗？[9]……[10]阿尔弗雷德先生？[11]你在十三年前见过她[12]吗？[13]我记得好像在哪见过你……[14]没有。[15]我那时没见过她。[16]可是……[17]阿修蕾，我告诉你了我没见到她。[18]别和我争这个问题。[19]！[20]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -716,8 +695,7 @@
       <Command>ChoFAAABChoHAABJB9AKGgYAAAwAChoOAQALEAEAAAAAAAAAChoGAAAMAAoaFAEACzEBBgAJAU5QQzAwMQAAAAoaBgAADAAKGhYBAAszAQYACQFDX1IwMjBfRAAAAAoA</Command>
     </Commands>
     <Original>[0]I should go back to the lab now.[1]But make yourself at home here, Ashley.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得回实验室了。[1]阿修蕾，在这儿可以像在家一样随便点。[2]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -727,16 +705,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Tea's ready![1]Janet's done then.[2]I should head down.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]来喝茶吧！[1]珍妮特做好了。[2]我还是下去吧。[3]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -745,8 +721,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Oh yes, what was I saying?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]我想说什么来着？[2]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -754,8 +729,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Keep out of my room![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不许进来！[1]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -763,8 +737,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
@@ -775,16 +748,14 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQYACQFJT1AwMDIAAAAKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaDgAAOT8AAAAASwEAAAoA</Command>
     </Commands>
     <Original>[0]Ashley.[1]Yes?[2]Tell Janet I've gone back to the lab, will you?[3]And make yourself at home, like I said.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾。[1]嗯？[2]我要回实验室了。请帮我转告珍妮特，好吗？[3]就像我说的，在这里随便点。[4]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
       <Command>Gg4AADk/AABLAAABAAAKGh0AAAVXU0RfU0VfRE9PUl9XT09EX0NMT1NFAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -792,8 +763,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't just leave without telling Janet.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不能不和珍妮特打招呼就走。[1]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
@@ -802,8 +772,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I shouldn't just wander into other people's[1]rooms...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不应该在别人的屋子里乱晃[1]……[2]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
@@ -840,8 +809,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Janet, Elizabeth's dad just went back to work.[1]He said to let you know.[2]Ah, okay.[3]Elizabeth didn't come out of her room,[4]even when her dad came back.[5]I told you so.[6]They really don't talk at all, do they?[7]Not a bit. It's really bad, right?[8]Sorry I wasn't more help.[9]Hey, wait![10]I just had a great idea![11]What is it?[12]There has to be some reason Elizabeth doesn't[13]want to talk to her dad.[14]And I bet there's someone in the know that[15]we can get the info from.[16]And then we can tell her dad and they can[17]start talking again![18]Well, I don't know the reason.[19]No, but she might've told one of her friends[20]from the band.[21]Tommy and Sam?[22]Bingo.[23]People like her are usually much more open with[24]guys than with girls.[25]I bet she's told one of them why she doesn't[26]get on with her dad.[27]Yeah, that might just work...[28]So who do we grill [29]for the info?[30]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]珍妮特，伊丽莎白的爸爸刚刚回去工作了。[1]他要我转告你。[2]啊，知道了。[3]即便是爸爸回家了，[4]伊丽莎白还是憋在屋里连面都不见。[5]就像我说的那样吧。[6]看来他们是完全没有交谈了？[7]一点都没有。的确是很糟糕的状况。[8]抱歉我没帮上什么忙。[9]哦，等等！[10]我有一个好主意！[11]什么主意？[12]伊丽莎白不和他爸爸交流的背后一定[13]有什么原因。[14]肯定有人知道这个原因，我们可以去[15]问问这个人。[16]然后把原因告诉她爸爸，他们不就可以[17]恢复关系了嘛！[18]好吧，不过我可不知道原因。[19]不是说你，她可能告诉了乐队里某个[20]人。[21]汤米和萨姆？[22]正解。[23]比起女孩，还是男孩更能让伊丽莎白[24]这种人敞开心扉。[25]我敢说他一定告诉了其中一个人，为什么[26]不和爸爸说话的原因。[27]没错，这还真可能有用……[28]那我们找谁去[29]打探消息？[30]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -849,8 +817,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Tommy[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汤米[1]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -858,8 +825,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sam[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]萨姆[1]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -873,8 +839,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Tommy.[1]Why Tommy?[2]She likes him, doesn't she?[3]So I'm sure if we act all worried and ask him,[4]he'll tell us exactly what we want to know.[5]Good idea.[6]That's great Ash, I'll go quiz Tommy in a bit.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汤米。[1]为什么是汤米？[2]她不是喜欢汤米吗？[3]所以我们做出很着急的样子向他打听，[4]他一定会告诉我们答案。[5]好主意。[6]干得好，小蕾。我们去问问汤米。[7]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -889,8 +854,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sam, the drummer.[1]Why Sam?[2]I bet she thinks Sam is easier to talk to.[3]Talking to Tommy would be difficult, since he[4]puts on that cool front.[5]So he's probably more difficult to be open with.[6]Yeah, Sam's probably the better choice.[7]Alright, I'll go quiz him in a bit.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]萨姆，那个鼓手。[1]为什么是萨姆？[2]她一定是觉得萨姆比较好说话。[3]因为她总对外显出冰山一面， 不好[4]向汤米开口。[5]所以没法向汤米展现内在的想法。[6]对哦，萨米或许是个更好的选择。[7]好吧，我会去问问他。[8]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -902,16 +866,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]She's still up there.[1]Yeah.[2]I thought she'd have cooled down by now.[3]You couldn't go up and get her, could you?[4]Yeah, sure.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]她还在楼上。[1]是啊。[2]我猜她差不多也冷静下来了。[3]你能不能去上面叫她下来？[4]当然。[5]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -919,8 +881,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Something up?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有事吗？[1]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -928,8 +889,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Go and call Liz, okay?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]去叫莉斯，好吗？[1]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -938,16 +898,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]She's not here...[1]Where'd she go?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]她不在这……[1]去哪了呢？[2]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
       <Command>GgYAAAwAChoJAABGAgAAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
