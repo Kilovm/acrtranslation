@@ -3526,8 +3526,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, you haven't looked up my dad yet...[1]Oh, right.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你还没找我爸爸……[1]喔，不好意思。[2]</Translation>
   </Sentence>
   <Sentence id="259">
     <Commands>
@@ -3537,8 +3536,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, you haven't looked up my dad yet...[1]Oh, right.[2]Let's look him up![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你还没找我爸爸……[1]喔，不好意思。[2]一起来找找看吧！[3]</Translation>
   </Sentence>
   <Sentence id="260">
     <Commands>
@@ -3554,8 +3552,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, have you used this computer before?[1]No, never.[2]Wow, then you're a natural at it.[3]Do you use them a lot?[4]Kind of.[5]The phone![6]Should I answer it?[7]Dad's not home...[8]I'll answer it. Hope it'll be okay...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你以前用过这台笔记本吗？[1]不，没用过。[2]哇喔，你现在用的很顺手哎。[3]你是不是经常操作电脑啊？[4]还好吧。[5]有电话！[6]我应该接听吗？[7]爸爸不在家……[8]我还是接吧。希望一切都好……[9]</Translation>
   </Sentence>
   <Sentence id="261">
     <Commands>
@@ -3652,8 +3649,7 @@
       <Command>ChoFAAABChoGAAAMAAoaCAAAGgAADAoaBgAADAAKGgcAAAMD6AoaBgAADAAKGgcAABEAABoHAAASAgAKGg0AABUAAAAAAAAAAAoaDAAACAAAlQAAAAAKGgcAAEkH0AoaBgAADAAKGgcAAAMFeAoaGgAASzUCcDAzX2Jhc2VfUl9Bcm1fSGFuZAoaGgAASzMAcDAxX2Jhc2VfUl9Bcm1fSGFuZAoaDgAAOT4qAAEAAAEAAAoaBgAADAAKGgcAABEAABoHAAASAgAKGgYAAAwAChoNAAAVAAAAAAEAAAAKGgwAAAgAAJUBAAAAChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]H-hello... Robins.[1]Ashley, is that you?[2]Jessica![3]Oh good, I'm glad you made it there safely.[4]Yeah, no problem.[5]Is Richard there with you?[6]No, he's off at the lab.[7]Back at the lab? Oh dear.[8]You finally go to see him, then he goes off to[9]work...[10]Yeah, so I'm to wait here 'til he gets back.[11]Ashley, are you all right on your own?[12]Don't worry, I'm fine.[13]Are you really, though?[14]I've been worried about you ever since I had to[15]practically push you onto the bus.[16]I was wondering if maybe it wasn't such a good[17]idea to put you two together...[18]Jessica...[19]Did he come to pick you up at the bus stop?[20]Nope.[21]I don't believe it. And now he's just left you[22]there while he goes off to work?[23]Ashley, I know it might be hard to believe, but[24]he really does want to talk to you...[25]It's okay, we have been talking.[26]Really?[27]I told him all about how frustrated I was with[28]him. I kinda didn't pull any punches.[29]So we argued for a bit, but then I told him[30]all about the band.[31]And he explained why he'd asked me here.[32]Oh, that is good to hear.[33]Yeah.[34]Hey, Jessica, did you know that I've been here[35]before?[36]No, Richard never told me that.[37]He said that I'd been here with Mom 13 years[38]ago.[39]He didn't know about it either...[40]He only found out about it when he came to[41]JC Valley.[42]Oh, I see...[43]Yeah.[44]And there are even people at JC Valley who[45]know about Mom, and about Another...[46]Ashley, when Richard told me he'd decided to[47]go and work at JC Valley,[48]I asked him the obvious question.[49]"Why are you doing this to Ashley again?"[50]After we came back from that island 2 years[51]ago, he swore he'd never be a scientist again.[52]So I was upset that he was just leaving you[53]here again and going off to JC Valley.[54]And he answered...[55]"There's more to Sayoko's death than I[56]realised. So I'm going to JC Valley to find out[57]why Sayoko really died, and the real truth[58]behind Another."[59]More to my mom's death than he realised?[60]That was the reason he went to JC Valley?[61]But what made him think that in the first[62]place?[63]I'm not sure why either.[64]Or...maybe...[65]Maybe what?[66]Jessica, if you know something, tell me![67]A while after coming back from that island...[68]Richard told me he'd received an anonymous[69]e-mail.[70]Anonymous?[71]And he started acting strangely after that.[72]Then a man called Rex Alfred started calling[73]him...[74]He called more and more all the time.[75]After that, Richard decided to go and work[76]at JC Valley.[77]Oh...[78]Ashley, I'm almost positive that the reason he[79]invited you there was because[80]he wanted to tell you something.[81]When he comes back, make sure you two have[82]a good long talk about Sayoko, okay?[83]Okay.[84]Oh, by the way, I sent your guitar off to the[85]contest venue.[86]Oh, thanks![87]All right, I have to run so I'll let you go for now. [88]Say hi to Richard for me![89]And see you when you get home! Bye![90]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你 你好……罗宾斯。[1]阿修蕾，是你吗？[2]杰西卡！[3]喔，太好了，我很高兴你在那儿安然无恙。[4]嗯，这没什么。[5]理查德和你在一起吗？[6]不，他去实验室了。[7]去到实验室？喔，天呐。[8]你来见他，但是他却去[9]工作……[10]是的，所以我在这里等他回来。[11]阿修蕾，你觉得还好吗?[12]放心吧，我很好。[13]真的吗？[14]从我不得不把你几乎塞进巴士起，就[15]开始为你担心了。[16]我一直在想让你们俩相处[17]是不是一个好主意……[18]杰西卡……[19]他去车站接你了吗？[20]没有。[21]我真不敢相信。现在他又为了工作[22]把你一人丢那儿？[23]阿修蕾，我知道这也许很难接受，但[24]他确实想和你好好聊聊……[25]一切都很好，我们刚刚一直的聊天。[26]真的吗？[27]我把跟他在一起那种压抑的心情都告诉他了。[28]我不会受到打击的。[29]虽然我们争论了很久，但是我让他了解了[30]乐队的全部。[31]然后他也解释了为什么要在这里问我。[32]喔，听起来不错。[33]是啊。[34]嘿，杰西卡，你知道我以前来过[35]这里吗？[36]不知道，理查德从来没跟我提起过。[37]他说过我和妈妈十三年前[38]来过。[39]他也不清楚……[40]他也是后来知道的，因为来[41]JC山谷。[42]喔，我明白了……[43]就是这样。[44]在JC山谷还有认识妈妈的人，[45]还有Another……[46]阿修蕾，当年理查德说他决定去[47]JC山谷工作的时候，[48]我很直接的问他。[49]“为什么你还要再次这样对待阿修蕾？”[50]两年前我们从那座岛上归来，[51]他发誓再也不当科研人员了。[52]所以我很生气，他再次把你丢这儿[53]然后赶去JC山谷。[54]而且他回答……[55]“沙叶子的死比我想象的要复杂[56]的多。所以我去JC山谷寻找[57]她真正的死因，还有Another背后的[58]秘密。”[59]More to my mom's death than he realised?[60]That was the reason he went to JC Valley?[61]But what made him think that in the first[62]place?[63]I'm not sure why either.[64]Or...maybe...[65]Maybe what?[66]Jessica, if you know something, tell me![67]A while after coming back from that island...[68]Richard told me he'd received an anonymous[69]e-mail.[70]Anonymous?[71]And he started acting strangely after that.[72]Then a man called Rex Alfred started calling[73]him...[74]He called more and more all the time.[75]After that, Richard decided to go and work[76]at JC Valley.[77]Oh...[78]Ashley, I'm almost positive that the reason he[79]invited you there was because[80]he wanted to tell you something.[81]When he comes back, make sure you two have[82]a good long talk about Sayoko, okay?[83]Okay.[84]Oh, by the way, I sent your guitar off to the[85]contest venue.[86]Oh, thanks![87]All right, I have to run so I'll let you go for now. [88]Say hi to Richard for me![89]And see you when you get home! Bye![90]</Translation>
   </Sentence>
   <Sentence id="262">
     <Commands>
