@@ -206,14 +206,21 @@ namespace BMG.WiiMusic
 					fs.WriteInt32(sen.I2);
 				}
 
-				if (Sentences.Length % 2 == 0)
+				int k = Sentences.Length * 3 % 4;
+				if(k>0)
+				while ((k++) < 4)
 				{
-					fs.WriteInt32(0);
 					fs.WriteInt32(0);
 				}
 
-				fs.WriteInt32(0);
-				fs.WriteInt32(0);
+				//if (Sentences.Length % 2 == 0)
+				//{
+				//    fs.WriteInt32(0);
+				//    fs.WriteInt32(0);
+				//}
+
+				//fs.WriteInt32(0);
+				//fs.WriteInt32(0);
 
 				posTemp = fs.Position;
 				fs.Seek(posInfSize, SeekOrigin.Begin);
@@ -240,7 +247,7 @@ namespace BMG.WiiMusic
 
 					posTemp = fs.Position;
 
-					fs.Seek(0x30 + i * 8, SeekOrigin.Begin);
+					fs.Seek(0x30 + i * 12, SeekOrigin.Begin);
 					fs.WriteInt32(data.Length == 0 ? 0 : p);
 
 					p += data.Length;
