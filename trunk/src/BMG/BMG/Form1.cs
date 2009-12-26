@@ -42,7 +42,7 @@ namespace BMG
 				{
 					string filename = ofd.FileName;
 
-					bmg = new BMG(filename, true);
+					bmg = BMG.ReadBMG(filename);
 
 					this.Text = bmg.Title;
 
@@ -74,7 +74,7 @@ namespace BMG
 				{
 					string filename = ofd.FileName;
 
-					bmg = new BMG(filename, false);
+					bmg = BMG.ReadBMG(filename);
 
 					this.Text = bmg.Title;
 
@@ -323,7 +323,7 @@ namespace BMG
 				int lastIndex = -1;
 				for (int i = 0; i < bmg.Sentences.Length; i++)
 				{
-					Sentence s = bmg.Sentences[i];
+					ISentence s = bmg.Sentences[i];
 
 					if (!string.IsNullOrEmpty(s.Translation))
 						lastIndex = i;

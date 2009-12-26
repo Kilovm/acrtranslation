@@ -6,11 +6,16 @@ using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace BMG
+namespace BMG.WiiMusic
 {
-	public class Sentence
+	public class Sentence_WM : ISentence
 	{
 		List<string> _commands = new List<string>();
+
+		int _i1 = 0;
+		int _i2 = 0;
+
+		bool isEmpty = false;
 
 		string _original = "";
 		string _translation = "";
@@ -43,113 +48,92 @@ namespace BMG
 			}
 		}
 
-		public Sentence(byte[] binData)
+		public int I1
+		{
+			get
+			{
+				return _i1;
+			}
+			set
+			{
+				_i1 = value;
+			}
+		}
+
+		public int I2
+		{
+			get
+			{
+				return _i2;
+			}
+			set
+			{
+				_i2 = value;
+			}
+		}
+
+		public Sentence_WM(byte[] binData)
 		{
 			StringBuilder sb = new StringBuilder();
 
-			List<byte> tmpList = new List<byte>();
-			int p = 0,len;
-			bool bCmd = false;
-			int start=0;
+			if (binData == null)
+			{
+				isEmpty = true;
+				return;
+			}
+
+			int p = 0;
+
+			Commands.Add(Extension.BytesToString(new byte[] { 0x0A }));
+
 			while (p < binData.Length)
 			{
 				byte b = binData[p];
 
-				if (b == 0x1A)
+				if (b == 0)
 				{
-					if (!bCmd)
-					{
-						start = p;
-						bCmd = true;
-					}
+					p++;
+				}
+				else if (b == 0x1A)
+				{
+					int len = binData[p + 1];
+					byte[] cmd = new byte[len];
+					Array.Copy(binData, p, cmd, 0, len);
 
-					len = binData[p + 1];
-					p += len;
+					Commands.Add(Extension.BytesToString(cmd));
+					sb.AppendFormat("[{0}]", Commands.Count - 1);
+
+					p = p + len - 1;
 				}
 				else if (b == 0x0A)
 				{
-					if (!bCmd)
-					{
-						start = p;
-						bCmd = true;
-					}
-					p += 1;
+					sb.Append("[0]");
+					p++;
 				}
-				else if (b == 0)
+				else if ((b & 0xE0) == 0xE0)
 				{
-					if (!bCmd)
+					if ((p + 2) < binData.Length && (binData[p + 1] & 0x80) == 0x80 && (binData[p + 2] & 0x80) == 0x80)
 					{
-						start = p;
-						bCmd = true;
+						sb.Append(Encoding.UTF8.GetString(binData, p, 3));
+						p += 3;
 					}
-					p += 1;
+					else
+					{
+						sb.Append((char)b);
+						p += 1;
+					}
 				}
 				else
 				{
-					if (bCmd)
-					{
-						len = p - start;
-						byte[] bs = new byte[len];
-
-						Array.Copy(binData, start, bs, 0, len);
-
-						_commands.Add(Extension.BytesToString(bs));
-
-						sb.AppendFormat("[{0}]", _commands.Count - 1);
-
-						bCmd = false;
-					}
-
-					start = p;
+					sb.Append((char)b);
 					p += 1;
-					while (p < binData.Length)
-					{
-						byte b2 = binData[p];
-
-						if (b2 == 0x1A || b2 == 0x0A || b2 == 0x00)
-						{
-							break;
-						}
-						else if ((b2 & 0xE0) == 0xE0)
-						{
-							if ((p + 2) < binData.Length && (binData[p + 1] & 0x80) == 0x80 && (binData[p + 2] & 0x80) == 0x80)
-							{
-								p += 3;
-							}
-							else
-							{
-								p += 1;
-							}
-						}
-						else
-						{
-							p += 1;
-						}
-					}
-
-					len = p - start;
-					sb.Append(Encoding.UTF8.GetString(binData, start, len));
 				}
-			}
-
-			if (bCmd)
-			{
-				len = p - start;
-				byte[] bs = new byte[len];
-
-				Array.Copy(binData, start, bs, 0, len);
-
-				_commands.Add(Extension.BytesToString(bs));
-
-				sb.AppendFormat("[{0}]", _commands.Count - 1);
-
-				bCmd = false;
 			}
 
 			_original = sb.ToString();
 		}
 
-		public Sentence(XmlElement element)
+		public Sentence_WM(XmlElement element)
 		{
 			XmlNodeList commandNodes = element.SelectNodes("./Commands/Command");
 			foreach (XmlElement node in commandNodes)
@@ -159,10 +143,16 @@ namespace BMG
 
 			_original = element.GetElementsByTagName("Original")[0].InnerText;
 			_translation = element.GetElementsByTagName("Translation")[0].InnerText;
+
+			_i1 = Convert.ToInt32(element.GetAttribute("I1"));
+			_i2 = Convert.ToInt32(element.GetAttribute("I2"));
+			isEmpty = Convert.ToBoolean(element.GetAttribute("Empty"));
 		}
 
 		public byte[] ToBytes()
 		{
+			if (isEmpty) return new byte[0];
+
 			List<byte> byteList = new List<byte>();
 
 			string str = _translation;
@@ -225,6 +215,9 @@ namespace BMG
 		public XmlElement ToXmlElement(XmlDocument doc)
 		{
 			XmlElement element = doc.CreateElement("Sentence");
+			element.SetAttribute("Empty", isEmpty.ToString());
+			element.SetAttribute("I1", I1.ToString());
+			element.SetAttribute("I2", I2.ToString());
 
 			XmlElement commandsElement = doc.CreateElement("Commands");
 
