@@ -1,4 +1,4 @@
-﻿<Session title="MESS5.BMG">
+<Session title="MESS5.BMG">
   <Sentence id="0">
     <Commands>
       <Command>GgcAAEkAAAoA</Command>
@@ -934,8 +934,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhRkAAoA</Command>
     </Commands>
     <Original>[0]So here you are.[1]Janet made tea for everyone.[2]Oh. That's nice.[3]What's up?[4]You look down. This isn't like you.[5]We all have our moments, Ashley.[6]You know your dad's worried about you?[7]Him, worried about me?[8]That's easy for him to say.[9]C'mon, don't be like that.[10]You know he really cares for you.[11]Mind your own business, okay?[12]Like you could ever understand what I'm going [13]through.[14]My dad's [15]hiding something[16] from me.[17]So I always get depressed whenever I think[18]about him.[19]He doesn't know a single thing about me.[20]Not a thing.[21]Scientists are just the worst.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]原来你在这儿啊。[1]珍妮特为大家泡了茶。[2]哦，那挺好。[3]怎么了？[4]看起来很失落，和平时的你不一样啊。[5]谁都有消沉的时候，阿修蕾。[6]你知道吗，你爸爸很担心你。[7]他，担心我？[8]他只不过是嘴上说说罢了。[9]好了，不要总这么消极。[10]你应该知道他真的很关心你。[11]照顾好你自己吧，行吗？[12]说起话来就好像你对我的遭遇感同身受[13]一样。[14]我爸爸对我 [15]隐瞒[16] 了一些事情。[17]所以我一想起他就觉得很[18]沮丧。[19]他根本不了解我的心情。[20]一点都不了解。[21]科学家最差劲了。[22]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
@@ -950,8 +949,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]He's hiding something? Like what?[1]He won't tell me why Mom never comes to see[2]me.[3]And he's even planning on getting married again.[4]Hasn't told me a thing about it.[5]He's getting married again? Do you know who[6]to?[7].....[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他对你隐瞒？隐瞒了什么？[1]他从不告诉我为什么妈妈一次都不来[2]看我。[3]他还准备要再婚。[4]而且根本没和我商量。[5]他要再婚了？对象是[6]谁呢？[7]……[8]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -968,8 +966,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You hate scientists?[1]Yeah, I do.[2]All they care about are their systems and their[3]research and results...[4]I don't have a single thing in common with my[5]dad.[6]Elizabeth, you won't believe it but...[7]I'm in the same boat as you.[8]No way. Don't even think that you and I are in[9]the same boat, 'cause we're not even close.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你反感科学家？[1]是，反感。[2]他们只关心自己的实验系统、自己的研究[3]和结果……[4]我和我爸爸没有一点共同[5]语言。[6]伊丽莎白，可能你不会相信……[7]我和你情况差不多。[8]不可能。别以为你和我同病相怜，[9]我们的关系根本没那么亲密。[10]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -997,8 +994,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Elizabeth...[1]Why not just talk to your dad about all this?[2]Best to get it all off your chest.[3]Like I need your advice.[4]Hey, it's up to you.[5]Right.[6]I don't need people like you telling me what to[7]do or how to live my life.[8]So see what I'm about to do? Don't even try to[9]talk me out of it.[10]What are you going to do?[11]I'm gonna look through my dad's stuff,[12]that's what.[13]I saw him.[14]He's been putting letters in these drawers.[15]I bet they're from that woman he's going out[16]with.[17]Elizabeth...you really shouldn't do that.[18]That's really bad.[19]Not in my book.[20]Now just shut up and stop distracting me.[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白……[1]为什么不和你爸爸谈谈这些事？[2]最好把这些怨气都吐出来。[3]好像我需要你的建议啊。[4]嗨，这得由你自己决定。[5]没错。[6]我不需要你这种人告诉我怎么做[7]或者应该怎么生活。[8]看着我要怎么干吧，别想[9]劝我。[10]你要干什么？[11]我要翻我爸爸的东西，[12]就要干这个。[13]我看见过。[14]他一直往这个抽屉里藏信。[15]一定就是他的那个再婚对象[16]写来的。[17]伊丽莎白……你真的不该这样做。[18]这样太恶劣了。[19]我的字典里没这个词。[20]你闭上嘴别打扰我。[21]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -1009,8 +1005,7 @@
       <Command>ChoFAAABChoGAABPBQoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]It was definitely this one...[1]Huh?[2]It won't open.[3]...![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一定那个就是这个抽屉……[1]嗯？[2]打不开。[3]……！[4]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -1024,24 +1019,21 @@
       <Command>Ggb/AAAAChoFAAABChoOAQALAAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]What are these?[1]No... No way...[2]I don't believe it.[3]Dad! How could you?[4]Elizabeth![5]What shocked her so badly?[6]She was looking at these letters...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这些是什么？[1]不……不可能……[2]我不相信。[3]爸爸！你怎么能？[4]伊丽莎白！[5]是什么让她这么失魂落魄？[6]她刚才在看这些信……[7]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -1050,8 +1042,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]What?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨……[1]干嘛？[2]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1063,8 +1054,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2] on the floor.[3]I should fix this...[4]There we go.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地上躺着一个 [1]抽屉[2] 。[3]我得把这个装回去……[4]好了。[5]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1081,8 +1071,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]letters[2] on the floor.[3]Wow. There are loads of letters.[4]This is the one Elizabeth was looking at.[5]The letters are addressed to Elizabeth Alfred, [6]from "Kate".[7]Who's Kate?[8]I'll put these back in the drawer.[9]There we go.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地上散落这一些 [1]信件[2] 。[3]喔。真够多的。[4]伊丽莎白刚才看的就是这一封。[5]收信人是伊丽莎白·阿尔弗雷德， [6]寄信人“凯特”。[7]谁是凯特？[8]把这些放回抽屉里吧。[9]好了。[10]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1099,8 +1088,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2] on the floor.[3]Who's this?[4]It's a girl and a puppy.[5]"Elizabeth Alfred, age 8"[6]This is Elizabeth?[7]...![8]I'll put this back in the drawer.[9]There we go.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地上有一副 [1]照片[2] 。[3]这是谁啊？[4]一个女孩和一条小狗。[5]“伊丽莎白·阿尔弗雷德 八岁”[6]这是伊丽莎白？[7]……！[8]把这个放回抽屉里吧。[9]好了。[10]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -1113,8 +1101,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFwEACklOVEVSUlVQVF9SZXhQaG90bwoaPQEACUlOVEVSUlVQVF9SZXhQaG90b19vZmYASU5URVJSVVBUX0NfUjAyNF8wNV9UYWdfMDEuYnJsYW4AChobAQAKSU5URVJSVVBUX1JleFBob3RvX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2] on the floor.[3]This is Elizabeth's dad.[4]Hmm?[5]That bracelet...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地上有一副[1]照片[2] 。[3]是伊丽莎白的爸爸。[4]嗯？[5]这个手镯……[6]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1124,8 +1111,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]That bracelet Elizabeth's dad is wearing in the[1]photo...[2]It's the same as the one I saw at the boathouse.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这张照片里伊丽莎白的爸爸带着的[1]手镯……[2]和我在船屋看到的是同一个。[3]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1135,8 +1121,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I remember now...[1]The guy wearing the bracelet was Elizabeth's[2]dad.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了……[1]当年带着这个手镯的正是伊丽莎白的[2]爸爸。[3]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -1146,8 +1131,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So her dad fishes too...[1]I'll put this back in the drawer.[2]There we go.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]原来他父亲也钓鱼……[1]把这个也放回抽屉吧。[2]好了。[3]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1156,8 +1140,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder how Elizabeth's doing.[1]I'll go check on her.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道伊丽莎白怎么样了。[1]去看看她吧。[2]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1165,8 +1148,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to get Elizabeth into the kitchen...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白应该是在厨房……[1]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1174,8 +1156,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -1184,8 +1165,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]I can't just leave it like this...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]我不能就这么离开……[2]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -1195,8 +1175,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Elizabeth's crying...[1]Ash, what did you [2]say to her?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白正在哭……[1]小蕾，你对她[2]说什么了？[3]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1204,8 +1183,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nothing![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我什么都没做！[1]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -1213,8 +1191,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who, me?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谁，我？[1]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1225,8 +1202,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nothing![1]Come on, she's crying![2]What happened, Ash?[3]The truth is...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么都没说！[1]你看，她可是突然哭起来了！[2]到底怎么回事，小蕾？[3]其实……[4]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -1240,8 +1216,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who, me?[1]Seriously, Ash![2]She's crying![3]Sorry...[4]It's not really my place to say.[5]What happened, Ash?[6]The truth is...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谁，我？[1]我是认真的，小蕾！[2]她正在哭！[3]抱歉……[4]不是我说了什么才这样的。[5]到底怎么回事，小蕾？[6]其实……[7]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1263,32 +1238,28 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]She went into her dad's room and found some[1]letters in the drawers...[2]What was she doing that for?[3]Anyway, what letters?[4]They were sent by someone called Kate. There [5]were lots of them, all addressed to Elizabeth.[6]They were in her dad's drawer.[7]Ash, Kate is Liz's mom.[8]For real?[9]Probably best if you head home, Ash. I'll look[10]after Liz.[11]Yeah.[12]Probably for the best.[13]Here, these were for her. Can you take them?[14]Take what?[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]她去她爸爸的卧室，翻抽屉里的[1]信……[2]她为什么这么干？[3]算了，翻什么信？[4]是一个叫凯特的人寄来的。寄来了[5]很多，都是给伊丽莎白的。[6]都放在她爸爸的抽屉里。[7]小蕾，凯特就是莉斯的妈妈。[8]当真？[9]小蕾，你最好还是先回家吧。我来照顾[10]莉斯。[11]好的。[12]只好如此了。[13]这些是伊丽莎白的。你能转交给她吗？[14]哪些东西？[15]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1296,8 +1267,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, I can't show her the TAS.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，我不能给她看TAS。[1]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1307,8 +1277,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This.[1]What am I supposed to do with that?[2].....[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个。[1]这个给我有什么用？[2]……[3]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1319,8 +1288,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A music player, a handkerchief and an ID card.[1]They're all Elizabeth's.[2]Here.[3]Okay, I'll pass them on.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]音乐播放器，手绢和一张ID卡。[1]这些全都是伊丽莎白的。[2]这些。[3]好的，我会给她。[4]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1329,8 +1297,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll take off.[1]See you.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我走了。[1]再见。[2]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1339,8 +1306,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to give you something.[1]What is it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得交给你点东西。[1]什么东西？[2]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1349,8 +1315,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You'd better head back.[1]Yeah.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你最好回家吧。[1]嗯。[2]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1360,8 +1325,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Elizabeth.[1]Are you okay?[2].....[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，伊丽莎白。[1]你还好吧？[2]……[3]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1370,8 +1334,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Didn't you have something to give me?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾……[1]你不是要给我东西吗？[2]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1380,8 +1343,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Phew, that took a while.[1]I should go check on Matt.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呼，可算出来了。[1]回去和马修会合吧。[2]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1391,8 +1353,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder how Matt is.[1]I'd better get back to the cottage and check on[2]him.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道马修怎么样了。[1]我最好回小屋去看看[2]他。[3]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -1403,8 +1364,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2] by the door.[3]Could be a bit awkward, I'll leave it for now.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门旁有一个 [1]对讲机[2] 。[3]现在见面有点尴尬，还是算了。[4]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1414,8 +1374,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]Matt?[2]Maybe he's upstairs.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔？[1]马修？[2]可能在楼上吧。[3]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1424,8 +1383,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where'd he go?[1]Maybe he left a note or something.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]去哪了？[1]他应该会留下纸条什么的吧。[2]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1438,8 +1396,7 @@
       <Command>Ggb/AAAAChoFAAABChoZAQAKSU5URVJSVVBUX0JlZEluUGFwZXIKGj8BAAlJTlRFUlJVUFRfQmVkSW5QYXBlcl9vZmYASU5URVJSVVBUX0NfUjAxM18wNV9UYWdfMDEuYnJsYW4AChodAQAKSU5URVJSVVBUX0JlZEluUGFwZXJfb2ZmChoFAAAOChoGAQADJQoA</Command>
     </Commands>
     <Original>[0]There is a [1]note[2] on the bedside table.[3]Matt wrote this.[4]"Looking for Dad"[5]Matt, where'd you run off to this time?![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]床头柜上有一张 [1]纸条[2] 。[3]马修的留言.[4]“去找爸爸了。”[5]马修，这次你又跑哪去了？！[6]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -1477,8 +1434,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ashley![1]Huh?[2]Oh, Bob! Hi![3]Hey, kid! Off to meet your dad?[4]Nope.[5]My friend's wandered off somewhere...[6]So I'm heading to the lake to look for him.[7]Hahaha! Is that so?[8]I'm just on my way back from delivering to[9]Elizabeth's house.[10]Lemme guess, a Salmon Rice Burger delivery?[11]Nah, she doesn't eat burgers.[12]Roast Beef and Caesar Salad, same order she[13]always gives.[14]You deliver roast beef too?[15]Yup. It's the most expensive item on the[16]delivery menu.[17]But no matter how extravagant the order, it's[18]still pretty sad to have to eat on your own.[19]Poor girl's dad is always busy, y'see?[20]So, she always orders food and eats it on her[21]own. Pretty sad, huh?[22]Yeah, that kinda sucks.[23]At least she's not on her own today, since that[24]cousin of hers is here visiting.[25]Oh yeah...[26]Did your friend eat the Salmon Rice Burger you[27]brought back?[28]Sure did.[29]And?[30]What did he say?[31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，阿修蕾！[1]嗯？[2]噢，是鲍勃！你好！[3]你好啊，孩子！要去找你爸爸？[4]不。[5]我的朋友不知道去哪里了……[6]我正准备去湖边找他。[7]哈哈哈！是这样啊。[8]我刚从伊丽莎白家送货[9]回来。[10]让我猜猜，鲑鱼米饼汉堡？[11]不是，她不吃汉堡。[12]烤牛肉和凯撒莎拉，她一直以来都是[13]点这个。[14]你还外卖烤牛肉？[15]是啊。这可是最贵的外卖[16]食品了。[17]不过不管订的套餐多豪华，一个人吃[18]终归是很悲凉的一件事。[19]可怜的女孩都有不着家的父亲，是吧？[20]所以啊，她总是订了食物自己一个人吃。[21]很可怜吧？[22]是有点惨。[23]不过今天不是一个人了，因为他的党妹[24]来玩了。[25]哦，是哦……[26]你的那个朋友吃了你带回去的鲑鱼米饼汉堡[27]吗？[28]当然。[29]然后？[30]他有什么评价？[31]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1486,8 +1442,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Loved it![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爱上这个味道了！[1]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1495,8 +1450,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not bad...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还好……[1]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1516,8 +1470,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AfhkAAoA</Command>
     </Commands>
     <Original>[0]He loved it![1]Really?[2]Yeah, totally.[3]It was his first rice burger, but he said it was[4]great.[5]He doesn't even like fish, but that didn't stop[6]him eating it.[7]Yeah! That's the Salmon Rice Burger right there[8]for ya.[9]One thing...[10]That kid that ate the burger, [11]can you tell me[12]more about him?[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他爱上这个味道了！[1]真的？[2]是的，彻底地爱上了。[3]他第一次吃米堡，不过他觉得[4]很棒。[5]他本来连鱼都不吃，这次却一口气[6]吃掉了整个米堡。[7]哈！这才是我为您特别准备的[8]鲑鱼米饼汉堡。[9]有一个小要求……[10]这个吃汉堡的孩子， [11]你能多讲讲他的[12]事情吗？[13]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1539,8 +1492,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AfhkAAoA</Command>
     </Commands>
     <Original>[0]Not bad, but...[1]But?[2]He said there was one little thing missing to[3]make it perfect.[4]Oh? And what was that?[5]Cheese.[6]He said it'd be absolutely perfect if there was[7]cheese added to the burger.[8]Cheese. I see...[9]Oh yeah...[10]One thing...[11]That kid that ate the burger, can you[12] tell me[13]more about him[14]?[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还好，不过……[1]不过？[2]他说要是再加上一点东西就[3]完美了。[4]哦？加什么东西？[5]奶酪。[6]他说如果在汉堡里加上奶酪，味道[7]绝对无敌。[8]奶酪吗……[9]哦，是啊……[10]还有一个小要求……[11]这个吃汉堡的孩子，[12]你能多讲讲他的[13]事情吗[14]？[15]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1555,8 +1507,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AflkAAoA</Command>
     </Commands>
     <Original>[0]His name's Matt.[1]And how old is he?[2]He's 13.[3]13...[4]Gotcha.[5]That's [6]good to hear[7].[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他叫马修。[1]多大年纪？[2]13岁。[3]13……[4]知道了。[5]真是[6]好消息[7]。[8]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -1582,8 +1533,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AftkAAoA</Command>
     </Commands>
     <Original>[0]Good to hear?[1]You bet it's good to hear, missy.[2]It means that if this Matt kid liked the Salmon[3]Rice Burger,[4]then it's a good bet that it'll be a big hit with [5]the 13-year-old male demographic![6]Vital marketing data. You remember that, kid.[7]What? Marketing data?[8]See kid, market analysis is the first step to[9]making a profit.[10]You just gave me the courage to start up[11]my [12]new business[13]![14]If I start that up and get my foot in...[15]I might even be able to sell the diner while [16]there's still [17]someone interested in it[18].[19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好消息？[1]的确是好消息，小姐。[2]从统计角度来看，如果马修这孩子喜欢[3]鲑鱼米饼汉堡，[4]那米堡的口味应该对于13岁男孩这个[5]群体适用！[6]你可要记住，孩子，市场调查必不可少。[7]啊？市场调查？[8]孩子，市场调查是赢利的[9]基础。[10]你刚刚的消息给了我[11]开拓[12]新业务[13]的勇气！[14]如果我开始涉足那个领域的话……[15]我甚至可以把餐馆卖掉了。[16]反正 [17]有人对收购感兴趣[18]。[19]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1632,8 +1582,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's your new business?[1]Ashley, my Salmon Rice Burgers are going to[2]make their debut on the world wide web.[3]Really? You're gonna sell them on the internet?[4]You said it, kid.[5]Bob's famous Salmon Rice Burger will be [6]available for all to buy.[7]Young, old, boys, girls... Everyone all over the[8]country can enjoy my burgers.[9]Get this, kid. The SRB can even be frozen and[10]it won't lose its unique taste.[11]And then you can just pop it in the microwave [12]and enjoy it any time![13]Whatcha think? Pretty perfect plan, eh?[14]Sounds awesome![15]You said it kid. This'll sell millions.[16]And now I got the courage to finally give the[17]online store a kickstart![18]Is that all you're gonna sell in the online store[19]though?[20]Hmm... I thought of just going with the SRB at[21]first. You know, for impact.[22]But now you mention it, I should probably think [23]of putting in other stuff too...[24]I just don't know if it'll be a hit, that's all.[25]Gotta get more marketing data...[26]What other stuff?[27]It's a secret, kid, so don't tell anyone...[28]But my special beef jerky might just do it.[29]What's that?[30]Y'see, beef jerky's always been my number one[31]favourite food.[32]But something's missing from the stuff you get[33]in stores. So I started making my own.[34]I use my own blend of seasonings, then dry it[35]and smoke it. Takes time and effort, kid.[36]But the pay-off is great. You'd be surprised how[37]something so small can pack so much juice.[38]Mmm, that does sound good![39]Don't take my word for it, kid. Stop by the diner[40]sometime and see for yourself![41]Will do![42]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么新业务？[1]阿修蕾，我的鲑鱼米饼汉堡准备[2]在互联网上亮相了。[3]啊？你要在网上贩卖？[4]就是这么回事，孩子。[5]鲍勃著名的鲑鱼米饼汉堡等待您 [6]的品尝。[7]不论年轻，年老，男孩，女孩……全国[8]各地的人都可以享用我的米堡。[9]记得吗，孩子。鲑鱼米堡即使冷藏后[10]也不会失去独特的味道。[11]你只要将其放入微波炉加热就可[12]随时享用！[13]怎么样？很棒的计划吧？[14]听起来很棒！[15]没错。销量将会突破百万。[16]现在我终于有勇气发动线上销售[17]计划了！[18]你的网上商店只卖这一种食物[19]吗？[20]嗯……我想还是以鲑鱼米堡打头阵。[21]就像成语所说，先声夺人。[22]不过你既然提到了，看来我还应该考虑[23]加入其它食品……[24]我只是不知道是否能流行开来。[25]得收集更多的市场反馈……[26]还有什么其它食品？[27]这可是秘密，孩子，所以别告诉其他人……[28]可能会加入我特制的牛肉干。[29]那是什么？[30]其实熏制牛肉是我最喜欢的[31]食物。[32]不过从商店买来的味道总觉得缺了点什么。[33]所以我就开始自己动手做。[34]我用自制的混合调料，然后烘干熏烤。[35]花了不少时间和精力啊，孩子。[36]不过这些代价都是值得的。你一定会感到吃惊，[37]一小块牛肉里居然含有那么丰富的肉汁。[38]嗯，听起来的确不错！[39]可别只是听听就够了，孩子。有空来亲自来我的[40]餐馆体验一次吧！[41]会的！[42]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1659,8 +1608,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AfxkAAoA</Command>
     </Commands>
     <Original>[0]So someone wants to buy your diner?[1]Yeah.[2]They're offering a mighty fine price too.[3]Who is it?[4]None other than Rex Alfred, Director of[5]JC Valley![6]You mean Elizabeth's dad?[7]That's the one, kid.[8]Why would he be interested in buying your[9]diner?[10]Rex said he wants to use the land to build[11]more cottages for JC Valley staff.[12]Apparently they're looking to hire a lot of new[13]staff next year. So they want to buy up all of[14]the land around these parts. Looks like I'm not[15]the only one going places.[16]Said he's even got his eye on [17]Charlotte's house[18]...[19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有人想要收购你的餐馆？[1]是啊。[2]他们还开了一个相当不错的价。[3]是谁要买？[4]除了雷克斯·阿尔弗雷德还能有谁，就是[5]JC山谷的监督！[6]伊丽莎白的爸爸？[7]就是他，孩子。[8]他怎么会有兴趣收购你的[9]餐馆？[10]雷克斯说他想用那块土地为JC山谷的员工[11]建造更多的别墅。[12]显然明年他们打算扩大科研队伍了。[13]所以他们打算把着周围的土地都买下来。[14]看来我还不是唯一的一个[15]利益相关者。[16]话说回来，他可别以为能打[17]夏洛蒂那所房子[18]的主意……[19]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -1681,24 +1629,21 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where's Charlotte's house?[1]Down past the cottages. She's the crusty old[2]biddy who lives down there.[3]Oh, that old woman who owns the greenhouse?[4]That's right, kid. She lives in a big house.[5]Surrounded by fields. Lots of fields.[6]She lives alone out there. Good job she does [7]too.[8]She's lived here a long time, y'see? Unlike us[9]blow-ins. She's part of the scenery now. Heh.[10]She wouldn't sell up when the resort company[11]were after land either.[12]So, even though Rex will try it, just between[13]you and me, he won't get far with her.[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]夏洛蒂的房子在哪？[1]要过了别墅区才能看到。住在那的是个[2]爱发脾气又有点啰嗦的老太太。[3]哦，就是那所绿房子的主人？[4]没错，孩子。她住在一套大房子里。[5]周围都是土地。大片的土地。[6]她一个人在那生活，倒也怡然[7]自得。[8]她在这儿住了很长时间啦。不像我们这些外来户。[9]长得简直和这里的风景融为一体了。呵呵。[10]当年度假村公司想要收购她的房子[11]都没有成功。[12]所以就算雷克斯去尝试，只在咱们之间说说，[13]他也不可能劝服这位老太太的。[14]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1716,24 +1661,21 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBDwAJAUlPUDAwNQAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Okay kid, I'd better get back.[1]Gotta start the online thing sometime, eh?[2]Hey, Bob. When you were delivering to[3]Elizabeth...[4]You didn't see a boy in a blue T-shirt, did you?[5]Can't say I did.[6]Just a huge mutt, hahaha. I'll bet that mutt's[7]after my food too.[8]Anyway, see you later, Ashley.[9]Swing by the diner again before you go![10]You bet![11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，孩子。我得回去了。[1]得准备网上商店的事情了。[2]啊，鲍勃。你给伊丽莎白送去外卖的[3]时候……[4]见没见过一个穿着蓝色T恤的男孩？[5]没见过。[6]只看见一条大狗，哈哈哈。那条狗准是[7]盯上我手里的食物了。[8]好啦，回见，阿修蕾。[9]离开这里之前再来餐厅转转哦！[10]好的！[11]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
@@ -1742,8 +1684,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]什么事？[2]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
@@ -1752,8 +1693,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ashley? Come on, we're[1]chatting![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪，阿修蕾？我们还在聊天[1]哪！[2]</Translation>
   </Sentence>
   <Sentence id="130">
     <Commands>
@@ -1762,8 +1702,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going, Ashley? Come on, we're[1]chatting![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪，阿修蕾？我们还在聊天[1]哪！[2]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
@@ -1777,8 +1716,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]That's Princess.[2]Where is she?[3]Woof![4]Huh?[5]Princess![6]Woof![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]这是公主的叫声。[2]她在哪儿呢？[3]汪！[4]嗯？[5]公主！[6]汪！[7]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
@@ -1823,8 +1761,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Princess, have you seen Matt?[1](whine)[2]I guess not.[3]Woof![4]You know, Princess, you're pretty cute when[5]you're not demanding snacks and stuff.[6]Woof?[7]I always wanted a big dog like you when I was[8]a kid.[9](whine)[10]Seriously![11]A few days before my 14th birthday, I thought[12]I was gonna be alone again, no mom or dad.[13]So I was kinda lonely, and I really wanted to[14]have a friend there with me.[15]But I was living in an apartment with Jessica,[16]so dogs were a definite no-go.[17](whine)[18]Say, you like Matt, right?[19]Woof![20]Thought so.[21]I think he likes you too.[22]He does stuff before he thinks and he's a little[23]selfish, but I guess he's just lonely too.[24]So lonely he ran away from home...[25]That's what I think anyway.[26](whine)[27]I think he kept looking for his dad because[28]you were with him.[29]Woof?[30]And maybe I carried on because I had Matt[31]with me...[32]Maybe that's why I've been remembering[33]Mom being here...[34]Hey Princess, wanna go find Matt?[35]Woof![36]Awesome![37]But how do I find him?[38]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]公主，你见过马修吗？[1]（狗在哼唧）[2]看来没有。[3]汪！[4]公主啊，你不讨食的时候[5]才最可爱。[6]汪？[7]我小的时候一直想养一条你这样的[8]大狗。[9]（狗又哼唧）[10]真的！[11]十四岁生日的前些天，我还想过又要[12]一个人过，没有妈妈也没有爸爸。[13]所以真是有点孤单啊，多想有个朋友[14]陪着我。[15]可是我和杰西卡住的公寓不能[16]养狗。[17]（接着哼唧）[18]你喜欢马修，对吧？[19]汪！[20]我就知道。[21]我想他也喜欢你。[22]他做事总是不经大脑，而且有点自私，[23]不过我猜他一定也很孤独。[24]孤独得非得离家出走……[25]总之这只是我的想法。[26]（哼唧……）[27]我觉得他之所以能一直坚持地找他爸爸[28]就是因为有你陪着他。[29]汪？[30]而我能做到这一步可能也是因为马修[31]和我在一起……[32]或许这就是我一直回想起妈妈来这[33]时种种情景的原因……[34]嗨，公主，要不要去找马修？[35]汪！[36]太好了！[37]不过要怎么找呢？[38]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
@@ -1838,8 +1775,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah! You have a better sense of smell[1]than me, right?[2]Princess, can you use Matt's scent to find[3]him?[4]Woof![5]Hang on a sec, I'll get you something with his[6]scent.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦，对啦！你可是有一只好[1]鼻子！[2]公主，你能顺着马修的气味找到他[3]吗？[4]汪！[5]等一下，我找找带有他气味的[6]东西。[7]</Translation>
   </Sentence>
   <Sentence id="134">
     <Commands>
@@ -1849,16 +1785,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]This should have Matt's scent on it.[1]Woof![2]Right, let's go![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这上面应该有马修的气味。[1]汪汪！[2]好，我们走！[3]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -1868,8 +1802,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Here.[1](whine)[2]Guess not...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个。[1]（呜……）[2]看来不对……[3]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
@@ -1880,16 +1813,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dogs have a better sense of smell than humans,[1]right?[2]So let's find Matt together![3]Woof![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]狗的嗅觉比人要灵敏许多，[1]对吧？[2]所以咱们一起去找马修吧！[3]汪！[4]</Translation>
   </Sentence>
   <Sentence id="138">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="139">
     <Commands>
@@ -1898,8 +1829,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAsmAQAADAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Woof![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]嗯？[2]</Translation>
   </Sentence>
   <Sentence id="140">
     <Commands>
@@ -1908,8 +1838,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAsmAQAADAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Woof![1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 汪！[1] 嗯？[2]</Translation>
   </Sentence>
   <Sentence id="141">
     <Commands>
@@ -1922,8 +1851,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBAACWAQAAAAoA</Command>
     </Commands>
     <Original>[0]I don't think Dad would be okay with me letting[1]a dog in...[2]Wait here a sec.[3]Woof![4]You're real smart![5]Good girl.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]估计爸爸不会同意我领只狗[1]进屋的……[2]在这等一下哦。[3]汪！[4]你可真聪明！[5]乖女孩。[6]</Translation>
   </Sentence>
   <Sentence id="142">
     <Commands>
@@ -1932,8 +1860,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm back![1]Woof![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我回来啦！[1]汪！[2]</Translation>
   </Sentence>
   <Sentence id="143">
     <Commands>
@@ -1943,8 +1870,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]Not this way?[2]Woof![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]不是这条路？[2]汪！[3]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -1954,8 +1880,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]Not this way?[2]Woof![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 汪！[1] 不是这条路？[2] 汪！[3]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -1966,8 +1891,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]Huh? Oh, I get ya.[2]Woof![3]Not this way?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]嗯？哦，我跟上你了。[2]汪！[3]不是这条路？[4]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -1979,16 +1903,14 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwPoAQoA</Command>
     </Commands>
     <Original>[0]Woof![1]Huh?[2]Woof![3]Woof![4]It's Matt![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]嗯？[2]汪！[3]汪！[4]是马修！[5]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="148">
     <Commands>
@@ -1998,8 +1920,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBDAARAUlPUDAwMQAAAAoA</Command>
     </Commands>
     <Original>[0]Good girl, Princess![1]Thanks for finding Matt![2]Woof![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好女孩，公主！[1]谢谢你帮我找到马修！[2]汪！[3]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -2008,8 +1929,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]Not this way, right?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]不是这条路？[2]</Translation>
   </Sentence>
   <Sentence id="150">
     <Commands>
@@ -2017,8 +1937,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACyYBAAAMAAAAAAoA</Command>
     </Commands>
     <Original>[0]Woof![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
@@ -2026,8 +1945,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACyYBAAAMAAAAAAoA</Command>
     </Commands>
     <Original>[0]Woof![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]汪！[1]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
@@ -2035,8 +1953,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't just leave Matt on his own.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不能就这么放着马修不管。[1]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
@@ -2051,8 +1968,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt![1]Huh?[2]Ash![3]So this is where you were.[4]Yeah.[5]Were you looking for me?[6]Nope. Princess helped, so I found you pretty[7]quickly.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修！[1]嗯？[2]小蕾！[3]原来你在这儿啊。[4]嗯。[5]你一直在找我吗？[6]也不是。有公主帮忙，所以没花多少[7]时间。[8]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
@@ -2074,8 +1990,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AfVkAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]But I didn't think you'd be here. Didn't you[1]say you'd never ever come here?[2]Mom made me promise I wouldn't go there.[3]She wrote about that promise in her letter,[4]right?[5]Yeah, so I didn't come near here.[6]But...[7]Go on...[8]While I was waiting in the cottage for you, I had[9]loads of time to think about it.[10]And I was wondering why she said that,[11]why I had to stay away...[12]And then I [13]remembered something[14].[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不过我可没想到你会来这。你不是说[1]绝不会接近这里吗？[2]妈妈曾让我许诺不来这里。[3]我记得是在寄给你的信里这么写着的，[4]没错吧？[5]嗯，所以我过去从没接近过钟楼。[6]不过……[7]继续说啊……[8]刚才我在小屋等你的时候，好好想了[9]一番。[10]在想她为什么那么说，[11]为什么不能接近……[12]然后我忽然[13]记起一件事[14]。[15]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -2090,8 +2005,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AfZkAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]What did you remember?[1]I've been to the clock tower with Mom before.[2]Really?[3]Yeah...[4]Mom brought me here...[5]She was [6]crying[7].[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你记起什么了？[1]我以前曾和妈妈一起来过钟楼。[2]真的？[3]是……[4]妈妈带我来的……[5]她当时在[6]哭[7]。[8]</Translation>
   </Sentence>
   <Sentence id="156">
     <Commands>
@@ -2108,8 +2022,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]She was crying?[1]Yeah...[2]Mom used to cry all the time.[3]Any reason?[4]Well...[5]Whenever she argued with Dad, she'd be crying.[6]When Dad disappeared, she was crying for[7]weeks.[8]Was your mom [9]a crybaby too?[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]她在哭？[1]嗯……[2]妈妈经常哭。[3]为什么？[4]这个……[5]她和爸爸一吵架就会哭。[6]当爸爸消失后，她哭了好几个[7]星期。[8]你妈妈也是个[9]爱哭鬼吗？[10]</Translation>
   </Sentence>
   <Sentence id="157">
     <Commands>
@@ -2117,8 +2030,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No way![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是！[1]</Translation>
   </Sentence>
   <Sentence id="158">
     <Commands>
@@ -2126,8 +2038,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dunno...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道……[1]</Translation>
   </Sentence>
   <Sentence id="159">
     <Commands>
@@ -2141,8 +2052,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No way![1]Really?[2]Yeah.[3]I don't remember ever seeing her cry.[4]She always looked at me with the kindest face[5]in the world.[6]Ah... Guess that's pretty cool.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是！[1]真的？[2]真的。[3]我没记得看见她哭过。[4]他总是带着全世界最亲切的笑容[5]看着我。[6]啊……那一定很棒。[7]</Translation>
   </Sentence>
   <Sentence id="160">
     <Commands>
@@ -2154,8 +2064,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dunno...[1]You don't remember?[2]No, don't really remember much...[3]I don't remember her ever crying, though.[4]Ah... Well, I guess that's a good thing.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道……[1]你不记得了？[2]的确没有多少印象了……[3]不过我倒是从没看到她哭过。[4]哦……好吧，那挺好的。[5]</Translation>
   </Sentence>
   <Sentence id="161">
     <Commands>
@@ -2169,8 +2078,7 @@
       <Command>Ggf/AAEAZAoaBQAAAQoaCAAACQQBAAoaBgAADAAKGg0AABUAAHoAAQAAegoaDAAACAAAegEAAAAKGgYAAAwAChoHAABJAfQKGg4BAAsfAQAAAAAAAAAKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]I just remember her kind face when she looked[1]at me,[2]and that worried face when she was looking at[3]that man...[4]I really don't know what kind of person she[5]was.[6]Ash! Anyone home?![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我只记得她看我时那亲切的[1]面容，[2]还有见到那个人时焦急的[3]表情……[4]我真是不清楚她到底是什么样[5]的人。[6]小蕾！灵魂又出鞘了？！[7]</Translation>
   </Sentence>
   <Sentence id="162">
     <Commands>
@@ -2185,8 +2093,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGwEACzgBAAAAAElOVEVSUlVQVF8wMzQAAAAKGgwAAAgAAHcAAAAAChoNAAAVAAAAAAAAAAAKGgkAADUB92QAChoGAAAMAAoaBwAAEQAAGgcAABIEAAoaDQAAFQAAAAAAAAAAChoMAAAIAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Anyway, d'you know what the symbol thingy[1]on the clock tower door is?[2]Symbol?[3]Oh, you mean the crest?[4]Yeah, Mom said it was a crest too.[5]Bet you don't know [6]what it is[7].[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了，你了解钟楼大门上的[1]符号吗？[2]符号？[3]哦，你是说那个纹章？[4]对，妈妈也说这个是纹章。[5]看来你不知道[6]这个符号的意思[7]。[8]</Translation>
   </Sentence>
   <Sentence id="163">
     <Commands>
@@ -2209,16 +2116,14 @@
       <Command>ChoFAAABChoGAAAMAAoaGwEACzgBAAAAAElOVEVSUlVQVF8wMzQAAAAKAA==</Command>
     </Commands>
     <Original>[0]You know what it is?[1]Yep.[2]It's a family crest.[3]Really?[4]Yeah.[5]She said it was the family crest of the guy that[6]built the tower.[7]What, like his personal family crest?[8]Yeah. Pretty neat, huh?[9]So who built it?[10]I dunno his name.[11]But Mom said it was the same guy that built[12]the mermaid statue.[13]For real?[14]Yup. Mom said his name was written on the [15]mermaid statue too.[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你懂？[1]嗯。[2]这是象征某个家族的纹章。[3]啊？[4]没错。[5]她说纹章就属于建造这座塔[6]的家族。[7]家族纹章？[8]嗯。挺别致的吧？[9]是谁建造了这座塔？[10]我不知道名字。[11]不过妈妈说和树立美人鱼雕像[12]的人是同一个。[13]真的？[14]是啊。妈妈说她的名字就刻在[15]美人鱼雕像上。[16]</Translation>
   </Sentence>
   <Sentence id="164">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="165">
     <Commands>
@@ -2235,16 +2140,14 @@
       <Command>ChoFAAABChoFAAAgCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash...[1]What?[2]Is it me or did it just get dark?[3]It's got all cloudy...[4]Yeah, I think it's gonna rain.[5]Come on, let's get back to Dad's before we[6]get soaked.[7]Achoo![8]You okay?[9]Yeah...[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，小蕾……[1]怎么了？[2]是我眼花了还是天色变暗了？[3]乌云来了……[4]看来要下雨了。[5]快走，在被淋透之前得赶回[6]小屋。[7]阿嚏！[8]你还好吧？[9]嗯……[10]</Translation>
   </Sentence>
   <Sentence id="166">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="167">
     <Commands>
@@ -2253,8 +2156,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="168">
     <Commands>
@@ -2262,8 +2164,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where're you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="169">
     <Commands>
@@ -2272,8 +2173,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Let's hurry up and get to the cottage![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]咱们赶快回小屋吧！[2]</Translation>
   </Sentence>
   <Sentence id="170">
     <Commands>
@@ -2282,8 +2182,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Let's hurry up and get to the cottage![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]咱们赶快回小屋吧！[2]</Translation>
   </Sentence>
   <Sentence id="171">
     <Commands>
@@ -2292,8 +2191,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Let's hurry up and get to the cottage![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]咱们赶快回小屋吧！[2]</Translation>
   </Sentence>
   <Sentence id="172">
     <Commands>
@@ -2302,24 +2200,21 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Let's hurry up and get to the cottage![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]咱们赶快回小屋吧！[2]</Translation>
   </Sentence>
   <Sentence id="173">
     <Commands>
       <Command>GgYAAAwAChoIAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="174">
     <Commands>
       <Command>GgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -2330,8 +2225,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yikes, it's raining![1]Oh man, this is so not cool.[2]Come on, let's hurry![3]Right![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，开始下雨了！[1]天啊，这个不太妙。[2]快走！[3]哦！[4]</Translation>
   </Sentence>
   <Sentence id="176">
     <Commands>
@@ -2347,24 +2241,21 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Phew...[1]Let's stay here and see if it'll clear up a bit.[2]Cool.[3]Matt?[4]You don't look so good.[5]Gee, thanks, Ash.[6]Are you feeling sick?[7]I dunno.[8].....[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呼……[1]我们在这等等看一会是否能放晴。[2]好吧。[3]马修？[4]你脸色不太好。[5]啊，谢谢关心，小蕾。[6]你是不是病了？[7]不清楚。[8]……[9]</Translation>
   </Sentence>
   <Sentence id="177">
     <Commands>
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="178">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -2380,8 +2271,7 @@
       <Command>ChoFAAABChoSAAAYQl9QMDQwX0QAQkdNAQoA</Command>
     </Commands>
     <Original>[0]Hey, looks like it's clearing up.[1]Yeah...[2]Lucky for us![3]Lucky...[4]What's wrong?[5]Wrong...[6]Okay, Matt. You don't sound good at all.[7]Come on, let's get you back to the cottage.[8]Cottage...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，看哪，放晴了。[1]哦……[2]我们真走运！[3]走运……[4]怎么了？[5]怎么了……[6]马修，你听起来可不大正常。[7]走吧，咱们回小屋吧。[8]小屋……[9]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
@@ -2390,8 +2280,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll catch a cold if I stay out here.[1]Better get back to the cottage.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果继续待在这儿会感冒的。[1]最好回小屋去。[2]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -2428,8 +2317,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Look![2]Huh?[3]A rainbow![4]Oh yeah! Great![5]It's totally awesome.[6]I've never seen a real rainbow before.[7]This is my second.[8]You've seen one before?[9]Yeah, a long time ago, when I was a kid. With[10]Jessica.[11]Jessica was the one on the phone, right?[12]That's right.[13]I was crying, because I wanted to be with my[14]mom.[15]And then Jessica pointed and told me to look.[16]And there was a big rainbow in the sky.[17]Was that rainbow as cool as this one?[18]Yeah, it was brilliant. So I asked Jessica...well...[19]What? Tell me![20]I asked her to get it for me.[21]No way! That's impossible![22]Yeah. So she got in the car with me, and we[23]drove after it.[24]We drove for ages. Really, really far.[25]Ahh...[26]Achoo![27]There you go again.[28]Come on, let's get back so you can rest.[29]Yeah...[30]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]快看！[2]嗯？[3]是彩虹！[4]耶！太美了！[5]真是太美了。[6]我以前从没见过真的彩虹。[7]这是我第二次看到彩虹。[8]你以前见过？[9]嗯，很早以前。当我还是孩子的时候，和[10]杰西卡一起看到的。[11]杰西卡就是给你打电话的那个人？[12]对。[13]当时我很想妈妈，所以一直[14]在哭。[15]那时杰西卡指着天边让我看。[16]天上挂着一道巨大的彩虹。[17]那条彩虹和这条一样酷？[18]是啊，光彩夺目。所以我就让杰西卡……还是算了……[19]问什么了？告诉我！[20]我让杰西卡带我去彩虹那里。[21]那是不可能的！[22]是啊。所以她只能开车带着我去追[23]那道彩虹。[24]我们开了好久。走得非常非常远。[25]啊……[26]阿嚏！[27]又打喷嚏了。[28]快点吧，咱们赶快回小屋，好让你休息。[29]嗯……[30]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
@@ -2438,8 +2326,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Let's get back to the cottage...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾……[1]咱们回小屋吧……[2]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -2448,8 +2335,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]Let's get back to the cottage...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 小蕾……[1] 咱们回小屋吧……[2]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -2464,16 +2350,14 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]Phew, made it...[1]But I'm totally soaked through.[2]Matt, are you okay?[3]Yeah, no...no sweat...[4]Matt?[5]Matt![6]Hey! Matt![7]Wake up![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呼，可算回来了……[1]不过全身都淋湿了。[2]马修，你还好吧？[3]嗯，没……没什么……[4]马修？[5]马修！[6]喂！马修！[7]醒醒！[8]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
       <Command>GgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
@@ -2515,32 +2399,28 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Matt...[1]Ash?[2]Where am I?[3]In my dad's bedroom.[4]Was I...asleep?[5]You got soaked and collapsed. I think you have[6]a fever too.[7]Is that why I feel like I'm burning up?[8]Probably.[9]Honestly, Matt, why didn't you just say that[10]you were feeling bad on our way back?[11]I...wasn't that bad...[12]I don't know.[13]Maybe I should get you to a doctor...[14]No...[15]Huh?[16]If I go to a doctor, they'll call the police and [17]they'll take me back to my uncle's...[18]Matt...[19]Ash, you promised![20]You said you'd spend one day helping me find[21]clues about my dad...[22]But...[23]Please, Ash...[24]I'll...be okay...[25]Don't take me...to the doctor...[26]Okay, Matt.[27]I won't take you to the doctor.[28]Really?[29]Just wait here.[30]There has to be medicine or something in the[31]cottage somewhere. I'll look around.[32]I'm gonna get some ice to cool you down too...[33]Okay...[34]Just stay here, and try not to run off, hmm?[35]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修……[1]小蕾？[2]我这是在哪？[3]我爸爸的卧室。[4]我刚才……睡着了？[5]你被雨淋之后昏倒了。我想你可能是[6]发烧了。[7]所以我的身体好像被火烤一样？[8]很可能。[9]说实话，马修，为什么你身体不舒服，[10]但是一路上都没说呢？[11]我当时……没那么严重……[12]我不知道该怎么办了。[13]或许我应该带你去看医生……[14]不……[15]啊？[16]如果去看医生，他们一定会叫警察来把 [17]我带回叔叔家……[18]马修……[19]小蕾，你答应过的！[20]你说你会用一天时间帮我找有关爸爸[21]的线索……[22]可是……[23]求你了，小蕾……[24]我会…没事的……[25]不要带我……去看医生……[26]好吧，马修。[27]我不会强迫你去看医生了。[28]真的？[29]在这等我。[30]家里一定会有点药什么的。我去[31]找一找。[32]还需要冰给你降温……[33]好的……[34]好好这在躺着，不要再到处乱跑了，好吗？[35]</Translation>
   </Sentence>
   <Sentence id="187">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="188">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="189">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="190">
     <Commands>
@@ -2548,8 +2428,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Is there any medicine in here?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有没有药？[1]</Translation>
   </Sentence>
   <Sentence id="191">
     <Commands>
@@ -2557,32 +2436,28 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Is there any medicine in here?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里有没有药？[1]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="193">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="194">
     <Commands>
       <Command>GgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="195">
     <Commands>
@@ -2593,8 +2468,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Darn...[1]No medicine, nowhere near enough ice...[2]What now?[3]Maybe I can get some somewhere else...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真倒霉……[1]没有药，冰块也不够……[2]怎么办？[3]或许我能从别的地方弄到……[4]</Translation>
   </Sentence>
   <Sentence id="196">
     <Commands>
@@ -2602,8 +2476,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]None in here...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这什么也没有……[1]</Translation>
   </Sentence>
   <Sentence id="197">
     <Commands>
@@ -2611,8 +2484,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Is there any medicine in here?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 这里有没有药？[1]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2620,32 +2492,28 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Is there any medicine in here?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 这里有没有药？[1]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
       <Command>GgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="202">
     <Commands>
@@ -2656,8 +2524,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Darn...[1]No medicine, nowhere near enough ice...[2]What now?[3]Maybe I can get some somewhere else...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 真倒霉……[1] 没有药，冰块也不够……[2] 怎么办？[3] 或许我能从别的地方弄到……[4]</Translation>
   </Sentence>
   <Sentence id="203">
     <Commands>
@@ -2665,8 +2532,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]None in here...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里什么都没有……[1]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
@@ -2677,8 +2543,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here we go...[1]Huh?[2]This is all the ice we have?[3]I can't cool him down with just this...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]找到了……[1]哎？[2]只有这么点冰？[3]只有这么点不够为马修降温……[4]</Translation>
   </Sentence>
   <Sentence id="205">
     <Commands>
@@ -2689,8 +2554,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Darn...[1]No medicine, nowhere near enough ice...[2]What now?[3]Maybe I can get some somewhere else...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 真倒霉……[1] 没有药，冰块也不够……[2] 怎么办？[3] 或许我能从别的地方弄到……[4]</Translation>
   </Sentence>
   <Sentence id="206">
     <Commands>
@@ -2698,8 +2562,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Better try somewhere else.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]去别处找找看吧。[1]</Translation>
   </Sentence>
   <Sentence id="207">
     <Commands>
@@ -2708,8 +2571,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe there's medicine in here somewhere.[1]I'll take a look.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]或许这里会有药。[1]找找看。[2]</Translation>
   </Sentence>
   <Sentence id="208">
     <Commands>
@@ -2718,8 +2580,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe there's medicine in here somewhere.[1]I'll take a look.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 或许这里会有药。[1] 找找看。[2]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
@@ -2727,8 +2588,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to find ice.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得去找冰。[1]</Translation>
   </Sentence>
   <Sentence id="210">
     <Commands>
@@ -2740,8 +2600,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Matt?[1]I wonder if the fever's gone down.[2]No...not a bit.[3]What now?[4]I need to go find some medicine.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修？[1]不知道烧是否退下去了点。[2]……一点都没有。[3]现在怎么办？[4]一定得找些药来。[5]</Translation>
   </Sentence>
   <Sentence id="211">
     <Commands>
@@ -2753,8 +2612,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Matt?[1]I wonder if the fever's gone down.[2]No...not a bit.[3]What now?[4]I need to go find some medicine.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 马修？[1] 不知道烧是否退下去了点。[2] ……一点都没有。[3] 现在怎么办？[4] 一定得找些药来。[5]</Translation>
   </Sentence>
   <Sentence id="212">
     <Commands>
@@ -2766,8 +2624,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Matt?[1]I wonder if the fever's gone down.[2]No...not a bit.[3]What now?[4]I need to go find some medicine.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 马修？[1] 不知道烧是否退下去了点。[2] ……一点都没有。[3] 现在怎么办？[4] 一定得找些药来。[5]</Translation>
   </Sentence>
   <Sentence id="213">
     <Commands>
@@ -2776,8 +2633,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]He's sleeping peacefully.[1]I won't wake him.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他已经睡着了。[1]不要吵醒他。[2]</Translation>
   </Sentence>
   <Sentence id="214">
     <Commands>
@@ -2792,8 +2648,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, if it isn't Ashley out and about again![1]Bob, please! I need your help![2]Whoa, what's wrong, kid?[3]Has something happened? You look like you've[4]seen a ghost.[5]I need ice.[6]Ice?[7]What d'you need ice for?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗨，我们的阿修蕾又来啦！[1]鲍勃，拜托！我需要你的帮助！[2]喔，怎么啦，孩子？[3]出什么事了？好像见到鬼[4]一样。[5]我需要冰块。[6]冰块？[7]要冰块做什么？[8]</Translation>
   </Sentence>
   <Sentence id="215">
     <Commands>
@@ -2801,8 +2656,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]To cool someone down[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]给某人降温[1]</Translation>
   </Sentence>
   <Sentence id="216">
     <Commands>
@@ -2810,8 +2664,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]To put in a drink[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]调制饮料[1]</Translation>
   </Sentence>
   <Sentence id="217">
     <Commands>
@@ -2827,8 +2680,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]To cool someone down.[1]Matt's running a fever, so I need to cool him[2]down with some ice.[3]Matt? Wait, he's that friend of yours who liked[4]the SRB, right?[5]Yeah, he got soaked in the rain and now he's[6]got a fever.[7]Hmm, that sounds pretty bad, kid.[8]It is...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为某人降温。[1]马修发烧了，所以我的找些冰块[2]给他降温。[3]马修？等等，他就是你说的那个[4]爱吃鲑鱼米堡的朋友？[5]对，他淋了雨后发烧[6]了。[7]嗯，这可不妙啊，孩子。[8]是啊……[9]</Translation>
   </Sentence>
   <Sentence id="218">
     <Commands>
@@ -2845,8 +2697,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]To put in a drink.[1]What, you want something cold?[2]Matt's running a fever, so I want to give him[3]something cold to drink.[4]Matt? Wait, he's that friend of yours who liked[5]the SRB, right?[6]Yeah, he got soaked in the rain and now he's[7]got a fever.[8]Hmm, that sounds pretty bad, kid.[9]It is...[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为了调制饮料。[1]啊？你想喝冷饮？[2]马修发烧了，我想调制些冷饮给他[3]喝。[4]马修？等等，他就是你说的那个[5]爱吃鲑鱼米堡的朋友？[6]对，他淋了雨后发烧[7]了。[8]嗯，这可不妙啊，孩子。[9]是啊……[10]</Translation>
   </Sentence>
   <Sentence id="219">
     <Commands>
@@ -2881,8 +2732,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Af5kAAoA</Command>
     </Commands>
     <Original>[0]I gotcha, Ashley.[1]Just wait there. Gotta save the 13-year-old[2]male demographic...[3]No way![4]You gotta be kidding me![5]Huh?[6]My ice machine's gone and bust again![7]What? Seriously?[8]No doubt about it.[9]Should be in the scrap heap. Somehow I've kept[10]it going...but looks like it's run out of juice.[11]I'm really sorry, Ashley...[12]It's okay.[13]But what do I do now?[14]Well...[15]Have you given him any medicine?[16]No...[17]We don't have any at home, and he doesn't[18]want to go to the doctor.[19]A doctorphobe, huh?[20]Yeah, I guess...[21]Heh! I know how he feels.[22]Doctors...can't stand 'em. Hope I never have to[23]see one.[24]What should I do about him?[25]Ah, I have a [26]great idea[27]![28]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我明白了，阿修蕾。[1]在这等一下。一定得帮帮这位十三岁[2]少年客户……[3]不是吧！[4]开什么玩笑！[5]啊？[6]我的制冰机又瘫痪了！[7]什么？真的？[8]没错了。[9]本来是报废了。我一直在修修补补着[10]用……看来这次是彻底完蛋了。[11]真的很抱歉，阿修蕾……[12]没关系。[13]可是我现在要怎么办？[14]这么说来……[15]你给他吃过药了吗？[16]没有……[17]家里没有药，他也不愿意去[18]看医生。[19]医生恐惧者？[20]我想是的……[21]啊！我能理解他的心情。[22]医生……最受不了那些家伙了。希望我永远[23]都不用和他们打交道。[24]可是马修怎么办？[25]啊，我想到一个 [26]好办法[27]！[28]</Translation>
   </Sentence>
   <Sentence id="220">
     <Commands>
@@ -2910,24 +2760,21 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What is it?[1]Remember what we were talking about before?[2]About Charlotte? That old woman who lives in[3]the middle of all those fields?[4]Yeah...[5]She has hundreds of herbs growing in her[6]garden.[7]She's pretty famous for her medicines around[8]these parts. I tell ya, kid...[9]You drink one of her herbal brews, you're right[10]as rain in no time, no matter how sick you are.[11]Really?[12]You bet. It's worked on my friends before too,[13]almost like magic...or witchcraft...or something.[14]How do I get some medicine?[15]Well kid, ain't no way but to go out there and[16]ask her to her face.[17]Problem is, Charlotte's a bit of a moody thing,[18]y'see?[19]You catch her in a bad mood and...well...[20]It's like trying to get blood out of a stone.[21]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么办法？[1]记得我们之前说过的话吗？[2]就是那个夏洛蒂，在那片土地上独自[3]生活的老太太？[4]嗯……[5]她在花园里栽种了各式各样的[6]草药。[7]她的草药在这附近可是相当出名。[8]我告诉你，孩子……[9]不管你病成啥样，只要喝一杯她的草药，[10]立刻原地满状态复活。[11]真的这么有效？[12]当然。以前那草药就治好过我的朋友，[13]简直就像魔法…或者巫术…那种说不清的东西。[14]怎么才能弄到草药？[15]这个嘛，孩子，除了找她当面要以外[16]别无他法。[17]问题是夏洛蒂这个人有点喜怒无常，[18]明白吗？[19]如果你遇到她心情不好的话……那就……[20]比从石头里挤出水来还难。[21]</Translation>
   </Sentence>
   <Sentence id="221">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="222">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="223">
     <Commands>
@@ -2938,16 +2785,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Charlotte lives just past that half-built cottage.[1]Got it, I'll head there now.[2]Thanks so much, Bob.[3]No problem, kid. Hope you get your medicine.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]从那栋已经停工的小屋过去就是夏洛蒂的家。[1]知道了，我现在就去。[2]十分感谢，鲍勃。[3]别客气，孩子。希望你能拿到药。[4]</Translation>
   </Sentence>
   <Sentence id="224">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="225">
     <Commands>
@@ -2956,8 +2801,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yeah?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]有事吗？[2]</Translation>
   </Sentence>
   <Sentence id="226">
     <Commands>
@@ -2966,8 +2810,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Charlotte lives just past that half-built cottage.[1]Got it.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]从那栋已经停工的小屋过去就是夏洛蒂的家。[1]知道了。[2]</Translation>
   </Sentence>
   <Sentence id="227">
     <Commands>
@@ -2975,8 +2818,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="228">
     <Commands>
@@ -2986,8 +2828,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hello?[1].....[2]No answer.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有人在家吗？[1]……[2]没有回答。[3]</Translation>
   </Sentence>
   <Sentence id="229">
     <Commands>
@@ -2996,8 +2837,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey![1]The door has the same crest as the clock tower.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊！[1]门上的纹章和钟楼的一样。[2]</Translation>
   </Sentence>
   <Sentence id="230">
     <Commands>
@@ -3005,8 +2845,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I should head for Charlotte's house.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该赶去夏洛蒂的家。[1]</Translation>
   </Sentence>
   <Sentence id="231">
     <Commands>
@@ -3014,8 +2853,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I should look around a bit more.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该再找找。[1]</Translation>
   </Sentence>
   <Sentence id="232">
     <Commands>
