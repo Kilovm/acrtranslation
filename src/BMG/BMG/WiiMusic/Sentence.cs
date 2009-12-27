@@ -209,6 +209,9 @@ namespace BMG.WiiMusic
 				byteList.AddRange(enc.GetBytes(tc));
 			}
 
+			byteList.Add(0);
+			byteList.Add(0);
+
 			return byteList.ToArray();
 		}
 
