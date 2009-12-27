@@ -3803,7 +3803,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]An e-mail![1]I wonder who it's from...[2]Oh yeah, Jessica was saying...[3]Dad started working at JC Valley because of[4]an e-mail he got.[5]I wonder who wrote it.[6]I know I shouldn't...[7]But I really want to know what's in it.[8]</Original>
-    <Translation>[0]有封邮件！[1]I wonder who it's from...[2]Oh yeah, Jessica was saying...[3]Dad started working at JC Valley because of[4]an e-mail he got.[5]I wonder who wrote it.[6]I know I shouldn't...[7]But I really want to know what's in it.[8]</Translation>
+    <Translation>[0]有封邮件！[1]是谁发过来的呢……[2]对了，杰西卡说过……[3]爸爸就是因为收到一封邮件[4]才开始JC山谷的工作的。[5]我想知道是谁发的。[6]我清楚不应该这么做……[7]但是真的很想知道里面写了什么啊。[8]</Translation>
   </Sentence>
   <Sentence id="277">
     <Commands>
@@ -3811,8 +3811,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not taking another look?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]要进一步查看吗？[1]</Translation>
   </Sentence>
   <Sentence id="278">
     <Commands>
@@ -3837,8 +3836,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I know I shouldn't...[1]But I'll just take a quick peek.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我清楚不应该这么做……[1]但是就看一眼，就一眼。[2]</Translation>
   </Sentence>
   <Sentence id="281">
     <Commands>
@@ -3847,8 +3845,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need a password.[1]I wonder what password he'd use...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]需要密码。[1]我想想他可能使用的密码……[2]</Translation>
   </Sentence>
   <Sentence id="282">
     <Commands>
@@ -3856,8 +3853,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That e-mail...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那封邮件……[1]</Translation>
   </Sentence>
   <Sentence id="283">
     <Commands>
@@ -3865,8 +3861,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That e-mail...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那封邮件……[1]</Translation>
   </Sentence>
   <Sentence id="284">
     <Commands>
@@ -3874,8 +3869,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You just got an e-mail.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]收到一封邮件。[1]</Translation>
   </Sentence>
   <Sentence id="285">
     <Commands>
@@ -3888,8 +3882,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]creased piece of paper[2] [3]in the drawer.[4]What is this?[5]There are creases all over it...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一张 [1]折起来的纸[2] [3]在抽屉里。[4]这是什么？[5]上面满是折痕……[6]</Translation>
   </Sentence>
   <Sentence id="286">
     <Commands>
@@ -3901,8 +3894,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]creased piece of paper[2] [3]in the drawer.[4]This couldn't be it... Could it?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一张 [1]折起来的纸[2] [3]在抽屉里。[4]难道是密码？[5]</Translation>
   </Sentence>
   <Sentence id="287">
     <Commands>
@@ -3919,8 +3911,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTNfMDQKGj4BAAlJTlRFUlJVUFRfQ19SMDEzXzA0X29mZgBJTlRFUlJVUFRfQ19SMDEzXzA0X1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEzXzA0X29mZgoA</Command>
     </Commands>
     <Original>[0]If you fold it like this, you can see numbers.[1]This couldn't be...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]假如你这样打开，就能看到数字。[1]这个不可能是……[2]</Translation>
   </Sentence>
   <Sentence id="289">
     <Commands>
@@ -3928,8 +3919,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该做什么？[1]</Translation>
   </Sentence>
   <Sentence id="290">
     <Commands>
@@ -3964,8 +3954,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]blue box[2] in the drawer.[3]What's this?[4]I'll take a look.[5]There's something written on the inside.[6]"Easy Water Analysis Kit MS100P[7]This kit is designed to indicate the pH value of[8]a water sample.[9]The supplied indicator fluid will determine if[10]the water is acidic or alkaline."[11]So it's a water testing kit...[12]"Fill to the grey line with water. Add the reagent[13]up to the red line. Shake gently.[14]A pink colour indicates alkalinity. Red indicates[15]acidity. Deep red indicates strong acidity.[16]If there is no change in colour, the sample is[17]pH neutral.[18]Too much reagent can result in unreliable[19]results. Please re-test the sample in this case."[20]It's got a test tube and a small bottle in it.[21]Find something, Ash?[22]Yeah, my dad had a water testing kit in his[23]drawer.[24]A what?[25]It's to test water quality. You saw my dad use[26]it before, at the statue.[27]Oh yeah, that.[28]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个 [1]蓝色盒子[2] 在抽屉里。[3]这是什么？[4]让我瞧瞧。[5]盒子里面写了些东西。[6]"Easy Water Analysis Kit MS100P[7]此工具是为了检测水样的[8]PH值。[9]从样本的指标可以判断[10]水质是酸性还是碱性。”[11]原来是水样检测器……[12]“加水至灰色线。再添加试剂[13]至红色线。轻轻摇晃。[14]粉红色即碱性。正红色即[15]酸性。深红即强酸性。[16]如果没有变色，样本[17]PH值即为中性。[18]过量试剂可能导致错误[19]结果。请发生此情况请重新测试。”[20]工具箱里有一根试管和一个小烧瓶。[21]小蕾，你发现了什么吗？[22]事的，我爸爸的水质检测箱在他[23]抽屉里。[24]什么？[25]用来测水的质量的。之前你看过我爸使用[26]它，在雕像那儿。[27]喔~原来是那个呀。[28]</Translation>
   </Sentence>
   <Sentence id="291">
     <Commands>
@@ -3989,8 +3978,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try putting in the password.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要试着输入密码。[1]</Translation>
   </Sentence>
   <Sentence id="294">
     <Commands>
@@ -4014,8 +4002,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll check the DAS.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要看一下DAS。[1]</Translation>
   </Sentence>
   <Sentence id="297">
     <Commands>
@@ -4023,8 +4010,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What would he use as a password?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他的密码会设置什么呢？[1]</Translation>
   </Sentence>
   <Sentence id="298">
     <Commands>
@@ -4032,8 +4018,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I haven't looked through all the e-mails...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还没来及看完所有的邮件……[1]</Translation>
   </Sentence>
   <Sentence id="299">
     <Commands>
@@ -4041,8 +4026,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh man... I went and read all of them...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿……我要把它们都看完……[1]</Translation>
   </Sentence>
   <Sentence id="300">
     <Commands>
@@ -4051,8 +4035,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Huh? What was that sound?[1]It wasn't a message from Dad...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？什么声音？[1]不是爸爸发的信息……[2]</Translation>
   </Sentence>
   <Sentence id="301">
     <Commands>
@@ -4072,8 +4055,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]What're these images?[1]Ashley, it's that guy! Mr Sunglasses![2]Oh yeah, it's Mr Smith![3]Someone must've taken a photo of him.[4]Yeah, I wonder who?[5]Maybe...[6]Yeah?[7]It's the feed from the security cameras![8]Security cameras?[9]I didn't even know there were any here.[10]Yeah, Dad said that JC Valley set them up.[11]The DAS must be able to check the feeds from[12]them...[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这些图像是什么？[1]阿修蕾，是那人！戴墨镜的男人！[2]啊，是的，是史密斯先生！[3]肯定有人帮他拍的照。[4]对喔，但我不知道是谁？[5]也许是……[6]嗯？[7]是安全摄像机里的信息！[8]安全摄像机？[9]我还不知道这里也有。[10]是的，爸爸说过JC山谷安装安全摄像机。[11]那么DAS肯定能调出信息，从[12]安全摄像机里……[13]</Translation>
   </Sentence>
   <Sentence id="302">
     <Commands>
@@ -4100,8 +4082,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sorry, Dad...[1]Sorry I used your computer and read all your[2]e-mails without your permission...[3]But I found out some important stuff.[4]The anonymous e-mail you got...[5]The fact that you were testing the water at[6]Lake Juliet...[7]And that I can use the DAS to look at security[8]camera feeds...[9]Right.[10]I have to go over everything that's happened.[11]I have to remember.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]抱歉，爸爸……[1]没通过您的允许我就使用了您的电脑，[2]还阅读了所有的邮件……[3]不过我找到一些很重要的文件。[4]你收到的那封匿名邮件……[5]你检测湖水的质量，在[6]朱丽叶湖……[7]而且我还能用DAS查看安全[8]摄像机的信息……[9]好吧。[10]我必须反思发生的每一件事。[11]千万别忘了。[12]</Translation>
   </Sentence>
   <Sentence id="304">
     <Commands>
@@ -4111,8 +4092,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you think his password is?[1]How would I know?[2]Good point...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你认为密码是什么？[1]我怎么会知道？[2]好吧……[3]</Translation>
   </Sentence>
   <Sentence id="305">
     <Commands>
@@ -4121,8 +4101,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was that message that showed up on the[1]computer screen?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示出来的信息是什么，在[1]电脑屏幕上？[2]</Translation>
   </Sentence>
   <Sentence id="306">
     <Commands>
@@ -4131,8 +4110,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait...[1]I should look at the computer again.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Wait...[1]I should look at the computer again.[2]</Translation>
   </Sentence>
   <Sentence id="307">
     <Commands>
