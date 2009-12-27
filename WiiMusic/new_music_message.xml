@@ -562,8 +562,9 @@
     <Commands>
       <Command>Cg==</Command>
       <Command>GgYAAAAA</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Communications with the[0][1] Wii Remote have been[0]interrupted. Press àB to[0]reestablish communications[0]with that Wii Remote.</Original>
+    <Original>Communications with the[0][1] Wii Remote have been[0]interrupted. Press [2] to[0]reestablish communications[0]with that Wii Remote.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -586,8 +587,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="73">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Step off the Wii Balance Board[0]and press àB.</Original>
+    <Original>Step off the Wii Balance Board[0]and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -602,16 +604,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="75">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Connection with the Wii[0]Balance Board has been lost.[0]Turn on the Wii Balance Board[0]power and press àB.</Original>
+    <Original>Connection with the Wii[0]Balance Board has been lost.[0]Turn on the Wii Balance Board[0]power and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="76">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>The Wii Balance Board battery[0]charge is running low. Replace[0]the batteries, turn on the[0]power, and press àB.</Original>
+    <Original>The Wii Balance Board battery[0]charge is running low. Replace[0]the batteries, turn on the[0]power, and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -626,24 +630,27 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="78">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>The maximum allowable weight[0]has been exceeded. Please[0]step off the Wii Balance Board[0]and press àB.</Original>
+    <Original>The maximum allowable weight[0]has been exceeded. Please[0]step off the Wii Balance Board[0]and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="79">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>The maximum allowable weight[0]has been exceeded. Please[0]step off the Wii Balance Board[0]and press àB.</Original>
+    <Original>The maximum allowable weight[0]has been exceeded. Please[0]step off the Wii Balance Board[0]and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="80">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Could not be properly[0]recognized. Step off the Wii[0]Balance Board and press àB.</Original>
+    <Original>Could not be properly[0]recognized. Step off the Wii[0]Balance Board and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -837,8 +844,10 @@
   <Sentence Empty="False" I1="0" I2="4587520" id="104">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Adjust tempo with  àG or àH</Original>
+    <Original>Adjust tempo with  [1] or [2]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -948,8 +957,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="116">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>àC Back</Original>
+    <Original>[1] Back</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -2239,16 +2249,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="277">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EY=</Command>
     </Commands>
-    <Original>àF</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="278">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>àE</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -2358,8 +2370,10 @@
   <Sentence Empty="False" I1="0" I2="3604480" id="292">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EY=</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>àFàE Change</Original>
+    <Original>[1][2] Change</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -3062,8 +3076,10 @@
   <Sentence Empty="False" I1="0" I2="3932160" id="382">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>Select part: àB / Remove part: àC</Original>
+    <Original>Select part: [1] / Remove part: [2]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -4284,8 +4300,9 @@
   <Sentence Empty="False" I1="0" I2="4587520" id="535">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4G0=</Command>
     </Commands>
-    <Original>Dvoàmák's From the New World is one[0]of the greatest symphonies ever, but[0]don't let that stop you from going in[0]and changing it to suit your style!</Original>
+    <Original>Dvo[1]ák's From the New World is one[0]of the greatest symphonies ever, but[0]don't let that stop you from going in[0]and changing it to suit your style!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -6291,8 +6308,9 @@
   <Sentence Empty="False" I1="0" I2="4587520" id="794">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>This drum is the big dog in a full drum[0]set, but it can also be used on its own.[0]Just drum to play this beast; press àB[0]while striking to hit the gong!</Original>
+    <Original>This drum is the big dog in a full drum[0]set, but it can also be used on its own.[0]Just drum to play this beast; press [1][0]while striking to hit the gong!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -7724,8 +7742,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="972">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Gw=</Command>
     </Commands>
-    <Original>For bell symbols with a àl, hold[0]down a button while ringing the[0]handbell.</Original>
+    <Original>For bell symbols with a [1], hold[0]down a button while ringing the[0]handbell.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -7740,32 +7759,38 @@
   <Sentence Empty="False" I1="0" I2="4587520" id="974">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>àJ or àK</Original>
+    <Original>[1] or [2]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="975">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>àB or àC</Original>
+    <Original>[1] or [2]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="976">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>To hear a Mii's sound, point at it[0]and press àB.</Original>
+    <Original>To hear a Mii's sound, point at it[0]and press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="977">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>To grab a Mii, point at it, then[0]press and hold àC. You can then[0]move the Mii.</Original>
+    <Original>To grab a Mii, point at it, then[0]press and hold [1]. You can then[0]move the Mii.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -7780,24 +7805,28 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="979">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EY=</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Press àF to see the question[0]again. To hear the sounds again,[0]point at the speaker and press àB.</Original>
+    <Original>Press [1] to see the question[0]again. To hear the sounds again,[0]point at the speaker and press [2].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="980">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>àB</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="981">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>àC</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -7828,48 +7857,55 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="985">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>Press àB or àC and wave for a[0]major accent. Too much intensity[0]will tire your orchestra, though!</Original>
+    <Original>Press [1] or [2] and wave for a[0]major accent. Too much intensity[0]will tire your orchestra, though!</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="6553600" id="986">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>àC</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="6553600" id="987">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>àK</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="6553600" id="988">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>àB</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="6553600" id="989">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Eo=</Command>
     </Commands>
-    <Original>àJ</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="990">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>àA</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -7948,8 +7984,10 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="1000">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>For MAJOR emphasis, hold àB or àC[0]when you wave! This will not[0]work unless everyone's in sync!</Original>
+    <Original>For MAJOR emphasis, hold [1] or [2][0]when you wave! This will not[0]work unless everyone's in sync!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -9311,8 +9349,11 @@
   <Sentence Empty="False" I1="0" I2="3997184" id="1171">
     <Commands>
       <Command>Cg==</Command>
+      <Command>/w0=</Command>
+      <Command>/w0=</Command>
+      <Command>/w0=</Command>
     </Commands>
-    <Original>ÿÿÿ</Original>
+    <Original>[1][2][3]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -10949,8 +10990,11 @@
   <Sentence Empty="False" I1="0" I2="4979968" id="1356">
     <Commands>
       <Command>Cg==</Command>
+      <Command>/w0=</Command>
+      <Command>/w0=</Command>
+      <Command>/w0=</Command>
     </Commands>
-    <Original>ÿÿÿ</Original>
+    <Original>[1][2][3]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -11062,8 +11106,11 @@
   <Sentence Empty="False" I1="0" I2="5963520" id="1370">
     <Commands>
       <Command>Cg==</Command>
+      <Command>/w0=</Command>
+      <Command>/w0=</Command>
+      <Command>/w0=</Command>
     </Commands>
-    <Original>ÿÿÿ</Original>
+    <Original>[1][2][3]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -11355,8 +11402,9 @@
   <Sentence Empty="False" I1="0" I2="5898240" id="1404">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>àB</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -11371,8 +11419,9 @@
   <Sentence Empty="False" I1="0" I2="5898240" id="1406">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>àC</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -11387,8 +11436,9 @@
   <Sentence Empty="False" I1="0" I2="5898240" id="1408">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>àA</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -11403,8 +11453,9 @@
   <Sentence Empty="False" I1="0" I2="5898240" id="1410">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
     </Commands>
-    <Original>àG</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -11419,8 +11470,9 @@
   <Sentence Empty="False" I1="0" I2="5898240" id="1412">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>àH</Original>
+    <Original>[1]</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -12608,8 +12660,9 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="1566">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EY=</Command>
     </Commands>
-    <Original>Got it? If you forget, you can[0]press àF for control details.[0]OK, then...play away!</Original>
+    <Original>Got it? If you forget, you can[0]press [1] for control details.[0]OK, then...play away!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -12694,24 +12747,29 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="1576">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Press àG or àH as if you're using[0]your fingers to play a trumpet.[0]You don't need to blow at all.</Original>
+    <Original>Press [1] or [2] as if you're using[0]your fingers to play a trumpet.[0]You don't need to blow at all.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="1577">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>You can press just one button, or[0]alternate between àG and àH.</Original>
+    <Original>You can press just one button, or[0]alternate between [1] and [2].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="10" I2="5242880" id="1578">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Imagine your fingers on trumpet[0]valves! And make sure you're[0]pointing the Wii Remote toward[0]yourself with àA facing up, OK?</Original>
+    <Original>Imagine your fingers on trumpet[0]valves! And make sure you're[0]pointing the Wii Remote toward[0]yourself with [1] facing up, OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -12761,16 +12819,19 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="1584">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Move the Wii Remote back and[0]forth like a violin bow over strings,[0]and press àJ or àK on the Nunchuk[0]to play notes.</Original>
+    <Original>Move the Wii Remote back and[0]forth like a violin bow over strings,[0]and press [1] or [2] on the Nunchuk[0]to play notes.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="10" I2="5242880" id="1585">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>You can also press àC on the Wii[0]Remote instead of using the[0]Nunchuk buttons.</Original>
+    <Original>You can also press [1] on the Wii[0]Remote instead of using the[0]Nunchuk buttons.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -12787,8 +12848,11 @@
       <Command>Cg==</Command>
       <Command>Ggj/AAAEAAA=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>So, [1]while moving the Wii Remote[2],[0]press àJ or àK on the Nunchuk[0]or àC on the Wii Remote!</Original>
+    <Original>So, [1]while moving the Wii Remote[2],[0]press [3] or [4] on the Nunchuk[0]or [5] on the Wii Remote!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14274,10 +14338,14 @@
       <Command>Cg==</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
+      <Command>4Eo=</Command>
       <Command>Ggj/AAAIACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>[1]%  Tremolo[2] àBàJ[0]0 Makes last note from[0]0 the traditional[0]0 melody.[0][3]%  Muting[4] àCàK[0]0 Shortens note and[0]0 cuts off an extended[0]0 note when you play.</Original>
+    <Original>[1]  Tremolo[2] [3][4][0]0 Makes last note from[0]0 the traditional[0]0 melody.[0][5]  Muting[6] [7][8][0]0 Shortens note and[0]0 cuts off an extended[0]0 note when you play.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14292,18 +14360,23 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1761">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4Eo=</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADADA=</Command>
+      <Command>4EI=</Command>
+      <Command>4Eo=</Command>
     </Commands>
-    <Original>In the Chord part, àBàJ[0]have a different effect:[0][1]%  Arpeggio[2]0àBàJ[0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
+    <Original>In the Chord part, [1][2][0]have a different effect:[0][3]  Arpeggio[4][5][6][0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4259840" id="1762">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ek=</Command>
     </Commands>
-    <Original>Nunchuk àI Controls</Original>
+    <Original>Nunchuk [1] Controls</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14313,7 +14386,7 @@
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAOA=</Command>
     </Commands>
-    <Original>[1]%  Glissando [2]àI[0]0 Press up or down to[0]0 produce a string of[0]0 notes that rise or[0]0 fall.</Original>
+    <Original>[1]  Glissando [2]I[0]0 Press up or down to[0]0 produce a string of[0]0 notes that rise or[0]0 fall.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14360,8 +14433,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1769">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>%  Hold àB or àC while[0]0 moving the Wii[0]0 Remote to make[0]0 different sounds.[0]%  Hold àJ or àK while[0]0 moving the Nunchuk[0]0 to make different[0]0 sounds.</Original>
+    <Original>%  Hold [1] or [2] while[0]0 moving the Wii[0]0 Remote to make[0]0 different sounds.[0]%  Hold [3] or [4] while[0]0 moving the Nunchuk[0]0 to make different[0]0 sounds.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14408,8 +14485,9 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1775">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Hold down on àA, then[0]strum up and down[0]with the Wii Remote for[0]quick strumming. This[0]lets upward strums[0]make sound, too.</Original>
+    <Original>Hold down on [1], then[0]strum up and down[0]with the Wii Remote for[0]quick strumming. This[0]lets upward strums[0]make sound, too.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14426,12 +14504,16 @@
       <Command>Cg==</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
       <Command>Ggj/AAAIACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
       <Command>Ggj/AAAEACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4Eo=</Command>
     </Commands>
-    <Original>[1]%  Tremolo[2] àB[0]0 Makes last note from[0]0 the typical melody.[0][3]%  Muting[4] àCàK[0]0 Shortens extended[0]0 notes.[0][5]%  Chord Control[6] àJ[0]0 Plays all chord notes.</Original>
+    <Original>[1]  Tremolo[2] [3][0]0 Makes last note from[0]0 the typical melody.[0][4]  Muting[5] [6][7][0]0 Shortens extended[0]0 notes.[0][8]  Chord Control[9] [10][0]0 Plays all chord notes.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14446,18 +14528,23 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1779">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4Eo=</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
+      <Command>4Eo=</Command>
     </Commands>
-    <Original>In the Chord part, àBàJ[0]have a different effect:[0][1]%  Arpeggio[2] àBàJ[0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
+    <Original>In the Chord part, [1][2][0]have a different effect:[0][3]  Arpeggio[4] [5][6][0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4259840" id="1780">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ek=</Command>
     </Commands>
-    <Original>Nunchuk àI Controls</Original>
+    <Original>Nunchuk [1] Controls</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14467,7 +14554,7 @@
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAOA=</Command>
     </Commands>
-    <Original>[1]%  Pitch Shifting [2]àI[0]0 Press up to lower[0]0 the pitch and down[0]0 to raise the pitch.</Original>
+    <Original>[1]  Pitch Shifting [2]I[0]0 Press up to lower[0]0 the pitch and down[0]0 to raise the pitch.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14482,8 +14569,13 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1783">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Hold the Wii Remote as[0]if blowing on a trumpet,[0]with àA facing up. Use[0]your left hand to press[0]àB and àC, and your right[0]hand to press àG and àH.[0]You won't use the[0]Nunchuk.</Original>
+    <Original>Hold the Wii Remote as[0]if blowing on a trumpet,[0]with [1] facing up. Use[0]your left hand to press[0][2] and [3], and your right[0]hand to press [4] and [5].[0]You won't use the[0]Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14498,8 +14590,10 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1785">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Press àG or àH to make[0]sound. Tilting the Wii[0]Remote will change the[0]volume. Lift its base[0]higher to raise the[0]volume, lower to[0]decrease the volume.</Original>
+    <Original>Press [1] or [2] to make[0]sound. Tilting the Wii[0]Remote will change the[0]volume. Lift its base[0]higher to raise the[0]volume, lower to[0]decrease the volume.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14516,10 +14610,11 @@
       <Command>Cg==</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
       <Command>Ggj/AAAIACU=</Command>
       <Command>Ggj/AAADAOA=</Command>
     </Commands>
-    <Original>[1]%  Tremolo[2] àB[0]0 Makes last note from[0]0 the traditional[0]0 melody.[0][3]%  Glissando/Trill [4]àC[0]0 Changes the pitch of[0]0 the note.</Original>
+    <Original>[1]  Tremolo[2] [3][0]0 Makes last note from[0]0 the traditional[0]0 melody.[0][4]  Glissando/Trill [5]C[0]0 Changes the pitch of[0]0 the note.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14534,10 +14629,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1789">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADADA=</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>In the Chord part, àB[0]has a different effect:[0][1]%  Arpeggio[2]0àB[0]0 Makes a note from [0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
+    <Original>In the Chord part, [1][0]has a different effect:[0][2]  Arpeggio[3][4][0]0 Makes a note from [0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14552,8 +14649,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1791">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>Hold the Wii Remote[0]sideways as if blowing[0]on a flute. Use your[0]right hand to press[0]àG and àH, and your[0]left hand to press[0]àB and àC. You won't[0]need the Nunchuk.</Original>
+    <Original>Hold the Wii Remote[0]sideways as if blowing[0]on a flute. Use your[0]right hand to press[0][1] and [2], and your[0]left hand to press[0][3] and [4]. You won't[0]need the Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14568,8 +14669,10 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1793">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Press àG or àH to make[0]sound. Tilting the Wii[0]Remote will change the[0]volume. Tilt it back[0]to raise the volume,[0]down to decrease the[0]volume.</Original>
+    <Original>Press [1] or [2] to make[0]sound. Tilting the Wii[0]Remote will change the[0]volume. Tilt it back[0]to raise the volume,[0]down to decrease the[0]volume.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14586,10 +14689,11 @@
       <Command>Cg==</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
       <Command>Ggj/AAAIACU=</Command>
       <Command>Ggj/AAADAOA=</Command>
     </Commands>
-    <Original>[1]%  Tremolo[2] àB[0]0 Makes last note from[0]0 the traditional[0]0 melody.[0][3]%  Glissando/Trill [4]àC[0]0 Changes the pitch of[0]0 the note.</Original>
+    <Original>[1]  Tremolo[2] [3][0]0 Makes last note from[0]0 the traditional[0]0 melody.[0][4]  Glissando/Trill [5]C[0]0 Changes the pitch of[0]0 the note.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14604,10 +14708,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1797">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>In the Chord part, àB[0]has a different effect:[0][1]%  Arpeggio[2] àB[0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
+    <Original>In the Chord part, [1][0]has a different effect:[0][2]  Arpeggio[3] [4][0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14638,8 +14744,11 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1801">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>While moving the Wii[0]Remote back and forth[0]like a violin bow,[0]press àJ or àK on the[0]Nunchuk, or àC on the[0]Wii Remote, to make[0]sound.</Original>
+    <Original>While moving the Wii[0]Remote back and forth[0]like a violin bow,[0]press [1] or [2] on the[0]Nunchuk, or [3] on the[0]Wii Remote, to make[0]sound.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14656,8 +14765,9 @@
       <Command>Cg==</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAAA=</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>[1]%  Tremolo[2] àB[0]0 Makes last note from[0]0 the traditional[0]0 melody.</Original>
+    <Original>[1]  Tremolo[2] [3][0]0 Makes last note from[0]0 the traditional[0]0 melody.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14672,18 +14782,21 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1805">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADADA=</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>In the Chord part, what[0]àB does is different.[0][1]%  Arpeggio[2]0àB[0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
+    <Original>In the Chord part, what[0][1] does is different.[0][2]  Arpeggio[3][4][0]0 Makes a note from[0]0 the chord one at a[0]0 time rather than all[0]0 at once.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4259840" id="1806">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ek=</Command>
     </Commands>
-    <Original>Nunchuk àI Controls</Original>
+    <Original>Nunchuk [1] Controls</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14693,7 +14806,7 @@
       <Command>Ggj/AAAHACU=</Command>
       <Command>Ggj/AAADAOA=</Command>
     </Commands>
-    <Original>[1]%  Double Stop [2]àI[0]0 Press up to add an[0]0 additional note.</Original>
+    <Original>[1]  Double Stop [2]I[0]0 Press up to add an[0]0 additional note.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14740,8 +14853,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1813">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>àBàCàJàK[0]Swinging while pressing[0]a button makes[0]different rap sounds.</Original>
+    <Original>[1][2][3][4][0]Swinging while pressing[0]a button makes[0]different rap sounds.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14788,8 +14905,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1819">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>àBàCàJàK[0]Swinging while pressing[0]a button makes[0]different sounds.</Original>
+    <Original>[1][2][3][4][0]Swinging while pressing[0]a button makes[0]different sounds.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14836,8 +14957,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1825">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>àBàCàJàK[0]Swinging while pressing[0]a button makes[0]different sounds.</Original>
+    <Original>[1][2][3][4][0]Swinging while pressing[0]a button makes[0]different sounds.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14884,8 +15009,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1831">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Eo=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>àBàCàJàK[0]Hold a button to make[0]the DJ drumbeat[0]pause. Move the[0]controller while[0]pressing a button to[0]make different sounds.</Original>
+    <Original>[1][2][3][4][0]Hold a button to make[0]the DJ drumbeat[0]pause. Move the[0]controller while[0]pressing a button to[0]make different sounds.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14900,8 +15029,10 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1833">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
+      <Command>4Ek=</Command>
     </Commands>
-    <Original>Press down on àA or àI[0]to stop the DJ[0]drumbeat. Move the Wii[0]Remote or Nunchuk to[0]the side to start it[0]again.</Original>
+    <Original>Press down on [1] or [2][0]to stop the DJ[0]drumbeat. Move the Wii[0]Remote or Nunchuk to[0]the side to start it[0]again.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14916,8 +15047,12 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1835">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Hold the Wii Remote as[0]if blowing a whistle.[0]Then use your left[0]hand to press àB and àC,[0]and your right to[0]press àG and àH. You[0]won't use the Nunchuk.</Original>
+    <Original>Hold the Wii Remote as[0]if blowing a whistle.[0]Then use your left[0]hand to press [1] and [2],[0]and your right to[0]press [3] and [4]. You[0]won't use the Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14932,8 +15067,10 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1837">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Ec=</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>Press àG or àH to make[0]sound. Tilting the Wii[0]Remote will change the[0]volume. Lift its base[0]higher to raise the[0]volume, lower to[0]decrease the volume.</Original>
+    <Original>Press [1] or [2] to make[0]sound. Tilting the Wii[0]Remote will change the[0]volume. Lift its base[0]higher to raise the[0]volume, lower to[0]decrease the volume.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -14948,8 +15085,10 @@
   <Sentence Empty="False" I1="0" I2="4259840" id="1839">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>Playing while pressing[0]àB or àC makes different[0]sounds.</Original>
+    <Original>Playing while pressing[0][1] or [2] makes different[0]sounds.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -15504,16 +15643,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="1909">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Hold down àK and swing the[0]Nunchuk.</Original>
+    <Original>Hold down [1] and swing the[0]Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="1910">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Hold àK and swing[0]the Nunchuk.</Original>
+    <Original>Hold [1] and swing[0]the Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -16119,16 +16260,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="1986">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Hold down àB and swing the Wii[0]Remote.</Original>
+    <Original>Hold down [1] and swing the Wii[0]Remote.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="1987">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Hold àB and swing[0]the Wii Remote!</Original>
+    <Original>Hold [1] and swing[0]the Wii Remote!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -16723,8 +16866,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2062">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Hold àB when you swing the Wii[0]Remote.</Original>
+    <Original>Hold [1] when you swing the Wii[0]Remote.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -16795,8 +16939,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2071">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>But holding down àB makes it a[0]little tricky, right?</Original>
+    <Original>But holding down [1] makes it a[0]little tricky, right?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -17291,16 +17436,18 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2133">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>Try swinging the Wii Remote with[0]àC held down.</Original>
+    <Original>Try swinging the Wii Remote with[0][1] held down.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="2134">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>Hold àC. Swing[0]the Wii Remote!</Original>
+    <Original>Hold [1]. Swing[0]the Wii Remote!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -17475,16 +17622,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2156">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Swing the Wii Remote while[0]pressing up or down on àA.</Original>
+    <Original>Swing the Wii Remote while[0]pressing up or down on [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2157">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Hold up or down[0]on àA and swing!</Original>
+    <Original>Hold up or down[0]on [1] and swing!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -17499,8 +17648,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2159">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Holding up OR down on àA is fine.[0]Whatever is easier for you!</Original>
+    <Original>Holding up OR down on [1] is fine.[0]Whatever is easier for you!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -17523,16 +17673,18 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2162">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Swing the Wii Remote while[0]pressing left on àA.</Original>
+    <Original>Swing the Wii Remote while[0]pressing left on [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="2163">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Hold left on àA[0]and swing!</Original>
+    <Original>Hold left on [1][0]and swing!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -17563,16 +17715,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2167">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Swing the Wii Remote while[0]pressing right on àA.</Original>
+    <Original>Swing the Wii Remote while[0]pressing right on [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="2168">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EE=</Command>
     </Commands>
-    <Original>Hold right on àA[0]and swing!</Original>
+    <Original>Hold right on [1][0]and swing!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -17731,8 +17885,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2188">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Eg=</Command>
     </Commands>
-    <Original>If you're having trouble, slow the[0]tempo with àH and listen carefully[0]to the sample.</Original>
+    <Original>If you're having trouble, slow the[0]tempo with [1] and listen carefully[0]to the sample.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18341,8 +18496,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2267">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>The electric bass will groove to an[0]eight-beat pattern. While playing,[0]hold àB for that steady rock sound.</Original>
+    <Original>The electric bass will groove to an[0]eight-beat pattern. While playing,[0]hold [1] for that steady rock sound.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18473,8 +18629,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2284">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>You'll play the electric guitar. Now,[0]you don't want to steal attention[0]from the Melody, so cut any[0]really long notes short with àK.</Original>
+    <Original>You'll play the electric guitar. Now,[0]you don't want to steal attention[0]from the Melody, so cut any[0]really long notes short with [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18569,8 +18726,10 @@
   <Sentence Empty="False" I1="12" I2="4587520" id="2296">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Cut off notes[0]with àC or àK.</Original>
+    <Original>Cut off notes[0]with [1] or [2].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18663,8 +18822,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2307">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>To remove band parts, point at a[0]part while on the Instrument[0]Selection screen, then press àC.</Original>
+    <Original>To remove band parts, point at a[0]part while on the Instrument[0]Selection screen, then press [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18834,16 +18994,19 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2328">
     <Commands>
       <Command>Cg==</Command>
+      <Command>/yI=</Command>
     </Commands>
-    <Original>As you play the electric bass,[0]you'll see [ÿ"] markers on the[0]guide. These show where you[0]want to cut notes short...</Original>
+    <Original>As you play the electric bass,[0]you'll see [[1]] markers on the[0]guide. These show where you[0]want to cut notes short...</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2329">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>To cut a note short, press àC on[0]the Wii Remote or àK on the[0]Nunchuk.</Original>
+    <Original>To cut a note short, press [1] on[0]the Wii Remote or [2] on the[0]Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18865,8 +19028,10 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2332">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4Es=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>If you do try it, I'd say you should[0]use àK on the Nunchuk to cut[0]notes short. I find it easier than àC[0]on the Wii Remote.</Original>
+    <Original>If you do try it, I'd say you should[0]use [1] on the Nunchuk to cut[0]notes short. I find it easier than [2][0]on the Wii Remote.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18889,8 +19054,10 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2335">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>When playing the vibraphone, you[0]can cut off a long note by[0]pressing àC on the Wii Remote or[0]àK on the Nunchuk.</Original>
+    <Original>When playing the vibraphone, you[0]can cut off a long note by[0]pressing [1] on the Wii Remote or[0][2] on the Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -18945,8 +19112,10 @@
   <Sentence Empty="False" I1="12" I2="4587520" id="2342">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Cut long notes[0]with àC or àK.</Original>
+    <Original>Cut long notes[0]with [1] or [2].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19023,8 +19192,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2352">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>It's simple, so if you want to cut[0]practice short, press àE to go to[0]the menu, then select Next.</Original>
+    <Original>It's simple, so if you want to cut[0]practice short, press [1] to go to[0]the menu, then select Next.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19254,8 +19424,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2381">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>It's simple, so if you want to cut[0]practice short, press àE to go to[0]the menu, then select Next.</Original>
+    <Original>It's simple, so if you want to cut[0]practice short, press [1] to go to[0]the menu, then select Next.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19278,16 +19449,20 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2384">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>It's a great technique! And shorten[0]notes by holding àC or àK the whole[0]time. Make those notes really skip!</Original>
+    <Original>It's a great technique! And shorten[0]notes by holding [1] or [2] the whole[0]time. Make those notes really skip!</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2385">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>When using the vibraphone here,[0]cut those long notes short[0]by using àC on the Wii Remote or[0]àK on the Nunchuk.</Original>
+    <Original>When using the vibraphone here,[0]cut those long notes short[0]by using [1] on the Wii Remote or[0][2] on the Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19342,8 +19517,10 @@
   <Sentence Empty="False" I1="12" I2="4587520" id="2392">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Use àC or àK to[0]cut off notes.</Original>
+    <Original>Use [1] or [2] to[0]cut off notes.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19429,8 +19606,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2403">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>It's quite easy, so if you want to[0]cut practice short, press àE to go[0]to the menu, then select Next.</Original>
+    <Original>It's quite easy, so if you want to[0]cut practice short, press [1] to go[0]to the menu, then select Next.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19556,8 +19734,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2419">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>It's simple, so if you want to cut[0]practice short, press àE to go to[0]the menu, then select Next.</Original>
+    <Original>It's simple, so if you want to cut[0]practice short, press [1] to go to[0]the menu, then select Next.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19715,8 +19894,10 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2439">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>But try to cut short the third note[0]using àC on the Wii Remote. Or àK[0]on the Nunchuk, which I prefer!</Original>
+    <Original>But try to cut short the third note[0]using [1] on the Wii Remote. Or [2][0]on the Nunchuk, which I prefer!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19731,16 +19912,20 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2441">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>You'll want crisp, muted chords, so[0]hold down àC or àK as you play!</Original>
+    <Original>You'll want crisp, muted chords, so[0]hold down [1] or [2] as you play!</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="10" I2="5242880" id="2442">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4Eo=</Command>
     </Commands>
-    <Original>With the steel drums, every now[0]and then hammer quickly while[0]holding àB or àJ to repeat a note[0]quickly. That's very reggae!</Original>
+    <Original>With the steel drums, every now[0]and then hammer quickly while[0]holding [1] or [2] to repeat a note[0]quickly. That's very reggae!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19771,8 +19956,10 @@
   <Sentence Empty="False" I1="12" I2="4587520" id="2446">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Make it crisp[0]with àC or àK.</Original>
+    <Original>Make it crisp[0]with [1] or [2].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -19929,8 +20116,10 @@
   <Sentence Empty="False" I1="12" I2="4587520" id="2466">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Try àC and àK, too!</Original>
+    <Original>Try [1] and [2], too!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20039,8 +20228,10 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2480">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>When using the upright bass for[0]this style, keep its notes clean and[0]crisp. So hold àC or àK, OK?</Original>
+    <Original>When using the upright bass for[0]this style, keep its notes clean and[0]crisp. So hold [1] or [2], OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20340,24 +20531,28 @@
   <Sentence Empty="False" I1="10" I2="5242880" id="2518">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EU=</Command>
     </Commands>
-    <Original>Adding in the hand clap is simple.[0]So, once you've got the pattern,[0]feel free to press àE to skip ahead.</Original>
+    <Original>Adding in the hand clap is simple.[0]So, once you've got the pattern,[0]feel free to press [1] to skip ahead.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2519">
     <Commands>
       <Command>Cg==</Command>
+      <Command>/yI=</Command>
     </Commands>
-    <Original>With the galactic bass, cut notes[0]short to give things a cool groove.[0]The [ÿ"] icons on the music-flow[0]guide tell you exactly when.</Original>
+    <Original>With the galactic bass, cut notes[0]short to give things a cool groove.[0]The [[1]] icons on the music-flow[0]guide tell you exactly when.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2520">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>To cut off a note, press àC on the[0]Wii Remote or àK on the Nunchuk.</Original>
+    <Original>To cut off a note, press [1] on the[0]Wii Remote or [2] on the Nunchuk.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20412,8 +20607,10 @@
   <Sentence Empty="False" I1="12" I2="4587520" id="2527">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
+      <Command>4Es=</Command>
     </Commands>
-    <Original>Cut with àC or àK.</Original>
+    <Original>Cut with [1] or [2].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20500,12 +20697,13 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2538">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Have you noticed that Be-Bops[0]change to àp, [1]àq[2], and [3]àr[4]?</Original>
+    <Original>Have you noticed that Be-Bops[0]change to [1], [2]q[3], and [4]r[5]?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20748,8 +20946,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2566">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
     </Commands>
-    <Original>But let's learn the pattern you'll[0]use when you see àp Be-Bops.</Original>
+    <Original>But let's learn the pattern you'll[0]use when you see [1] Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20764,8 +20963,9 @@
   <Sentence Empty="False" I1="0" I2="4587520" id="2568">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
     </Commands>
-    <Original>Ease up for àp.</Original>
+    <Original>Ease up for [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20785,7 +20985,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>When you see [1]àr[2] or [3]àq[4] Be-Bops,[0]pick up the pace!</Original>
+    <Original>When you see [1]r[2] or [3]q[4] Be-Bops,[0]pick up the pace!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20797,7 +20997,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Only for [1]àr[2] or [3]àq[4].</Original>
+    <Original>Only for [1]r[2] or [3]q[4].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20819,12 +21019,13 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2574">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Ease it up for àp Be-Bops. Pick up[0]the pace for [1]àr[2] and [3]àq[4] Be-Bops.</Original>
+    <Original>Ease it up for [1] Be-Bops. Pick up[0]the pace for [2]r[3] and [4]q[5] Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20860,27 +21061,29 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>So, when you see [1]àq[2] Be-Bops,[0]that's when you ease up.</Original>
+    <Original>So, when you see [1]q[2] Be-Bops,[0]that's when you ease up.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="10" I2="5242880" id="2579">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>But let's start with the pattern[0]you'll use for most of the song,[0]when you see àp and [1]àr[2] Be-Bops.</Original>
+    <Original>But let's start with the pattern[0]you'll use for most of the song,[0]when you see [1] and [2]r[3] Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="2580">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Only for àp and [1]àr[2]!</Original>
+    <Original>Only for [1] and [2]r[3]!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20898,7 +21101,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>So switch to this pattern when[0]you see [1]àq[2] Be-Bops.</Original>
+    <Original>So switch to this pattern when[0]you see [1]q[2] Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20908,7 +21111,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Only for [1]àq[2]!</Original>
+    <Original>Only for [1]q[2]!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20918,7 +21121,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>So, you ease off with that pattern[0]only during [1]àq[2] Be-Bops, OK?</Original>
+    <Original>So, you ease off with that pattern[0]only during [1]q[2] Be-Bops, OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20939,7 +21142,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>You'll mostly ease it up, then pick[0]up the pace during [1]àr [2]Be-Bops.</Original>
+    <Original>You'll mostly ease it up, then pick[0]up the pace during [1]r [2]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20954,10 +21157,11 @@
   <Sentence Empty="False" I1="0" I2="4587520" id="2588">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Only for àp and [1]àq[2].</Original>
+    <Original>Only for [1] and [2]q[3].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20967,7 +21171,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Now let's try the pattern you'll use[0]to pick up the pace for [1]àr [2]Be-Bops!</Original>
+    <Original>Now let's try the pattern you'll use[0]to pick up the pace for [1]r [2]Be-Bops!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20977,7 +21181,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Only for [1]àr[2]!</Original>
+    <Original>Only for [1]r[2]!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -20987,7 +21191,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>You'll usually ease it up, then pick[0]up the pace for [1]àr[2] Be-Bops, OK?</Original>
+    <Original>You'll usually ease it up, then pick[0]up the pace for [1]r[2] Be-Bops, OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21005,8 +21209,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2593">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
     </Commands>
-    <Original>Rest during the àp Be-Bops. That's[0]right, don't play at all.</Original>
+    <Original>Rest during the [1] Be-Bops. That's[0]right, don't play at all.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21018,27 +21223,29 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Switch to this next pattern only[0]during [1]àr [2]and [3]àq [4]Be-Bops.</Original>
+    <Original>Switch to this next pattern only[0]during [1]r [2]and [3]q [4]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="4587520" id="2595">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
     </Commands>
-    <Original>Don't play[0]during àp.</Original>
+    <Original>Don't play[0]during [1].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="10" I2="5242880" id="2596">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>We won't play during àp Be-Bops[0]at the beginning, then we'll play[0]ONLY during [1]àr [2]and [3]àq [4]Be-Bops.</Original>
+    <Original>We won't play during [1] Be-Bops[0]at the beginning, then we'll play[0]ONLY during [2]r [3]and [4]q [5]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21059,17 +21266,18 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Rest during [1]àq [2]Be-Bops. Don't play[0]at all, OK?</Original>
+    <Original>Rest during [1]q [2]Be-Bops. Don't play[0]at all, OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2599">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>But play this next pattern during[0]àp and [1]àr [2]Be-Bops.</Original>
+    <Original>But play this next pattern during[0][1] and [2]r [3]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21079,19 +21287,20 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Don't play[0]during [1]àq[2].</Original>
+    <Original>Don't play[0]during [1]q[2].</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="10" I2="5242880" id="2601">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>We'll play during àp and [1]àr[2] Be-Bops,[0]then stop during [3]àq [4]Be-Bops. OK?</Original>
+    <Original>We'll play during [1] and [2]r[3] Be-Bops,[0]then stop during [4]q [5]Be-Bops. OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21119,7 +21328,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>You won't play for most of the[0]song, but then you'll come in[0]during [1]àr [2]Be-Bops.</Original>
+    <Original>You won't play for most of the[0]song, but then you'll come in[0]during [1]r [2]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21137,7 +21346,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Only for [1]àr[2]!</Original>
+    <Original>Only for [1]r[2]!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21147,7 +21356,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Play only during [1]àr [2]Be-Bops. Then[0]rest until the end of the song.[0]Your patience will be rewarded,[0]because this is so effective!</Original>
+    <Original>Play only during [1]r [2]Be-Bops. Then[0]rest until the end of the song.[0]Your patience will be rewarded,[0]because this is so effective!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21216,8 +21425,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2615">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4HA=</Command>
     </Commands>
-    <Original>But you'll rest during àp Be-Bops!</Original>
+    <Original>But you'll rest during [1] Be-Bops!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21230,7 +21440,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>When playing the [1][2][3][0]in this part, DON'T play when you[0]see [4]àq [5]Be-Bops.</Original>
+    <Original>When playing the [1][2][3][0]in this part, DON'T play when you[0]see [4]q [5]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21251,7 +21461,7 @@
       <Command>Ggj/AAAEAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Play the [1][2][3][0]only during [4]àr [5]Be-Bops.</Original>
+    <Original>Play the [1][2][3][0]only during [4]r [5]Be-Bops.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21311,7 +21521,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Repeat this pattern until the[0][1]àq [2]Be-Bops appear.</Original>
+    <Original>Repeat this pattern until the[0][1]q [2]Be-Bops appear.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21321,7 +21531,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>Play this until [1]àq[2].</Original>
+    <Original>Play this until [1]q[2].</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21339,7 +21549,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>So switch to this pattern from[0]when you first see [1]àq [2]Be-Bops[0]through the end of the song.</Original>
+    <Original>So switch to this pattern from[0]when you first see [1]q [2]Be-Bops[0]through the end of the song.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21357,7 +21567,7 @@
       <Command>Ggj/AAAIAOA=</Command>
       <Command>Ggj/AAADAAA=</Command>
     </Commands>
-    <Original>So, you'll play double-tempo from[0]when you see [1]àq [2]Be-Bops to the[0]end, OK?</Original>
+    <Original>So, you'll play double-tempo from[0]when you see [1]q [2]Be-Bops to the[0]end, OK?</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21388,16 +21598,18 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2634">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>In parts of the rock lesson, we[0]look at using àB, and dropping out[0]some notes with the rock drums.</Original>
+    <Original>In parts of the rock lesson, we[0]look at using [1], and dropping out[0]some notes with the rock drums.</Original>
     <Translation>
     </Translation>
   </Sentence>
   <Sentence Empty="False" I1="0" I2="5242880" id="2635">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Pressing àB with any percussion[0]instrument is great during key[0]song transitions.</Original>
+    <Original>Pressing [1] with any percussion[0]instrument is great during key[0]song transitions.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21436,8 +21648,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2640">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>In parts of the march lesson, we[0]try using àC with the snare drum to[0]create "buildup" in the song.</Original>
+    <Original>In parts of the march lesson, we[0]try using [1] with the snare drum to[0]create "buildup" in the song.</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21572,8 +21785,9 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2657">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
     </Commands>
-    <Original>Unlike in other styles, put your àB[0]accent on the fourth Be-Bop, not[0]the first. This can be tricky!</Original>
+    <Original>Unlike in other styles, put your [1][0]accent on the fourth Be-Bop, not[0]the first. This can be tricky!</Original>
     <Translation>
     </Translation>
   </Sentence>
@@ -21596,8 +21810,10 @@
   <Sentence Empty="False" I1="0" I2="5242880" id="2660">
     <Commands>
       <Command>Cg==</Command>
+      <Command>4EI=</Command>
+      <Command>4EM=</Command>
     </Commands>
-    <Original>You can also expand on the[0]downbeat electronic style using[0]àB and àC on the DJ turntables[0]to stop the beat.</Original>
+    <Original>You can also expand on the[0]downbeat electronic style using[0][1] and [2] on the DJ turntables[0]to stop the beat.</Original>
     <Translation>
     </Translation>
   </Sentence>
