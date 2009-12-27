@@ -5,6 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Serialization;
+using System.Diagnostics;
 
 namespace BMG.WiiMusic
 {
@@ -103,7 +104,7 @@ namespace BMG.WiiMusic
 					Commands.Add(Extension.BytesToString(cmd));
 					sb.AppendFormat("[{0}]", Commands.Count - 1);
 
-					p = p + len - 1;
+					p = p + len;
 				}
 				else if (b == 0x0A)
 				{
@@ -116,6 +117,17 @@ namespace BMG.WiiMusic
 					{
 						sb.Append(Encoding.UTF8.GetString(binData, p, 3));
 						p += 3;
+					}
+					else if(b==0xE0||b==0xFF)
+					{
+						int len = 2;
+						byte[] cmd = new byte[len];
+						Array.Copy(binData, p, cmd, 0, len);
+
+						Commands.Add(Extension.BytesToString(cmd));
+						sb.AppendFormat("[{0}]", Commands.Count - 1);
+
+						p = p + 2;
 					}
 					else
 					{
@@ -131,6 +143,15 @@ namespace BMG.WiiMusic
 			}
 
 			_original = sb.ToString();
+		}
+
+		private static bool IsCharacter(char c)
+		{
+			return char.IsLetterOrDigit(c)
+				|| char.IsSeparator(c)
+				|| char.IsSymbol(c)
+				|| char.IsWhiteSpace(c)
+				|| char.IsPunctuation(c);
 		}
 
 		public Sentence_WM(XmlElement element)
