@@ -3677,7 +3677,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who was that on the phone, Ash?[1]It was Jessica.[2]Who's that?[3]She's my aunt. She took me in and raised me[4]after my mom died.[5]She knows me better than anyone else in the[6]whole world.[7]So she's like your mom?[8]No no, she's not my mom. Jessica is...she's [9]just Jessica.[10]Uh, I don't follow.[11]It's okay, you don't need to understand it.[12]...?[13]Anyway, what do you want to do now?[14]Let's take another look on the computer.[15]Well, it's not like he has any games on it...[16]Weren't there lots of icons on the screen?[17]You know, ones like "Water" and "Notes"...[18]Water and Notes...[19]Well?[20]What d'you think they are?[21]</Original>
-    <Translation>[0]小蕾，刚刚是谁的电话？[1]是杰西卡。[2]她是谁？[3]我姑姑。妈妈去世以后就是由她[4]抚养长大的。[5]她是这个世界上最了解[6]我的人。[7]就是说她像你的亲生母亲？[8]喔不，她不是我妈妈。杰西卡是……她 [9]就是杰西卡。[10]呃，我有点混乱了。[11]没关系啦，你也没必要弄清楚。[12]……？[13]好吧，你现在想干什么？[14]让我们来看看电脑里的其他东西。[15]恩，看上去他没安装游戏……[16]桌面上怎么有很多小图标？[17]You know, ones like "Water" and "Notes"...[18]Water and Notes...[19]Well?[20]What d'you think they are?[21]</Translation>
+    <Translation>[0]小蕾，刚刚是谁的电话？[1]是杰西卡。[2]她是谁？[3]我姑姑。妈妈去世以后就是由她[4]抚养长大的。[5]她是这个世界上最了解[6]我的人。[7]就是说她像你的亲生母亲？[8]喔不，她不是我妈妈。杰西卡是……她 [9]就是杰西卡。[10]呃，我有点混乱了。[11]没关系啦，你也没必要弄清楚。[12]……？[13]好吧，你现在想干什么？[14]让我们来看看电脑里的其他东西。[15]恩，看上去他没安装游戏……[16]桌面上怎么有很多小图标？[17]瞧，一些像是“水滴”和“便签”的东西18]水滴和便签……[19]怎么了？[20]你觉得它们是什么？[21]</Translation>
   </Sentence>
   <Sentence id="263">
     <Commands>
@@ -3686,8 +3686,7 @@
       <Command>ChoFAAABChoNAAAVBAAAAAAAAAAKGgwAAAgEAKsAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ash![1]Let's look at the stuff on the computer![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]让我们看看计算机上的东西！[2]</Translation>
   </Sentence>
   <Sentence id="264">
     <Commands>
@@ -3696,8 +3695,7 @@
       <Command>ChoFAAABChoNAAAVBAAAAAAAAAAKGgwAAAgEAKsAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ash![1]Let's look at the stuff on the computer![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]让我们看看计算机上的东西！[2]</Translation>
   </Sentence>
   <Sentence id="265">
     <Commands>
@@ -3706,8 +3704,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I'd better answer the phone.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我应该接听电话。[2]</Translation>
   </Sentence>
   <Sentence id="266">
     <Commands>
@@ -3715,8 +3712,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, the phone's ringing.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，电话响了。[1]</Translation>
   </Sentence>
   <Sentence id="267">
     <Commands>
@@ -3725,8 +3721,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I'd better answer the phone.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我应该接听电话。[2]</Translation>
   </Sentence>
   <Sentence id="268">
     <Commands>
@@ -3735,8 +3730,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I'd better answer the phone.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我应该接听电话。[2]</Translation>
   </Sentence>
   <Sentence id="269">
     <Commands>
@@ -3745,8 +3739,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I'd better answer the phone.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我应该接听电话。[2]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
@@ -3755,8 +3748,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I'd better answer the phone.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我应该接听电话。[2]</Translation>
   </Sentence>
   <Sentence id="271">
     <Commands>
@@ -3780,8 +3772,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, let's take a look at this.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好了，让我们来看看这个。[1]</Translation>
   </Sentence>
   <Sentence id="274">
     <Commands>
@@ -3789,8 +3780,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder why my dad's put this stuff in folders...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸为什么要把这个放文件夹里……[1]</Translation>
   </Sentence>
   <Sentence id="275">
     <Commands>
@@ -3798,8 +3788,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I haven't looked at everything yet.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我还没一一过目呢。[1]</Translation>
   </Sentence>
   <Sentence id="276">
     <Commands>
@@ -3814,8 +3803,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]An e-mail![1]I wonder who it's from...[2]Oh yeah, Jessica was saying...[3]Dad started working at JC Valley because of[4]an e-mail he got.[5]I wonder who wrote it.[6]I know I shouldn't...[7]But I really want to know what's in it.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有封邮件！[1]I wonder who it's from...[2]Oh yeah, Jessica was saying...[3]Dad started working at JC Valley because of[4]an e-mail he got.[5]I wonder who wrote it.[6]I know I shouldn't...[7]But I really want to know what's in it.[8]</Translation>
   </Sentence>
   <Sentence id="277">
     <Commands>
