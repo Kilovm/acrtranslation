@@ -401,26 +401,42 @@ namespace BMG
         {
             if (e.Button == MouseButtons.Right && googleTranslateToolStripMenuItem.Checked)
             {
-                if (dictForm == null)
-                {
-                    dictForm = new DictForm();
-                }
+                string text = tbTranslation.SelectedText;
 
-                string text;
-
-                if (string.IsNullOrEmpty(tbTranslation.SelectedText))
+                if (string.IsNullOrEmpty(text))
                 {
                     text = tbTranslation.Text;
                 }
-                else
+
+                ShowDictForm(text);
+            }
+        }
+
+        private void ShowDictForm(string text)
+        {
+            if (dictForm == null)
+            {
+                dictForm = new DictForm();
+            }
+
+            text = regex.Replace(text, " ");
+
+            dictForm.Translation(text);
+            dictForm.Show();
+        }
+
+        private void tbOriginal_MouseUp(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Right && googleTranslateToolStripMenuItem.Checked)
+            {
+                string text = tbOriginal.SelectedText;
+
+                if (string.IsNullOrEmpty(text))
                 {
-                    text = tbTranslation.SelectedText;
+                    text = tbOriginal.Text;
                 }
 
-                text =regex.Replace(text, " ");
-
-                dictForm.Translation(text);
-                dictForm.Show();
+                ShowDictForm(text);
             }
         }
 	}
