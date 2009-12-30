@@ -27,6 +27,7 @@ namespace BMG
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
+            tbOriginal.ContextMenu = new ContextMenu();
 		}
 
 		private void exitToolStripMenuItem_Click(object sender, EventArgs e)
