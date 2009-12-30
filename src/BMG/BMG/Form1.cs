@@ -14,6 +14,9 @@ namespace BMG
 	{
 		protected BMG bmg = null;
 		protected int currentIndex = -1;
+        protected bool googleTranslateEnabled = false;
+
+        protected DictForm dictForm = null;
 
         Regex regex = new Regex(@"(\[\d+\])");
 
@@ -379,5 +382,46 @@ namespace BMG
 				MessageBox.Show(string.Format("{0} occurrences replaced.", n));
 			}
 		}
+
+        private void googleTranslateToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            googleTranslateEnabled = !googleTranslateEnabled;
+
+            googleTranslateToolStripMenuItem.Checked = googleTranslateEnabled;
+
+            if (!googleTranslateEnabled && dictForm != null)
+            {
+                dictForm.Hide();
+                dictForm.Dispose();
+                dictForm = null;
+            }
+        }
+
+        private void tbTranslation_MouseUp(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Right && googleTranslateToolStripMenuItem.Checked)
+            {
+                if (dictForm == null)
+                {
+                    dictForm = new DictForm();
+                }
+
+                string text;
+
+                if (string.IsNullOrEmpty(tbTranslation.SelectedText))
+                {
+                    text = tbTranslation.Text;
+                }
+                else
+                {
+                    text = tbTranslation.SelectedText;
+                }
+
+                text =regex.Replace(text, " ");
+
+                dictForm.Translation(text);
+                dictForm.Show();
+            }
+        }
 	}
 }
