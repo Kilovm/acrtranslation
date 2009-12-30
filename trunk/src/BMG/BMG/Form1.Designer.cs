@@ -259,6 +259,7 @@
             this.tbOriginal.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.tbOriginal.Size = new System.Drawing.Size(389, 239);
             this.tbOriginal.TabIndex = 1;
+            this.tbOriginal.MouseUp += new System.Windows.Forms.MouseEventHandler(this.tbOriginal_MouseUp);
             // 
             // tbNextOriginal
             // 

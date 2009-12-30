@@ -48,7 +48,7 @@
             this.Controls.Add(this.tbText);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Name = "DictForm";
-            this.Text = "DictForm";
+            this.Text = "Google Translate";
             this.TopMost = true;
             this.Load += new System.EventHandler(this.DictForm_Load);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.DictForm_FormClosing);
