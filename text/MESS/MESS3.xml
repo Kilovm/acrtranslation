@@ -2660,7 +2660,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]crest[2] on the clock tower [3]door.[4]It has a flower, a moon and a sword [5]on it.[6]That crest...[7]</Original>
-    <Translation>[0]有个 [1]纹饰[2] 刻在钟楼的 [3]门上。[4]上面有花、月亮和剑[5]。[6]那个纹饰……[7]</Translation>
+    <Translation>[0]有个 [1]饰章[2] 刻在钟楼的 [3]门上。[4]上面有花、月亮和剑[5]。[6]那个饰章……[7]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2678,7 +2678,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]So that was it...[1]The place with the crest was the clock tower[2]door.[3]</Original>
-    <Translation>[0]那就对了……[1]有这种纹饰的地方就是钟楼的[2]门。[3]</Translation>
+    <Translation>[0]那就对了……[1]有这种饰章的地方就是钟楼的[2]门。[3]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -4110,7 +4110,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait...[1]I should look at the computer again.[2]</Original>
-    <Translation>[0]Wait...[1]I should look at the computer again.[2]</Translation>
+    <Translation>[0]等等……[1]我得再看一下屏幕。[2]</Translation>
   </Sentence>
   <Sentence id="307">
     <Commands>
@@ -4119,8 +4119,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait...[1]I should take another look at the DAS.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等……[1]我得再看看DAS。[2]</Translation>
   </Sentence>
   <Sentence id="308">
     <Commands>
@@ -4141,8 +4140,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went looking for Matt after he ran away from[1]the boathouse.[2]Then I reached an old cottage by the lake.[3]It's empty now, but a photographer from the[4]city used to live there.[5]What was his name?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我一直在找马修，他离开了[1]船屋。[2]后来我就到了湖边的一座旧屋子。[3]现在里面空空如也，但当时一位从城市来的[4]摄影师住那儿。[5]他叫什么名字？[6]</Translation>
   </Sentence>
   <Sentence id="310">
     <Commands>
@@ -4150,8 +4148,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dan Maxwell[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丹·玛克斯韦尔 [1]</Translation>
   </Sentence>
   <Sentence id="311">
     <Commands>
@@ -4159,8 +4156,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Gilbert Moss[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉尔伯特·莫斯[1]</Translation>
   </Sentence>
   <Sentence id="312">
     <Commands>
@@ -4168,8 +4164,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]John Smith[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]约翰·史密斯 [1]</Translation>
   </Sentence>
   <Sentence id="313">
     <Commands>
@@ -4178,8 +4173,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]Dan didn't live in the old cottage...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]丹没有住过那间旧屋……[2]</Translation>
   </Sentence>
   <Sentence id="314">
     <Commands>
@@ -4190,8 +4184,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]The man who lived there was a photographer[2]called Gilbert Moss.[3]He moved here from New York.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的……[1]住小屋的是个摄影师[2]叫吉尔伯特·莫斯。[3]他从纽约搬来的。[4]</Translation>
   </Sentence>
   <Sentence id="315">
     <Commands>
@@ -4201,8 +4194,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]John Smith didn't live in the old cottage.[2]He's the man I met at the mermaid statue.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]约翰·史密斯没有住过那间旧屋。[2]我是在美人鱼雕像处遇到他的。[3]</Translation>
   </Sentence>
   <Sentence id="316">
     <Commands>
@@ -4214,8 +4206,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went on to Dad's cottage with Matt...[1]But on the way there I found myself at a[2]place where I'd seen Mom in a flashback.[3]She was in front of a door with a crest on it...[4]Where was the door with the crest?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我和马修一同去爸爸的小屋……[1]但是在去的路上我发现自己在[2]闪影中看见妈妈的地方。[3]她站在一扇有饰章的门前面……[4]有饰章的门在哪儿？[5]</Translation>
   </Sentence>
   <Sentence id="317">
     <Commands>
@@ -4223,8 +4214,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Boathouse[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]船屋[1]</Translation>
   </Sentence>
   <Sentence id="318">
     <Commands>
@@ -4232,8 +4222,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Old cottage[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]旧屋[1]</Translation>
   </Sentence>
   <Sentence id="319">
     <Commands>
@@ -4241,8 +4230,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Clock tower[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]钟楼[1]</Translation>
   </Sentence>
   <Sentence id="320">
     <Commands>
@@ -4252,8 +4240,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]The door with the crest wasn't at the[2]boathouse...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]有饰章的门不是[2]船屋的……[3]</Translation>
   </Sentence>
   <Sentence id="321">
     <Commands>
@@ -4263,8 +4250,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]The door with the crest wasn't at the old[2]cottage...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]有饰章的门不是旧[2]屋的……[3]</Translation>
   </Sentence>
   <Sentence id="322">
     <Commands>
@@ -4275,8 +4261,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]The door with the crest was the clock tower[2]door.[3]Mom was in front of that door.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]正是……[1]有饰章的门其实是钟楼的[2]门。[3]妈妈就在那扇门前。[4]</Translation>
   </Sentence>
   <Sentence id="323">
     <Commands>
@@ -4288,8 +4273,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I came to Lake Juliet, I suddenly[1]remembered my mom.[2]I need to assemble the fragments of memory[3]that keep appearing.[4]I need to remember her here 13 years ago.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当我来到朱丽叶湖的时候，突然就[1]想起了妈妈。[2]我需要收集持续闪现的[3]记忆碎片。[4]我需要记起13年前她在这里的事情。[5]</Translation>
   </Sentence>
   <Sentence id="324">
     <Commands>
@@ -4308,8 +4292,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I went down to the basement of the old[1]cottage, I saw an old photograph.[2]I remembered her standing somewhere and [3]smiling. Where was it?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当我走到旧屋的地下室时，[1]我看到了一张就照片。[2]我记得她微笑着站那儿。 [3]究竟是哪儿呢？[4]</Translation>
   </Sentence>
   <Sentence id="326">
     <Commands>
@@ -4318,8 +4301,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]It was in front of the mermaid statue.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的……[1]就是在美人鱼雕像前面。[2]</Translation>
   </Sentence>
   <Sentence id="327">
     <Commands>
@@ -4331,8 +4313,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the clock tower from[2]that photograph.[3]I remembered that when I saw the clock tower[4]from far away.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我不记得那张照片她是站在[2]钟楼前的。[3]当我看见远处钟楼的时候[4]想起来了。[5]</Translation>
   </Sentence>
   <Sentence id="328">
     <Commands>
@@ -4343,8 +4324,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the lakeside from[2]that photograph.[3]I remembered that when I first saw the lake.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我不记得那张照片她是站在[2]湖边的。[3]当我第一次看到湖的时候想起来了。[4]</Translation>
   </Sentence>
   <Sentence id="329">
     <Commands>
@@ -4355,8 +4335,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the campsite gate[2]from that photograph.[3]I remembered that when I first opened the gate.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我不记得那张照片她在[2]营地门口。[3]当我第一次打开大门时想起来了。[4]</Translation>
   </Sentence>
   <Sentence id="330">
     <Commands>
@@ -4368,8 +4347,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the villa from that[2]photograph.[3]I remembered that when Tommy showed me the[4]villa photo.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我不记得那张照片她是在[2]别墅的。[3]当汤米给我看别墅的照片时[4]想起来了。[5]</Translation>
   </Sentence>
   <Sentence id="331">
     <Commands>
@@ -4381,8 +4359,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her by the wall with the JC[2]Valley logo from that photograph.[3]I remembered that when I saw the logo on the[4]music player.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我不记得那张照片她在标有JC[2]山谷标志的围墙边。[3]当我看到音乐播放器上的标志时[4]想起来了。[5]</Translation>
   </Sentence>
   <Sentence id="332">
     <Commands>
@@ -4392,8 +4369,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I was at the mermaid statue, I remembered[1]a man standing there.[2]Who was at the mermaid statue?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当我来到美人鱼雕像处时，我记起了[1]站在这里的一个人。[2]站在美人鱼雕像处的人是谁呢？[3]</Translation>
   </Sentence>
   <Sentence id="333">
     <Commands>
@@ -4403,8 +4379,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]It wasn't Ryan I saw at the mermaid statue.[2]I remembered Ryan when I met him.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]在美人鱼雕像看到的人不可能是莱恩。[2]当我遇到莱恩的时候我记得他。[3]</Translation>
   </Sentence>
   <Sentence id="334">
     <Commands>
@@ -4416,8 +4391,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]It wasn't the man with the bracelet that I saw [2]at the mermaid statue.[3]I remembered that man when I saw the bracelet[4]in the boathouse.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]在美人鱼雕像看到的不可能 [2]是带手环的人。[3]当我看到船屋里的手环时[4]就记起来了。[5]</Translation>
   </Sentence>
   <Sentence id="335">
     <Commands>
@@ -4427,8 +4401,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]I remembered seeing a man in a cap at the[2]mermaid statue.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]正是……[1]我记得在美人鱼雕像看到过一个[2]戴帽子的人。[3]</Translation>
   </Sentence>
   <Sentence id="336">
     <Commands>
@@ -4440,8 +4413,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mom...[1]What were you doing by the mermaid statue?[2]And who was there with you?[3]Mom, ever since I came here I've been[4]remembering you. But I still know so little.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]妈妈……[1]你在美人鱼雕像做什么呢？[2]谁又和你在一起呢？[3]妈妈，自从我来这里就总是[4]想起你。然而我所知道的还是少得可怜。[5]</Translation>
   </Sentence>
   <Sentence id="337">
     <Commands>
@@ -4450,8 +4422,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Let's head for your dad's cottage.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]让我们一起去你爸爸的小屋吧。[2]</Translation>
   </Sentence>
   <Sentence id="338">
     <Commands>
@@ -4460,8 +4431,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Weren't you talking to Elizabeth?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]你不是一直在跟伊丽莎白谈话吗？[2]</Translation>
   </Sentence>
   <Sentence id="339">
     <Commands>
@@ -4470,8 +4440,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Go find me treasure![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]找找看我的宝藏！[2]</Translation>
   </Sentence>
   <Sentence id="340">
     <Commands>
@@ -4481,8 +4450,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Let's go get the music player and the[2]hanky![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]让我们一起去找音乐播放器和[2]手帕吧！[3]</Translation>
   </Sentence>
   <Sentence id="341">
     <Commands>
@@ -4491,8 +4459,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]You're done with Princess?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾……[1]你跟公主在一起？[2]</Translation>
   </Sentence>
   <Sentence id="342">
     <Commands>
@@ -4501,8 +4468,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Let's go get the music player![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]让我们一起去找音乐播放器吧！[2]</Translation>
   </Sentence>
   <Sentence id="343">
     <Commands>
@@ -4511,8 +4477,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Let's go get the hanky![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]让我们一起去找手帕吧！[2]</Translation>
   </Sentence>
   <Sentence id="344">
     <Commands>
@@ -4521,8 +4486,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Let's look at the stuff on the computer![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾！[1]让我们看看电脑里的文件吧！[2]</Translation>
   </Sentence>
   <Sentence id="345">
     <Commands>
@@ -4531,8 +4495,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Let's head for your dad's cottage.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了？[1]让我们去你爸爸的小屋吧。[2]</Translation>
   </Sentence>
   <Sentence id="346">
     <Commands>
@@ -4542,7 +4505,6 @@
       <Command>Ggb/AAAAChoFAAABCgAA</Command>
     </Commands>
     <Original>[0]Matt?[1]What's up?[2]Never mind, it's nothing.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修？[1]怎么了？[2]没什么。[3]</Translation>
   </Sentence>
 </Session>
