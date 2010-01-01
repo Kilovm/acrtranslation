@@ -76,3 +76,4 @@
  * Flashback: 闪影
  * Salmon Rice Burger: 鲑鱼米饼汉堡
  * special token: 纪念币
+ * J&L badge : J&L徽章
