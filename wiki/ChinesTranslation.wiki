@@ -27,6 +27,7 @@
  * Rex : 雷克斯·阿尔弗雷德
  * Liz : 莉斯
  * Graham : 格雷厄姆
+ * Lucy : 露西
  * Benjamin ：本杰明
  * Olivia ： 奥利维亚
  * John Smith ：约翰·史密斯
