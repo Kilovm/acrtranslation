@@ -2912,7 +2912,11 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Af9kAAoA</Command>
     </Commands>
     <Original>[0]Excuse me, ma'am... Are you...[1]Are you Charlotte?[2]Yeah, that's me.[3]My name's Ashley Mizuki Robins.[4]I actually came here to see you, Charlotte.[5]You got some kind of business with me?[6]Yeah![7]Well, you can stop with the "Charlotte".[8]Kids! Hah! No respect these days.[9]Huh?[10]Nobody but my own family is allowed to call[11]me Charlotte.[12]My name is [13]Charlotte Graham[14]. Mrs Graham to[15]you.[16]Yes, ma'am.[17]Mrs Graham...[18]Better... What is it?[19]I have something to ask you.[20]Well? Spit it out now. Ain't got all day, y'know?[21]My friend's come down with a fever.[22]Fever? Hah! Common cold, no doubt...[23]And?[24]I was hoping you could let me have some of[25]your herbal medicine...[26]Well, that is a tall order.[27]Tell me one thing, Ashley Mizuki Robins.[28]What blabbermouth told you about my herbal[29]medicines?[30]Bob, the owner of the diner.[31]Well, I'll be.[32]So, I guess I don't have much of a choice, do I?[33]I [34]can't say no[35] if it was Bob who told you to[36]come to me.[37]</Original>
+<<<<<<< .mine
+    <Translation>[0]很抱歉打扰，夫人…你是……[1]你是夏洛蒂吗？[2]没错，我就是。[3]我叫阿修蕾·美月·罗宾斯。[4]我其实是来见你的，夏洛蒂。[5]你找我有事？[6]是的！[7]好了，别在叫“夏洛蒂”了。[8]现在的孩子！哈！难怪世风日下。[9]啊？[10]除了我自己家的人以外，不许别人[11]以夏洛蒂称呼我。[12]我的全名是[13]夏洛蒂·格拉汉姆[14]。你应该称呼格拉汉姆[15]女士。[16]是，女士。[17]格拉汉姆夫人……[18]顺耳多了……找有什么事？[19]我想向您求点东西。[20]那就直说吧。我可不想和你耗一整天，明白吗？[21]我的朋友发烧了。[22]发烧？哈！流行感冒，肯定是……[23]那你想怎样？[24]我希望你允许我拿走一些[25]草药……[26]哦，还真是任性的要求啊。[27]你先告诉我，阿修蕾·美月·罗宾斯。[28]是哪个长舌头告诉你我有草药[29]的？[30]鲍勃，餐馆的店长。[31]哦。[32]既然如此，我看我是没有其他选择了。[33]我[34]不能拒绝[35]鲍勃介绍来的人的[36]请求。[37]</Translation>
+=======
     <Translation>[0]很抱歉打扰，女士…你是……[1]你是夏洛蒂吗？[2]没错，我就是。[3]我叫阿修蕾·美月·罗宾斯。[4]我其实是来见你的，夏洛蒂。[5]你找我有事？[6]是的！[7]好了，别在叫“夏洛蒂”了。[8]现在的孩子！哈！难怪世风日下。[9]啊？[10]除了我自己家的人以外，不许别人[11]以夏洛蒂称呼我。[12]我的全名是[13]夏洛蒂·格拉汉姆[14]。你应该称呼格拉汉姆[15]女士。[16]是，女士。[17]格拉汉姆女士……[18]顺耳多了……找有什么事？[19]我想向您求点东西。[20]那就直说吧。我可不想和你耗一整天，明白吗？[21]我的朋友发烧了。[22]发烧？哈！流行感冒，肯定是……[23]那你想怎样？[24]我希望你允许我拿走一些[25]草药……[26]哦，还真是任性的要求啊。[27]你先告诉我，阿修蕾·美月·罗宾斯。[28]是哪个长舌头告诉你我有草药[29]的？[30]鲍勃，餐馆的店长。[31]哦。[32]既然如此，我看我是没有其他选择了。[33]我[34]不能拒绝[35]鲍勃介绍来的人的[36]请求。[37]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="234">
     <Commands>
@@ -2945,7 +2949,11 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgBkAAoA</Command>
     </Commands>
     <Original>[0]Charlotte...[1]Oh, sorry.[2]Mrs Graham, are you friends with Bob?[3]Friends with that salmon-obsessed buffoon?[4]Not a chance![5]But I owe him a great debt.[6]A debt?[7]That's what I said. A debt...[8]One day, I forget how long ago, I slipped in the[9]rain and fell.[10]My hip hit the ground hard, and I couldn't move,[11]let alone get back up. Blasted thing locked up.[12]Then that big lug appeared. He took me up and[13]carried me back home.[14]Ah. I had no idea...[15]So, because of what Bob did for me, I can't[16]just go and ignore your request after he sent[17]you, can I? Even if I want to...[18]Now, girl, stop all your yapping and tell me[19]when your friend became feverish.[20]When it was raining a while ago.[21]He was outside and got drenched, then he[22]started burning up.[23]I see...[24]And how is he now? [25]Describe his condition.[26]</Original>
+<<<<<<< .mine
+    <Translation>[0]夏洛蒂……[1]哦，对不起。[2]格拉汉姆夫人，你和鲍勃是朋友吗？[3]和那种一心只想着鲑鱼的市井之徒是朋友？[4]怎么可能？[5]不过我欠了他一个大人情。[6]人情？[7]就是字面上的意思，人情……[8]有一天，记不清是多久前的事了，我在[9]雨里摔倒了。[10]髋关节摔得很厉害，当时我已经动不了了，[11]更不用说要站起来了。当时倒霉透了。[12]接着那个大块头就出现了。他扶我起来后[13]把我背回了家。[14]哦。我第一次听说……[15]所以，因为鲍勃帮过我，他又介绍你过来，[16]我就不能置之不理了。[17]虽然我不想……[18]好了，丫头，别再叽叽喳喳了，告诉我[19]你的朋友什么时候开始发烧的。[20]就是刚刚下雨的时候。[21]他出去外面被雨淋透了，之后就开始[22]发烧了。[23]知道了……[24]他现在怎么样了？ [25]描述一下他的症状。[26]</Translation>
+=======
     <Translation>[0]夏洛蒂……[1]哦，对不起。[2]格拉汉姆女士，你和鲍勃是朋友吗？[3]和那种一心只想着鲑鱼的市井之徒是朋友？[4]怎么可能？[5]不过我欠了他一个大人情。[6]人情？[7]就是字面上的意思，人情……[8]有一天，记不清是多久前的事了，我在[9]雨里摔倒了。[10]髋关节摔得很厉害，当时我已经动不了了，[11]更不用说要站起来了。当时倒霉透了。[12]接着那个大块头就出现了。他扶我起来后[13]把我背回了家。[14]哦。我第一次听说……[15]所以，因为鲍勃帮过我，他又介绍你过来，[16]我就不能置之不理了。[17]虽然我不想……[18]好了，丫头，别再叽叽喳喳了，告诉我[19]你的朋友什么时候开始发烧的。[20]就是刚刚下雨的时候。[21]他出去外面被雨淋透了，之后就开始[22]发烧了。[23]知道了……[24]他现在怎么样了？ [25]描述一下他的症状。[26]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="235">
     <Commands>
@@ -2976,7 +2984,11 @@
       <Command>ChoFAAABChoGAABPAAoaCAAASAAAZgoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoUAQALNQELAAkBSU9QMDAwAAAACgA=</Command>
     </Commands>
     <Original>[0]He's the one that was here with me before.[1]Ah yeah, that runt... I remember.[2]What's his name?[3]Matt Crusoe.[4]Say what? Matt Crusoe, you say...[5]Yeah... Do you know him, Mrs Graham?[6]No... No, you mind your own business![7]Wait here for a minute, Ashley.[8]</Original>
+<<<<<<< .mine
+    <Translation>[0]他就是之前和我一起来过这的孩子。[1]啊，那个小不点……我想起来了。[2]他叫什么名字？[3]马修·克鲁索 。[4]你说什么？马修·克鲁索 ……[5]是啊……你认识他吗，格拉汉姆夫人？[6]不……不认识，别什么事都打听！[7]在这等一下，阿修蕾。[8]</Translation>
+=======
     <Translation>[0]他就是之前和我一起来过这的孩子。[1]啊，那个小不点……我想起来了。[2]他叫什么名字？[3]马修·克鲁索 。[4]你说什么？马修·克鲁索 ……[5]是啊……你认识他吗，格拉汉姆女士？[6]不……不认识，别什么事都打听！[7]在这等一下，阿修蕾。[8]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="237">
     <Commands>
@@ -3005,7 +3017,11 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgFkAAoA</Command>
     </Commands>
     <Original>[0]Ah, Mrs Graham.[1]Ashley, take this with you.[2]What is it?[3]It's a [4]recipe[5] for fever medicine.[6]</Original>
+<<<<<<< .mine
+    <Translation>[0]啊，格拉汉姆夫人。[1]把这个拿去吧，阿修蕾。[2]这是什么？[3]制作药剂的[4]处方[5]。[6]</Translation>
+=======
     <Translation>[0]啊，格拉汉姆女士。[1]把这个拿去吧，阿修蕾。[2]这是什么？[3]制作药剂的[4]处方[5]。[6]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="240">
     <Commands>
@@ -3072,7 +3088,11 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you mean by pure water?[1]If you want your friend to get better, you'd[2]best use clean water. It's a basic for medicine.[3]What kind of water is pure water?[4]It has to be clean and crystal clear.[5]Full of minerals. If it isn't, forget it![6]Clean, transparent, full of minerals...[7]Where can I find water like that?[8]There's plenty around this area, just look [9]around.[10]So I need a container for the water...[11]You have a kettle in your house, don't you?[12]Yeah, I think I do.[13]Then use that.[14]Okay.[15]Also, you can borrow this.[16]Huh?[17]Mrs Graham, what's this?[18]Don't they teach children anything these days?[19]Back in my day, I tell you...[20]It's a mortar and pestle.[21]You use it to crush the herbs.[22]Then you put them in a pot and boil them in[23]the pure water. You getting this at all?[24]Ahh... Okay, I get it.[25]</Original>
+<<<<<<< .mine
+    <Translation>[0]你所说的纯净水是指什么？[1]如果你想让你的朋友好起来，最好使用[2]干净的水。这是配药的基本。[3]什么样的水才算是纯净水？[4]必须要干净，像晶体般透亮。[5]富含矿物质，如果不是这样，就不行！[6]干净，透明，富含矿物质……[7]哪里能弄到这种水？[8]这附近有很多，自己去找找[9]吧。[10]那我需要一个容器……[11]你家总应该有个水壶吧？[12]嗯，应该有。[13]用那个就行了。[14]好的。[15]对了，你可以把这个也拿去。[16]嗯？[17]格拉汉姆夫人，这是什么？[18]现在的小孩怎么什么都不知道？[19]告诉你，我当年……[20]这是杵和研钵。[21]用这个捣碎叶子。[22]然后放进锅里，用纯净水煮开。[23]听明白了吗？[24]啊……我明白了。[25]</Translation>
+=======
     <Translation>[0]你所说的纯净水是指什么？[1]如果你想让你的朋友好起来，最好使用[2]干净的水。这是配药的基本。[3]什么样的水才算是纯净水？[4]必须要干净，像晶体般透亮。[5]富含矿物质，如果不是这样，就不行！[6]干净，透明，富含矿物质……[7]哪里能弄到这种水？[8]这附近有很多，自己去找找[9]吧。[10]那我需要一个容器……[11]你家总应该有个水壶吧？[12]嗯，应该有。[13]用那个就行了。[14]好的。[15]对了，你可以把这个也拿去。[16]嗯？[17]格拉汉姆女士，这是什么？[18]现在的小孩怎么什么都不知道？[19]告诉你，我当年……[20]这是杵和研钵。[21]用这个捣碎叶子。[22]然后放进锅里，用纯净水煮开。[23]听明白了吗？[24]啊……我明白了。[25]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="243">
     <Commands>
@@ -3083,7 +3103,11 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQsACQFJT1AwMDAAAAAKAA==</Command>
     </Commands>
     <Original>[0]And now it's up to you.[1]Get the herbs from my greenhouse and go back[2]the way you came.[3]Thank you so much, Mrs Graham.[4]</Original>
+<<<<<<< .mine
+    <Translation>[0]现在开始都看你自己的了。[1]去温室摘些药草叶，然后哪来的[2]回哪去。[3]十分感谢您，格拉汉姆夫人。[4]</Translation>
+=======
     <Translation>[0]现在开始都看你自己的了。[1]去温室摘些药草叶，然后哪来的[2]回哪去。[3]十分感谢您，格拉汉姆女士。[4]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="244">
     <Commands>
@@ -3543,7 +3567,11 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, time to make a start on this medicine.[1]Uh...[2]Oh yeah, I forgot the herb Mrs Graham was[3]talking about.[4]I'd better go back to the greenhouse.[5]</Original>
+<<<<<<< .mine
+    <Translation>[0]好了，该开始煎药了。[1]呃……[2]晕，我把格拉汉姆夫人提过的[3]药草给忘了。[4]看来还得再回温室一趟。[5]</Translation>
+=======
     <Translation>[0]好了，该开始煎药了。[1]呃……[2]晕，我把格拉汉姆女士提过的[3]药草给忘了。[4]看来还得再回温室一趟。[5]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="302">
     <Commands>
@@ -3773,7 +3801,11 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYQoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty kettle[2] on the [3]counter.[4]Perfect.[5]I can put the water I need into this.[6]</Original>
+<<<<<<< .mine
+    <Translation>[0]料理台上有一个[1]空水壶[2]。[3][4]太好了。[5]可以用这个装水。[6]</Translation>
+=======
     <Translation>[0]料理台上有一个[1]空水壶[2]。[3]。[4]太好了。[5]可以用这个装水。[6]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="329">
     <Commands>
@@ -3818,7 +3850,11 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt![1]Wstflgl?[2]Oh, Ash... It's you.[3]Matt, I brought you some medicine.[4]Medicine...?[5]Yeah, medicine.[6]Can you drink it?[7]How're you feeling?[8]Uhh...[9]</Original>
+<<<<<<< .mine
+    <Translation>[0]马修！[1]*%#@？[2]哦，小蕾……是你啊。[3]马修，我给你弄了些药来。[4]药……？[5]对，药。[6]来把药喝了吧？[7]觉得怎么样？[8]呃……[9]</Translation>
+=======
     <Translation>[0]马修！[1]Wstflgl?[2]哦，小蕾……是你啊。[3]马修，我给你弄了些药来。[4]药……？[5]对，药。[6]来把药喝了吧？[7]觉得怎么样？[8]呃……[9]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="333">
     <Commands>
@@ -3918,7 +3954,11 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here's the recipe.[1]It has the instructions for making the[2]medicine.[3]This is what you used to make it?[4]Yep. It's all written there.[5]It says you need pure water.[6]Yeah, you can't use dirty water or it won't[7]work.[8]Where'd you get the water from?[9]The little stream down by the shack.[10]Oh wow, you went that far?[11]Wasn't the river water enough?[12]No...[13]It had to be pure, transparent and full of[14]minerals.[15]Then I used Mrs Graham's red herbs...[16]Who's Mrs Graham?[17]The old lady who told me how to make the[18]medicine.[19]Remember when you were chasing Mr Smith[20]and got lost?[21]She lives up there. She was the one who yelled[22]at us. But she's nice, really.[23]Oh, her. She seemed really cranky.[24]</Original>
+<<<<<<< .mine
+    <Translation>[0]这就是处方。[1]上面写着配药的[2]方法。[3]你就按着这个熬药的？[4]是啊，都写在上面了。[5]上面写着需要纯净水。[6]是，水不够干净的话就做不[7]成功。[8]你从哪取的水？[9]走过棚屋后的那条小溪。[10]哇，你去了那么远的地方？[11]河水不行吗？[12]不行……[13]必需纯净透明而且富含[14]矿物质。[15]然后加入格拉汉姆夫人给的红药草……[16]格拉汉姆夫人是谁？[17]就是教我做药的[18]老妇人。[19]记得你跟丢史密斯先生的[20]地方吗？[21]她就住在那儿。还训我们来着。[22]其实她人很好。[23]哦，是她。她的脾气好像不太好。[24]</Translation>
+=======
     <Translation>[0]这就是处方。[1]上面写着配药的[2]方法。[3]你就按着这个熬药的？[4]是啊，都写在上面了。[5]上面写着需要纯净水。[6]是，水不够干净的话就做不[7]成功。[8]你从哪取的水？[9]走过棚屋后的那条小溪。[10]哇，你去了那么远的地方？[11]河水不行吗？[12]不行……[13]必需纯净透明而且富含[14]矿物质。[15]然后加入格拉汉姆女士给的红药草……[16]格拉汉姆女士是谁？[17]就是教我做药的[18]老妇人。[19]记得你跟丢史密斯先生的[20]地方吗？[21]她就住在那儿。还训我们来着。[22]其实她人很好。[23]哦，是她。她的脾气好像不太好。[24]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="339">
     <Commands>
@@ -3970,7 +4010,11 @@
       <Command>ChoFAAABChoNAAAVBAFOAAAAAU4KGgwAAAgEAU4AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Wait![1]What's wrong, Matt?[2]I remember now...[3]Remember what?[4]I was at that house before. Ages ago.[5]Huh?[6]You've been to Mrs Graham's house before? [7]Seriously?[8]Yeah![9]I was there with Dad![10]Really? What for?[11]I just remember Dad saying...[12]The family who built the clock tower live there.[13]Yeah, her house does have the crest from[14]the clock tower on the door...[15]See? I told you.[16]I bet she knows something about the clock[17]tower, Ash.[18]I'll go ask her![19]Oh no, you're not going anywhere.[20]Aww! C'mon![21]I'll go and ask her about it for you.[22]You need to stay here and get better.[23]Okay, okay...[24]I'll be right back.[25]Wait here, okay?[26]Okay. Sheesh.[27]</Original>
+<<<<<<< .mine
+    <Translation>[0]等一下！[1]怎么了，马修？[2]我想起来了……[3]想起什么了？[4]我曾经去过那栋房子。好几年前。[5]哦？[6]你曾经去过格拉汉姆夫人的房子？[7]真的？[8]是的！[9]我和爸爸一块去的！[10]真的？为什么？[11]我只记得爸爸说……[12]钟楼的建造者就住在那儿。[13]没错，她的房子也有和钟楼一样[14]的纹章……[15]看吧？就如我所说。[16]小蕾，她一定知道和钟楼有关的[17]事。[18]我要去问问她！[19]不行，你哪都不能去。[20]喔！别这样！[21]我去帮你问她。[22]你得待在这休息。[23]好吧，好吧……[24]我很快回来。[25]在这等着哦。[26]好吧。[27]</Translation>
+=======
     <Translation>[0]等一下！[1]怎么了，马修？[2]我想起来了……[3]想起什么了？[4]我曾经去过那栋房子。好几年前。[5]哦？[6]你曾经去过格拉汉姆女士的房子？[7]真的？[8]是的！[9]我和爸爸一块去的！[10]真的？为什么？[11]我只记得爸爸说……[12]钟楼的建造者就住在那儿。[13]没错，她的房子也有和钟楼一样[14]的纹章……[15]看吧？就如我所说。[16]小蕾，她一定知道和钟楼有关的[17]事。[18]我要去问问她！[19]不行，你哪都不能去。[20]喔！别这样！[21]我去帮你问她。[22]你得待在这休息。[23]好吧，好吧……[24]我很快回来。[25]在这等着哦。[26]好吧。[27]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="342">
     <Commands>
@@ -4032,7 +4076,11 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]There's a message from Dad.[1]Interesting to find out more about Ryan, and [2]about Elizabeth's dad.[3]</Original>
+<<<<<<< .mine
+    <Translation>[0]爸爸传来一条信息。[1]没想到从莱恩和伊丽莎白的爸爸那里[2]了解到了些往事。[3]</Translation>
+=======
     <Translation>[0]爸爸传来一条信息。[1]Interesting to find out more about Ryan, and [2]about Elizabeth's dad.[3]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="349">
     <Commands>
@@ -4095,7 +4143,11 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]Hello there. Are you lost?[2]The only thing up ahead is the Graham house.[3]I don't think you'd want to go there.[4]No, no...[5]I'm actually here to see Mrs Graham.[6]Mrs Graham?[7]And who are you?[8]My name's Ashley Mizuki Robins.[9]Mrs Graham told me how to make medicine for[10]my friend, he had a fever.[11]So I came here to thank her.[12]That sounds just like her.[13]Seems my moody old aunt still has a soft spot[14]for kids...[15]Your aunt?[16]That's right. I'm [17]Lucy Graham[18]. I'm Charlotte's[19]niece.[20]I get ever so worried about the old woman out[21]here on her own, so I come to see how she is.[22]And then all she does is tell me to go away.[23]Not a word of gratitude. Shocking, isn't it?[24]Did something happen?[25]Not that I know about.[26]But she just sends me away without even a[27]cup of tea for the visit. Can you believe it?[28]Maybe...[29]I don't know if there's a problem or if it's just[30]because she's a crotchety old woman.[31]But you know, she wasn't always like this.[32]She used to be quite nice, believe it or not.[33]Really?[34]Absolutely. She was very different. That was a[35]long time ago, though.[36]You said your name was Ashley, didn't you?[37]Yeah...[38]Well, Ashley, if you're going to see my old aunt...[39]Then there are a [40]few things[41] I should warn you[42]about before you go.[43]Listen to me and you won't be walking away[44]cursing like I am.[45]</Original>
+<<<<<<< .mine
+    <Translation>[0]哦！[1]你好。你是不是迷路了？[2]再往前走只有格拉汉姆氏的住宅了。[3]没人会想去那儿。[4]不……[5]其实我就是来找格拉汉姆夫人的。[6]格拉汉姆夫人？[7]你是哪位？[8]我的名字叫阿修蕾·美月·罗宾斯。[9]我有一个朋友发烧了，刚才格拉汉姆[10]女士教我如何做草药。[11]所以我来谢谢她。[12]这倒真像她的作风。[13]看来我那个脾气古怪的姑妈还是会对[14]小孩子没辙……[15]你的姑妈？[16]是的。我是[17]露西·格拉汉姆[18]。我是她的[19]侄女。[20]我一直很担心老人一个人住在这种地方[21]是否习惯。所以来看看她。[22]她却只是让我赶紧离开。[23]没有丝毫感激。真是不可思议，是吧？[24]出什么事了吗？[25]我是不知道。[26]不过她连一杯茶都没让我喝就撵我[27]出来了。你能相信有这样的姑妈吗？[28]可能有吧……[29]不知道是不是有什么事，还是因为她[30]脾气就这么怪。[31]不过她可不是一直都这样的。[32]不管你信不信，她以前人很好。[33]真的？[34]真的。她变了很多。虽然是[35]很久以前的事了。[36]你是叫阿修蕾吧。[37]是的……[38]好吧，阿修蕾，如果你要去见我那老姑妈……[39]有[40]几件事[41]我得提[42]醒你。[43]按我说的去做你就不会像我一样[44]挨骂了。[45]</Translation>
+=======
     <Translation>[0]哦！[1]你好。你是不是迷路了？[2]再往前走只有格拉汉姆氏的住宅了。[3]没人会想去那儿。[4]不……[5]其实我就是来找格拉汉姆女士的。[6]格拉汉姆女士？[7]你是哪位？[8]我的名字叫阿修蕾·美月·罗宾斯。[9]我有一个朋友发烧了，刚才格拉汉姆[10]女士教我如何做草药。[11]所以我来谢谢她。[12]这倒真像她的作风。[13]看来我那个脾气古怪的姑妈还是会对[14]小孩子没辙……[15]你的姑妈？[16]是的。我是[17]露西·格拉汉姆[18]。我是她的[19]侄女。[20]我一直很担心老人一个人住在这种地方[21]是否习惯。所以来看看她。[22]她却只是让我赶紧离开。[23]没有丝毫感激。真是不可思议，是吧？[24]出什么事了吗？[25]我是不知道。[26]不过她连一杯茶都没让我喝就撵我[27]出来了。你能相信有这样的姑妈吗？[28]可能有吧……[29]不知道是不是有什么事，还是因为她[30]脾气就这么怪。[31]不过她可不是一直都这样的。[32]不管你信不信，她以前人很好。[33]真的？[34]真的。她变了很多。虽然是[35]很久以前的事了。[36]你是叫阿修蕾吧。[37]是的……[38]好吧，阿修蕾，如果你要去见我那老姑妈……[39]有[40]几件事[41]我得提[42]醒你。[43]按我说的去做你就不会像我一样[44]挨骂了。[45]</Translation>
+>>>>>>> .r334
   </Sentence>
   <Sentence id="351">
     <Commands>
@@ -4112,8 +4164,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgVkAAoA</Command>
     </Commands>
     <Original>[0]What do I need to know?[1]Well, firstly...[2]Never call her Charlotte.[3]Oh, I know that one.[4]I've already had the third degree for that...[5]Aw...bad luck, dear.[6]Next point...[7]Never, ever talk about [8]Olivia[9].[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]要注意什么？[1]嘛，首先……[2]绝不要称呼她夏洛蒂。[3]哦，这我知道。[4]我已经领教过了……[5]啊……真不幸啊。[6]第二条……[7]绝对永远不要和她谈起[8]奥利维亚[9]。[10]</Translation>
   </Sentence>
   <Sentence id="352">
     <Commands>
@@ -4126,8 +4177,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgZkAAoA</Command>
     </Commands>
     <Original>[0]Who's Olivia?[1]Her daughter.[2]She [3]eloped[4] 5 years ago and left the old woman[5]all on her own in the house.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]奥利维亚是谁？[1]她的女儿。[2]五年前[3]和人私奔了[4]，留下老太太一个[5]人。[6]</Translation>
   </Sentence>
   <Sentence id="353">
     <Commands>
@@ -4161,8 +4211,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgdkAAoA</Command>
     </Commands>
     <Original>[0]Um, what does "eloped" mean?[1]You don't know? Oh boy...[2]Clearly, education isn't what it used to be.[3]Well, don't worry, dear, I'll explain anyway.[4]Eloping means running away to get married to[5]someone your parents disapprove of.[6]Where do people who elope run away to?[7]Maybe "running away" wasn't the right phrase.[8]More like, they go into hiding. Far away.[9]Go into hiding?[10]Yes, so that their parents can't find them.[11]So Mrs Graham doesn't know where her[12]daughter is?[13]In a nutshell, yes.[14]Sounds kinda messy...[15]So, the old woman's been on her own for the[16]last five years.[17]Why didn't Mrs Graham want her daughter to[18]get married?[19]Well, Olivia had a failed marriage behind her.[20]She was too nice, poor thing. After the divorce[21]she went back to her mother.[22]Olivia was in a real state. Charlotte was so [23]upset.[24]And then Olivia went off and fell in love with[25]a guy like that[26]...[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃，“私奔”是什么意思？[1]你不知道？哦，天哪……[2]看来现在教育和以前大不一样了。[3]不过别担心，乖孩子，我会给你解释。[4]私奔就是指在父母反对的情况下仍然离[5]开家去和某人结婚。[6]那些私奔的人都离开家去哪了？[7]或许“离家”这次用得不好。[8]其实应该说是躲起来了，躲得远远的。[9]躲起来？[10]是啊，这样他们的父母就找不到他们了。[11]这么说格拉汉姆夫人不知道她的女儿在[12]哪里了？[13]简单来说，就是如此。[14]听起来够糟的……[15]所以老太太到现在为止一个人生活[16]了五年。[17]为什么格拉汉姆夫人不希望她的女儿[18]嫁人呢？[19]哎呀，奥利维亚曾经有过一次失败的婚姻。[20]她太善良了，可怜的小东西。离婚后她就[21]回来找妈妈。[22]当时奥利维亚情绪很消沉。夏洛蒂也很[23]难过。[24]然而之后奥利维亚却爱上了[25]那样一个人[26]……[27]</Translation>
   </Sentence>
   <Sentence id="354">
     <Commands>
@@ -4185,32 +4234,28 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AghkAAoA</Command>
     </Commands>
     <Original>[0]You think she made a mistake?[1]Well, she picked herself a really strange one.[2]He passed himself off as a famous New York[3]photographer, but...[4]I think he was just a strange guy living in the[5]old cottage by the lake.[6]In any case, my aunt didn't manage to stop[7]their marriage.[8]I'll be careful not to mention it...[9]Anyway.[10]There's one last thing you should know.[11]There's more?[12]Yes. One thing you must never mention.[13]The [14]clock tower[15].[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你觉得她选错了对象？[1]嘛，她的确挑了个奇怪的对象。[2]那个人把自己说成是纽约著名的[3]摄影师，不过……[4]我觉得他只不过是住在湖边老屋的[5]一个怪人。[6]总之，我姑妈没能阻止他们[7]结婚。[8]我会小心避开这个话题的……[9]对了。[10]还有最后一件事要提醒你。[11]还有？[12]嗯。绝对不要提起。[13]就是[14]钟楼[15]。[16]</Translation>
   </Sentence>
   <Sentence id="355">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="356">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="357">
     <Commands>
       <Command>GgcAADcCCAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="358">
     <Commands>
@@ -4235,8 +4280,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why shouldn't I mention the clock tower?[1]She has a lot of bad memories about that clock[2]tower.[3]Bad memories?[4]You might already know this, but it was her [5]father who built the clock tower.[6]He was a top-notch clockmaker. One of the[7]best![8]Ah, right, so Benjamin Graham was...[9]Her dad? That's right.[10]But after [11]a rumour[12] spread about the clock[13]tower...[14]Things got so bad that she felt she had to stop[15]the clock. She never got over it.[16]So believe me when I tell you that it's not a [17]topic you want to bring up.[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]钟楼怎么了？[1]钟楼会勾起她很多不好的[2]回忆。[3]不好的回忆？[4]或许你已经听说了，正是她父亲[5]建造了那座钟楼。[6]他是个高超的钟表匠。一流[7]水平！[8]啊，这么说，本杰明·格拉汉姆……[9]你是说她父亲？没错。[10]可是有一个关于[11]钟楼的谣言[12]传开后[13]……[14]好事不出门坏事传千里，她不得不彻底关闭了[15]钟楼。直到现在她心里还有阴影。[16]所以听我的，千万别提起这个[17]话题。[18]</Translation>
   </Sentence>
   <Sentence id="359">
     <Commands>
@@ -4260,8 +4304,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why shouldn't I mention the clock tower?[1]She has a lot of bad memories about that clock[2]tower.[3]Bad memories?[4]You might already know this, but it was her dad[5]who built the clock tower.[6]He was a real top-notch clockmaker. One of the[7]best![8]Right.[9]But after [10]a rumour[11] spread about the clock[12]tower...[13]Things got so bad that she felt she had to stop[14]the clock and she never got over it.[15]So believe me when I tell you that it's not a [16]topic you want to bring up.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 钟楼怎么了？[1] 钟楼会勾起她很多不好的[2] 回忆。[3] 不好的回忆？[4] 或许你已经听说了，正是她父亲[5] 建造了那座钟楼。[6] 他是个高超的钟表匠。一流[7] 水平！[8]嗯。[9]可是有一个关于[10] 钟楼的谣言[11] 传开后[12] ……[13] 好事不出门坏事传千里，她不得不彻底关闭了[14] 钟楼。直到现在她心里还有阴影。[15] 所以听我的，千万别提起这个[16] 话题。[17]</Translation>
   </Sentence>
   <Sentence id="360">
     <Commands>
@@ -4290,8 +4333,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What kind of rumour was there?[1]You really don't know about the rumour?[2]I've gone and opened my big mouth, haven't I?[3]Well...they say someone fell off the top of the[4]clock tower five years ago.[5]Really?[6]Yeah. Someone saw it happen in the middle of[7]the night.[8]Who was it that fell?[9]That's the mystery...nobody knows.[10]They searched all around the clock tower in the[11]morning, but they never found a body.[12]They said the witness must have been[13]mistaken...[14]But it takes more than that to stop a rumour.[15]That's really bad...[16]Charlotte was so upset when all that[17]happened. Poor thing.[18]Up until then, the clock tower was open for all[19]to see.[20]But then she just went and stopped the clock[21]and locked the door.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么谣言？[1]你真的没听说过？[2]看来我说的太多了……[3]其实……五年前人们谣传说有人从[4]塔顶上掉下来了。[5]真的？[6]是的。有人在午夜亲眼目睹了事件[7]的发生。[8]是谁掉下来了？[9]这一直是个迷……没人知道。[10]第二天早晨他们翻遍了钟楼周围，[11]但是没发现任何痕迹。[12]所以人们都说肯定是目击者看错[13]了……[14]不过谣言可不会这么容易散去。[15]这糟糕……[16]这一切夏洛蒂很苦恼。[17]可怜人。[18]在那之前钟楼是对所有人[19]开放的。[20]只是从那之后她停了钟[21]锁了门。[22]</Translation>
   </Sentence>
   <Sentence id="361">
     <Commands>
@@ -4302,16 +4344,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBEgAJAUlPUDAwMQAAAAoA</Command>
     </Commands>
     <Original>[0]Oh, look at me, standing here gossiping.[1]I really should dash home now.[2]Goodbye, Ashley.[3]Bye![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哎呦，瞧我这个人，居然站在这儿和你嚼起舌根了。[1]我真得赶紧回家了。[2]再见，阿修蕾。[3]再见！[4]</Translation>
   </Sentence>
   <Sentence id="362">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="363">
     <Commands>
@@ -4319,8 +4359,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait, there's more.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等，还没说完。[1]</Translation>
   </Sentence>
   <Sentence id="364">
     <Commands>
@@ -4328,8 +4367,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going? I'm not finished.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪？我还没说完话哪。[1]</Translation>
   </Sentence>
   <Sentence id="365">
     <Commands>
@@ -4337,8 +4375,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going? I'm not finished.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 你要去哪？我还没说完话哪。[1]</Translation>
   </Sentence>
   <Sentence id="366">
     <Commands>
@@ -4357,8 +4394,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Lucy? Again? Just get yourself home, why[1]don't you?[2]I don't need you poking your hooter into my[3]business.[4]I'm not lonely enough to want to see you![5]So go on! Shoo![6]Mrs Graham? It's me, Ashley.[7]Ashley?![8]Oh... I thought it was someone else.[9]Just a minute.[10]Okay, you can come in now.[11]Okay.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]露西？又是你？你就不能回自己家[1]去？[2]用不着你来操心我的[3]家事。[4]我还没孤单到连你都想见！[5]去！赶紧走！[6]格拉汉姆夫人，是我，阿修蕾。[7]阿修蕾？！[8]哦……我还以为是别人。[9]等一下。[10]好了，你可以进来了。[11]哦。[12]</Translation>
   </Sentence>
   <Sentence id="367">
     <Commands>
@@ -4366,8 +4402,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAAAAAAAAAAAKGgwAAAgAACwAAAAAChoGAAAMAAoaBgAADAAKGgcAAAMD6AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoOAAA5TgAAAAAUAQAACgA=</Command>
     </Commands>
     <Original>[0]Well, here goes...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]接下来……[1]</Translation>
   </Sentence>
   <Sentence id="368">
     <Commands>
@@ -4375,8 +4410,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go to see Mrs Graham.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在要去见格拉汉姆夫人。[1]</Translation>
   </Sentence>
   <Sentence id="369">
     <Commands>
@@ -4386,8 +4420,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]I'll stay sitting here, if you don't mind.[1]Dang hip again, playing up.[2]Please, make yourself at home.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果你不介意，我就一直坐着了。[1]我这倒霉的髋关节又疼起来了。[2]进来吧，随便点。[3]</Translation>
   </Sentence>
   <Sentence id="370">
     <Commands>
@@ -4459,8 +4492,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgtkAAoaBgAADAAKGgcAABEAABoHAAASCwAKGg0AABULAAAAAAAAAAoaDAAACAsA+QAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Your house is awesome, Mrs Graham.[1]"Awesome"? What's that supposed to mean?[2]It's like it has a real antique feeling about it.[3]Everything in this room looks handmade...[4]You kids! Got marbles in your head instead of[5]eyes. Watch too much TV, that's what it is![6]They don't just look handmade, everything here[7]is handmade.[8]For real?[9]Of course![10]Wow! That's amazing![11]Anyway, what did you want me for, Ashley?[12]I came to say thanks for your medicine.[13]So you managed to make it then?[14]Yeah![15]Finding really pure water was kinda hard, but[16]I got it all together in the end.[17]And Matt drank it all up.[18]Of course he did![19]Still, that's good to hear.[20]Little runt's fever should be gone before long.[21]That's my recipe for you.[22]I'm really grateful for the help, Mrs Graham.[23]Oh yeah, thanks for letting me use this too.[24]You're welcome, child.[25]Mrs Graham...[26]I actually have something I want to ask you.[27]You want to ask me something?[28]Um...yeah...[29]Well, ask away.[30]Really?[31]But first, I'd like to talk to you for a little[32]while, if you don't mind.[33]Sure.[34]How old are you, Ashley?[35]I'm 16.[36]And that boy, Matt? He's 13?[37]Yeah.[38]We just met each other here today.[39]Wait, Ashley...[40]You came here to get medicine for some child[41]you just met today?[42]Well, yeah.[43]He's all alone, I couldn't just leave him...[44]What do you mean, all alone?[45]He came here by himself.[46]What, to play or something?[47]No, not to play.[48]He's searching for his dad. He says this is[49]where he disappeared.[50]I see.[51]I made him promise that he'd spend today[52]looking for clues,[53]and if he doesn't find anything, he'll go back[54]to his uncle's house.[55]His uncle's house?[56]You don't mean to tell me that boy's lost both[57]of his parents?[58]Well…[59]His mom died in hospital and his sister[60]Kelly got taken away somewhere.[61]Good grief...what a poor boy.[62]Ashley, seems you've got involved in a very[63]difficult situation[64].[65]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你的房子真棒，格拉汉姆夫人。[1]“真棒”？你指的什么？[2]感觉很古典。[3]屋里的每一样东西看起来都像是手工制作的……[4]你们这些孩子！总是用想象代替亲眼所见[5]的东西。电视看多了吧，什么“像是”！[6]这里的所有东西不是看起来而已，本来就是[7]手工制作的。[8]真的？[9]当然！[10]哇！简直不可思议！[11]好了，你来找我干嘛，阿修蕾？[12]我来向你道谢。[13]也就是说你做好药了？[14]是的！[15]找纯净水花了很多功夫，不过最终[16]还是都弄好了。[17]而且马修也都喝下去了。[18]他当然要喝下去！[19]嘛，总归是个好消息。[20]小不点的烧很快就会退了。[21]我开的处方不会错的。[22]我真的十分感谢你的帮助，格拉汉姆夫人。[23]哦，对了，还要谢谢你让我用这个。[24]不客气，孩子。[25]格拉汉姆夫人……[26]我其实还有一些事想要问你。[27]你有事问我？[28]嗯……是的……[29]那就问吧。[30]可以吗？[31]不过首先让我先问几个问题，[32]如果可以的话。[33]当然可以。[34]你多大了，阿修蕾？[35]十六岁。[36]那个男孩，叫马修，他十三岁？[37]是的。[38]我们是今天才认识的。[39]等一下，阿修蕾……[40]你来我这求药，就是为了今天刚认识[41]的人？[42]啊，是。[43]他孤身一人，我不能丢下他不管……[44]孤身一人是什么意思？[45]他是自己来这的。[46]干嘛，为了玩？[47]不，不是为了玩。[48]他在找他的爸爸。他说他爸爸就是在[49]这失踪的。[50]我明白了。[51]我答应过，今天他可以四处寻找线索，[52]如果什么都没找到，[53]他就会回到他的[54]叔叔家。[55]他叔叔家？[56]你难道是在暗示他的双亲都[57]失踪了？[58]嗯……[59]他的妈妈得病后去世了，妹妹[60]被带去了其他地方。[61]真让人痛心……可怜的孩子。[62]阿修蕾，看来你是被卷入[63]困境[64]了。[65]</Translation>
   </Sentence>
   <Sentence id="371">
     <Commands>
@@ -4482,8 +4514,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Ag1kAAoaBgAADAAKGgcAABEAABoHAAASCwAKGg0AABULAAAAAAAAAAoaDAAACAsA+QAAAAAKAA==</Command>
     </Commands>
     <Original>[0]A difficult situation?[1]I mean that Matt boy, searching for his[2]father...[3]Searching for someone who disappeared...[4]It's a difficult situation, Ashley. Full of sticky[5]nonsense and nasty business.[6]You should stay clear of [7]things beyond your[8]control[9].[10]This Matt's search for his father...[11]It's [12]impossible[13]. You should keep out of it, girl,[14]you hear me?[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]困境？[1]我是指那个男孩马修，就这样找[2]他的爸爸……[3]去找一个消失了的人……[4]那是很困难的，阿修蕾。充满着[5]徒劳无功和痛苦的经历。[6]你不应该参与自己[7]无力改变[8]的事情[9]。[10]这个马修要找到他的父亲……[11]是[12]不可能[13]的。你不要卷进去，丫头，[14]听懂我说的了吗？[15]</Translation>
   </Sentence>
   <Sentence id="372">
     <Commands>
@@ -4505,8 +4536,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]What do you mean by "beyond my control"?[1]Ashley, listen to me. You may have been born[2]yesterday, but I certainly wasn't![3]Do you honestly think that you can just waltz[4]along and help this boy find his father?[5]Huh?[6]It's always the same. I know that you heard his [7]story and took pity on him...[8]But don't you think you're getting a bit carried[9]away thinking you can do something?[10]It's not pity![11]He's really putting his all into finding his[12]dad.[13]And that's why I'm helping him.[14]If that's how you feel...[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你所谓的“无力改变”是什么意思？[1]阿修蕾，听我说。我见过的事比你听过[2]的都要多！[3]难道你真觉得这么转一转就能帮助那个[4]孩子找到他的爸爸？[5]嗯？[6]年轻人都是这样。我能理解你听说了[7]他的遭遇后会对其抱有同情……[8]不过你是不是太过高估自己，[9]觉得只要做就能成功？[10]不是因为同情！[11]他确实为了找爸爸竭尽了[12]所能。[13]所以我才会一直帮他。[14]如果你是这么觉得……[15]</Translation>
   </Sentence>
   <Sentence id="373">
     <Commands>
@@ -4532,16 +4562,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's not impossible... I'm sure Matt can find his[1]dad![2]Why do you think it's impossible?[3]I'm telling you it's impossible because it's[4]impossible, girl.[5]It's not impossible![6]Yes, it is.[7]No it's not![8]It's impossible, girl, don't be so darn stubborn.[9]It is not impossible![10].....[11]Ahahahaha![12]Huh?[13]Ashley, you're certainly an interesting little one.[14]I like you. You got guts.[15]Maybe someone like you could even make the[16]impossible a possibility! Who knows?[17]Ahahahaha![18].....[19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是不可能的……马修一定能找到[1]他爸爸！[2]为什么你会认为不可能？[3]我说不可能是因为本来就是不可能，[4]丫头。[5]不是不可能！[6]就是不可能。[7]不是！[8]就是不可能的，丫头，别那么固执了。[9]不是不可能！[10]……[11]哈哈哈哈！[12]嗯？[13]阿修蕾，你真是个有意思的小家伙。[14]我喜欢你。你很有决心。[15]或许像你这样的人就能把不可能变成[16]可能！谁能说得清呢？[17]哈哈哈哈！[18]……[19]</Translation>
   </Sentence>
   <Sentence id="374">
     <Commands>
       <Command>GgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="375">
     <Commands>
@@ -4602,8 +4630,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, just tell me one thing.[1]What?[2]Why are you so dead set on helping Matt find[3]his father?[4]Sounds like you have some special reason.[5]What is it?[6]I...know exactly how he feels.[7]You do? How?[8]Two years ago, I went looking for my dad all by[9]myself...[10]And then there's Matt's mom, who died when he[11]was just a kid.[12]The same as mine.[13]Sounds like you've had it tough too.[14]Yeah.[15]So I know exactly how he feels.[16]He might be selfish and rash, but I know[17]how lonely he is on the inside.[18]He's only 13 years old, anyway.[19]Shouldn't someone be there for him?[20]Hmmm... So that someone is you?[21]Yeah.[22]I'll be there for him.[23]Well, I'm sure that having you around will help[24]him in many ways.[25]Yeah, I hope so.[26]You live here alone, don't you, Mrs Graham?[27]Yep. That I do.[28]Aren't you ever lonely?[29]Haven't you ever wanted someone to be there[30]for you?[31]Well, I'd be fibbing if I said I was never lonely.[32]But then again...[33]But?[34]When I'm here, in the house, I feel like I'm not[35]really alone.[36]What do you mean?[37]You're still too young, Ashley. You won't[38]understand. Maybe when you're older...[39]But folks live with their memories, every minute[40]of every day.[41]Their memories?[42]That's right.[43]Well, I think I've wasted enough of your time...[44]What was it you wanted to ask me?[45]Well, I wanted to ask you for a favour,[46]actually...[47]Yes?[48]I want to look inside the clock tower.[49]The clock tower?[50]Yeah...[51]What on earth do you want [52]to do in a place like[53]that?[54]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，我要确认一件事。[1]什么事？[2]为什么你这么坚持帮助马修寻找他的[3]父亲呢？[4]听起来你应该有什么特别的理由。[5]到底为什么？[6]我……能体会到他的心情。[7]你能体会？[8]两年前，我也曾孤身一人去找过[9]爸爸……[10]而且马修的妈妈在他还是很小的时候就[11]去世了。[12]就像我妈妈一样。[13]这么说来你的遭遇也很辛苦。[14]嗯。[15]所以我清楚地知道他的感受。[16]他可能有点自私，也有点莽撞，不过我知道[17]他内心一定很孤独。[18]他才十三岁啊。[19]难道不该有人在一旁帮助他吗？[20]嗯……所以你就去帮他了？[21]是。[22]我会陪着他。[23]看来，你在他身边一定能提供不少[24]帮助。[25]嗯，我也希望如此。[26]格拉汉姆夫人，你也是一个人住在这吧？[27]是。我一个人住。[28]你不觉得孤独吗？[29]你不想有人来[30]陪你吗？[31]如果要说从不孤独那是撒谎。[32]不过……[33]不过？[34]当我静静地守在这座房子里的时候，又觉得[35]并不是完全一个人。[36]为什么？[37]你太年轻了，阿修蕾。你不会懂的。[38]或许等你也变老了……[39]人们都是生活总是于回忆相伴的，每一分[40]每一秒。[41]回忆？[42]是啊。[43]好啦，我已经耽误你不少时间了……[44]你打算问我什么？[45]嗯，我想请你帮忙，[46]其实……[47]嗯？[48]我想进去钟楼。[49]钟楼？[50]是的……[51]你到底想去[52]那种地方干什么[53]？[54]</Translation>
   </Sentence>
   <Sentence id="376">
     <Commands>
@@ -4612,8 +4639,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]To find out about[1]5 years ago[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]探寻五年前[1]的真相[2]</Translation>
   </Sentence>
   <Sentence id="377">
     <Commands>
@@ -4622,8 +4648,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]To find out about[1]13 years ago[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]探寻十三年前[1]的真相[2]</Translation>
   </Sentence>
   <Sentence id="378">
     <Commands>
@@ -4662,8 +4687,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to find out about what happened five[1]years ago.[2]We think that there might be some clues[3]about Matt's dad's disappearance.[4]He disappeared five years ago, you say?[5]Yeah.[6]His mom said that he should never go to the[7]clock tower.[8]But we think there has to be a reason for that.[9]Maybe something happened.[10]You might be right...[11]Huh?[12]Ashley, say you do go and look inside...[13]And Matt finds out something he didn't want to[14]know, then what?[15]What do you mean?[16]Don't you know why the clock tower stopped?[17]Yeah, Lucy told me.[18]Then maybe you shouldn't go in there.[19]What if the rumour is true, and it turns out[20]that Matt's father was the one who fell?[21]Mrs Graham, even so, I want to go in there.[22]And why is that?[23]Two years ago, I had no idea why Mom had died.[24]And I was scared of finding out...[25]But when I found out, I understood.[26]Finding out the truth is really scary, sure, but[27]it's better than the other option.[28]I think that the worst thing is never knowing[29]the truth, no matter how hard it is.[30]Ashley...[31]That's why I want to go in there.[32]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想搞清楚五年前到底发生了[1]什么。[2]我们觉得那可能会有马修爸爸[3]失踪的线索。[4]你说他五年前失踪的？[5]嗯。[6]她的妈妈要他不要接近[7]钟楼。[8]不过这一定是有理由的。[9]或许那发生过什么事。[10]你或许是对的……[11]嗯？[12]阿修蕾，假如你们真的进去看了……[13]而且发现了马修不想知道的事情，[14]你会怎么办？[15]你是指什么？[16]你难道不知道钟楼为什么关闭了吗？[17]知道，露西告诉我了。[18]那你或许就不该去那儿。[19]假如谣言是真的，而马修的父亲正是那个[20]从钟楼掉下来的人，事情会变成什么样？[21]格拉汉姆夫人，即使有这个可能，我也要进去。[22]为什么这么坚持？[23]两年前，我并不知道妈妈为何而死。[24]我也很害怕知道……[25]可一切真相大白后，我明白了。[26]探寻真相确实让人感到害怕，但是[27]也比另一种选择好。[28]我觉得不论真相本身有多残酷，对其一无所知[29]才是最糟的情况。[30]阿修蕾……[31]所以我一定要进去看看。[32]</Translation>
   </Sentence>
   <Sentence id="379">
     <Commands>
@@ -4697,16 +4721,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to find out about what happened 13[1]years ago.[2]13 years ago, you say? What happened?[3]I came here with Mom 13 years ago.[4]My hearing's not what it used to be... 13 years[5]ago you came here?[6]Yeah.[7]I didn't remember a thing about it until I came[8]here, then I started remembering.[9]I remembered her being at the clock tower.[10]So I want to go in there. I might find out more[11]about my mom.[12]I see...[13]Ashley, how old were you when your mother[14]died?[15]I was only three years old.[16]Mom was killed on the night of my birthday.[17]Say what?! Killed? Good grief![18]Yeah...[19]That's why I don't remember much about her.[20]That's terrible, you poor child...[21]So then the memories of being here must be[22]really important to you.[23]Yeah. They are.[24]So I want to remember everything about being[25]here.[26]That's why I want to go into the clock tower.[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想要搞清楚十三年前到底发生了[1]什么。[2]你说十三年前？发生了什么？[3]我和妈妈十三年前来过这里。[4]我的耳朵好像不如从前了……十三年前[5]你来过这？[6]是的。[7]直到今天又来到这里，[8]我才开始回忆起来。[9]我记得她曾经去过钟楼。[10]所以我要进去。我想要更多的了解[11]妈妈。[12]我明白了……[13]阿修蕾，你和母亲一起来的时候[14]是多大？[15]当时只有三岁。[16]妈妈就在我生日的当晚被杀了。[17]你说什么？被杀了！天哪！[18]是的……[19]所以我对妈妈印象很模糊。[20]太可怕了，可怜的孩子……[21]这么说曾经来过这里的记忆对你的确[22]很重要。[23]是的。很重要。[24]所以我要回忆起在这里的一点[25]一滴。[26]这就是我要进去钟楼的原因。[27]</Translation>
   </Sentence>
   <Sentence id="380">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="381">
     <Commands>
@@ -4721,8 +4743,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Ag5kAAoA</Command>
     </Commands>
     <Original>[0]Hmmm...[1]Okay, Ashley.[2]I suppose you can go into the clock tower then.[3]For real? Thank you so much, Mrs Graham![4]You'd better take the [5]three clock tower[6]keys[7] with you before I change my mind.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]好吧，阿修蕾。[2]我同意你进钟楼。[3]真的？十分感谢，格拉汉姆夫人！[4]在我改变主意之前，你最好赶快找到[5]三把钟楼[6]钥匙[7]。[8]</Translation>
   </Sentence>
   <Sentence id="382">
     <Commands>
@@ -4746,8 +4767,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are three keys?[1]Yep.[2]These three keys belong to the Graham family.[3]So, are they yours?[4]No. They're meant to be passed down through[5]the generations.[6]Each member of the family takes one key and[7]looks after it.[8]And then they get passed on to another three[9]people.[10]When my father died...[11]The three keys were held by me, my husband[12]Robin and my daughter Olivia, but...[13]But?[14]My husband passed away eight years ago, and [15]Olivia left the family home...[16]So nobody's left to look after the keys.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有三把钥匙？[1]是的。[2]这三把钥匙属于格拉汉姆家族。[3]所以都在你手里了？[4]不。这三把钥匙本来是代代[5]相传的。[6]每个家庭成员负责保管一把[7]钥匙。[8]之后又传给另外三个[9]人。[10]当我父亲去世后……[11]那三把钥匙由我、我丈夫罗宾[12]和我女儿奥利维亚保管，可是……[13]可是？[14]我丈夫八年前也去世了，而[15]奥利维亚也离开了这个家……[16]所以已经没有保管者了。[17]</Translation>
   </Sentence>
   <Sentence id="383">
     <Commands>
@@ -4756,8 +4776,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So where are they now?[1]Two of them are in the shed.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那钥匙现在在哪？[1]库房里有两把。[2]</Translation>
   </Sentence>
   <Sentence id="384">
     <Commands>
@@ -4778,16 +4797,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]The shed outside here?[1]That's the one. [2]Anyway, my husband used it as a workshop [3]before he passed on.[4]Two of the keys are in there, so go and get[5]them.[6]Here's the key to the shed. Don't you dare[7]lose that now![8]Thanks.[9]My husband was a clockmaker and he liked his[10]little tricks.[11]So the keys are in an awkward place, but I'm[12]sure you'll be able to get them.[13]Okay, I'll be right back.[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]外面的库房？[1]就是那个。 [2]我丈夫在世时曾经将其作为[3]工作间。[4]那有两把钥匙，去找[5]吧。[6]这是库房的钥匙。别弄丢[7]了！[8]谢谢。[9]我丈夫曾经是钟表匠，他很喜欢[10]做些小机关。[11]所以钥匙可能会在不容易拿到的地方，不过[12]你一定会拿到的。[13]好的，我很快回来。[14]</Translation>
   </Sentence>
   <Sentence id="385">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="386">
     <Commands>
@@ -4795,8 +4812,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]On with the story?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]继续听故事？[1]</Translation>
   </Sentence>
   <Sentence id="387">
     <Commands>
@@ -4806,8 +4822,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]What? You can't find the shed?[1]Go out the door and walk down the path, it's[2]straight ahead of you. You can't miss it![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么？你找不到库房？[1]出了门一直走就能看到，[2]不会找不到的！[3]</Translation>
   </Sentence>
   <Sentence id="388">
     <Commands>
@@ -4816,8 +4831,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]That's the back room.[1]Don't go wandering into other rooms, girl.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里面是私人房间。[1]别去别的屋子乱逛，丫头。[2]</Translation>
   </Sentence>
   <Sentence id="389">
     <Commands>
@@ -4826,8 +4840,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]That's my bedroom.[1]Don't go wandering into other rooms, girl.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是我的卧室。[1]别去别的屋子乱逛，丫头。[2]</Translation>
   </Sentence>
   <Sentence id="390">
     <Commands>
@@ -4835,8 +4848,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Where are you going, Ashley?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪，阿修蕾？[1]</Translation>
   </Sentence>
   <Sentence id="391">
     <Commands>
@@ -4846,8 +4858,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This must be the shed.[1]I'll use the key Mrs Graham lent me...[2]It opened![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定就是库房了。[1]用格拉汉姆夫人交给我的钥匙……[2]开了！[3]</Translation>
   </Sentence>
   <Sentence id="392">
     <Commands>
@@ -4856,8 +4867,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wow! There's loads of old clocks...[1]This must be where he made them all.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔！这么多老式钟表……[1]这一定就是他的工作间吧。[2]</Translation>
   </Sentence>
   <Sentence id="393">
     <Commands>
@@ -4872,16 +4882,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cloth-covered device[2] on[3]the desk.[4]Sword and moon keys... Just like the crest.[5]Huh? I can't get them out.[6]They're connected to something...[7]How do I get them out?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌上有一个[1]盖着布的设备[2]。[3][4]剑和月亮形状的钥匙……就像纹章上一样。[5]嗯？拿不出来。[6]两把被连在一起了……[7]怎么才能拿出来呢？[8]</Translation>
   </Sentence>
   <Sentence id="394">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="395">
     <Commands>
@@ -4892,8 +4900,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Finally got them out...[1]That's two of the clock tower keys.[2]Now I'd better give the shed key back to[3]Mrs Graham.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]可算拿出来了……[1]已经入手两把钟楼钥匙了。[2]现在去把库房钥匙还给格拉汉姆夫人[3]吧。[4]</Translation>
   </Sentence>
   <Sentence id="396">
     <Commands>
@@ -4903,8 +4910,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah.[1]I'll just put the coin back... [2]There, done.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦，对了。[1]我只要把这枚硬币放回去……[2]就是这样。[3]</Translation>
   </Sentence>
   <Sentence id="397">
     <Commands>
@@ -4913,8 +4919,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's not heavy enough.[1]If I had something else...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还是不够重。[1]如果还有别的东西……[2]</Translation>
   </Sentence>
   <Sentence id="398">
     <Commands>
@@ -4922,8 +4927,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to use something else...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]得借助别的什么东西……[1]</Translation>
   </Sentence>
   <Sentence id="399">
     <Commands>
@@ -4931,8 +4935,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I wonder if this is enough weight...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不知道这个是否够重……[1]</Translation>
   </Sentence>
   <Sentence id="400">
     <Commands>
@@ -4940,8 +4943,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Uh, what do I do now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔，现在怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="401">
     <Commands>
@@ -4949,8 +4951,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Uh, what do I do now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 唔，现在怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="402">
     <Commands>
@@ -4958,8 +4959,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Uh, what do I do now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 唔，现在怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="403">
     <Commands>
@@ -4967,8 +4967,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Uh, what do I do now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] 唔，现在怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="404">
     <Commands>
@@ -4976,8 +4975,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, one more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]就是这样，再来一次！[1]</Translation>
   </Sentence>
   <Sentence id="405">
     <Commands>
@@ -4986,8 +4984,7 @@
       <Command>Ggb/AAAAChoFAAABChoIAABZUg8BChoHAABpAQ4KGgUAAA4KGgYBAAMhCgA=</Command>
     </Commands>
     <Original>[0]There are weights in the case.[1]These should be perfect![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]盒子里有砝码。[1]这些一定合适！[2]</Translation>
   </Sentence>
   <Sentence id="406">
     <Commands>
@@ -4996,24 +4993,21 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFgoA</Command>
     </Commands>
     <Original>[0]There's a coin.[1]This should do the trick![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一枚硬币。[1]这个应该可以解开那个机关！[2]</Translation>
   </Sentence>
   <Sentence id="407">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="408">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="409">
     <Commands>
@@ -5021,24 +5015,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I use these weights...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果用上这些砝码……[1]</Translation>
   </Sentence>
   <Sentence id="410">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="411">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="412">
     <Commands>
@@ -5046,24 +5037,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I use the souvenir token...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果我用上纪念币……[1]</Translation>
   </Sentence>
   <Sentence id="413">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="414">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="415">
     <Commands>
@@ -5071,24 +5059,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I use the J&amp;L badge...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果用上J&amp;L徽章……[1]</Translation>
   </Sentence>
   <Sentence id="416">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="417">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="418">
     <Commands>
@@ -5096,24 +5081,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I use this battery...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果用上这节电池……[1]</Translation>
   </Sentence>
   <Sentence id="419">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="420">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="421">
     <Commands>
@@ -5121,24 +5103,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I use a token...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果用上一枚代币……[1]</Translation>
   </Sentence>
   <Sentence id="422">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="423">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="424">
     <Commands>
@@ -5146,8 +5125,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]If I use the coin...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如果用上这枚硬币……[1]</Translation>
   </Sentence>
   <Sentence id="425">
     <Commands>
@@ -5169,8 +5147,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Thanks for the shed key, Mrs Graham.[1]Here you go.[2]No problem, girl... You didn't break anything, did[3]you? Good.[4]Now there's only one key left...[5]It's my daughter's key. It should be somewhere[6]in her room.[7]Your daughter's room?[8]Yeah. My girl didn't think much of her mother.[9]She went five years ago and left me here.[10]I use her room as a storage room now, but all[11]of her things are still there.[12]I'm sure her key is still in there too...[13]Ashley, would you please go in and find it?[14]Okay.[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谢谢你的库房钥匙，格拉汉姆夫人。[1]还给你。[2]不客气，丫头……你没有打破任何东西吧？[3]很好。[4]还剩下一把钥匙了……[5]那是我女儿的钥匙。应该就在她房间里的[6]什么地方。[7]你女儿的房间？[8]是的。我的女儿从不为我这妈妈考虑。[9]她五年前出走，把我自己留在了这里。[10]我现在把她的房间当做储藏室使用，不过[11]她的东西应该都还在。[12]她的钥匙一定也在那里……[13]阿修蕾，你可以自己去找出来吗？[14]好的。[15]</Translation>
   </Sentence>
   <Sentence id="426">
     <Commands>
@@ -5178,8 +5155,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So this was Olivia's room...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这就是奥利维亚的房间……[1]</Translation>
   </Sentence>
   <Sentence id="427">
     <Commands>
@@ -5191,8 +5167,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]old artist's materials[2].[3]There's a toolbox, paintbrushes, a palette...[4]Were these her daughter's?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]放着一些[1]老旧画家用具[2]。[3]工具箱、画笔、调色盘……[4]这些都是她女儿的？[5]</Translation>
   </Sentence>
   <Sentence id="428">
     <Commands>
@@ -5206,16 +5181,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]dusty book[2] in the [3]cupboard.[4]What's this? A photo album?[5]It's really dusty...[6]I wonder if I should look inside?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]橱柜里有一本 [1]布满灰尘的书[2]。[3][4]这是？相册？[5]灰真够厚的……[6]不知道是不是应该翻看一下？[7]</Translation>
   </Sentence>
   <Sentence id="429">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="430">
     <Commands>
@@ -5236,8 +5209,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgAAOVQZAD0AAAEAAAoaDQAAFQAAAAAAAAAAChoMAAAIAAAAAAAAAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]"Lake Juliet[1]Photographs by Gilbert Moss"[2]That's the man who lived in the old cottage, the[3]one Matt was hiding in.[4]So that must be Mrs Graham's daughter.[5]And what's this?[6]There's something in the cover.[7]It's an envelope.[8]It's to "Charlotte Graham", from "Olivia".[9]So it's for Mrs Graham...[10]It's still sealed. I wonder if Mrs Graham knew it[11]was there.[12]There's something in it, I think.[13]I'll take it to Mrs Graham.[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]“朱丽叶湖[1]吉尔伯特·莫斯 拍摄”[2]是马修躲过的那间小屋的[3]主人。[4]那这一定就是格拉汉姆夫人的女儿了。[5]这是什么？[6]封页里有什么东西。[7]是一封信。[8]“奥利维亚”写给“夏洛蒂·格拉汉姆”。[9]原来是寄给格拉汉姆夫人的……[10]还没拆过封。不知道格拉汉姆夫人是否知道[11]这封信的存在。[12]信里好像有什么东西。[13]拿给格拉汉姆夫人看看吧。[14]</Translation>
   </Sentence>
   <Sentence id="431">
     <Commands>
@@ -5248,8 +5220,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAE/AQAAAAoA</Command>
     </Commands>
     <Original>[0]"Lake Juliet[1]Photographs by Gilbert Moss"[2]That's the man who lived in the old cottage, the[3]one Matt was hiding in.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] “朱丽叶湖[1] 吉尔伯特·莫斯 拍摄”[2] 是马修躲过的那间小屋的[3] 主人。[4]</Translation>
   </Sentence>
   <Sentence id="432">
     <Commands>
@@ -5257,8 +5228,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]下面干什么？[1]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -5269,8 +5239,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]"Lake Juliet[1]Photographs by Gilbert Moss"[2]That's the man who lived in the old cottage, the[3]one Matt was hiding in.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0] “朱丽叶湖[1] 吉尔伯特·莫斯 拍摄”[2] 是马修躲过的那间小屋的[3] 主人。[4]</Translation>
   </Sentence>
   <Sentence id="434">
     <Commands>
@@ -5278,8 +5247,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]</Translation>
   </Sentence>
   <Sentence id="435">
     <Commands>
@@ -5287,8 +5255,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll take another look.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再看一遍吧。[1]</Translation>
   </Sentence>
   <Sentence id="436">
     <Commands>
@@ -5296,8 +5263,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Gilbert Moss' photo album...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉尔伯特·莫斯摄影集……[1]</Translation>
   </Sentence>
   <Sentence id="437">
     <Commands>
@@ -5306,8 +5272,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's locked.[1]Looks like I can't go through here...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]锁上了。[1]看来是过不去了……[2]</Translation>
   </Sentence>
   <Sentence id="438">
     <Commands>
@@ -5316,8 +5281,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Mrs Graham...[1]Did you get the key?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格拉汉姆夫人……[1]你找到钥匙了吗？[2]</Translation>
   </Sentence>
   <Sentence id="439">
     <Commands>
@@ -5364,8 +5328,7 @@
       <Command>ChoFAAABChoJAABVTgfQAAoaBgAADAAKGgcAABEAABoHAAASCwAKGgYAAAwAChoNAAAVAAAAAAAAAAAKGgwAAAgAAT0AAAAAChoNAAAVCwAAAAEAAAAKGgwAAAgLAVIBAAAACgA=</Command>
     </Commands>
     <Original>[0]I didn't find the key, but I did find this.[1]It was in a photo album in the cupboard. This[2]envelope was tucked into the cover.[3]An envelope?[4]I had no idea there was anything in that album.[5]I think it's for you. It has your name on it.[6]Ashley...[7]I...can't open this. Could you open it for me,[8]please?[9]Are you sure?[10]Yes.[11]There's...a letter and a key inside.[12]You couldn't read out that letter to me, could[13]you?[14]I've broken my glasses, so I wouldn't be able to[15]make out the letters.[16]"To my dearest Mom,[17]I'm leaving this letter behind with the hope that[18]one day you'll read it.[19]Mom, I'm so sorry for making you worry so[20]much about me.[21]I know that you were just really worried for me[22]because I fell in love again after the divorce,[23]and I'm really grateful and lucky to have you[24]there for me like that.[25]But, with Gilbert, this time I know it's not just a[26]fling or a fantasy. My feelings are real, and I'm[27]determined to spend the rest of my life with[28]him. I left this letter in his album with the hope[29]you'll look at his photos and understand how I[30]feel. Mom, no matter how far away I go, I will[31]never ever forget the sound of the clock tower[32]ringing. The sound you loved so much.[33]I pray that one day you'll find it in your heart[34]to forgive us and accept me and Gilbert.[35]All my love,[36]Your daughter, Olivia.[37].....[38]Maybe you should have this. Here...[39]Thank you, Ashley.[40]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我没有找到要是，不过发现了这个。[1]在橱柜的相册里发现的。这封信被[2]塞进封页里了。[3]一封信？[4]我从不知道相册里有这种东西。[5]我想这是寄给你的。上面有你的名字。[6]阿修蕾……[7]我……不能打开这封信。你能帮我拆开[8]吗？[9]可以吗？[10]嗯。[11]里面……有一页信和一把钥匙。[12]能请你读给我听[13]吗？[14]我的眼睛摔坏了，所以没办法自己看[15]信的内容了。[16]“最亲爱的妈妈，[17]我希望有一天你会读到[18]这封信。[19]妈妈，让你一直以来如此担心我，[20]我很内疚。[21]我知道自己在离婚后再次恋爱[22]让你很担忧，[23]我很感激你挂念我的这种[24]心情。[25]可是我这次对吉尔伯特并非是情窦初开[26]的一时冲动。我对他的感情是真实的，[27]我已决定要和他一起度过余生。[28]我之所以把这封信留在他的摄影集里，[29]是希望终有一天你能看看他的作品，理解我的[30]感受。妈妈，不论走到天涯海角，我都不会忘记[31]那自钟楼响起的钟声。[32]你曾如此喜爱的钟声。[33]我祈望终有一天您能在心里真的原谅我们，[34]接受我和吉尔伯特的婚姻。[35]致我最亲爱的妈妈，[36]你的女儿，奥利维亚。[37]……[38]或许你应该收下这封信……[39]谢谢，阿修蕾。[40]</Translation>
   </Sentence>
   <Sentence id="440">
     <Commands>
@@ -5373,16 +5336,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]No, I can't show her the TAS...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，不能让她看到TAS……[1]</Translation>
   </Sentence>
   <Sentence id="441">
     <Commands>
       <Command>Gg0AABULAAAAAAAAAAoaDAAACAsA+QAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="442">
     <Commands>
@@ -5390,8 +5351,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]What are you showing me that for, girl?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]丫头，你给我看这个干嘛？[1]</Translation>
   </Sentence>
   <Sentence id="443">
     <Commands>
@@ -5408,8 +5368,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Ag9kAAoA</Command>
     </Commands>
     <Original>[0]Mrs Graham...[1]Is this the first time you've read this letter?[2]Yes...[3]I had no idea she wrote me a letter back then,[4]let alone that she'd leave it there.[5]Why in the world would she even put it in that[6]man's album?[7]I tell you, that girl really[8] has no idea[9] sometimes![10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格拉汉姆夫人……[1]这是你第一次听到内容吗？[2]是的……[3]我从不知道她留了一封信给我，[4]更不要说放在那种地方。[5]她为什么要把信放到那个男人的[6]摄影集里？[7]这个孩子有些时候[8]真是有点傻头傻脑[9]！[10]</Translation>
   </Sentence>
   <Sentence id="444">
     <Commands>
@@ -5428,8 +5387,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AhBkAAoaBgAADAAKGgcAABEAABoHAAASCwAKGg0AABULAAAAAAAAAAoaDAAACAsA+QAAAAAKAA==</Command>
     </Commands>
     <Original>[0]What do you mean?[1]Well, I was always dead against her getting[2]married to that photographer man.[3]And still, she wanted me to see his photos...[4]So she went and left an album of his in her[5]room.[6]Silly girl should have known that I wouldn't go[7]near that cabinet with his stuff in it.[8]Not even a thought spared about [9]her mother's[10]feelings[11]...[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你是指？[1]我一直是坚决反对她和那个摄影师[2]结婚的。[3]即便如此，她还是想着我能看看他的作品……[4]所以她走的时候在房间里留下了一本[5]摄影集。[6]这个傻孩子应该知道我根本不会接近[7]放着那个人东西的储藏柜的。[8]一点都不能体会[9]她妈妈[10]的感受[11]……[12]</Translation>
   </Sentence>
   <Sentence id="445">
     <Commands>
@@ -5466,8 +5424,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you mean? Didn't she write you that[1]letter?[2]Well...[3]There's not a mother in this world who doesn't[4]want their child to be happy.[5]Yeah...[6]When she came back home, after her first[7]marriage collapsed...[8]The poor little thing was in tatters. She didn't[9]trust a soul.[10]Not even me - her own mother![11]But then, surrounded by the natural beauty of[12]Lake Juliet she slowly started to heal,[13]and finally she could stand on her own two feet.[14]I was so happy.[15]And then that man came. He went and fell in[16]love with her.[17]At first, she wouldn't even give him the time of[18]day - and darn right too.[19]She had no more faith in love, or being loved.[20]But he wouldn't quit, and somehow...[21]Somehow, she grew to love him back.[22]Why didn't you want them to get married?[23]I didn't ever want to see Olivia in that state[24]again. I didn't want her to give up on life.[25]And I wouldn't let myself trust that man.[26]I couldn't let myself trust him.[27]A man like that, who had just tired of his city[28]life and come out here on a whim.[29]Right...[30]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]可是她不是给你写了这封信[1]吗？[2]唉……[3]这个世界上哪有不希望子女[4]幸福的母亲。[5]是啊……[6]当她第一次婚姻破裂，回到家[7]的时候……[8]这可怜的小东西精神萎靡。根本不相信[9]这世上还有真情。[10]甚至对我——她母亲的关爱都无动于衷！[11]后来朱丽叶湖的美丽风光逐渐[12]治愈了她内心的伤痛，[13]她终于重拾了生活的信心。[14]我当时是多么高兴啊。[15]接着那个男人就出现了。他爱上了[16]奥利维亚。[17]一开始她根本不给那个男人留一点[18]机会。[19]她已经不再能爱人和被爱了。[20]可是他没有放弃，结果……[21]结果，她回报了他的爱。[22]为什么你不希望他们结婚？[23]我绝不想再看到奥利维亚陷入那种[24]悲痛。我不希望她放弃生活的信念。[25]我不会信任那个男人。[26]我不能信任他。[27]像他那种厌倦了大城市的生活[28]想出来换换口味的男人。[29]没错……[30]</Translation>
   </Sentence>
   <Sentence id="446">
     <Commands>
@@ -5487,16 +5444,14 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAASQPoChoGAABkCwoaFQAABFNUUk1fQkdNXzMzAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Oh, what a foolish girl.[1]Olivia...[2]I thought you didn't understand a thing.[3]Maybe I was wrong.[4]I gave birth to you, girl. I know how you think,[5]how you feel, everything.[6]Don't I?[7]My darling Olivia...just forget your old mother.[8]You've always been so bad at finding[9]happiness...[10]And now that you've finally found it...[11]Please don't lose it again.[12]Oh, Olivia...[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦，那个傻孩子。[1]奥利维亚……[2]你根本不了解。[3]或许是我错了。[4]我是你的母亲啊，孩子。我知道你的想法[5]和感受，你的一切。[6]难道不是吗？[7]我亲爱的奥利维亚……忘了你的母亲吧。[8]你一直都未曾找到过长久的[9]幸福……[10]既然如今你终于找到了……[11]千万不要再失去了。[12]哦，奥利维亚……[13]</Translation>
   </Sentence>
   <Sentence id="447">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="448">
     <Commands>
@@ -5509,8 +5464,7 @@
       <Command>Ggb/AAAAChoMAAAIAACHAQAAAAoaDQAAFQAAawABAAEXChoFAAABChoFAAAOChoGAQADIgoaBgAAHgsKGgUAAA4KGgYBAAN9CgA=</Command>
     </Commands>
     <Original>[0]Ashley, thank you for finding this letter.[1]You're a kind soul.[2]You're welcome.[3]Here. Olivia's flower key was in the envelope.[4]Take it with you.[5]Okay...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，很感谢你找到这封信。[1]你真是一个体贴的孩子。[2]不用客气。[3]奥利维亚的花型钥匙也在信封里。[4]把它拿去吧。[5]好的……[6]</Translation>
   </Sentence>
   <Sentence id="449">
     <Commands>
@@ -5535,8 +5489,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgcAAEkD6AoA</Command>
     </Commands>
     <Original>[0]Thanks, Mrs Graham.[1]Now I can get into the clock tower, right?[2]Yes, the sword key will get you in.[3]And all three together will start the clock.[4]They make the clock run?[5]That they do. And so, I have something to ask[6]of you too, Ashley.[7]What is it, Mrs Graham?[8]Ashley, I want you to start that old clock again.[9]Are you sure?[10]Yes...yes, I am. Then the bell will ring once more...[11]Ashley, I understand now from reading Olivia's[12]letter.[13]That clock tower bell... It was that sound that[14]brought us together.[15]Ashley, please. Let this old woman hear that bell[16]once more.[17]I promise, Mrs Graham.[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谢谢你，格拉汉姆夫人。[1]现在我可以进去钟楼了，是吧？[2]嗯，剑型钥匙会为你打开大门。[3]三把钥匙一起可以使钟重新运转。[4]可以使钟重新运转？[5]是的。我还有事情想要拜托你，[6]阿修蕾。[7]什么事，格拉汉姆夫人？[8]阿修蕾，我希望你能重新启动钟表。[9]你确定吗？[10]是……是的，我确定。那钟声终于会再次响起了……[11]阿修蕾，听过奥利维亚的信后我明白[12]了。[13]正是钟楼……那钟声将我们[14]联系在一起。[15]阿修蕾，拜托你。让我这个老太婆再听一次[16]钟声吧。[17]我一定会的，格拉汉姆夫人。[18]</Translation>
   </Sentence>
   <Sentence id="450">
     <Commands>
@@ -5551,8 +5504,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQ19SMTQwX0QAQkdNAAoA</Command>
     </Commands>
     <Original>[0]Awesome! Mrs Graham let me have all three[1]of the keys...[2]Matt, I know we'll find something about your[3]dad in there.[4]And my mom...[5]Right.[6]I have to go over everything that's happened.[7]I have to remember.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]太好了！格拉汉姆夫人把三把钥匙[1]都给了我……[2]马修，我们会在那找到你爸爸的[3]线索的。[4]还有我的妈妈……[5]好啦。[6]我得回忆一下这一章发生的事情。[7]我要记住。[8]</Translation>
   </Sentence>
   <Sentence id="451">
     <Commands>
@@ -5560,8 +5512,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's talk a bit more.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们再谈谈吧。[1]</Translation>
   </Sentence>
   <Sentence id="452">
     <Commands>
@@ -5569,8 +5520,7 @@
       <Command>ChoFAAABChoNAAAVCwBpAAAAAAAKGgwAAAgLAP8AAAAAChoGAAAMAAoaDQAAFQsAAAAAAAAAChoMAAAICwD5AAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="453">
     <Commands>
@@ -5578,8 +5528,7 @@
       <Command>ChoFAAABChoNAAAVCwAAAAAAAAAKGgwAAAgLAPkAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪？[1]</Translation>
   </Sentence>
   <Sentence id="454">
     <Commands>
@@ -5600,8 +5549,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Janet called me over to Elizabeth's house.[1]She told me that Elizabeth doesn't want to talk[2]to her dad.[3]Then Elizabeth got all mad at us because I[4]touched something.[5]What was it?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在电话里，珍妮特邀我去伊丽莎白家。[1]她说伊丽莎白不想和他的父亲[2]说话。[3]后来因为我碰了某样东西，让伊丽莎白[4]大为光火。[5]是什么东西？[6]</Translation>
   </Sentence>
   <Sentence id="456">
     <Commands>
@@ -5609,8 +5557,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Music box[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]音乐盒[1]</Translation>
   </Sentence>
   <Sentence id="457">
     <Commands>
@@ -5618,8 +5565,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Music player[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]音乐播放器[1]</Translation>
   </Sentence>
   <Sentence id="458">
     <Commands>
@@ -5627,8 +5573,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Letters from her mom[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]她妈妈的来信[1]</Translation>
   </Sentence>
   <Sentence id="459">
     <Commands>
@@ -5638,8 +5583,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]She got mad because I touched the music box.[2]She got that from her mom, so she treasures it.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错……[1]她生气是因为我动了音乐盒。[2]那是她妈妈给她的，所以她很珍惜。[3]</Translation>
   </Sentence>
   <Sentence id="460">
     <Commands>
@@ -5648,8 +5592,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't touch the music player in her room...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是……[1]我可没碰音乐播放器……[2]</Translation>
   </Sentence>
   <Sentence id="461">
     <Commands>
@@ -5658,8 +5601,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't touch the letters in her room...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]在那时侯我可没用动过信……[2]</Translation>
   </Sentence>
   <Sentence id="462">
     <Commands>
@@ -5674,8 +5616,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Elizabeth said her dad was hiding something[1]from her.[2]She went into his room and looked for letters,[3]then pulled out a drawer.[4]It had letters to Elizabeth from her mom inside[5]it.[6]There was also a picture of a young Elizabeth. [7]What else was there?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白说她爸爸对她[1]隐瞒了什么。[2]于是她走进卧室翻找信件，[3]之后拉开了一个抽屉。[4]里面有伊丽莎白妈妈寄来的[5]信。[6]还有一张伊丽莎白小时候的照片。 [7]还有什么？[8]</Translation>
   </Sentence>
   <Sentence id="463">
     <Commands>
@@ -5683,8 +5624,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sword key[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]剑型钥匙[1]</Translation>
   </Sentence>
   <Sentence id="464">
     <Commands>
@@ -5692,8 +5632,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Fishing photo[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]钓鱼的照片[1]</Translation>
   </Sentence>
   <Sentence id="465">
     <Commands>
@@ -5701,8 +5640,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Handkerchief[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]手帕[1]</Translation>
   </Sentence>
   <Sentence id="466">
     <Commands>
@@ -5711,8 +5649,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]The sword key was in Charlotte's shed.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是……[1]剑型钥匙在夏洛蒂的库房里。[2]</Translation>
   </Sentence>
   <Sentence id="467">
     <Commands>
@@ -5723,8 +5660,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]There was a fishing photo in the drawer.[2]I'd seen one of the men in the photo before,[3]when I remembered something about Mom.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错……[1]抽屉里有一张钓鱼照片。[2]当我回忆起有关妈妈的记忆片段时，[3]似乎觉得见过照片上的某人。[4]</Translation>
   </Sentence>
   <Sentence id="468">
     <Commands>
@@ -5733,8 +5669,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]Elizabeth's handkerchief was at the mines.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是的……[1]伊丽莎白的手帕是在矿井发现的。[2]</Translation>
   </Sentence>
   <Sentence id="469">
     <Commands>
@@ -5748,8 +5683,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt got soaked and ran a fever, so I went to[1]Mrs Graham to get medicine.[2]I heard that the clock tower belonged to her[3]family, and that something happened there five[4]years ago. I wanted to get in, so Mrs Graham[5]let me have the three keys.[6]Where did I find Olivia's flower key?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修被雨淋后发烧了，于是我去找[1]格拉汉姆夫人求药。[2]我听说钟楼正是属于她的家族，[3]而五年前又发生了某个事件。[4]于是我决定要进去一探究竟，[5]格拉汉姆夫人给我了三把钥匙。[6]奥利维亚的花型钥匙是在哪找到的？[7]</Translation>
   </Sentence>
   <Sentence id="470">
     <Commands>
@@ -5757,8 +5691,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]In Gilbert Moss' photo album[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉尔伯特·莫斯的摄影集里[1]</Translation>
   </Sentence>
   <Sentence id="471">
     <Commands>
@@ -5766,8 +5699,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]In the shed[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在库房里[1]</Translation>
   </Sentence>
   <Sentence id="472">
     <Commands>
@@ -5775,8 +5707,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]In the greenhouse[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]温室里[1]</Translation>
   </Sentence>
   <Sentence id="473">
     <Commands>
@@ -5787,8 +5718,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]Olivia's flower key was in Gilbert Moss' photo[2]album.[3]Along with a letter to her mom.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错……[1]奥利维亚的花型钥匙在吉尔伯特·莫斯[2]的摄影集里。[3]和写给她妈妈的信在一起。[4]</Translation>
   </Sentence>
   <Sentence id="474">
     <Commands>
@@ -5797,8 +5727,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nope...[1]The sword key and moon key were in the shed.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是……[1]在库房里的是剑型和月型钥匙。[2]</Translation>
   </Sentence>
   <Sentence id="475">
     <Commands>
@@ -5807,8 +5736,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]The flower key wasn't in the greenhouse.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是……[1]花型钥匙不是在温室里找到的。[2]</Translation>
   </Sentence>
   <Sentence id="476">
     <Commands>
@@ -5820,8 +5748,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I came to Lake Juliet, I suddenly[1]started remembering my mom.[2]I need to assemble the fragments of memory[3]that keep appearing.[4]I need to remember her here 13 years ago.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当我来到朱丽叶湖，突然间[1]回忆起我的妈妈。[2]我得把不断出现的记忆片段[3]拼在一起。[4]我得想起来她十三年前来这的情景。[5]</Translation>
   </Sentence>
   <Sentence id="477">
     <Commands>
@@ -5839,8 +5766,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I met Elizabeth's dad at her house.[1]And then I remembered the man who was [2]wearing the bracelet. Who was it?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我在伊丽莎白家遇到了她的爸爸。[1]之后我突然回忆起那个戴着手镯[2]的人的真面目。是谁呢？[3]</Translation>
   </Sentence>
   <Sentence id="479">
     <Commands>
@@ -5849,8 +5775,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]It was Elizabeth's dad, Rex Alfred.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错……[1]就是伊丽莎白的爸爸， 雷克斯·阿尔弗雷德。[2]</Translation>
   </Sentence>
   <Sentence id="480">
     <Commands>
@@ -5859,8 +5784,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]It wasn't Ryan.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]不是莱恩。[2]</Translation>
   </Sentence>
   <Sentence id="481">
     <Commands>
@@ -5869,8 +5793,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]It wasn't Bob.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]不是鲍勃。[2]</Translation>
   </Sentence>
   <Sentence id="482">
     <Commands>
@@ -5882,8 +5805,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mom...[1]You met Elizabeth's dad here.[2]Just what did he give you?[3]Mom, since coming here I'm remembering more[4]about you, bit by bit.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]妈妈……[1]你曾经和伊丽莎白的爸爸在这里见面。[2]他当时给了你什么？[3]妈妈，自从我来到这里以后就[4]不断地回忆起你的一点一滴。[5]</Translation>
   </Sentence>
   <Sentence id="483">
     <Commands>
@@ -5891,16 +5813,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll do it like Mrs Graham explained...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]就按照格拉汉姆夫人教的做吧……[1]</Translation>
   </Sentence>
   <Sentence id="484">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="485">
     <Commands>
@@ -5908,8 +5828,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADcQoA</Command>
     </Commands>
     <Original>[0]There we go.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好啦。[1]</Translation>
   </Sentence>
   <Sentence id="486">
     <Commands>
@@ -5917,8 +5836,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="487">
     <Commands>
@@ -5927,8 +5845,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The sky's getting dark...[1]Let's hurry back.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]天色变暗了……[1]我们赶紧回去吧。[2]</Translation>
   </Sentence>
   <Sentence id="488">
     <Commands>
@@ -5937,8 +5854,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The rain's really pelting down![1]Let's hurry back![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真是倾盆大雨！[1]快走！[2]</Translation>
   </Sentence>
   <Sentence id="489">
     <Commands>
@@ -5948,8 +5864,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt?[1]Huh?[2]Let's get back and rest.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修？[1]嗯？[2]咱们快回去休息一下。[3]</Translation>
   </Sentence>
   <Sentence id="490">
     <Commands>
@@ -5959,8 +5874,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt?[1]Achoo![2]Let's get back and rest.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修？[1]阿嚏！[2]咱们快回去休息一下。[3]</Translation>
   </Sentence>
   <Sentence id="491">
     <Commands>
@@ -5970,8 +5884,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt?[1]What's up?[2]Never mind, it's nothing.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马修？[1]怎么了？[2]算了，没事。[3]</Translation>
   </Sentence>
   <Sentence id="492">
     <Commands>
@@ -5981,7 +5894,6 @@
       <Command>Ggb/AAAAChoFAAABCgAAAA==</Command>
     </Commands>
     <Original>[0]Can you find him?[1]Woof![2]Okay, that's great![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你能找到他吗？[1]汪！[2]那太好了！[3]</Translation>
   </Sentence>
 </Session>
