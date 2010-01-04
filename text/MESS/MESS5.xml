@@ -2912,11 +2912,8 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Af9kAAoA</Command>
     </Commands>
     <Original>[0]Excuse me, ma'am... Are you...[1]Are you Charlotte?[2]Yeah, that's me.[3]My name's Ashley Mizuki Robins.[4]I actually came here to see you, Charlotte.[5]You got some kind of business with me?[6]Yeah![7]Well, you can stop with the "Charlotte".[8]Kids! Hah! No respect these days.[9]Huh?[10]Nobody but my own family is allowed to call[11]me Charlotte.[12]My name is [13]Charlotte Graham[14]. Mrs Graham to[15]you.[16]Yes, ma'am.[17]Mrs Graham...[18]Better... What is it?[19]I have something to ask you.[20]Well? Spit it out now. Ain't got all day, y'know?[21]My friend's come down with a fever.[22]Fever? Hah! Common cold, no doubt...[23]And?[24]I was hoping you could let me have some of[25]your herbal medicine...[26]Well, that is a tall order.[27]Tell me one thing, Ashley Mizuki Robins.[28]What blabbermouth told you about my herbal[29]medicines?[30]Bob, the owner of the diner.[31]Well, I'll be.[32]So, I guess I don't have much of a choice, do I?[33]I [34]can't say no[35] if it was Bob who told you to[36]come to me.[37]</Original>
-<<<<<<< .mine
     <Translation>[0]很抱歉打扰，夫人…你是……[1]你是夏洛蒂吗？[2]没错，我就是。[3]我叫阿修蕾·美月·罗宾斯。[4]我其实是来见你的，夏洛蒂。[5]你找我有事？[6]是的！[7]好了，别在叫“夏洛蒂”了。[8]现在的孩子！哈！难怪世风日下。[9]啊？[10]除了我自己家的人以外，不许别人[11]以夏洛蒂称呼我。[12]我的全名是[13]夏洛蒂·格拉汉姆[14]。你应该称呼格拉汉姆[15]女士。[16]是，女士。[17]格拉汉姆夫人……[18]顺耳多了……找有什么事？[19]我想向您求点东西。[20]那就直说吧。我可不想和你耗一整天，明白吗？[21]我的朋友发烧了。[22]发烧？哈！流行感冒，肯定是……[23]那你想怎样？[24]我希望你允许我拿走一些[25]草药……[26]哦，还真是任性的要求啊。[27]你先告诉我，阿修蕾·美月·罗宾斯。[28]是哪个长舌头告诉你我有草药[29]的？[30]鲍勃，餐馆的店长。[31]哦。[32]既然如此，我看我是没有其他选择了。[33]我[34]不能拒绝[35]鲍勃介绍来的人的[36]请求。[37]</Translation>
-=======
-    <Translation>[0]很抱歉打扰，女士…你是……[1]你是夏洛蒂吗？[2]没错，我就是。[3]我叫阿修蕾·美月·罗宾斯。[4]我其实是来见你的，夏洛蒂。[5]你找我有事？[6]是的！[7]好了，别在叫“夏洛蒂”了。[8]现在的孩子！哈！难怪世风日下。[9]啊？[10]除了我自己家的人以外，不许别人[11]以夏洛蒂称呼我。[12]我的全名是[13]夏洛蒂·格拉汉姆[14]。你应该称呼格拉汉姆[15]女士。[16]是，女士。[17]格拉汉姆女士……[18]顺耳多了……找有什么事？[19]我想向您求点东西。[20]那就直说吧。我可不想和你耗一整天，明白吗？[21]我的朋友发烧了。[22]发烧？哈！流行感冒，肯定是……[23]那你想怎样？[24]我希望你允许我拿走一些[25]草药……[26]哦，还真是任性的要求啊。[27]你先告诉我，阿修蕾·美月·罗宾斯。[28]是哪个长舌头告诉你我有草药[29]的？[30]鲍勃，餐馆的店长。[31]哦。[32]既然如此，我看我是没有其他选择了。[33]我[34]不能拒绝[35]鲍勃介绍来的人的[36]请求。[37]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="234">
     <Commands>
@@ -2949,11 +2946,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgBkAAoA</Command>
     </Commands>
     <Original>[0]Charlotte...[1]Oh, sorry.[2]Mrs Graham, are you friends with Bob?[3]Friends with that salmon-obsessed buffoon?[4]Not a chance![5]But I owe him a great debt.[6]A debt?[7]That's what I said. A debt...[8]One day, I forget how long ago, I slipped in the[9]rain and fell.[10]My hip hit the ground hard, and I couldn't move,[11]let alone get back up. Blasted thing locked up.[12]Then that big lug appeared. He took me up and[13]carried me back home.[14]Ah. I had no idea...[15]So, because of what Bob did for me, I can't[16]just go and ignore your request after he sent[17]you, can I? Even if I want to...[18]Now, girl, stop all your yapping and tell me[19]when your friend became feverish.[20]When it was raining a while ago.[21]He was outside and got drenched, then he[22]started burning up.[23]I see...[24]And how is he now? [25]Describe his condition.[26]</Original>
-<<<<<<< .mine
     <Translation>[0]夏洛蒂……[1]哦，对不起。[2]格拉汉姆夫人，你和鲍勃是朋友吗？[3]和那种一心只想着鲑鱼的市井之徒是朋友？[4]怎么可能？[5]不过我欠了他一个大人情。[6]人情？[7]就是字面上的意思，人情……[8]有一天，记不清是多久前的事了，我在[9]雨里摔倒了。[10]髋关节摔得很厉害，当时我已经动不了了，[11]更不用说要站起来了。当时倒霉透了。[12]接着那个大块头就出现了。他扶我起来后[13]把我背回了家。[14]哦。我第一次听说……[15]所以，因为鲍勃帮过我，他又介绍你过来，[16]我就不能置之不理了。[17]虽然我不想……[18]好了，丫头，别再叽叽喳喳了，告诉我[19]你的朋友什么时候开始发烧的。[20]就是刚刚下雨的时候。[21]他出去外面被雨淋透了，之后就开始[22]发烧了。[23]知道了……[24]他现在怎么样了？ [25]描述一下他的症状。[26]</Translation>
-=======
-    <Translation>[0]夏洛蒂……[1]哦，对不起。[2]格拉汉姆女士，你和鲍勃是朋友吗？[3]和那种一心只想着鲑鱼的市井之徒是朋友？[4]怎么可能？[5]不过我欠了他一个大人情。[6]人情？[7]就是字面上的意思，人情……[8]有一天，记不清是多久前的事了，我在[9]雨里摔倒了。[10]髋关节摔得很厉害，当时我已经动不了了，[11]更不用说要站起来了。当时倒霉透了。[12]接着那个大块头就出现了。他扶我起来后[13]把我背回了家。[14]哦。我第一次听说……[15]所以，因为鲍勃帮过我，他又介绍你过来，[16]我就不能置之不理了。[17]虽然我不想……[18]好了，丫头，别再叽叽喳喳了，告诉我[19]你的朋友什么时候开始发烧的。[20]就是刚刚下雨的时候。[21]他出去外面被雨淋透了，之后就开始[22]发烧了。[23]知道了……[24]他现在怎么样了？ [25]描述一下他的症状。[26]</Translation>
->>>>>>> .r334
   </Sentence>
   <Sentence id="235">
     <Commands>
@@ -2984,11 +2977,8 @@
       <Command>ChoFAAABChoGAABPAAoaCAAASAAAZgoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoUAQALNQELAAkBSU9QMDAwAAAACgA=</Command>
     </Commands>
     <Original>[0]He's the one that was here with me before.[1]Ah yeah, that runt... I remember.[2]What's his name?[3]Matt Crusoe.[4]Say what? Matt Crusoe, you say...[5]Yeah... Do you know him, Mrs Graham?[6]No... No, you mind your own business![7]Wait here for a minute, Ashley.[8]</Original>
-<<<<<<< .mine
     <Translation>[0]他就是之前和我一起来过这的孩子。[1]啊，那个小不点……我想起来了。[2]他叫什么名字？[3]马修·克鲁索 。[4]你说什么？马修·克鲁索 ……[5]是啊……你认识他吗，格拉汉姆夫人？[6]不……不认识，别什么事都打听！[7]在这等一下，阿修蕾。[8]</Translation>
-=======
-    <Translation>[0]他就是之前和我一起来过这的孩子。[1]啊，那个小不点……我想起来了。[2]他叫什么名字？[3]马修·克鲁索 。[4]你说什么？马修·克鲁索 ……[5]是啊……你认识他吗，格拉汉姆女士？[6]不……不认识，别什么事都打听！[7]在这等一下，阿修蕾。[8]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="237">
     <Commands>
@@ -3017,11 +3007,8 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AgFkAAoA</Command>
     </Commands>
     <Original>[0]Ah, Mrs Graham.[1]Ashley, take this with you.[2]What is it?[3]It's a [4]recipe[5] for fever medicine.[6]</Original>
-<<<<<<< .mine
     <Translation>[0]啊，格拉汉姆夫人。[1]把这个拿去吧，阿修蕾。[2]这是什么？[3]制作药剂的[4]处方[5]。[6]</Translation>
-=======
-    <Translation>[0]啊，格拉汉姆女士。[1]把这个拿去吧，阿修蕾。[2]这是什么？[3]制作药剂的[4]处方[5]。[6]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="240">
     <Commands>
@@ -3088,11 +3075,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you mean by pure water?[1]If you want your friend to get better, you'd[2]best use clean water. It's a basic for medicine.[3]What kind of water is pure water?[4]It has to be clean and crystal clear.[5]Full of minerals. If it isn't, forget it![6]Clean, transparent, full of minerals...[7]Where can I find water like that?[8]There's plenty around this area, just look [9]around.[10]So I need a container for the water...[11]You have a kettle in your house, don't you?[12]Yeah, I think I do.[13]Then use that.[14]Okay.[15]Also, you can borrow this.[16]Huh?[17]Mrs Graham, what's this?[18]Don't they teach children anything these days?[19]Back in my day, I tell you...[20]It's a mortar and pestle.[21]You use it to crush the herbs.[22]Then you put them in a pot and boil them in[23]the pure water. You getting this at all?[24]Ahh... Okay, I get it.[25]</Original>
-<<<<<<< .mine
     <Translation>[0]你所说的纯净水是指什么？[1]如果你想让你的朋友好起来，最好使用[2]干净的水。这是配药的基本。[3]什么样的水才算是纯净水？[4]必须要干净，像晶体般透亮。[5]富含矿物质，如果不是这样，就不行！[6]干净，透明，富含矿物质……[7]哪里能弄到这种水？[8]这附近有很多，自己去找找[9]吧。[10]那我需要一个容器……[11]你家总应该有个水壶吧？[12]嗯，应该有。[13]用那个就行了。[14]好的。[15]对了，你可以把这个也拿去。[16]嗯？[17]格拉汉姆夫人，这是什么？[18]现在的小孩怎么什么都不知道？[19]告诉你，我当年……[20]这是杵和研钵。[21]用这个捣碎叶子。[22]然后放进锅里，用纯净水煮开。[23]听明白了吗？[24]啊……我明白了。[25]</Translation>
-=======
-    <Translation>[0]你所说的纯净水是指什么？[1]如果你想让你的朋友好起来，最好使用[2]干净的水。这是配药的基本。[3]什么样的水才算是纯净水？[4]必须要干净，像晶体般透亮。[5]富含矿物质，如果不是这样，就不行！[6]干净，透明，富含矿物质……[7]哪里能弄到这种水？[8]这附近有很多，自己去找找[9]吧。[10]那我需要一个容器……[11]你家总应该有个水壶吧？[12]嗯，应该有。[13]用那个就行了。[14]好的。[15]对了，你可以把这个也拿去。[16]嗯？[17]格拉汉姆女士，这是什么？[18]现在的小孩怎么什么都不知道？[19]告诉你，我当年……[20]这是杵和研钵。[21]用这个捣碎叶子。[22]然后放进锅里，用纯净水煮开。[23]听明白了吗？[24]啊……我明白了。[25]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="243">
     <Commands>
@@ -3103,11 +3087,8 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQsACQFJT1AwMDAAAAAKAA==</Command>
     </Commands>
     <Original>[0]And now it's up to you.[1]Get the herbs from my greenhouse and go back[2]the way you came.[3]Thank you so much, Mrs Graham.[4]</Original>
-<<<<<<< .mine
     <Translation>[0]现在开始都看你自己的了。[1]去温室摘些药草叶，然后哪来的[2]回哪去。[3]十分感谢您，格拉汉姆夫人。[4]</Translation>
-=======
-    <Translation>[0]现在开始都看你自己的了。[1]去温室摘些药草叶，然后哪来的[2]回哪去。[3]十分感谢您，格拉汉姆女士。[4]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="244">
     <Commands>
@@ -3567,11 +3548,8 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, time to make a start on this medicine.[1]Uh...[2]Oh yeah, I forgot the herb Mrs Graham was[3]talking about.[4]I'd better go back to the greenhouse.[5]</Original>
-<<<<<<< .mine
     <Translation>[0]好了，该开始煎药了。[1]呃……[2]晕，我把格拉汉姆夫人提过的[3]药草给忘了。[4]看来还得再回温室一趟。[5]</Translation>
-=======
-    <Translation>[0]好了，该开始煎药了。[1]呃……[2]晕，我把格拉汉姆女士提过的[3]药草给忘了。[4]看来还得再回温室一趟。[5]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="302">
     <Commands>
@@ -3801,11 +3779,8 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYQoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty kettle[2] on the [3]counter.[4]Perfect.[5]I can put the water I need into this.[6]</Original>
-<<<<<<< .mine
     <Translation>[0]料理台上有一个[1]空水壶[2]。[3][4]太好了。[5]可以用这个装水。[6]</Translation>
-=======
-    <Translation>[0]料理台上有一个[1]空水壶[2]。[3]。[4]太好了。[5]可以用这个装水。[6]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="329">
     <Commands>
@@ -3850,11 +3825,8 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt![1]Wstflgl?[2]Oh, Ash... It's you.[3]Matt, I brought you some medicine.[4]Medicine...?[5]Yeah, medicine.[6]Can you drink it?[7]How're you feeling?[8]Uhh...[9]</Original>
-<<<<<<< .mine
     <Translation>[0]马修！[1]*%#@？[2]哦，小蕾……是你啊。[3]马修，我给你弄了些药来。[4]药……？[5]对，药。[6]来把药喝了吧？[7]觉得怎么样？[8]呃……[9]</Translation>
-=======
-    <Translation>[0]马修！[1]Wstflgl?[2]哦，小蕾……是你啊。[3]马修，我给你弄了些药来。[4]药……？[5]对，药。[6]来把药喝了吧？[7]觉得怎么样？[8]呃……[9]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="333">
     <Commands>
@@ -3954,11 +3926,9 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here's the recipe.[1]It has the instructions for making the[2]medicine.[3]This is what you used to make it?[4]Yep. It's all written there.[5]It says you need pure water.[6]Yeah, you can't use dirty water or it won't[7]work.[8]Where'd you get the water from?[9]The little stream down by the shack.[10]Oh wow, you went that far?[11]Wasn't the river water enough?[12]No...[13]It had to be pure, transparent and full of[14]minerals.[15]Then I used Mrs Graham's red herbs...[16]Who's Mrs Graham?[17]The old lady who told me how to make the[18]medicine.[19]Remember when you were chasing Mr Smith[20]and got lost?[21]She lives up there. She was the one who yelled[22]at us. But she's nice, really.[23]Oh, her. She seemed really cranky.[24]</Original>
-<<<<<<< .mine
+
     <Translation>[0]这就是处方。[1]上面写着配药的[2]方法。[3]你就按着这个熬药的？[4]是啊，都写在上面了。[5]上面写着需要纯净水。[6]是，水不够干净的话就做不[7]成功。[8]你从哪取的水？[9]走过棚屋后的那条小溪。[10]哇，你去了那么远的地方？[11]河水不行吗？[12]不行……[13]必需纯净透明而且富含[14]矿物质。[15]然后加入格拉汉姆夫人给的红药草……[16]格拉汉姆夫人是谁？[17]就是教我做药的[18]老妇人。[19]记得你跟丢史密斯先生的[20]地方吗？[21]她就住在那儿。还训我们来着。[22]其实她人很好。[23]哦，是她。她的脾气好像不太好。[24]</Translation>
-=======
-    <Translation>[0]这就是处方。[1]上面写着配药的[2]方法。[3]你就按着这个熬药的？[4]是啊，都写在上面了。[5]上面写着需要纯净水。[6]是，水不够干净的话就做不[7]成功。[8]你从哪取的水？[9]走过棚屋后的那条小溪。[10]哇，你去了那么远的地方？[11]河水不行吗？[12]不行……[13]必需纯净透明而且富含[14]矿物质。[15]然后加入格拉汉姆女士给的红药草……[16]格拉汉姆女士是谁？[17]就是教我做药的[18]老妇人。[19]记得你跟丢史密斯先生的[20]地方吗？[21]她就住在那儿。还训我们来着。[22]其实她人很好。[23]哦，是她。她的脾气好像不太好。[24]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="339">
     <Commands>
@@ -4010,11 +3980,9 @@
       <Command>ChoFAAABChoNAAAVBAFOAAAAAU4KGgwAAAgEAU4AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Wait![1]What's wrong, Matt?[2]I remember now...[3]Remember what?[4]I was at that house before. Ages ago.[5]Huh?[6]You've been to Mrs Graham's house before? [7]Seriously?[8]Yeah![9]I was there with Dad![10]Really? What for?[11]I just remember Dad saying...[12]The family who built the clock tower live there.[13]Yeah, her house does have the crest from[14]the clock tower on the door...[15]See? I told you.[16]I bet she knows something about the clock[17]tower, Ash.[18]I'll go ask her![19]Oh no, you're not going anywhere.[20]Aww! C'mon![21]I'll go and ask her about it for you.[22]You need to stay here and get better.[23]Okay, okay...[24]I'll be right back.[25]Wait here, okay?[26]Okay. Sheesh.[27]</Original>
-<<<<<<< .mine
+
     <Translation>[0]等一下！[1]怎么了，马修？[2]我想起来了……[3]想起什么了？[4]我曾经去过那栋房子。好几年前。[5]哦？[6]你曾经去过格拉汉姆夫人的房子？[7]真的？[8]是的！[9]我和爸爸一块去的！[10]真的？为什么？[11]我只记得爸爸说……[12]钟楼的建造者就住在那儿。[13]没错，她的房子也有和钟楼一样[14]的纹章……[15]看吧？就如我所说。[16]小蕾，她一定知道和钟楼有关的[17]事。[18]我要去问问她！[19]不行，你哪都不能去。[20]喔！别这样！[21]我去帮你问她。[22]你得待在这休息。[23]好吧，好吧……[24]我很快回来。[25]在这等着哦。[26]好吧。[27]</Translation>
-=======
-    <Translation>[0]等一下！[1]怎么了，马修？[2]我想起来了……[3]想起什么了？[4]我曾经去过那栋房子。好几年前。[5]哦？[6]你曾经去过格拉汉姆女士的房子？[7]真的？[8]是的！[9]我和爸爸一块去的！[10]真的？为什么？[11]我只记得爸爸说……[12]钟楼的建造者就住在那儿。[13]没错，她的房子也有和钟楼一样[14]的纹章……[15]看吧？就如我所说。[16]小蕾，她一定知道和钟楼有关的[17]事。[18]我要去问问她！[19]不行，你哪都不能去。[20]喔！别这样！[21]我去帮你问她。[22]你得待在这休息。[23]好吧，好吧……[24]我很快回来。[25]在这等着哦。[26]好吧。[27]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="342">
     <Commands>
@@ -4076,11 +4044,9 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]There's a message from Dad.[1]Interesting to find out more about Ryan, and [2]about Elizabeth's dad.[3]</Original>
-<<<<<<< .mine
+
     <Translation>[0]爸爸传来一条信息。[1]没想到从莱恩和伊丽莎白的爸爸那里[2]了解到了些往事。[3]</Translation>
-=======
-    <Translation>[0]爸爸传来一条信息。[1]Interesting to find out more about Ryan, and [2]about Elizabeth's dad.[3]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="349">
     <Commands>
@@ -4143,11 +4109,9 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh![1]Hello there. Are you lost?[2]The only thing up ahead is the Graham house.[3]I don't think you'd want to go there.[4]No, no...[5]I'm actually here to see Mrs Graham.[6]Mrs Graham?[7]And who are you?[8]My name's Ashley Mizuki Robins.[9]Mrs Graham told me how to make medicine for[10]my friend, he had a fever.[11]So I came here to thank her.[12]That sounds just like her.[13]Seems my moody old aunt still has a soft spot[14]for kids...[15]Your aunt?[16]That's right. I'm [17]Lucy Graham[18]. I'm Charlotte's[19]niece.[20]I get ever so worried about the old woman out[21]here on her own, so I come to see how she is.[22]And then all she does is tell me to go away.[23]Not a word of gratitude. Shocking, isn't it?[24]Did something happen?[25]Not that I know about.[26]But she just sends me away without even a[27]cup of tea for the visit. Can you believe it?[28]Maybe...[29]I don't know if there's a problem or if it's just[30]because she's a crotchety old woman.[31]But you know, she wasn't always like this.[32]She used to be quite nice, believe it or not.[33]Really?[34]Absolutely. She was very different. That was a[35]long time ago, though.[36]You said your name was Ashley, didn't you?[37]Yeah...[38]Well, Ashley, if you're going to see my old aunt...[39]Then there are a [40]few things[41] I should warn you[42]about before you go.[43]Listen to me and you won't be walking away[44]cursing like I am.[45]</Original>
-<<<<<<< .mine
+
     <Translation>[0]哦！[1]你好。你是不是迷路了？[2]再往前走只有格拉汉姆氏的住宅了。[3]没人会想去那儿。[4]不……[5]其实我就是来找格拉汉姆夫人的。[6]格拉汉姆夫人？[7]你是哪位？[8]我的名字叫阿修蕾·美月·罗宾斯。[9]我有一个朋友发烧了，刚才格拉汉姆[10]女士教我如何做草药。[11]所以我来谢谢她。[12]这倒真像她的作风。[13]看来我那个脾气古怪的姑妈还是会对[14]小孩子没辙……[15]你的姑妈？[16]是的。我是[17]露西·格拉汉姆[18]。我是她的[19]侄女。[20]我一直很担心老人一个人住在这种地方[21]是否习惯。所以来看看她。[22]她却只是让我赶紧离开。[23]没有丝毫感激。真是不可思议，是吧？[24]出什么事了吗？[25]我是不知道。[26]不过她连一杯茶都没让我喝就撵我[27]出来了。你能相信有这样的姑妈吗？[28]可能有吧……[29]不知道是不是有什么事，还是因为她[30]脾气就这么怪。[31]不过她可不是一直都这样的。[32]不管你信不信，她以前人很好。[33]真的？[34]真的。她变了很多。虽然是[35]很久以前的事了。[36]你是叫阿修蕾吧。[37]是的……[38]好吧，阿修蕾，如果你要去见我那老姑妈……[39]有[40]几件事[41]我得提[42]醒你。[43]按我说的去做你就不会像我一样[44]挨骂了。[45]</Translation>
-=======
-    <Translation>[0]哦！[1]你好。你是不是迷路了？[2]再往前走只有格拉汉姆氏的住宅了。[3]没人会想去那儿。[4]不……[5]其实我就是来找格拉汉姆女士的。[6]格拉汉姆女士？[7]你是哪位？[8]我的名字叫阿修蕾·美月·罗宾斯。[9]我有一个朋友发烧了，刚才格拉汉姆[10]女士教我如何做草药。[11]所以我来谢谢她。[12]这倒真像她的作风。[13]看来我那个脾气古怪的姑妈还是会对[14]小孩子没辙……[15]你的姑妈？[16]是的。我是[17]露西·格拉汉姆[18]。我是她的[19]侄女。[20]我一直很担心老人一个人住在这种地方[21]是否习惯。所以来看看她。[22]她却只是让我赶紧离开。[23]没有丝毫感激。真是不可思议，是吧？[24]出什么事了吗？[25]我是不知道。[26]不过她连一杯茶都没让我喝就撵我[27]出来了。你能相信有这样的姑妈吗？[28]可能有吧……[29]不知道是不是有什么事，还是因为她[30]脾气就这么怪。[31]不过她可不是一直都这样的。[32]不管你信不信，她以前人很好。[33]真的？[34]真的。她变了很多。虽然是[35]很久以前的事了。[36]你是叫阿修蕾吧。[37]是的……[38]好吧，阿修蕾，如果你要去见我那老姑妈……[39]有[40]几件事[41]我得提[42]醒你。[43]按我说的去做你就不会像我一样[44]挨骂了。[45]</Translation>
->>>>>>> .r334
+
   </Sentence>
   <Sentence id="351">
     <Commands>
