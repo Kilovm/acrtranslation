@@ -60,6 +60,8 @@ namespace BMG.WiiMusic
 
 			XmlElement midElement = doc.SelectSingleNode("/Session/MID1") as XmlElement;
 			MID1 = Convert.FromBase64String(midElement.InnerText);
+
+            ReadComments(doc);
 		}
 
 		private void ReadBMGFile(string filename)
@@ -301,6 +303,8 @@ namespace BMG.WiiMusic
 			element.AppendChild(midElement);
 
 			doc.AppendChild(element);
+
+            WriteComments(doc);
 
 			doc.Save(filename);
 		}

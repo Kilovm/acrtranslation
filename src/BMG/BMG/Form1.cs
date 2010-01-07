@@ -18,6 +18,8 @@ namespace BMG
 
         protected DictForm dictForm = null;
 
+        protected BookmarkForm bookmarkForm = null;
+
         Regex regex = new Regex(@"(\[\d+\])");
 
 		public Form1()
@@ -439,6 +441,21 @@ namespace BMG
 
                 ShowDictForm(text);
             }
+        }
+
+        private void bookmarksToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (bookmarkForm == null)
+            {
+                bookmarkForm = new BookmarkForm(this);
+            }
+
+            bookmarkForm.Show();
+        }
+
+        public List<Comment> GetComments()
+        {
+            return bmg.Comments;
         }
 	}
 }

@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACR\Bmg.cs" />
+    <Compile Include="BookmarkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookmarkForm.Designer.cs">
+      <DependentUpon>BookmarkForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="DictForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
     <Compile Include="ISentence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BookmarkForm.resx">
+      <DependentUpon>BookmarkForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DictForm.resx">
       <DependentUpon>DictForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -82,6 +91,7 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <None Include="Properties\DataSources\Comment.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

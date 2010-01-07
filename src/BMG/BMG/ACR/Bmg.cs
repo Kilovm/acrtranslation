@@ -46,6 +46,8 @@ namespace BMG.ACR
 			{
 				Sentences[i++] = new Sentence_ACR(element);
 			}
+
+            ReadComments(doc);
 		}
 
 		private void ReadBMGFile(string filename)
@@ -226,6 +228,8 @@ namespace BMG.ACR
 			}
 
 			doc.AppendChild(element);
+
+            WriteComments(doc);
 
 			doc.Save(filename);
 		}
