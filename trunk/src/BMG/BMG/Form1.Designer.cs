@@ -57,6 +57,7 @@
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
             this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
+            this.bookmarksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -172,7 +173,8 @@
             this.lastTranslatedToolStripMenuItem,
             this.fontToolStripMenuItem,
             this.replaceToolStripMenuItem,
-            this.googleTranslateToolStripMenuItem});
+            this.googleTranslateToolStripMenuItem,
+            this.bookmarksToolStripMenuItem});
             this.toolsToolStripMenuItem.Name = "toolsToolStripMenuItem";
             this.toolsToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
             this.toolsToolStripMenuItem.Text = "&Tools";
@@ -348,6 +350,13 @@
             this.vScrollBar1.Value = 1;
             this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
             // 
+            // bookmarksToolStripMenuItem
+            // 
+            this.bookmarksToolStripMenuItem.Name = "bookmarksToolStripMenuItem";
+            this.bookmarksToolStripMenuItem.Size = new System.Drawing.Size(166, 22);
+            this.bookmarksToolStripMenuItem.Text = "Bookmarks...";
+            this.bookmarksToolStripMenuItem.Click += new System.EventHandler(this.bookmarksToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -409,6 +418,7 @@
 		private System.Windows.Forms.ToolStripMenuItem fontToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem replaceToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem googleTranslateToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem bookmarksToolStripMenuItem;
 	}
 }
 
