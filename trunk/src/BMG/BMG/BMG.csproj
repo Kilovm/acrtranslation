@@ -47,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ACR\Bmg.cs" />
+    <Compile Include="BookmarkEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BookmarkEdit.Designer.cs">
+      <DependentUpon>BookmarkEdit.cs</DependentUpon>
+    </Compile>
     <Compile Include="BookmarkForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +76,9 @@
     <Compile Include="ISentence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BookmarkEdit.resx">
+      <DependentUpon>BookmarkEdit.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="BookmarkForm.resx">
       <DependentUpon>BookmarkForm.cs</DependentUpon>
     </EmbeddedResource>
