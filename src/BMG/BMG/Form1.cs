@@ -445,6 +445,8 @@ namespace BMG
 
         private void bookmarksToolStripMenuItem_Click(object sender, EventArgs e)
         {
+			if (bmg == null) return;
+
             if (bookmarkForm == null)
             {
                 bookmarkForm = new BookmarkForm(this);
@@ -457,5 +459,29 @@ namespace BMG
         {
             return bmg.Comments;
         }
+
+		public int GetCurrentPosition()
+		{
+			return currentIndex;
+		}
+
+		public void SetComments(List<Comment> comments)
+		{
+			this.bmg.Comments = comments;
+		}
+
+		public void GotoPosition(int position)
+		{
+			if (position >= bmg.Sentences.Length) return;
+
+			SaveTranslation();
+
+			currentIndex = position;
+
+			vScrollBar1.Value = currentIndex + 1;
+			RefreshTextBoxes();
+
+			tbTranslation.Focus();
+		}
 	}
 }
