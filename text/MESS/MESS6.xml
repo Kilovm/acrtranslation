@@ -1403,8 +1403,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Am1kAAoA</Command>
     </Commands>
     <Original>[0]Am I hearing things?[1]What?[2]It's not like you to just come out and apologise.[3]Hey, if I'm in the wrong then I'll apologise.[4]I don't hide things and blame people for them[5]like Dad does.[6]Elizabeth...[7]You saw them too, right?[8]He has no right to hide Mom's letters from me.[9]No right at all.[10]I agree.[11]But...[12]But what?[13]I can't imagine him just not showing them to[14]you.[15]There has to be a reason.[16]No way. He never has a reason for anything.[17]And even if there is,[18] I don't want to hear it![19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有人说话吗？[1]什么啊？[2]谁像你啊突然冒出来就道歉.[3]喂，如果我错了我就会道歉.[4]我才不会像老爸那样隐瞒错误[5]并责怪别人来逃避.[6]伊丽莎白...[7]你也看到了吧，是吧？[8]他没有任何权利将妈妈的信藏起来.[9]他压根就没资格.[10]严重同意.[11]但...[12]但是啥啊？[13]我只是很难想象他会把那些信藏起来[14]不给你看.[15]肯定是有原因的.[16]才不会呢，他干啥都没有理由的。[17]甚至是在这件事上,[18] 我也不想知道！[19]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1438,8 +1437,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You don't want to hear it?[1]Yeah. Even if I ask him, he'll probably give [2]some really lame excuse.[3]Why do you think that?[4]Oh, come on.[5]He's never told me about them before, has he?[6]He just thinks I'm a little girl who doesn't know[7]anything.[8]Elizabeth...[9]When he and Mom got divorced, he told me:[10]"I might have split up with your mother, but[11]you can see her whenever you want."[12]But I knew the truth.[13]The truth about what?[14]They never got on well, not even when I[15]was small.[16]They got divorced because Mom found someone[17]else.[18]And Dad told Mom she was never going to see[19]me again.[20]No way...[21]Crazy, right?[22]I knew about it, but I pretended not to.[23]And I know he wants to get remarried, even if[24]he tries to hide it.[25]And he has no idea.[26]That's pretty bad.[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你不想知道？[1]是的. 就算我问他, [2]他也会找一些蹩脚的理由来搪塞.[3]你为什么会这么想啊？[4]哎，说说吧.[5]他之前从未提到过那些信, 对吧？[6]他只是以为我是个啥都不该知道的[7]无知小女孩.[8]伊丽莎白...[9]当他和妈妈离婚时，他告诉我:[10]"我也许会和你妈妈分开一段时间, 但是[11]你可以在任何时候去看她."[12]但是我知道真相.[13]什么真相啊?[14]他们从没和好过,[15]甚至在我小时候就没和好过.[16]他们会离婚是因为妈妈有了[17]别的男人了.[18]而且爸爸还禁止[19]妈妈来看我.[20]不会吧...[21]很疯狂，对吧?[22]我已经知道真相了，但是我还要装作不知道.[23]我还知道爸爸他想再婚,[24]虽然他隐瞒得很好.[25]他也很迷茫啊.[26]那真是有够糟的.[27]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
