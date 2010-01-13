@@ -1498,8 +1498,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Am5kAAoA</Command>
     </Commands>
     <Original>[0]Anyway, I'm gonna head off.[1]Not so fast![2]What?[3]Don't you have something to say to me?[4]And just what do I want to say to you?[5]There's something, all right.[6]You gave everything back, right, Ash?[7]Yeah.[8]Oh, that.[9]Yeah, that.[10].....[11]You don't hide things and blame people for[12]them like your dad, right?[13]All right, all right.[14]I'm sorry about before.[15]I said you stole the music player when I actually[16]went and hid it.[17]So, I'm sorry. Okay?[18]Yeah, sure. That's all I wanted to hear.[19]Hey, did you just say you hid it?[20]Why did you do that?[21]I wanted people to pay attention to me. I[22]wanted someone to care. That's all.[23]That's stupid, Elizabeth.[24]Doing stuff like that won't make your loneliness[25]go away.[26].....[27]You didn't need to do it, anyway. There are[28]already people who care about you.[29]Yeah? Like who?[30]Janet, for one.[31]She called me over to talk about why you[32]wouldn't speak to your dad.[33]Really?[34]Yeah.[35]And Tommy and Sam were worried about you[36]when you didn't come to practice.[37]Elizabeth, can't you see?[38]You have lots of friends who care about you.[39]So why not stop bottling everything up and[40]tell them how you feel?[41].....[42]I can't. I've always been bad at opening up.[43]The only one I could ever tell everything to was[44]Princess[45]...[46]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不管了，我准备走了.[1]别那么急![2]咋了又?[3]你没有什么事情要对我说么?[4]我对你还有什么可说的?[5]肯定还有些事情，是吧？[6]你已经了解了全部的事了，对吧，小蕾?[7]是啊.[8]是啊，那些事.[9]是啊，那些乱七八糟的.[10].....[11]你不会像你父亲那样[12]故意将有些事隐瞒起来?[13]是啊，是啊.[14]我道过歉了啊.[15]我是说在我藏完那播放器后[16]你将它偷走了吧.[17]所以呢，对不起，好了么?[18]行了，这就是我想要听的.[19]停，你刚刚说你把它藏起来了?[20]为什么你要这么做啊?[21]我想让大家多多关注我，[22]我想找到关心我的人，不行吗？[23]那真的很傻冒，伊丽莎白.[24]干那些事是不会让你[25]感到温暖的.[26].....[27]那根本没必要[28]你已经有了关心你的人了.[29]欧，是吗？有谁啊?[30]珍妮特，一个.[31]她还打电话问我[32]你为什么不聊你父亲.[33]真的?[34]是真的.[35]还有你不去练习时[36]汤米和萨姆非常担心你的.[37]伊丽莎白, 你还不明白吗?[38]你有许多关心你，爱护你的朋友啊.[39]所以你为什么不爽快一点[40]告诉他们你的感觉?[41].....[42]不行，我一直很内向的.[43]我唯一能够倾述的对象就只有公主了[44][45]...[46]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1527,8 +1526,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait...Princess?[1]Yeah, my dog when I was a kid.[2]Huh?[3]You had a dog?[4]Yeah.[5]When my parents were fighting all the time,[6]only Princess was there for me.[7]She understood me. When I was sad, when I was[8]lonely, she was there for me.[9]But...she ran away somewhere.[10]Dad yelled at her, so she ran off and never[11]came back.[12]I miss her...[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等，公主?[1]是的，我小时候养的小狗.[2]吖?[3]你养过狗?[4]是的.[5]那是我的父母总是吵架,[6]只有公主一直陪在我身边.[7]它很有灵性. 当我感到伤心，孤独时[8]它就会在我身边.[9]但是...它不知道跑哪去了.[10]爸爸骂过它一次, 它就跑了出去[11]再也没回来过.[12]我很想它...[13]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1553,8 +1551,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAzChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQUACQFJT1AwMDMAAAAKAA==</Command>
     </Commands>
     <Original>[0]Elizabeth...[1]Yeah?[2]Have you seen a big dog around here and the[3]camp area?[4]No.[5]It's a big grey and white dog. A stray.[6]With quite a fancy name tag.[7]A fancy name tag?[8]Ashley, that dog... It wasn't an Old English[9]Sheepdog, was it?[10]I don't know much about dog breeds...[11]But "Princess" was on the name tag.[12]Princess! It has to be her![13]Where is she? Please![14]I saw her in a few places... She's got to be[15]around somewhere.[16]Okay! I'm gonna go find her![17]Elizabeth![18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白...[1]嗯?[2]你没看到过有一条大狗在[3]露营地周围么?[4]没有.[5]是一条走失的灰白色的大狗.[6]还戴着蛮高级的狗牌.[7]高级狗牌?[8]阿修蕾,那条狗... 应该不是老英国牧羊犬[9]是吧?[10]我对狗的品种不太了解...[11]但是狗牌上有“公主”这两个字.[12]公主! 一定是它![13]它在哪? 请告诉我![14]我在一些地方见过它...[15]它一定还在某些地方吧.[16]我马上就去找它![17]伊丽莎白![18]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1574,8 +1571,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So, wait... Princess used to belong to Elizabeth...[1]Yeah, that came out of nowhere.[2]That must be why she was over by Elizabeth's[3]music player and hanky.[4]Must be, yeah.[5]Anyway, come on! We need to go check out my[6]dad's old office![7]Right.[8]Oh, I forgot![9]I need to give the keys to the clock tower back[10]to Mrs Graham.[11]Let's go to her place first.[12]Okay.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等... 公主以前是伊丽莎白养的狗...[1]废话，肯地是啊.[2]这一定就是它叼走[3]伊丽莎白播放器和手帕的原因.[4]一定是的.[5]不管怎样!我们需要去看看[6]老爹的旧办公室![7]好的.[8]晕哦，差点忘了![9]我得把这几把钟楼的钥匙还给[10]格雷厄姆太太.[11]我们先去她那吧.[12]好的.[13]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1592,8 +1588,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]What?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喂...[1]怎么呢?[2]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1601,8 +1596,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等![1]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1610,8 +1604,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Weren't you talking to Elizabeth?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你在和伊丽莎白说话吗?[1]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -1622,8 +1615,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2] by the door.[3]Might be a bit awkward. I'll leave it for now.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个 [1]对讲机[2] 在门边.[3]有点难搞啊. 还是别管了.[4]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
