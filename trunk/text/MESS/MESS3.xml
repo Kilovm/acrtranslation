@@ -1029,7 +1029,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AS5kAAoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Elizabeth.[2]What are you doing out here?[3]What do you mean?[4]I'm just about to head to Dad's cottage, if you[5]really must know.[6]"Just about to"?[7]You mean you still haven't gotten there yet?[8]I've had stuff to do.[9]Mm-hmm.[10]Anyway, what are you doing hanging out[11]here by yourself?[12]I'm [13]waiting for someone[14].[15]So who's the kid?[16]Never seen him around here before. Is he your[17]brother?[18]No. He's a friend.[19]Your friend?[20]That runt?[21]Yeah, my friend.[22]Actually we just met today, but still.[23]Oh dear...[24]Yes? Is something wrong?[25]Ooh...[26]I had no idea you were [27]that desperate[28], Ashley...[29]</Original>
-    <Translation>[0]阿修蕾![1]伊丽莎白。[2]你在这儿做什么？[3]你指的是？[4]我正打算去爸爸的小屋，[5]如果你非要知道的话。[6]“正打算去”？[7]你的意思是你还没去那儿？[8]我还有些事情要处理。[9]嗯……[10]话说回来，你干嘛独自一人[11]在这儿徘徊？[12]我在 [13]等人[14]。[15]那个男孩是谁？[16]以前从没在这附近见过他。 他是你[17]兄弟？[18]不是的。他是我朋友。[19]你的朋友？[20]That runt?[21]是的，我朋友。[22]事实上我们今天才遇到。[23]噢 天呐……[24]嗯？怎么了？[25]嗯……[26]我不知道你[27]曾经如此绝望[28], 阿修蕾...[29]</Translation>
+    <Translation>[0]阿修蕾![1]伊丽莎白。[2]你在这儿做什么？[3]你指的是？[4]我正打算去爸爸的小屋，[5]如果你非要知道的话。[6]“正打算去”？[7]你的意思是你还没去那儿？[8]我还有些事情要处理。[9]嗯……[10]话说回来，你干嘛独自一人[11]在这儿徘徊？[12]我在 [13]等人[14]。[15]那个男孩是谁？[16]以前从没在这附近见过他。 他是你[17]兄弟？[18]不是的。他是我朋友。[19]你的朋友？[20]那个小家伙？[21]是的，我朋友。[22]事实上我们今天才遇到。[23]噢 天呐……[24]嗯？怎么了？[25]嗯……[26]我不知道你[27]曾经如此绝望[28]， 阿修蕾……[29]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1041,7 +1041,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Who are you waiting for?[1]My cousin.[2]She's up here for the weekend to hang out or[3]whatever, so I came here to meet her.[4]Ah.[5]</Original>
-    <Translation>[0]你在等谁？[1]My cousin.[2]她整个周末都在这里徘徊，[3]所以我来这儿找她。[4]噢。[5]</Translation>
+    <Translation>[0]你在等谁？[1]我的表妹。[2]她整个周末都在这里徘徊，[3]所以我来这儿找她。[4]噢。[5]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1702,7 +1702,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAAAYQl9NMDIwX0QAU1RSTV9CR01fMTUBCgA=</Command>
     </Commands>
     <Original>[0]Hey Ash, remember the treasure map?[1]The one in the invisible ink?[2]Yeah, that one. It's a map of this place.[3]Really?[4]That it is, lass. So if I give ye me map...[5]Think ye can find me treasure?[6]Heh. Course I can, Cap'n![7]Be ye sure?[8]Savvy, Cap'n![9]Arr, here ye go then! Find me buried treasure[10]if ye can, matey![11]Shiver me timbers![12]I be needing--er, I need to use this map as a [13]guide to find the buried treasure...[14]</Original>
-    <Translation>[0]嗨 小蕾，还记得那张藏宝图吗？[1]用隐形墨水画的？[2]恩，就是那张。它画的就是这个地方。[3]真的？[4]...[5]Think ye can find me treasure?[6]Heh. Course I can, Cap'n![7]Be ye sure?[8]Savvy, Cap'n![9]Arr, here ye go then! Find me buried treasure[10]if ye can, matey![11]Shiver me timbers![12]I be needing--er, I need to use this map as a [13]guide to find the buried treasure...[14]</Translation>
+    <Translation>[0]嗨 小蕾，还记得那张藏宝图吗？[1]用隐形墨水画的？[2]恩，就是那张。它画的就是这个地方。[3]真的？[4]……[5]相信你能帮我找到宝藏？[6]嘿，我当然能行！[7]你确定？[8]当然！[9]好吧，这儿！如果你能帮我[10]找到宝藏的话！[11]Shiver me timbers![12]我想……呃，我需要用地图辅助[13]我去找埋着的宝藏了……[14]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -4507,4 +4507,8 @@
     <Original>[0]Matt?[1]What's up?[2]Never mind, it's nothing.[3]</Original>
     <Translation>[0]马修？[1]怎么了？[2]没什么。[3]</Translation>
   </Sentence>
+  <Comments>
+    <Comment Author="" Date="2010-01-24 22:00:09" Position="117">
+    </Comment>
+  </Comments>
 </Session>
