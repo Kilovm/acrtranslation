@@ -22,8 +22,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I got a message that I thought was from Dad,[1]telling me to come to the lab.[2]I talked to him from the security room, but[3]someone attacked him and then he disappeared.[4]Sofia, who had locked me in the meeting room[5]and attacked Mike and Gina,[6]turned out to be leaking information from[7]JC Valley.[8]Gina and I found an e-mail on her computer to[9]use as evidence.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我收到一条爸爸发来的信息，[1]让我去趟实验室。[2]我跟他从安全房间开始交谈，但是[3]有人从后面攻击他，又逃跑了。[4]索菲亚，是谁把我锁会议室里面了，[5]还攻击了麦克和吉娜，[6]结果居然是窃取机密，关于[7]JC山谷的。[8]吉娜和我从她电脑发现了封邮件，作为[9]证据。[10]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -32,8 +31,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACx8BAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dad, where are you?[1]What happened to you?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，你在哪儿？[1]纠结怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -92,8 +90,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBDgAJAUlPUDAwMwAAAAoA</Command>
     </Commands>
     <Original>[0]Gina...[1]It must have been Sofia who attacked Dad,[2]right?[3]It seems very likely, but then taking him out[4]of the room while he's unconscious?[5]I don't think she could do that on her own.[6]She must have an accomplice here, Ashley.[7]An accomplice?[8]Here, in the lab?[9]I think so.[10]But I don't know if it's someone who works here[11]or someone from outside...[12]Gina, I've got to find Dad![13]If I don't, who knows what Sofia and her[14]accomplice could do to him![15]Ashley, calm down.[16]I understand how you feel, but we can't just[17]blunder around right now. It's too dangerous.[18]Then what should we do?[19]I can't just sit here and wait...[20]I know, Ashley, I feel the same way.[21]I truly admire your father, both as a scientist[22]and as a person.[23]That's why I was able to help him with his[24]investigation into Sofia.[25]Gina...[26]Ashley, right now we're the only ones who[27]can do anything about Sofia.[28]We need to tell someone about her as soon as[29]possible.[30]Tell who?[31]The director, of course.[32]But I'm worried...[33]About what?[34]If we just go in and claim that Sofia is leaking[35]information,[36]he might not believe us.[37]Why wouldn't he?[38]He trusts Sofia more than anyone else here.[39]And...[40]They're engaged.[41]Engaged?[42]Elizabeth's dad's new fiancée is Sofia?[43]You knew the director was getting remarried?[44]Yeah...[45]Elizabeth told me.[46]She's really upset about it.[47]I see...[48]Is anyone there?[49]What was that?[50]Someone's speaking through the VC. Wait a[51]minute, I'll answer it.[52]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉娜……[1]攻击爸爸的就是索菲亚，[2]对吗？[3]很有可能，但是后来他是在失去知觉的情况下[4]被抬出来的。[5]我觉得她不会用自己的电脑做这种事。[6]阿修蕾，她肯定还有同党。[7]同党？[8]在，实验室？[9]是的。[10]但是我不清楚哪些人是这儿的工作人员[11]哪些人是外面的……[12]吉娜，我得去找爸爸！[13]如果不去的话，谁知道索菲亚和[14]她的帮手会对爸爸下手！[15]阿修蕾，冷静点。[16]我很清楚你的感受，但是眼下我们不能[17]惊慌失措。那样更危险。[18]那我们该怎么办呢？[19]我不能坐以待毙……[20]我知道，阿修蕾。我也是这样想的。[21]我非常钦佩你爸爸，既是一名科学家[22]又是一个特别的人。[23]这就是我能够帮助他[24]调查索菲亚的原因。[25]吉娜……[26]阿修蕾，现在我们是唯一能[27]调出索菲亚的人了。[28]我们需要尽快告诉别人[29]关于她的事。[30]告诉谁呢？[31]当然是领导。[32]但是我害怕……[33]害怕什么？[34]万一我们直接冲过去指证索菲亚泄露[35]机密。[36]他不一定会相信我们。[37]为什么不呢？[38]在这里，索菲亚是他最信任的人。[39]而且……[40]他们还订婚了。[41]订婚？[42]伊丽莎白的爸爸新的未婚妻是索菲亚？[43]你知道头儿要再婚了？[44]是的……[45]伊丽莎白说的。[46]她对这事很兴奋。[47]我了解了……[48]有人在吗？[49]谁？[50]有人用VC通话。等一下，[51]我去接。[52]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -161,8 +158,7 @@
       <Command>ChoFAAABChoGAAAMAAoaMAAABVdTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfS0lSRVJVAAAKGiEAADQJVEFMS19CQUNLX0RDX1IwODBfUjEwMF9PVVQFChoGAAAMAAoaBwAAAwfQChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBQAAMwoA</Command>
     </Commands>
     <Original>[0]Gina, is Mike there? I had heard that he was[1]working today.[2]He's out at the moment, Dr Gray.[3]Out? Where is he?[4]I don't know exactly, but he should be back[5]soon.[6]I see, that is unfortunate.[7]I wanted him to check something for me[8]quickly.[9]What is it?[10]I have been having difficulties accessing the[11]server.[12]I believe there may be some issues with the[13]network.[14]Dr Robins usually looks after the system, and[15]he is supposedly here today.[16]I attempted to contact him, but he also appears[17]to be out of the office.[18]Dr Gray, there's something I need to tell you[19]about Dr Robins...[20]Ryan![21]Ashley?[22]What are you doing in there?[23]Ryan, someone's kidnapped my dad![24]What?[25]What happened?[26]Ashley says she was called here by Dr Robins.[27]Sofia went up to bring her in...[28]Sofia?[29]She called herself Gina and brought me down[30]to the meeting room.[31]She said to wait for Dad, but he never came![32]Then I went out of the room and into the[33]reception,[34]and I saw Dad on a security room monitor so I[35]called him.[36]Then someone came into his room and the call[37]disconnected![38]Ashley, who was it that came into his room?[39]I don't know...[40]But after that, I saw Dad collapsed on the floor[41]through the security camera,[42]and then he disappeared![43]Goodness me.[44]Gina, did you know Ashley was coming here?[45]No.[46]I heard that she was coming to Lake Juliet,[47]but I had no idea Dr Robins had called her here[48]to the lab.[49]How curious.[50]Then why did Sofia...[51]Dr Gray, there's something I need to report[52]about Sofia.[53]Which is?[54]It's something I'd rather tell you in person. It's[55]very important.[56]I see.[57]Well then, please come to my office. Bring[58]Ashley with you.[59]Then both of you can tell me everything.[60]Understood.[61]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉娜，迈克在吗？我听说他[1]今天当班。[2]He's out at the moment, Dr Gray.[3]Out? Where is he?[4]I don't know exactly, but he should be back[5]soon.[6]I see, that is unfortunate.[7]I wanted him to check something for me[8]quickly.[9]What is it?[10]I have been having difficulties accessing the[11]server.[12]I believe there may be some issues with the[13]network.[14]Dr Robins usually looks after the system, and[15]he is supposedly here today.[16]I attempted to contact him, but he also appears[17]to be out of the office.[18]Dr Gray, there's something I need to tell you[19]about Dr Robins...[20]Ryan![21]Ashley?[22]What are you doing in there?[23]Ryan, someone's kidnapped my dad![24]What?[25]What happened?[26]Ashley says she was called here by Dr Robins.[27]Sofia went up to bring her in...[28]Sofia?[29]She called herself Gina and brought me down[30]to the meeting room.[31]She said to wait for Dad, but he never came![32]Then I went out of the room and into the[33]reception,[34]and I saw Dad on a security room monitor so I[35]called him.[36]Then someone came into his room and the call[37]disconnected![38]Ashley, who was it that came into his room?[39]I don't know...[40]But after that, I saw Dad collapsed on the floor[41]through the security camera,[42]and then he disappeared![43]Goodness me.[44]Gina, did you know Ashley was coming here?[45]No.[46]I heard that she was coming to Lake Juliet,[47]but I had no idea Dr Robins had called her here[48]to the lab.[49]How curious.[50]Then why did Sofia...[51]Dr Gray, there's something I need to report[52]about Sofia.[53]Which is?[54]It's something I'd rather tell you in person. It's[55]very important.[56]I see.[57]Well then, please come to my office. Bring[58]Ashley with you.[59]Then both of you can tell me everything.[60]Understood.[61]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -4171,4 +4167,5 @@
     <Translation>
     </Translation>
   </Sentence>
+  <Comments />
 </Session>
