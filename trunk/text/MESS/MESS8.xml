@@ -187,8 +187,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBDgAJAUlPUDAwMAAAAAoA</Command>
     </Commands>
     <Original>[0]So, Ashley, you know Dr Gray?[1]Yeah.[2]When I was out camping with Dad, he was[3]suddenly called back to the office.[4]Then Ryan came to the camp instead of you.[5]Ah, of course.[6]Yeah, we had a barbecue together.[7]He came because you had some urgent work to[8]do, right?[9]No, that wasn't it at all.[10]I was planning to go, but when I told Dr Gray,[11]he said he'd rather go instead.[12]Something about wanting to try eating outside[13]for once.[14]Really?[15]Yes.[16]Come on, Ashley, let's go to his office.[17]He's calm and an excellent scientist. We can[18]trust him.[19]I'm sure with his help we'll be able to figure out[20]what to do.[21]Yeah.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你认识格雷博士吗？[1]认识。[2]当我跟爸爸结束露营的时候，他突然[3]被办公室召回了。[4]后来莱恩就代替你去露营了。[5]对，就是这样。[6]我们有个共用的烧烤台了。[7]他来是因为你有些事情必须完成[8]，对吧？[9]不，至少不完全是。[10]我原本打算去的，但是我告知格雷博士后，[11]他说最好他去。[12]很想尝试在外吃东西的[13]感觉。[14]真的？[15]嗯。[16]来嘛，阿修蕾，一起去他办公室吧。[17]他是个冷静又出色的科学家。值得[18]我们信赖。[19]我相信有他的帮助，我们能够对接下来的行动[20]理清思路。[21]好吧。[22]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -213,8 +212,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, Dr Gray's office is on the B2F floor.[1]Let's take the elevator down.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Ashley, Dr Gray's office is on the B2F floor.[1]Let's take the elevator down.[2]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
