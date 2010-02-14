@@ -81,6 +81,7 @@
  * special token: 纪念币
  * J&L badge : J&L徽章
  * EC PROJECT ： EC计划
+ * mnemonic fluid: 记忆流体（就是沙夜子挂饰里的液体）
 
 = Recko的后遗症（四、五章） =
 Music Player 我翻成音乐播放器了，胎果翻的是mp3，我是后来才发现的。这个你们看着办吧
