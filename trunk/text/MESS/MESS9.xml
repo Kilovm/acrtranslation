@@ -20,8 +20,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was Ryan who attacked Dad![1]Then he used Dad in some crazy experiment to[2]try to erase his memories.[3]To stop him, I had to go into Dad's office, unlock[4]Mom's box and take out something he wanted.[5]It was a TAS upgrade module.[6]After getting it, I went back to Ryan.[7]But something's wrong with Dad...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]刚刚莱恩攻击了爸爸！[1]然后他把爸爸关进了一个诡异的装置里，[2]想借此删除爸爸的记忆。[3]为了阻止他，我回到爸爸的办公室，打开了[4]妈妈留下的盒子，拿到了他想要的东西。[5]这是TAS的升级模块。[6]得到了它之后，我回到莱恩那里。[7]但是爸爸看上去有点儿不对劲……[8]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -29,8 +28,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACx8BAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Ryan, what did you do to Dad?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩，你对爸爸做了什么？[1]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -98,8 +96,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad![1]Dad![2]Where...am I?[3]Dad, are you okay?[4]This...isn't MJ Labs.[5]Dad, come on![6]What is this place?[7]Ryan, what did you do to Dad?[8]He's acting really weird![9]Ashley, ask Dr Robins something.[10]Ask him who you are.[11]Why ask him that?[12]Just ask him and you'll see.[13]Huh?[14]Dad, you recognise me, right?[15]Huh?[16]Dad, answer me![17]Who am I, Dad?[18]Um... Who are you?[19]What?![20]Dad, it's me! Ashley![21]Ashley...?[22]Have I...met you somewhere before?[23]I'm sorry, I don't think I know you.[24]What?[25]Why are you calling me Dad?[26]What do you mean "why"?![27]I've only just got married, I don't have any[28]children.[29]Dad, this isn't funny![30]Why don't you know me?![31]Oh dear, how can I make you understand?[32]I'm not your father.[33]You really don't know me?[34]Actually, you do remind me of someone...[35]Oh, yes, you look like Sayoko.[36]Actually, where is she?[37]Where is Sayoko?[38]Dad...[39]The experiment is a success.[40]Ryan! What did you do to him?![41]I erased his memories.[42]Dr Robins has now forgotten the last 17 years[43]of his life.[44]So you no longer have a place in his memories.[45]What?[46]You're lying![47]It has to be a lie![48]I can't just be erased from his memories...[49]Is that you, Ryan?[50]Dr Robins, how are you feeling?[51]Ryan, what are you doing here? And why do[52]you look so much older?[53]Dr Robins, try not to speak too much. Your[54]brain is still sluggish from the experiment.[55]If you try to think too hard, you'll become[56]unwell.[57]Ohh…[58]I feel like something's missing...[59]What is it?[60]Dad, are you okay?[61]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸！[1]爸爸！[2]我这是……在哪儿？[3]爸爸，你还好吧？[4]这里……这里不是MJ研究所。[5]爸爸，醒醒啊！[6]这是什么地方？[7]莱恩！你对爸爸做了什么？[8]他的举止好奇怪！[9]阿修蕾，不妨问罗宾斯教授一些问题啊。[10]就问他你是谁吧。[11]为什么要问这个问题？[12]问了你就知道了。[13]呃？[14]爸爸，你认识我的，对吧？[15]呃？[16]爸爸，回答我！[17]爸爸，我是谁？[18]呃……你是谁？[19]什么？！[20]爸爸，是我啊！阿修蕾！[21]阿修蕾……？[22]我以前……在哪里见过你吗？[23]不好意思，我不记得见过你。[24]什么？！[25]你为什么叫我爸爸？[26]“为什么”？什么叫“为什么”？[27]我才结婚而已，并没有[28]孩子啊。[29]爸爸，玩笑开大了吧！[30]为什么你连我也不认识了？[31]噢天那，我要怎么才能让你相信呢？[32]我不是你父亲啊。[33]你真的不认识我了？[34]说实话，你让我想起了某个人……[35]噢对了，你长得可真像沙夜子啊。[36]话说，她在哪儿呢？[37]沙夜子在哪里？[38]爸爸……[39]看来实验成功了哈。[40]莱恩！你对他做了什么？！[41]我只是擦去了他的记忆而已。[42]罗宾斯教授已经把之前这17年的人生忘得[43]一干二净了。[44]所以说呢，你在他的记忆里已经没有一丝一毫的印象了。[45]什么？[46]你骗人！[47]这不是真的！[48]我不会从爸爸的记忆里被抹去的……[49]莱恩？是你吗？[50]罗宾斯教授，你觉得怎么样？[51]莱恩，你在那边做什么？为什么[52]你看上去变老了许多？[53]罗宾斯教授，你最好安静一点。你的[54]大脑在实验后还处于半休眠状态呢。[55]如果想得太多，会[56]头痛哟。[57]噢……[58]我总感觉……失去了什么……[59]到底是什么呢？[60]爸爸，你没事吧？[61]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -117,16 +114,14 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCQAJAUlPUDEwMAAAAAoaCQAARgEBAAAKGgYAAAwAChoTAAAvKB4neyeaJxAnbScQikgKGgkAADBjAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBQAAMwoA</Command>
     </Commands>
     <Original>[0]Ryan, how could you?[1]I did what you said to help Dad![2]I opened the box and brought the thing back![3]Ashley, calm down.[4]If you have brought the item from inside the [5]box as you said you would,[6]then I can restore your father's memories[7]without delay.[8]What do you mean?[9]Well, I am assuming that you have brought the[10]item as promised.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩，你怎么能出尔反尔？[1]我已经照你说的去做了！[2]我打开了盒子，也把东西带回来了！[3]阿修蕾，冷静，冷静。[4]如果真的如你所说，已经把盒子里的东西[5]带来给我，[6]那我会马上恢复你爸爸的记忆，[7]毫不迟疑哟。[8]什么意思？[9]这样吧，我就假设你已经按照约定[10]把东西带来了。[11]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
       <Command>GhwAAAVXU0RfU0VfRE9PUl9BVVRPX09QRU4AAAoaDgAAOXgBAAAAMgEAAAoaEwAALygeJ4wnmicQJ20nEIpIChoJAAAwYxtYAAoaBgAADAAKGhQBAAs1AAkACQFOUEMxMDEAAAAKGgYAAAwAChoHAAADD6AKGh0AAAVXU0RfU0VfRE9PUl9BVVRPX0NMT1NFAAAKGg4AADl4AQAyAAABAAAKGg4BAAsAAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -305,8 +300,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1A4ZkAAoaCQAAMWMAAAEKAA==</Command>
     </Commands>
     <Original>[0]Show me, Ashley.[1]Show me what you brought back.[2]This.[3]This is what was in the box.[4]Is this all?[5]It has a connector, but this won't fit in the[6]control panel.[7]Ashley, is this really all that was in the box?[8]Yeah.[9]I see.[10]Well, that is a pity.[11]Why?[12]It appears to be nothing more than an extra[13]module.[14]I cannot use this for memory restoration,[15]Ashley.[16]It appears my theory was not entirely correct.[17]How unfortunate.[18]What's wrong?[19]I thought that the box must contain a [20]security key for Another,[21]something that Sayoko developed during the[22]EC Project.[23]However, it seems that there was no such key[24]in the box, correct?[25]And thus, I cannot restore Dr Robins' lost[26]memories.[27]But you promised![28]You said that if I opened the box and brought[29]back what was inside,[30]you wouldn't erase my dad's memories![31]I did promise that, yes. But you took such a[32]long time to return.[33]I assumed you had given up on your father[34]and simply gone home.[35]Gone home?[36]I wouldn't just leave my dad here![37]You wouldn't?[38]Of course not![39]I'm the only one who can help him![40]I wouldn't just run off![41]Honestly?[42]How can you say that?[43]I don't understand you, Ashley.[44]I don't understand why you wouldn't be willing[45]to turn your back on your father.[46]What's there to understand?[47]He's my dad![48]Ashley, is your father truly that important to[49]you?[50]Of course he is![51]Come on, Ryan! If it was your dad on the line,[52]in serious danger,[53]even you'd feel exactly the same as me![54]Would I?[55]I can't say I've ever considered it.[56]I've never felt anything like that about my[57]father. Not once.[58]Please, Ryan...[59]Give my dad his memories back![60]Please![61]Please...[62](sniff)[63]Ashley, are you crying?[64]Why would you be crying?[65]Because...my dad...[66]doesn't remember me...[67](sniff)[68]Ashley, stop crying, please.[69]I don't like seeing people cry.[70]Dad...[71](sniff)[72](sniff)[73]Ashley...[74]Stop crying! Now![75]Huh?[76]Don't make me repeat myself.[77]I don't like seeing people cry.[78]Why?[79]I believe that the emotions that trigger crying[80]are unnecessary for humans.[81]In fact, crying is more of a defence mechanism.[82]Nothing more.[83]A...defence mechanism?[84]Yes.[85]When the weak believe they will be subject to[86]emotional distress, they always resort to tears.[87]They pour their stress into these eye secretions[88]in an attempt to expel it from their own bodies.[89]It is a defence mechanism, designed to protect[90]people from their own feelings.[91]And even if those emotions are misguided, these[92]weak-hearted people justify them with tears.[93]The foremost example is small children whining[94]and crying.[95]From this, it seems fair to conclude that tears[96]are nothing more than a sign of weakness.[97]And thus, I despise crying.[98]You're wrong...[99]Am I?[100]You're totally wrong, Ryan.[101]Everyone cries, not just weak people.[102]We cry because our hearts are overwhelmed.[103]Oh, really?[104]What could possibly overwhelm your heart?[105]Our emotions.[106]If there's something you feel really sad about,[107]or if you're feeling really scared.[108]When you're feeling so lonely you can't take it.[109]Even when you're really happy...[110]The emotions overwhelm our hearts and we[111]start to cry.[112]Ryan, has that never happened to you?[113]Never.[114]Not once in my entire life.[115]You're lying.[116]I am not.[117]Ashley, I understand your theory regarding[118]tears and emotions.[119]So let me ask you something.[120]Using your previous statements as a base,[121]when you saw that Dr Robins had lost his[122]memories, your heart was overwhelmed.[123]So tell me, what emotion were you feeling?[124]Sorrow, because you were erased from your[125]father's memory?[126]Or anger, because I carried out the experiment[127]before you returned?[128]Neither.[129]Then what was it?[130]It was because I couldn't save Dad.[131]I was upset because there was nothing I could[132]do. It...it was regret.[133]Regret?[134]I see.[135]So such a situation can also give birth to tears.[136]Ashley, would you like to restore Dr Robins'[137]memories?[138]Of course![139]I see.[140]Then let us restore his memories.[141]Really?[142]Are you serious?[143]Indeed I am.[144]Provided, of course, you aid me with something.[145]With what?[146]A memory experiment.[147]If you aid me with my experiment, I will restore[148]your father's memories.[149]What kind of experiment?[150]A[151] memory overwrite experiment[152], with you as[153]the subject, using this data.[154]Mom's pendant![155]Ashley, to you this is a memento of your[156]mother, correct?[157]Yeah...[158]But to me, this is merely an old data sample,[159]memories extracted 13 years ago.[160]I wanted to find out what was in the memory[161]data, so I analysed it,[162]but I could not read the memories directly from[163]the mnemonic fluid.[164]So I wish to examine this memory data using a[165]different method.[166]Namely, a memory overwrite experiment.[167]This is the perfect data to use for such an[168]experiment.[169]And you are the [170]perfect test subject[171].[172]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，给我。[1]给我你带回来的东西。[2]就是这个。[3]在盒子里的就是这个东西。[4]没其他的了？[5]还有一个连接器，但是插不进[6]控制器里。[7]阿修蕾，这真的是盒子里所有的东西了吗？[8]是的。[9]我明白了。[10]呵，那可真是遗憾了。[11]为什么？[12]这看来仅仅是一个附加[13]模块而已。[14]我没办法用它来恢复记忆，[15]阿修蕾。[16]看来我的理论也不是完全正确的。[17]真是不走运啊。[18]怎么了？[19]我还以为盒子里一定会藏有[20]Another的密钥呢。[21]沙夜子完成那东西是在[22]EC计划的时候。[23]然而，现在看来盒子里好像没有[24]所谓的钥匙，对吧？[25]因而我也不能恢复罗宾斯教授的[26]记忆了。[27]但是你刚刚答应我的！[28]你说如果我打开了盒子，并且带回了[29]里面的东西，[30]你就不会删除我爸爸的记忆的！[31]没错没错，我是这么说过，但你[32]花了太长时间啦，[33]我猜……你大概不想救你爸爸而[34]默默回家了。[35]回家？[36]我可不会让我爸爸单独留在这里！[37]你不会？[38]绝对不会！[39]现在只有我一人能帮到他了！[40]我可不会撒腿就跑的！[41]你真这么想？[42]你这是什么意思？[43]阿修蕾，我不太理解哟。[44]我不懂你为什么就那么不愿意[45]抛弃你的父亲。[46]这还有什么需要理解的？[47]他是我爸啊，这就够了！[48]阿修蕾，你爸爸真的对你那么[49]重要？[50]当然重要了！[51]好叫，莱恩！如果换做是你爸爸处在[52]这种危险的境地，[53]你也会跟我有一样的想法的！[54]会吗？[55]我不敢保证我会这么想哟。[56]我从没有为了我的父亲而有这样的[57]感觉，一次都没有。[58]莱恩……[59]还给我爸爸的记忆！[60]求你了！[61]求你了……[62]（抽泣）[63]阿修蕾，你哭了？[64]为什么要哭呢？[65]因为……我爸爸……[66]不记得我了……[67]（抽泣）[68]阿修蕾，快别哭了。[69]我最受不了见着别人哭。[70]爸爸……[71]（抽泣）[72]（继续抽泣）[73]阿修蕾……[74]别哭了！马上！[75]嗯？[76]别让我重复第二遍。[77]我最受不了见着别人哭。[78]为什么？[79]我认为触发人类哭泣的情感[80]是多余而无意义的。[81]事实上，哭泣更多只是单纯的生理防御机制。[82]仅此而已。[83]防御……机制？[84]是的。[85]当懦弱的内在灵魂感知到它即将受[86]情感压力的威胁，泪腺就会分泌出眼泪。[87]为了将压力驱逐出自己的身体，[88]眼睛的这种分泌液就充当了溶剂的作用。[89]这就是所谓的防御机制，是人类为了隐藏自己的[90]真实感受而进化得来的机能。[91]即使这种情感是被误导的，脆弱的人们[92]也会用眼泪来掩盖自己的愚笨。[93]最典型的例子就是小婴孩们总是在无理取闹的[94]时候哇哇大哭。[95]综上易知，眼泪无非[96]就是脆弱的象征。[97]也因此，我真鄙视哭泣。[98]你错了……[99]你确定？[100]莱恩，你大错特错了！[101]每个人都会哭，不止是脆弱的人。[102]当我们的心灵支撑不住时，我们就会哭泣。[103]哦？[104]那有什么能如此压抑你的心灵呢？[105]我们的情感啊。[106]当有什么事让你觉得真的很难受，[107]或者有什么东西让你特别害怕的时候。[108]当你感到异常孤独而无法忍受的时候。[109]甚至当你打从内心里觉得幸福的时候……[110]每当这种时候，情感满溢无法宣泄，[111]我们就会为此而流泪。[112]莱恩，这些都没有在你身上发生过吗？[113]从没有过。[114]在我的生命里，连一次也没有过。[115]你在撒谎。[116]我没有撒谎。[117]阿修蕾，我能理解你关于[118]眼泪和情感的理论。[119]那让我先来问你些事。[120]Using your previous statements as a base,[121]when you saw that Dr Robins had lost his[122]memories, your heart was overwhelmed.[123]So tell me, what emotion were you feeling?[124]Sorrow, because you were erased from your[125]father's memory?[126]Or anger, because I carried out the experiment[127]before you returned?[128]Neither.[129]Then what was it?[130]It was because I couldn't save Dad.[131]I was upset because there was nothing I could[132]do. It...it was regret.[133]Regret?[134]I see.[135]So such a situation can also give birth to tears.[136]Ashley, would you like to restore Dr Robins'[137]memories?[138]Of course![139]I see.[140]Then let us restore his memories.[141]Really?[142]Are you serious?[143]Indeed I am.[144]Provided, of course, you aid me with something.[145]With what?[146]A memory experiment.[147]If you aid me with my experiment, I will restore[148]your father's memories.[149]What kind of experiment?[150]A[151] memory overwrite experiment[152], with you as[153]the subject, using this data.[154]Mom's pendant![155]Ashley, to you this is a memento of your[156]mother, correct?[157]Yeah...[158]But to me, this is merely an old data sample,[159]memories extracted 13 years ago.[160]I wanted to find out what was in the memory[161]data, so I analysed it,[162]but I could not read the memories directly from[163]the mnemonic fluid.[164]So I wish to examine this memory data using a[165]different method.[166]Namely, a memory overwrite experiment.[167]This is the perfect data to use for such an[168]experiment.[169]And you are the [170]perfect test subject[171].[172]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -3062,8 +3056,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Use the VC to get help.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Use the VC to get help.[1]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -3072,8 +3065,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We need to go after Ryan.[1]He went down in the elevator.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们得跟着莱恩。[1]他从电梯里下去了。[2]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
@@ -3082,8 +3074,7 @@
       <Command>ChoFAAABChoNAAAVAQBoAAAAAAAKGgwAAAgBAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Ashley, we need to follow the tunnel all the[1]way through.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，我们必须沿着隧道[1]走下去。[2]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -3091,8 +3082,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's look and see if there's another way out.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们还是找找有没有其他路可以走出去吧。[1]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
@@ -3101,8 +3091,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, we need to find Ryan.[1]Right.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，我们必须找到莱恩。[1]没错。[2]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -3110,8 +3099,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, let's look at the spring first.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，先看看泉水吧。[1]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -3120,8 +3108,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, let's get to the wharf. We need to find[1]Ryan.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，快点去码头那里。我们必须找到[1]莱恩。[2]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -3130,8 +3117,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, Ashley, we need to follow him to the[1]island![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]快点阿修蕾，我们必须跟着他去[1]小岛上！[2]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
@@ -3139,7 +3125,7 @@
       <Command>ChoFAAABCgAAAAA=</Command>
     </Commands>
     <Original>[0]We need to go after Ryan.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们得跟着莱恩。[1]</Translation>
   </Sentence>
+  <Comments />
 </Session>
