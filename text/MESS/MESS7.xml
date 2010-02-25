@@ -1285,8 +1285,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]Oh, there's something behind the screen.[1]There's a room back there.[2]I can see something...[3]Ah![4]It's Dad![5]Dad's on the monitor in there![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，在屏风后面有些东西。[1]在那后面有一个房间。[2]我能看见里面的东西……[3]啊！[4]是爸爸！[5]爸爸就在那里面的显示屏上！[6]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1300,8 +1299,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass wall[2] behind the [3]counter.[4]Richard is visible on the monitor [5]in the room beyond.[6]Dad...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]柜台 [1]后面[2]有一面[3]落地玻璃。[4]理查德就出现在房间里面的[5]显示屏上。[6]爸爸……[7]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1323,8 +1321,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9FX1IwMzBfMDEKGj4BAAlJTlRFUlJVUFRfRV9SMDMwXzAxX29mZgBJTlRFUlJVUFRfRV9SMDMwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfRV9SMDMwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is an [1]information panel about[2]the Director of JC Valley[3].[4]That's Elizabeth's dad.[5]"Rex Alfred[6]Current Director of JC Valley[7]Born on 26 October 1959.[8]Based on his experience with advanced[9]memory research, he became a founding[10]member of JC Valley with the late Judd[11]Fitzgerald. He is working on original[12]research subjects which will carve out[13]the future of JC Valley.[14]Became Director in 2001."[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一块[1]关于JC山谷所长的[2]告示板 [3]。[4]那是伊丽莎白的爸爸。[5]“雷克斯·阿尔弗雷德[6]当前JC山谷的所长[7]生于1959年10月26日。[8]基于其在先进记忆研究的[9]经验上，他和已故的贾德·菲茨杰拉德[10]成为了JC山谷的创立成员[11]之一。他正在进行[12]一项将为JC山谷开创未来的[13]新颖研究。[14]于2001年成为所长。”[15]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1335,8 +1332,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]sign [2]on the door says [3]"Security Room".[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门上的 [1]标牌 [2]写着 [3]“保安室”。[4]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -1351,8 +1347,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]sign [2]on the door says [3]"Security Room".[4]"Security Room"?[5]Oh, so the screen I saw Dad on was in the [6]security room.[7]I might be able to contact him from in there...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门上的 [1]标牌 [2]写着 [3]“保安室”。[4]“保安室”？[5]噢，那我看见爸爸的显示屏就是在 [6]保安室里。[7]或许我可以在那里联系上爸爸……[8]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1365,8 +1360,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]sign [2]on the door says [3]"Security Room".[4]I wonder if it's open.[5]No luck. It's locked.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门上的 [1]标牌 [2]写着 [3]“保安室”。[4]我想它会不会是开着的。[5]很不走运地，是锁着的。[6]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1379,8 +1373,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]sign[2] on the door says [3]"Security Room".[4]The door is locked.[5]I might be able to contact Dad from in there...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门上的 [1]标牌 [2]写着 [3]“保安室”。[4]门是锁着的。[5]或许我可以在那里联系上爸爸……[6]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1392,8 +1385,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]panel[2] by the door.[3]What's this panel for?[4]It's covered in something...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在门旁[1]有一块[2]面板。[3]这面板有什么用？[4]它被什么东西盖着……[5]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1404,8 +1396,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]panel[2] by the door.[3]Is this the keypad for the door?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在门旁[1]有一块[2]面板。[3]这是用来开门锁的小型键盘吗？[4]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1414,8 +1405,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The keypad's covered in something.[1]What's on it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小型键盘被某种东西盖着。[1]那是什么？[2]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -1424,8 +1414,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The keypad's covered in something.[1]What is this stuff? It couldn't be...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小型键盘被某种东西盖着。[1]这是什么材料？不能把它……[2]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1436,8 +1425,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]panel[2] by the door.[3]This is the keypad for the door.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在门旁[1]有一块[2]面板。[3]这是用于开门锁的小型键盘。[4]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1448,8 +1436,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]panel[2] by the door.[3]I'll try again.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在门旁[1]有一块[2]面板。[3]我要再试一次。.[4]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -1461,8 +1448,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is [1]something[2] on the floor.[3]What's this?[4]Lipstick?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地板上 [1]有个[2] 什么东西。[3]这是什么？[4]口红？[5]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
@@ -1470,8 +1456,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It must be lipstick on the panel.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这一定是放面板上的口红。[1]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1479,8 +1464,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why's this lying here?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为什么这里会放着一只口红？[1]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1488,8 +1472,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use this.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好，我就用它。[1]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1497,8 +1480,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try again.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要再试一次。[1]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
@@ -1506,8 +1488,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use this.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好，我就用它。[1]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
@@ -1515,16 +1496,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try entering the code.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要试试输入密码。[1]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="130">
     <Commands>
@@ -1533,8 +1512,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Is this it?[1]The door opened![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是这个吗？[1]门打开了！[2]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
@@ -1543,8 +1521,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I can't press the keys like this.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]I can't press the keys like this.[2]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
@@ -5660,4 +5637,5 @@
     <Translation>
     </Translation>
   </Sentence>
+  <Comments />
 </Session>
