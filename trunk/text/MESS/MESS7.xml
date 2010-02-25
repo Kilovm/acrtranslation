@@ -1414,7 +1414,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The keypad's covered in something.[1]What is this stuff? It couldn't be...[2]</Original>
-    <Translation>[0]小型键盘被某种东西盖着。[1]这是什么材料？不能把它……[2]</Translation>
+    <Translation>[0]小型键盘被某种东西盖着。[1]这塞着什么东西？不能把它……[2]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1521,7 +1521,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I can't press the keys like this.[2]</Original>
-    <Translation>[0]不……[1]I can't press the keys like this.[2]</Translation>
+    <Translation>[0]不……[1]我不能这样按那个键盘。[2]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
@@ -1530,8 +1530,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I can't get the stuff off it like this.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]我不能这样除掉那些塞物。[2]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
@@ -1539,8 +1538,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要怎么办？[1]</Translation>
   </Sentence>
   <Sentence id="134">
     <Commands>
@@ -1548,8 +1546,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I get rid of this stuff?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要怎样才能清除那些塞物？[1]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
@@ -1557,8 +1554,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's the code for the keypad?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]键盘的密码是什么？[1]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -1566,8 +1562,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Actually...I haven't a clue.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]老实说……我一点头绪也没有。[1]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
@@ -1581,8 +1576,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADLQoA</Command>
     </Commands>
     <Original>[0]There is a [1]spray can of[2] [3]cleaner[4] on the bottom [5]shelf.[6]This might come in handy.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在底下的[1]架子上[2] [3]有一个[4] 吸尘器的 [5]喷雾罐。[6]这应该会有用。[7]</Translation>
   </Sentence>
   <Sentence id="138">
     <Commands>
@@ -1594,8 +1588,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADEwoA</Command>
     </Commands>
     <Original>[0]There is a [1]spray can[2] on the [3]bottom shelf.[4]This might come in handy.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在底下的 [1]架子上[2] 有一个[3]喷雾罐。[4]这应该会有用。[5]</Translation>
   </Sentence>
   <Sentence id="139">
     <Commands>
@@ -1603,8 +1596,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaCQAARgEAAAAKAA==</Command>
     </Commands>
     <Original>[0]This is the security room?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这就是保安室？[1]</Translation>
   </Sentence>
   <Sentence id="140">
     <Commands>
@@ -1616,8 +1608,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm?[1]I knew it! Dad![2]He's on the monitor![3]Huh?[4]Why's the panel broken?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯？[1]我看到了！是爸爸！[2]他就在显示屏上！[3]哈？[4]为什么控制面板被打坏了？[5]</Translation>
   </Sentence>
   <Sentence id="141">
     <Commands>
@@ -1629,8 +1620,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]control panel[2] beneath the [3]monitors is broken.[4]Why's the panel broken?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示屏 [1]下方的[2] 控制面板 [3]被打坏了。[4]为什么会被打坏？[5]</Translation>
   </Sentence>
   <Sentence id="142">
     <Commands>
@@ -1641,8 +1631,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]control panel[2] beneath the [3]monitors is broken.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示屏 [1]下方的[2] 控制面板 [3]被打坏了。[4]</Translation>
   </Sentence>
   <Sentence id="143">
     <Commands>
@@ -1658,8 +1647,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are large [1]monitors[2] on the wall.[3]A number of places are shown on [4]the monitors.[5]All of the images are still.[6]This must be the feed from the security[7]cameras.[8]That one must be Dad's room...[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在墙上有一块 [1]巨大的[2] 显示屏。[3]显示屏上标示着 [4]各个地点的号码。[5]所有画面都是静止不动。[6]这一定是监控摄像头[7]拍下来的。[8]那一个是在爸爸的办公室里……[9]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -1672,8 +1660,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are large [1]monitors[2] on the wall.[3]A number of places are shown on [4]the monitors.[5]All of the images are still.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在墙上有一块 [1]巨大的[2] 显示屏。[3]显示屏上标示着 [4]各个地点的号码。[5]所有画面都是静止不动。[6]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -1686,8 +1673,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] glass wall[2].[3]I can see a counter on the other side.[4]Oh, I get it... This is the place I could see from[5]the reception desk.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一面[1] 落地玻璃[2]。[3]我能看见另一边有一个柜台。[4]噢，我明白了…… 这里就是我在接待台[5]见到的地方。[6]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -1699,8 +1685,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] glass wall[2].[3]The reception desk is visible on the [4]other side.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一面[1] 落地玻璃[2]。[3]接待台就在玻璃的 [4]另一面。[5]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
@@ -1711,8 +1696,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are room names on the[1] [2]control panel[3] beneath the monitor.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示屏下方的[1] [2]控制面板上写着[3]一个个房间的名称。[4]</Translation>
   </Sentence>
   <Sentence id="148">
     <Commands>
@@ -1721,8 +1705,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes! Dad's name is here![1]Maybe if I press this...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]找到了！爸爸的名字在这里！[1]如果我按下去……[2]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -1733,8 +1716,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the [3]VC system.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个 [1]VC系统[2] 的 [3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="150">
     <Commands>
@@ -1744,16 +1726,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are room names on the [1]control panel[2] beneath the monitor.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]显示屏下方的[1]控制面板上写着[3]一个个房间的名称。[4]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
       <Command>Gg0AABUAAH8AAAAAMgoaDAAACAAA0AAAAAAKGgYAAAwAChoGAAAMAAoaBwAAAwu4ChozAAAFV1NEX1NFX0VWRU5UX0pDX1ZBTExFWV9ESVJFQ1RfQ0FMTF9ZT0JJREFTSEkAAQoaCAAAWW8PAQoaBgAADAAKGg0AABUAAH8AAQAAMgoaDAAACAAASAEAAAAKGgYAAAwAChoGAAAMAAoaBwAAAwfQCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
