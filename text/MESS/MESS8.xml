@@ -212,7 +212,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, Dr Gray's office is on the B2F floor.[1]Let's take the elevator down.[2]</Original>
-    <Translation>[0]Ashley, Dr Gray's office is on the B2F floor.[1]Let's take the elevator down.[2]</Translation>
+    <Translation>[0]阿修蕾，格雷博士的办公室在负二层。[1]乘电梯过去吧。[2]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -221,8 +221,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, Dr Gray's office is on the B2F floor.[1]This elevator goes up to the ground floor.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，格雷博士的办公室在负二层。[1]这电梯是去地上的。[2]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -231,8 +230,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This isn't Dr Gray's office, Ashley.[1]His office is on the B2F floor.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，这间不是格雷博士的办公室。[1]他的在负二层。.[2]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -241,8 +239,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley...[1]This isn't Dr Gray's office.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾……[1]这间不是格雷博士的办公室。[2]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -251,8 +248,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to go to Ryan's office.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我得去莱恩的办公室。[2]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -261,8 +257,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to go to Ryan's office.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我得去莱恩的办公室。[2]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -271,8 +266,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to go to Ryan's office.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我得去莱恩的办公室。[2]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -281,8 +275,7 @@
       <Command>ChoFAAABChoNAAAVAAB/AAAAADIKGgwAAAgAAHIAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Ashley, Dr Gray's office is at the end of this[1]corridor.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，格雷博士的办公室就在尽头，就是这条[1]走廊。[2]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -292,8 +285,7 @@
       <Command>ChoFAAABChoGAAAMAAoaJAAABVdTRF9TRV9FVkVOVF9JRF9DQVJEX0NIRUNLX09LAAAKGgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]Gina, the shutter's locked.[1]Dr Gray's office is past here.[2]It's usually open. I wonder who closed it...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉娜，百叶窗是合上的。[1]格雷博士的办公室就在这里。[2]它通常都是打开的。我怀疑有人拉上了……[3]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -383,8 +375,7 @@
       <Command>ChoFAAABChoFAAAzChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAsxAQ4ACQFJT1AwMDUAAAAKAA==</Command>
     </Commands>
     <Original>[0]Hey! It opened![1]Ashley.[2]Ryan![3]Gina, what exactly has happened?[4]Dr Gray...[5]What was it you wanted to tell me about Sofia?[6]Well...[7]Could it have something to do with what Ashley[8]told me about Dr Robins?[9]It may.[10]Dr Robins and I have been carrying out an[11]investigation for several months.[12]An investigation?[13]Into what?[14]Certain classified information is being leaked[15]outside the company.[16]Leaked?[17]You mean to say that we have a mole inside[18]JC Valley?[19]Yes, I believe so.[20]Dr Robins already reported this to the director,[21]but the director didn't want to make the[22]information public.[23]And why not?[24]I don't know what the director is thinking,[25]but...[26]Let me guess... You and Dr Robins began your[27]own private investigation to find the culprit?[28]And now you think you've found who it is?[29]Basically, yes.[30]Today, Dr Robins finally discovered the[31]identity of the mole.[32]But someone attacked him while he was writing[33]me an e-mail to tell me who it was.[34]Gina, when you say that this has something to[35]do with Sofia,[36]do you mean to say that Sofia is the person[37]responsible for leaking this information?[38]Yes, Dr Gray. But then Sofia discovered that[39]Dr Robins and I knew the truth.[40]And not just us, but also Mike and Ashley.[41]If this is true, then this is a very serious[42]problem. Especially for the director.[43]Gina, you are aware that he and Sofia...[44]That they're engaged? Yes.[45]Hmm.[46]Gina, you've yet to tell the director about this,[47]correct?[48]That's right.[49]Do you have evidence that Sofia is the mole?[50]We found this e-mail that was sent to her,[51]which is proof of her guilt.[52]Have you decrypted the code?[53]Yes, we used my own scanner pen to do so.[54]The e-mail concerns an exchange of information.[55]I see.[56]Thank you, Gina.[57]I will take this e-mail.[58]What will you do with it?[59]Regrettably, I believe it is my duty to report[60]Sofia to the director.[61]That's true, yes...[62]Dr Gray, do you need help deciphering the[63]code?[64]That won't be necessary, Gina.[65]I can use my own software to crack this code.[66]Understood.[67]Gina, do you think that Sofia is still in the[68]building?[69]I don't know.[70]It may be prudent to make sure.[71]Well, when Mike gets back, we'll both check the[72]entry and exit data for the building.[73]Please do.[74]Ashley, I'd like it if you could join me in my[75]office, please.[76]And you can tell me about everything that's[77]happened to you here.[78]Ashley, is that okay with you?[79]Yeah, sure.[80]Dr Gray, I'll contact you as soon as I have[81]more information.[82]Understood.[83]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿！它打开了！[1]阿修蕾。[2]莱恩！[3]吉娜，究竟怎么回事？[4]格雷医生……[5]你想告诉我关于索菲亚的什么事？[6]恩……[7]跟阿修蕾和我说的关于罗宾斯博士的事[8]有关吗？[9]有关。[10]罗宾斯博士和我花费数月才做出[11]一份调查。[12]一份调查？[13]调查什么？[14]某些机密信息已经从公司[15]流向外界了。[16]泄漏？[17]你的意思是有内奸在[18]JC山谷？[19]恩，我想是的。[20]罗宾斯博士已经向主管汇报了，[21]但是上面不想[22]公开。[23]为什么不呢？[24]我也不清楚上面的想法，[25]不过……[26]让我想想……你和罗宾斯博士[27]私自行动去调查内奸？[28]之后你们认为找到了？[29]差不多。[30]就在今天，罗宾斯博士终于发现了[31]内奸的身份。[32]但是就在他给我写邮件说明此事的时候，有人[33]袭击了他。[34]吉娜，你提到这事跟[35]索菲亚有关，[36]你的意思是索菲亚就是[37]窃取信息的人？[38]正是，格雷博士。不过后来索菲亚发现[39]罗宾斯博士和我知道内情。[40]而且不止我们，还有麦克和阿修蕾。[41]如果这事是真的，那就很严重[42]了。特别是对于主管来说。[43]吉娜，你知道他跟索菲亚……[44]订婚？是的。[45]嗯……[46]吉娜，你还没告诉主管这事，[47]对吧？[48]是的。[49]那你有证据证明索菲亚就是内奸吗？[50]我们找到一封发给她的邮件，[51]这就是罪证。[52]你解密了吗？[53]解了，用的我们自己的扫描笔。[54]那封邮件涉及信息交换。[55]我明白。[56]谢谢你，吉娜。[57]我想要这封邮件。[58]你要它做什么？[59]虽然很遗憾，但是我有责任向主管揭发[60]索菲亚。[61]这个，当然……[62]格雷博士，你需要解密[63]代码吗？[64]这个不要紧，吉娜。[65]我可以用自己的软件来破解这些代码。[66]明白了。[67]吉娜，你觉得索菲亚还在[68]大楼里吗？[69]不知道。[70]得谨慎地确定一下。[71]好的，等麦克回来，我们会检查[72]出入大楼的所有数据。[73]请尽快。[74]阿修蕾，如果你能留在我的办公室陪我，我会[75]很高兴的。[76]你还可以跟我聊聊在这里[77]遇到的所有事情。[78]阿修蕾，你觉得呢？[79]好啊，当然可以。[80]格雷博士，一有新的消息我就会[81]跟你联系。[82]好的。[83]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -394,8 +385,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAszAQkACQFJT1AwMDQAAAAKAA==</Command>
     </Commands>
     <Original>[0]Right then, Ashley. Shall we?[1]My office is right this way.[2]Okay.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Right then, Ashley. Shall we?[1]My office is right this way.[2]Okay.[3]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
