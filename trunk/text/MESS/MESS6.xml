@@ -1705,8 +1705,7 @@
       <Command>ChoFAAABChoHAABJA+gKGgUAADMKGgYAAAwAChoOAQALEAEAAAAAAAAAChoGAAAMAAoaFAEACzUBBwAJAUlPUDAxMAAAAAoA</Command>
     </Commands>
     <Original>[0]Yo, Ash![1]Huh?[2]Oh, Tommy.[3]Hey, Ash. What's up?[4]Say, you seen Elizabeth around?[5]Yeah, I was just talking to her.[6]She should still be around here somewhere.[7]Right.[8]Do you need to talk to her? Did something[9]happen?[10]Kinda, yeah. Something I said before.[11]I told her she could fight with her dad all she[12]wanted, but to be more serious about the band.[13]We're trying hard to make it work, so she[14]shouldn't be letting the side down, y'know?[15]And when I said that...[16]She quit the band. Right there and then.[17]Don't let her quit![18]Say what, now?[19]I don't think she's serious.[20]She's just really upset about her dad, so...[21]I know all that.[22]We've known each other for years, I know how[23]selfish she is.[24]She's always been stubborn, and she always[25]gets real lonely...[26]Girls are a pain, right?[27]Bingo.[28]I won't let her quit, don't worry.[29]My guitar, Sam's drumming and her vocals.[30]That's it.[31]We come as a set. One part falls, we all fall.[32]I hear you. Good luck![33]Thanks. Catch you later.[34]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唷，小蕾！[1]吖？[2]噢，原来是汤米。[3]小蕾，怎么了？[4]你有见到过伊丽莎白么？[5]有的，我才和她说过话。[6]她应该还在附近吧。[7]好的。[8]你有话和她说么？发生什么事了？[9][10]就是之前我说过的那些。[11]我告诉过她她和她爸爸想怎么办就怎么办，[12]只要多放些精力在乐队上就好。[13]我们乐队的都在努力，[14]所以她最好别扯后腿。[15]当我说到那时...[16]她就立马退出了乐队。[17]留住她啊！[18]那怎么说啊？[19]我想她不是认真的。[20]她只是太烦他爸爸了...[21]知道.[22]我们都认识这么多年了，[23]她有多自私我是知道的。[24]她总是那么固执,[25]所以才把自己搞得那么孤单...[26]女孩子就是多愁善感的啦，对吧?[27]严重同意.[28]别担心，我不会让她退出的。[29]我的吉他，山姆的鼓，还有她的嗓音。[30]那就是乐队的全部。[31]我们是一个整体，一个不行了，大家就不行了。[32]我听你的，好运啊！[33]多谢，一会见。[34]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1736,8 +1735,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, it's the Salmon Rice Burger![1]Huh?[2]Oh, yeah...[3]It says... "New Online Shop! We're having a[4]special sale to celebrate."[5]The Salmon Rice Burger and his special beef[6]jerky are on special offer...[7]Looks like he was serious about setting up the[8]online shop.[9]Hey, Ash, what's an online shop?[10]You can buy Salmon Rice Burgers over the[11]internet.[12]You can buy them anywhere and they'll get[13]delivered right to your house.[14]Wow, awesome...[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，是鲑鱼米饼汉堡！[1]啊？[2]欧，是的...[3]上头写... "祝新网店开张[4]大特价。"[5]鲑鱼米饼汉堡和它的特制牛肉干都在[6]优惠菜单上哦...[7]看来他是真的想搞好这个[8]网店。[9]额，小蕾，什么是网店啊？[10]就是你可以通过互联网购买[11]鲑鱼米饼汉堡。[12]你可以在任何地方买，[13]店家会负责送货上门。[14]偶，挺不错的...[15]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
@@ -1751,8 +1749,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mrs Graham?[1]Who's there?[2]It's Ashley.[3]Ah, Ashley.[4]Just a second.[5]Okay, come on in.[6]Okay.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格雷厄姆太太？[1]谁啊？[2]是我，阿修蕾.[3]啊，阿修蕾啊.[4]等等.[5]好了，进来吧.[6]好的.[7]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
@@ -1777,8 +1774,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mrs Graham's waiting for me.[1]I should go in.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格雷厄姆太太在等我.[1]我该进去了.[2]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
@@ -1787,8 +1783,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Don't mind me. Have to sit down because[1]of my blasted hip.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]请别介意，因为臀有问题[1]必须坐着.[2]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
