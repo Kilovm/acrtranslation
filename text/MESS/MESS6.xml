@@ -2057,8 +2057,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCwAJAU5QQzAwMwAAAAoA</Command>
     </Commands>
     <Original>[0]I wonder what your mother was like, Ashley.[1]So do I. I barely remember anything about her.[2]So I don't really know her.[3]I can imagine...[4]But since coming here, I've met people who[5]met her and knew about her.[6]And then there's...[7]Oh, Mrs Graham, please look at this.[8]My mom got it from her mother when she was[9]still in Japan.[10]Oh, that's very nice indeed. Are those cherry[11]blossoms on the tube?[12]Yeah, you can see cherry blossoms when you[13]look through it.[14]Ashley, did you know that this is a chamber[15]kaleidoscope?[16]A chamber kaleidoscope?[17]That's right. There's a removable chamber at[18]the end of the tube.[19]You can see different things by replacing the[20]chamber.[21]That's really neat![22]Oh, that reminds me, Ashley.[23]Yes, Mrs Graham?[24]I have my own chamber kaleidoscope here.[25]Follow me.[26]Oh, my poor hip...[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我很好奇你妈妈是什么样的人啊，阿修蕾.[1]我也是啊，可是对于她的事情我记不太清了.[2]实际上就像我不认识她.[3]我可以想象...[4]但是来到这里,见过一些认识她的人[5]我对她也有一定的认识了.[6]这是...[7]噢，格雷厄姆太太，请看看这个.[8]这是我妈妈还在日本时[9]我奶奶给她的.[10]那真的很好啊. [11]那些是樱花吗?[12]是的，你看里边的话就可以看到[13]很多樱花.[14]阿修蕾, 你知道这是一个有特殊机关的[15]万花镜么?[16]有机关?[17]是的，在底部有个[18]可活动的机关.[19]通过不断地调整机关的位置[20]你可以看到不同的东西.[21]那可真够利索的![22]阿修蕾，那东西让我想起了一些事情.[23]什么呢，格雷厄姆太太?[24]我也有一个这样的万花镜.[25]跟我来.[26]噢，我可怜的屁股...[27]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -2090,8 +2089,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where were we...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们是在哪啊...[1]</Translation>
   </Sentence>
   <Sentence id="148">
     <Commands>
@@ -2099,8 +2097,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Aren't you talking to Mrs Graham?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你不与格雷厄姆太太谈谈么?[1]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -2108,8 +2105,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你上哪去啊?[1]</Translation>
   </Sentence>
   <Sentence id="150">
     <Commands>
@@ -2118,8 +2114,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not through there, Ash.[1]She went into her bedroom.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是那，小蕾.[1]她到卧室去了.[2]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
@@ -2128,8 +2123,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, you're right, she's really nice![1]She's waiting for you.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，你是对的，她人真的很好![1]她正在等我们.[2]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
@@ -2138,8 +2132,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Open the third drawer on the right, beside the[1]mirror, dear.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]右边的第三个抽屉, 在镜子旁[1]亲爱的.[2]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
@@ -2147,8 +2140,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The third drawer on the right, Ashley.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]右边的第三个抽屉，阿修蕾.[1]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
@@ -2160,8 +2152,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]drawers[2] on both sides of [3]the mirror.[4]Is this the one Mrs Graham was talking about?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有几个[1]抽屉[2] 在[3]镜子周围.[4]这就是格雷厄姆太太说的那个?[5]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -2173,8 +2164,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old kaleidoscope[2] in the[3]drawer.[4]This must be Mrs Graham's kaleidoscope.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]旧万花镜[2] 在[3]抽屉里.[4]这一定就是格雷厄姆太太的万花镜.[5]</Translation>
   </Sentence>
   <Sentence id="156">
     <Commands>
@@ -2188,8 +2178,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chamber[2] in the drawer.[3]This must be it.[4]Yes, dear, that's the chamber.[5]Go on. Attach it to your kaleidoscope.[6]Don't be shy![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有个 [1]机关[2]在抽屉里.[3]就是这个了.[4]是的，亲爱的，那就是万花筒的机关.[5]把它安装在你的万花镜上试试.[6]别怕![7]</Translation>
   </Sentence>
   <Sentence id="157">
     <Commands>
@@ -2198,8 +2187,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Attach the chamber to your kaleidoscope,[1]Ashley.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]把机关安装在你的万花镜上,[1]小蕾.[2]</Translation>
   </Sentence>
   <Sentence id="158">
     <Commands>
@@ -2207,8 +2195,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's see what's in this chamber![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]让我们看看里边有什么![1]</Translation>
   </Sentence>
   <Sentence id="159">
     <Commands>
@@ -2224,8 +2211,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADfAoaBQAADgoaBgEAA3sKAA==</Command>
     </Commands>
     <Original>[0]Ooh, butterflies![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]欧，是蝴蝶![1]</Translation>
   </Sentence>
   <Sentence id="161">
     <Commands>
@@ -2243,8 +2229,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I use this?[1]Try it again, Ashley.[2]Okay.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]该怎么用啊?[1]再试试，阿修蕾.[2]好的.[3]</Translation>
   </Sentence>
   <Sentence id="163">
     <Commands>
@@ -2274,8 +2259,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The butterflies in this are beautiful...[1]Don't you think so?[2]These kaleidoscopes are really cool. They're[3]like magic![4]You just look and turn the tube, but the[5]patterns are so amazing...[6]Just looking at it makes me feel really happy.[7]I'm sure your mother felt exactly the same way[8]when she looked through it.[9]My mom? You think?[10]I'm sure of it.[11]Kaleidoscopes have been warming people's[12]hearts for a very long time.[13]When you look through them, all your fears[14]and worries just melt away.[15]Mrs Graham, that's just what my mom said[16]about the kaleidoscope.[17]No matter how lonely she was, she looked at[18]this and it warmed her heart.[19]Ashley, you can have that chamber if you[20]want.[21]Really?[22]Yes.[23]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里边的蝴蝶可真漂亮啊...[1]你不这样认为吗?[2]这些万花镜咳真棒.[3]就像魔法一样![4]你就只要一边看一边转动底部,[5]这些花纹看起来实在是太棒了...[6]我光是看着就很开心了.[7]我想你妈妈有同感[8]当她看这万花镜时.[9]我妈妈? 你真这么想?[10]当然.[11]人们接受万花镜的慰藉[12]已经有很长一段时间了.[13]当你看着那些美丽的花纹时[14]你所有的焦虑还有担心都会消失.[15]格雷厄姆太太，我妈妈也常常这么说[16][17]不管她有多孤单[18]每当她看到那些花纹时，她就感到很温暖.[19]阿修蕾，你想要这个机关的话[20]你可以拿去.[21]真的?[22]是的.[23]</Translation>
   </Sentence>
   <Sentence id="164">
     <Commands>
@@ -2287,8 +2271,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]I want to show you something else too.[1]Just wait there a minute.[2]Here, look at this.[3]What is it?[4](gasp)[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这还有些东西我想让你看看.[1]等等.[2]这，看吧.[3]那是什么啊?[4](吖)[5]</Translation>
   </Sentence>
   <Sentence id="165">
     <Commands>
@@ -2297,8 +2280,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I've seen that before![1]Mom covered me with that blanket...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我以前看到过那东西![1]这就是妈妈用来包我的毛毯...[2]</Translation>
   </Sentence>
   <Sentence id="166">
     <Commands>
@@ -2307,8 +2289,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEAClBfTUVNT1JZX0JsYW5rZXRfb24KGhkAAAVXU0RfU0VfUEFSVF9NRU1PUlkAAAoaOQEACVBfTUVNT1JZX0JsYW5rZXRfb2ZmAFBfTUVNT1JZX0JsYW5rZXRfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoZAQAKUF9NRU1PUllfQmxhbmtldF9vZmYKAA==</Command>
     </Commands>
     <Original>[0]I remember... [1]Mom wrapped it around me...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了... [1]我妈妈用它来包我...[2]</Translation>
   </Sentence>
   <Sentence id="167">
     <Commands>
@@ -2317,8 +2298,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Ashley...[1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾...[1]啊?[2]</Translation>
   </Sentence>
   <Sentence id="168">
     <Commands>
