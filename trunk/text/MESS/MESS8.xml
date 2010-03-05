@@ -385,7 +385,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAszAQkACQFJT1AwMDQAAAAKAA==</Command>
     </Commands>
     <Original>[0]Right then, Ashley. Shall we?[1]My office is right this way.[2]Okay.[3]</Original>
-    <Translation>[0]Right then, Ashley. Shall we?[1]My office is right this way.[2]Okay.[3]</Translation>
+    <Translation>[0]那么，阿修蕾。我们走吧？[1]我办公室从这边走。[2]好的。[3]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -419,8 +419,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is my office.[1]Please, enter.[2]Okay.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]办公室到了。[1]进来吧。[2]好的。[3]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -428,8 +427,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Please, enter.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]进来吧。[1]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -438,8 +436,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]My office isn't that way.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你去哪儿？[1]我的办公室不在那边。[2]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -532,8 +529,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AyFkAAoA</Command>
     </Commands>
     <Original>[0]This is a grave situation you've walked into,[1]isn't it, Ashley?[2]Ryan, please find my dad![3]I know it was Sofia who attacked him! I just[4]know it![5]Please, Ryan! Find him![6]Ashley, calm down.[7]When in an emergency, it is critical that you[8]remember to be calm.[9]If you cannot make careful judgements, you[10]cannot solve any problems.[11]Right...[12]Still, this is a surprise.[13]I had no idea that you were here.[14]It came out of nowhere for me too.[15]I didn't even imagine all this stuff would happen[16]when I was coming to Lake Juliet.[17]Not for a second![18]I come here and start remembering my mom,[19]my dad gets attacked...[20]So much has happened.[21]Indeed.[22]Today has been quite unsettling for you, hasn't[23]it?[24]Yeah...[25]How did all of this happen?[26]Calm down, Ashley. I'm sure your father is safe.[27]But...[28]Ashley, tell me something.[29]Why did you come here? To the lab?[30]I got a message from Dad telling me to come[31]to the lab.[32]But he didn't send the message at all...[33]It wasn't from him? What do you mean?[34]Dad said he hadn't sent that message.[35]Did he say that when you were talking to him[36]over the Video Conference in the security room?[37]Yeah.[38]I told him about Sofia tricking me and locking[39]me in the meeting room.[40]I see...[41]But she was pretending to be Gina...[42]Sofia pretended to be Gina and brought you[43]into JC Valley?[44]Yeah.[45]I bet it was her who sent me that fake message[46]too![47]She knew Dad was on to her.[48]So she wanted him to keep quiet.[49]So you're implying that she tried to kidnap[50]you?[51]I think so, yeah.[52]Perhaps, perhaps not.[53]Ashley, I know Sofia far better than you do.[54]So I find it difficult to believe that she would do[55]such a thing.[56]Kidnapping is a serious offence, Ashley.[57]I can hardly believe that Sofia would...[58]Ryan, she's a bad person.[59]She attacked Mike and Gina with a stun gun![60]Did you witness her doing that?[61]Well, no, but...[62]So you don't know if it was really her that did[63]it or not? Correct?[64]Huh?[65]Listen Ashley, this is what I think.[66]I think that someone instigated this, and they[67]convinced Sofia to aid them.[68]Convinced her?[69]Yes.[70]This is all a theory, of course.[71]I'll tell you about it when you are more trusting[72]of my theories.[73]Ryan...[74]By the way, Ashley.[75]I have been thinking, ever since I met you at[76]the campsite...[77]Why did Dr Robins suddenly call you here to[78]Lake Juliet?[79]He wanted to show me a place that I'd been[80]to with Mom.[81]Hmm... I wonder.[82]I don't claim to know what he's thinking, but...[83]Do you think he may have wanted to [84]test you[85]?[86]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你已经陷入了[1]困境，对吗？[2]莱恩，请帮我找到爸爸！[3]我知道就是索菲亚袭击他的！我说的[4]是真的！[5]求求你，莱恩！帮我找到他！[6]阿修蕾，冷静点。[7]在危机时刻，保持冷静[8]非常重要。[9]如果你没有严谨的判断力，就[10]解决不了任何问题。[11]好吧……[12]不过，还真是意外。[13]我没想到你在这儿。[14]也完全出乎我的意料。[15]我从来没想过会发生这种事。[16]当我前往朱丽叶湖的时候。[17]几乎没有间歇！[18]一到就记起我的妈妈，[19]爸爸又被袭击……[20]发生好多事.[21]确实。[22]今天已经让你很不安了，[23]是吗？[24]是……[25]究竟为什么？[26]冷静点，阿修蕾。我敢肯定你爸爸是安全的。[27]但是……[28]阿修蕾，跟我随便聊聊吧。[29]你为什么会来这儿？来实验室？[30]爸爸发给我消息让我来[31]实验室。[32]但是他根本没发过消息……[33]不是他？你的意思是？[34]爸爸说他没有发过那条信息。[35]是在你们通过安全室里的视频会话交流的时候[36]他跟你说的？[37]是的。[38]我告诉他索菲亚骗了我，然后还我[39]关进会议室。[40]我明白了……[41]但是她当时假扮成吉娜……[42]索菲亚伪装成吉娜带你进入[43]JC山谷？[44]是的。[45]我打赌就是她给我发的假[46]信息！[47]索菲亚了解他。[48]所以她希望他保持沉默。[49]然后你推断她想绑架[50]你？[51]我想是的。[52]也许是这样，也许不是。[53]阿修蕾，我对索菲亚的了解远远超过你。[54]所以我很难相信她会做出[55]这种事。[56]绑架是很严重的罪行，阿修蕾。[57]我还是很难理解索菲亚这么做……[58]莱恩，她是个坏女人。[59]她用电击枪袭击麦克和吉娜！[60]你有亲眼看到的？[61]额，那到没有，不过……[62]也就是说你不知道她有没有做过？[63]对吗？[64]啊？[65]听着阿修蕾，我的想法是。[66]有人故意造谣，然后[67]说服索菲亚援助他们。[68]说服她？[69]正是。[70]当然，这仅仅是假设。[71]等你对我的假设更有信心的时候，我会告诉你[72]的。[73]莱恩……[74]对了，阿修蕾。[75]自从我在营地遇见你，[76]就一直在想……[77]罗宾斯博士为什么突然叫你来[78]朱丽叶湖？[79]他希望让我见见曾经和妈妈一起待过的[80]地方。[81]嗯……我想。[82]我并不是很清楚他的想法，但是……[83]你有没有想过他可能在 [84]考验你[85]？[86]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
