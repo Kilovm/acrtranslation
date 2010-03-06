@@ -542,8 +542,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Test me?[1]Why would he have to test me? What for?[2]Think about it, Ashley.[3]All these coincidences since you arrived... [4]Are they really [5]coincidences?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]考验我？[1]他为什么要考验我？什么意思？[2]阿修蕾，你想想看。[3]你一来就发生这么多巧合…… [4]他们真的是 [5]巧合吗？[6]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -551,8 +550,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当然[1]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -560,8 +558,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不[1]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -572,8 +569,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I think they were coincidences.[1]Do you really think so?[2]You mean me remembering Mom isn't really a[3]coincidence?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想它们都是巧合而已。[1]你真的这么认为？[2]你的意思是我想起妈妈不是一个[3]巧合？[4]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -586,8 +582,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I don't think they were coincidences.[1]Why do you think that?[2]Well, from what you've said...[3]Maybe Dad knew I'd remember Mom, and that's[4]why he called me here.[5]So...you think as I do.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不认为那是巧合。[1]为什么这么说？[2]你看，从你刚刚说的……[3]爸爸可能已经知道我记起妈妈了，所以[4]他让我来这儿。[5]确实……你跟我想的一样。[6]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -625,8 +620,7 @@
       <Command>ChoFAAABChoNAAAVAAB/AAAAADIKGgwAAAgAAAAAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]This is what I think, Ashley.[1]Dr Robins knew that Sayoko had brought you[2]here 13 years ago.[3]So he decided to have you come here.[4]He was expecting you to remember having been[5]here before.[6]Huh?[7]Ashley, your father researches memory.[8]He likely predicted that these things would[9]happen to you.[10]Perhaps he wanted to know what Sayoko did[11]here,[12]and was expecting to find out from your[13]dormant memory.[14]Ashley, I believe he intended to open the[15]doorway to your memories.[16]The doorway to my memories?[17]Yes. And he wanted you to journey into those[18]lost memories.[19]If he could bring you here and induce such a[20]journey,[21]then he could unlock his wife's past, the secrets[22]that he wanted to uncover.[23]I can't believe it...[24]Ashley, when you came here, you remembered[25]your mother from 13 years ago.[26]What did you remember?[27]Well...[28]And after you came here, [29]to the lab, did you[30]remember anything else?[31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这正是我想的，阿修蕾。[1]罗宾斯博士知道13年前]沙叶子带你来过这儿。[3]所以他决定让你重回故地。[4]期望你能想起来[5]从前的事情。[6]嗯？[7]阿修蕾，你爸爸是研究记忆的。[8]他可能预料到你会遇上这些[9]事。[10]或许他想知道沙叶子在这里[11]做过什么，[12]从而希望从你休眠的记忆里[13]找出相关线索。[14]阿修蕾，我觉得他在试着打开[15]你的记忆之门。[16]我的记忆之门？[17]是的。而且他还打算让你进行[18]记忆之旅。[19]如果他能带你来这里，成功开始一场[20]旅行，[21]然后他就能开启妻子的过去，揭开[22]那些秘密。[23]我不相信……[24]阿修蕾，你来这儿的时候，记起了[25]13年前的妈妈。[26]具体是什么呢？[27]这个……[28]还有，你过来之后， [29]来实验室，你还[30]记得其他的事吗？[31]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -634,8 +628,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的[1]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -643,8 +636,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没了[1]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -673,8 +665,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]What did you remember?[2]You.[3]Me?[4]You were with Mom in the reception.[5]She was giving you the kaleidoscope.[6]Ah, you remembered Sayoko giving me the[7]kaleidoscope.[8]Yeah.[9]When you gave it to me,[10]you said she gave it to you before I was born.[11]Was that a lie?[12]No, it wasn't.[13]I don't understand...[14]13 years ago, when I saw that she had a child,[15]I wanted to give it back to her.[16]But she gave it back to me, demanding that I[17]keep it.[18]She wanted me to have it, she said.[19]But I still don't understand why.[20]So when I met you, I thought I'd return it to[21]you.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的……[1]你记得什么？[2]你。[3]我？[4]你和妈妈在接待处。[5]她正给你万花筒。[6]啊，你想起来沙叶子给我[7]万花筒。[8]是的。[9]你把万花筒给我的时候，[10]曾经说过那是我出生之前妈妈给你的。[11]你是在撒谎？[12]不，不是这样的。[13]我不明白……[14]13年前，当我看到她有了孩子的时候，[15]我就想把万花筒还给她。[16]但是她还给我了，要求我[17]好好保管。[18]她说，希望我拥有它。[19]但是直到现在我也没不知道为什么.[20]所以我一遇到你，就觉得应该[21]还给你。[22]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -684,8 +675,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No.[1]I haven't remembered a thing.[2]I see...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不。[1]我不记得了[2]好吧……[3]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -696,16 +686,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMD6AoaBgAADAAKGgkAAEYDAAAACgA=</Command>
     </Commands>
     <Original>[0]Ashley, I want you to see something.[1]What is it?[2]Look at the clock over on the shelf.[3]This one?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，我想给你看样东西。[1]什么？[2]看看架子上的钟。[3]这个？[4]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -714,8 +702,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]It has the Twin Lions on it...[1]Wait![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]上面有双狮……[1]等等！[2]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -727,8 +714,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]That clock...[1]It was on the mantelpiece.[2]Mom was talking to Judd in that room...[3]Ashley.[4]Huh?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]That clock...[1]It was on the mantelpiece.[2]Mom was talking to Judd in that room...[3]Ashley.[4]Huh?[5]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -768,8 +754,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Did you remember something?[1]Yeah...[2]I was in a room with Mom. That clock was on [3]the mantelpiece.[4]As I thought.[5]That clock belonged to Judd Fitzgerald, the[6]founder of JC Valley.[7]Judd?[8]It used to be in his villa.[9]Thus, if you remember it, that could mean only[10]one thing.[11]13 years ago, Sayoko went to that villa, taking[12]you with her.[13]Ryan, did you know my mom went to Judd's[14]villa?[15]I had my theories, but now I'm certain.[16]Ashley, don't you see? I intentionally showed[17]you that to trigger a flashback.[18]Just like Dr Robins.[19]Ryan...[20]Ashley, let me tell you something,[21]About six months ago, Dr Robins volunteered[22]to take charge of the security system.[23]And at around the same time, a file stored here[24]relating to the EC Project disappeared.[25]That file contained the research of one[26]Sayoko Robins.[27]Ashley, I don't suppose your father ever told[28]you about that?[29]Or showed you any research materials?[30]Huh?[31]Did he show you [32]any materials?[33]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Did you remember something?[1]Yeah...[2]I was in a room with Mom. That clock was on [3]the mantelpiece.[4]As I thought.[5]That clock belonged to Judd Fitzgerald, the[6]founder of JC Valley.[7]Judd?[8]It used to be in his villa.[9]Thus, if you remember it, that could mean only[10]one thing.[11]13 years ago, Sayoko went to that villa, taking[12]you with her.[13]Ryan, did you know my mom went to Judd's[14]villa?[15]I had my theories, but now I'm certain.[16]Ashley, don't you see? I intentionally showed[17]you that to trigger a flashback.[18]Just like Dr Robins.[19]Ryan...[20]Ashley, let me tell you something,[21]About six months ago, Dr Robins volunteered[22]to take charge of the security system.[23]And at around the same time, a file stored here[24]relating to the EC Project disappeared.[25]That file contained the research of one[26]Sayoko Robins.[27]Ashley, I don't suppose your father ever told[28]you about that?[29]Or showed you any research materials?[30]Huh?[31]Did he show you [32]any materials?[33]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -777,8 +762,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Yeah[1]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -786,8 +770,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]No[1]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
