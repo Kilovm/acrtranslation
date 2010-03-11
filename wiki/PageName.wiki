@@ -1,1 +1,1 @@
-<wiki:gadget url="http://www.ohloh.net/p/gwt/widgets/project_basic_stats.xml" height="220" border="1" />
+{{{<iframe src='http://acrtranslation.googlecode.com/svn/trunk/text/text.html'>}}}{{{</iframe>}}}
