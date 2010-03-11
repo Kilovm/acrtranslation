@@ -1,1 +1,1 @@
-{{{<iframe src='http://acrtranslation.googlecode.com/svn/trunk/text/text.html'>}}}{{{</iframe>}}}
+<iframe src='http://acrtranslation.googlecode.com/svn/trunk/text/text.html'></iframe>
