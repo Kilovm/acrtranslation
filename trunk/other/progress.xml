@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>  
+<Module> 
+  <ModulePrefs title="Translation Progress" /> 
+  <Content type="url" href="http://acrtranslation.googlecode.com/svn/trunk/text/text.html" /> 
+</Module>
