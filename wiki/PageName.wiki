@@ -1,1 +1,1 @@
-<wiki:gadget url="http://acrtranslation.googlecode.com/svn/trunk/other/progress.xml" width="800" height="640" />
+<wiki:gadget url="http://acrtranslation.googlecode.com/svn/trunk/other/progress.xml" width="800" height="640" border="0" />
