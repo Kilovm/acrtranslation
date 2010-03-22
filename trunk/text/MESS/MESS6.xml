@@ -2347,8 +2347,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoaCAAAOwsAAAoaBgAADAAKGgcAABEAABoHAAASCwAKGg0AABULAAAAAAAAAAoaDAAACAsArQAAAAAKGgYAAAwAChoHAAADJxAKGg4AADlWHwA7AAABAAAKGggAAFlWHwAKGggAAFlWHgEKGgYAAAwAChoHAAARAAAaBwAAEgsAChoGAAAMAAoaDQAAFQsAAAABAAAAChoMAAAICwCtAQAAAAoaBgAADAAKGhMAAC8niyd6JsInDCjGJxDDUAoaCQAAMGMAAAEKGgYAAAwAChoOAQALEAEAAAAAAAAAChoTAAAvJ48neiavJwwoxicQw1AKGgkAADBjD6AAChoGAAAMAAoaFgEACzEBCwAJAUNfUjE0MF9EAAAAChoGAAAMAAoaDgEACzYBCwC0AQAAAAoaDQAAFQsAAAAAAAAAChoMAAAICwAsAAAAAAoaDgAAOVYAAAABDAAAAAoaBgAADAAKGgcAAAMF3AoaHAAABVdTRF9TRV9ET09SX1dPT0RfT1BFTgAAChoGAAAMAAoaBwAAAwu4CgA=</Command>
     </Commands>
     <Original>[0]I wove this blanket when I was pregnant with [1]Olivia.[2]To me, this is just like your kaleidoscope. See?[3]What do you mean?[4]Just like you feel warm when you look at your[5]mother's kaleidoscope,[6]I feel warm whenever I look at this blanket.[7]This was the one thing I could never get rid of,[8]even when Olivia grew up and left home.[9]Ah...[10]I used to bring it on walks and wear it around[11]my waist. Oh, and there was that time...[12]It must have been 10 years ago. No, more... It[13]was when my husband was still alive.[14]I was going to the clock tower to bring him [15]some tea.[16]And on the way, I met a woman walking with a[17]small child.[18]A woman? What was she like?[19]She was an Eastern woman with beautiful dark[20]eyes. Her little girl was tired and cranky.[21]So, I let her borrow the blanket.[22]I said, "Wrap your little girl in this. She'll be[23]asleep in five minutes, just you see."[24]And then?[25]She wrapped the child up, and then five minutes[26]later, fast asleep. Just like I said.[27]She had such a lovely, peaceful look on her[28]face.[29]Then I left them, while she still had my blanket.[30]Later in the evening I heard a knock on the[31]door and it was her. She must have asked[32]someone where I lived, bless her.[33]She thanked me real proper and gave back the[34]blanket.[35]So that's what happened...[36]So this blanket is more than just fabric,[37]see? It has special memories woven into it.[38]I'm sure the same is true of your mother's[39]kaleidoscope.[40]So take good care of it, Ashley. You hear me?[41]I will.[42]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这床毯子还是我怀着奥利维亚时编制的。[1][2]那床毛毯对于我来说就像你和那个万花镜。[3]什么意思呢?[4]就像每当你看到你妈妈的万花镜[5]你就会感觉到温暖,[6]每当我看见这床毛毯时，我也会感到温馨的.[7]我舍不得扔掉它,[8]就算奥利维亚长大了离开了家也一样.[9]啊...[10]我以前出门时总是把它缠在腰上[11]哦，那些时光...[12]我想都快有十年了，可能还要久一点...[13]那时候我男人还在呢.[14]我总是给他送茶到钟楼那去 [15][16]又一次在路上，我碰见一个带着小孩的女人[17].[18]女人？她长什么样啊？[19]她是个有着漂亮眼睛的东方女人[20]她的女儿看起来很累，摇摇晃晃的.[21]所以，我将毛毯借给了她.[22]我对她说：“用这个吧你女儿裹起来吧，[23]她可以睡上一会。”[24]然后呢?[25]她将她女儿包了起来，五分钟后[26]就像我说的那样，小女孩很快就睡着了.[27]那时小女孩看起来是多么可爱，安详啊[28][29]之后我就走开了，将毛毯留在那了.[30]之后晚上她来敲我的门[31]她一定是向别人打听过我住的地方[32]她真好.[33]她向我正式道谢，还将毛毯还给了我[34][35]就这样了...[36]所以说这条毛毯不仅仅是毛毯这么简单,[37]它还被编制进了特别的回忆.[38]就像你妈妈的万花镜一样[39][40]所以，阿修蕾，你一定要保管好它啊[41]我会的.[42]</Translation>
   </Sentence>
   <Sentence id="169">
     <Commands>
@@ -2368,8 +2367,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] drawer[2].[3]Now, Ashley, don't go looking in other people's[4]drawers. It's bad manners![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一个[1] 抽屉[2].[3]阿修蕾，别随便翻人家的抽屉[4]这不礼貌![5]</Translation>
   </Sentence>
   <Sentence id="171">
     <Commands>
@@ -2380,8 +2378,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]I shouldn't go looking at other people's stuff.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有个 [1]抽屉[2].[3]我不应该随便看别人的隐私.[4]</Translation>
   </Sentence>
   <Sentence id="172">
     <Commands>
@@ -2389,8 +2386,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你去哪?[1]</Translation>
   </Sentence>
   <Sentence id="173">
     <Commands>
@@ -2399,8 +2395,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaCQAARgIAAAAKAA==</Command>
     </Commands>
     <Original>[0]Mrs Graham's waiting for me, I should go back[1]into the living room.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格雷厄姆太太还在等着我, [1]我该回到卧室里去.[2]</Translation>
   </Sentence>
   <Sentence id="174">
     <Commands>
@@ -2409,8 +2404,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaCQAARgIAAAAKAA==</Command>
     </Commands>
     <Original>[0]Mrs Graham's waiting for me, I should go back[1]into the living room.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格雷厄姆太太还在等着我[1]我该回到卧室里去.[2]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -2419,8 +2413,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mrs Graham's waiting for me, I should go back[1]into the living room.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]格雷厄姆太太还在等着我[1]我该回到卧室里去.[2]</Translation>
   </Sentence>
   <Sentence id="176">
     <Commands>
