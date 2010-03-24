@@ -2472,8 +2472,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCwAJAU5QQzAwMgAAAAoA</Command>
     </Commands>
     <Original>[0]Matt.[1]Yeah?[2]Talking to you reminds me of your father.[3]It does?[4]Yes. When he came here to apologise, he[5]brought you with him.[6]You were only little, though. Didn't take much[7]time before you got bored.[8]You were whining and tugging on your father's[9]sleeve. Being a real little monster.[10]So he took a toy out of his bag and told you[11]to play with it.[12]But you didn't seem to take to it at all.[13]You absolutely refused to play with it, and[14]your poor father looked so frustrated.[15]You actually turned out to have a fever, and [16]that's why you were gibbering so much.[17]Mrs Graham, what kind of toy was it?[18]It was a little car, I think.[19]The toy car![20]Oh, you remember it?[21]Yeah![22]Matt...[23]I remember your father told me something[24]that day.[25]Children always want to play with the newest[26]toys.[27]But he said he kept all the toys from when he[28]was a child and could never throw them away.[29]Really? He played with old toys?[30]That's right, sonny.[31]When your father was a child, his family was[32]very poor.[33]He couldn't have anywhere near the amount of[34]toys that you had.[35]So he wanted to buy a lot for his own child.[36]But children who have lots of toys don't care[37]about older toys.[38]Not like him, who kept his toys all of his life.[39]Yeah... I guess...[40]Matt.[41]You want to see your father again, don't you?[42]Yeah...[43]Well, then.[44]I'm sure that he wants to see you again, just[45]as much as you want to see him.[46]Yeah...[47]Ashley, if you two are going to the old Crusoe[48]Resort office, go through here.[49]There's a shortcut if you go out through my[50]back door.[51]I'll unlock it for you.[52]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特.[1]什么事?[2]与你聊天时，我想起了你的爸爸.[3]真的?[4]是的，他来这道歉的时候，[5]是带着你一起来的.[6]那时你还小[7]你一会就开始无聊了.[8]你一直哭，还抓住你爸爸的袖子摇[9]真是个吵闹的小家伙.[10]所以他从袋子里拿出个玩具给你玩。[11][12]但是你根本不接.[13]你很明显不想玩,[14]你可怜的爸爸看起来很沮丧.[15]当时你发烧了， [16]还在那胡言乱语说了一大通.[17]格雷厄姆太太，那是个什么样的玩具啊?[18]就是个玩具车.[19]那个玩具车![20]哦，你还记得?[21]是的![22]马特...[23]我还记得你爸爸那天对我说的[24][25]孩子总喜欢玩最新的[26]玩具.[27]他还说他还保留着小时候的玩具[28]他从来不扔的.[29]真的?他玩那些旧玩具？[30]是的，孩子.[31]你爸爸还小时，他家里非常穷的[32][33]比你的玩具少的多了[34]根本就比不了.[35]所以他就买了很多给你.[36]一个有了很多玩具的孩子[37]是不会在乎那些旧玩具的.[38]不像你父亲，他保留了所有的玩具.[39]是的...我想...[40]马特.[41]你想再见到你父亲，是吧?[42]嗯...[43]那么.[44]我确定他也一定再想见到你,[45]就像你一样.[46]嗯嗯...[47]阿修蕾, 如果你们两个要去克鲁索度假村的旧办公室的话[48]从这边走.[49]从我的后门出去的话[50]会有一条捷径.[51]我帮你把后门打开.[52]</Translation>
   </Sentence>
   <Sentence id="177">
     <Commands>
@@ -2498,8 +2497,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not through there.[1]Mrs Graham went into the back room.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是这边啦.[1]格雷厄姆太太想让我到后边去.[2]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
@@ -2507,8 +2505,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, she's waiting for us. Come on![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，她在等我们呢，快点![1]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -2527,8 +2524,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Follow the path out here, and you'll reach the[1]old Crusoe Resort office.[2]Thanks so much, Mrs Graham.[3]Ashley, please look after Matt for as long as[4]you can.[5]I will.[6]But if you find you can't look after him any [7]more, for any reason, send him back to me.[8]I'll look after him for you.[9]Thank you, Mrs Graham.[10]Look after yourselves, both of you.[11]Will do.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]沿着这条小道, 你就会到[1]旧克鲁索度假村的办公室.[2]非常感谢，格雷厄姆太太.[3]阿修蕾，要尽可能的照顾马特啊[4][5]我会的.[6]但如果你是在照顾不过来的话 [7]不管怎样，把他送到我这里来吧.[8]我会为你照看好他的.[9]谢谢你，格雷厄姆太太.[10]你们两个小心点啊.[11]我们会的.[12]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
@@ -2537,8 +2533,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Look after yourselves, both of you.[1]Will do.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你们两个小心点啊.[1]我们会的.[2]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -2548,8 +2543,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Have you seen Matt?[1]No, I haven't.[2]Oh, okay. Thanks.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你看见马特了吗?[1]没有额.[2]哦，谢了.[3]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -2558,8 +2552,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Look after yourselves, both of you.[1]Will do.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你们两个小心点啊.[1]我们会的.[2]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -2567,8 +2560,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你们上哪去啊?[1]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
@@ -2580,8 +2572,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]Just then, what were you talking to[2]Mrs Graham about?[3]Oh, she... [4]Nothing important, don't worry about it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，小蕾.[1]刚刚你和格雷厄姆太太聊什么啊？[2][3]额，她... [4]没什么，别担心.[5]</Translation>
   </Sentence>
   <Sentence id="187">
     <Commands>
@@ -2593,8 +2584,7 @@
       <Command>ChoFAAABChoNAAAVBAAAAAAAAAAKGgwAAAgEAMYAAAAAChoGAAAMAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]Look, Ash![1]That's my dad's office, over there![2]Yeah, the Crusoe Resort office...[3]Come on, let's go.[4]Right![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]快看，小蕾![1]那就是我老爹的办公室，在那边![2]恩，克鲁索度假村办公室...[3]快点，我们走.[4]好的![5]</Translation>
   </Sentence>
   <Sentence id="188">
     <Commands>
@@ -2603,8 +2593,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]It's not that way![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾![1]不是那边![2]</Translation>
   </Sentence>
   <Sentence id="189">
     <Commands>
