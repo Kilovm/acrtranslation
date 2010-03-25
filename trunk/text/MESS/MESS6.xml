@@ -2606,8 +2606,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVBAAAAAAAAAAKGgwAAAgEAMYAAAAAChoGAAAMAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]Here it is, Ash, look![1]My dad's old office.[2]Where's the entrance?[3]Oh, hey, there's a security camera over on the[4]other side of the fence![5]So JC Valley monitors this area too?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，快看那![1]我老爹的办公室.[2]大门在哪啊?[3]噢，快看哪，在篱笆的那边[4]有个监视器![5]所以JC山谷也监控着这个区域?[6]</Translation>
   </Sentence>
   <Sentence id="190">
     <Commands>
@@ -2623,8 +2622,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]thick rope[2] tied around [3]the fence.[4]Oh, great...[5]This rope's tied far too tight.[6]I guess we can't go in this way.[7]Let's look around for another entrance, Ash.[8]Right.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一根 [1]很粗的绳子[2] 缠在[3]篱笆周围.[4]哦，棒透了...[5]这绳子绑得太紧了.[6]我想我们从这过不去.[7]在周围找找另外的入口吧,小蕾.[8]好的.[9]</Translation>
   </Sentence>
   <Sentence id="191">
     <Commands>
@@ -2633,8 +2631,7 @@
       <Command>ChoFAAABChoIAABIAABQCgA=</Command>
     </Commands>
     <Original>[0]Whoa, that rat was huge! Did you see that?![1]Uh, yeah. Pretty cool, huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哇哦，那耗子真大，你看见了吗?![1]恩，当然，超酷，哈?[2]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -2648,8 +2645,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAABPBAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoHAAADAlgKGgYAAAwAChoGAAAMAAoaBQAAGwoA</Command>
     </Commands>
     <Original>[0]There are [1]tunnel entrances[2] by the [3]drums.[4]The lids aren't on properly...[5]Ash, look! A rat's coming out of the tunnel![6]Hey, isn't that...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有 [1]管道入口[2] 被 [3]不停敲击.[4]这盖子好像不太对劲...[5]小蕾,快看! 一只耗子从管道里钻出来了![6]嘿，那不是...[7]</Translation>
   </Sentence>
   <Sentence id="193">
     <Commands>
@@ -2659,8 +2655,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAhAQAAAAoA</Command>
     </Commands>
     <Original>[0]That rat...[1]Yeah, it's the one we saw before.[2]I thought so.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那该死的耗子...[1]嗯，就是之前我们看到的那只.[2]我也这么想.[3]</Translation>
   </Sentence>
   <Sentence id="194">
     <Commands>
