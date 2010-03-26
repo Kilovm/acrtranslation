@@ -2645,7 +2645,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAABPBAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoHAAADAlgKGgYAAAwAChoGAAAMAAoaBQAAGwoA</Command>
     </Commands>
     <Original>[0]There are [1]tunnel entrances[2] by the [3]drums.[4]The lids aren't on properly...[5]Ash, look! A rat's coming out of the tunnel![6]Hey, isn't that...[7]</Original>
-    <Translation>[0]这有 [1]管道入口[2] 被 [3]不停敲击.[4]这盖子好像不太对劲...[5]小蕾,快看! 一只耗子从管道里钻出来了![6]嘿，那不是...[7]</Translation>
+    <Translation>[0]这有 [1]井盖[2] 总 [3]发出怪声.[4]这盖子好像不太对劲...[5]小蕾,快看! 一只耗子从管道里钻出来了![6]嘿，那不是...[7]</Translation>
   </Sentence>
   <Sentence id="193">
     <Commands>
@@ -2670,8 +2670,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]tunnel entrances[2] by the [3]drums.[4]Ash, how do you think that rat got into the[5]tunnel?[6]There must be an entrance somewhere.[7]But where?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个[1]井盖[2] 总是[3]发出怪声.[4]小蕾，你想老鼠怎么钻进去的[5][6]这里一定有入口.[7]但是在哪啊?[8]</Translation>
   </Sentence>
   <Sentence id="195">
     <Commands>
@@ -2693,8 +2692,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt, I think...[1]I think one of these tunnels runs through to the[2]inside of the fence.[3]Want me to go take a look?[4]How?[5]Go through the tunnel. Duh.[6]You think you can fit?[7]Yeah, no problem.[8]Don't think you can fit in it, though.[9]You're a bit too big, Ash.[10]Yeah, thanks, Matt.[11]Right, I'll head in.[12]Operation: Infiltration is a go![13]But, uh... Which one [14]should I go in?[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特，我想...[1]我想其中一条管道可以通到[2]篱笆之内.[3]想让我去看看么?[4]怎么个看法啊?[5]就沿着管道走下去呗.[6]你确定你可以胜任?[7]完全没问题.[8]不过我认为你不行。[9]你太胖了，小蕾.[10]欧，是吗，谢谢（怒）.[11]好了，我出发了.[12]渗透行动开始![13]但是，额... [14]我该走那个啊?[15]</Translation>
   </Sentence>
   <Sentence id="196">
     <Commands>
@@ -2704,8 +2702,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, let's try again.[1]Right.[2]Which one, then?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我们再试试.[1]右边的.[2]到底是那边啊?[3]</Translation>
   </Sentence>
   <Sentence id="197">
     <Commands>
@@ -2713,8 +2710,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That one[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那边那个[1]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2722,8 +2718,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This one[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这边这个[1]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
@@ -2731,8 +2726,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Try that one. The far one.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]试试那个，最远的那个.[1]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -2743,8 +2737,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Roger![1]Matt...[2].....[3]I hope he's okay...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]收到![1]马特...[2].....[3]我希望他没事...[4]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
@@ -2755,8 +2748,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Bet I end up in the wrong place again...[1]Matt...[2].....[3]I hope he's okay...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]希望我猜对了...[1]马特...[2].....[3]希望他没事...[4]</Translation>
   </Sentence>
   <Sentence id="202">
     <Commands>
@@ -2767,8 +2759,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Matt...[2]Definitely the wrong direction.[3]Ah, sorry...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾![1]马特...[2]方向绝对错了.[3]啊，对不起...[4]</Translation>
   </Sentence>
   <Sentence id="203">
     <Commands>
@@ -2777,8 +2768,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIEAAoaDQAAFQAAcwAAAABzChoMAAAIAABIAAAAAAoaDQAAFQQAAAAAAAAAChoMAAAIBABbAAAAAAoaBgAADAAKGgcAAAMPoAoA</Command>
     </Commands>
     <Original>[0]Try this one. The closer one.[1]Roger![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]试试这边的. 最近的那个.[1]收到![2]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
@@ -2804,8 +2794,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1].....[2]I'd better go see if he got in.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特...[1].....[2]我最好还是去看看.[3]</Translation>
   </Sentence>
   <Sentence id="207">
     <Commands>
@@ -2822,8 +2811,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzEBBAARAUlPUDAwMgAAAAoaBgAADAAKGhQBAAs1AQQAEQFJT1AwMDMAAAAKAA==</Command>
     </Commands>
     <Original>[0]I hope Matt's okay...[1]Oh, there he is![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]希望他没事...[1]欧，他在这![2]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
