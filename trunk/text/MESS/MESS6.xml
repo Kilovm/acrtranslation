@@ -2830,8 +2830,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBBAARAUlPUDAwNAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]Mission complete![2]Looks like we got the right one![3]Yeah![4]Oh, you scraped your knee![5]Oh, yeah.[6]It's okay, just a scratch.[7]It's not okay. Here, put this plaster on it.[8]Thanks.[9]Come on, let's check out that rope.[10]I might be able to open it from this side.[11]Right.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，小蕾![1]任务完了![2]看起来我们猜对了![3]是的![4]偶，你刮到了我的膝盖![5]哦.[6]没事，只是擦伤.[7]没事才怪呢。快把这个药涂上.[8]谢谢.[9]没事的，我们去看看那根绳子吧.[10]我想从这边可以把它解开.[11]是的.[12]</Translation>
   </Sentence>
   <Sentence id="210">
     <Commands>
@@ -2845,8 +2844,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBBAARAUlPUDAwNAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]Mission complete![2]Looks like we got the right one![3]Yeah![4]Come on, let's check out that rope.[5]I might be able to open it from this side.[6]Right.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，小蕾![1]任务完了![2]看起来我们猜对了![3]是的![4]快点，我们去调查一下那绳子吧.[5]我也许可以从这边解开它.[6]好的.[7]</Translation>
   </Sentence>
   <Sentence id="211">
     <Commands>
@@ -2869,8 +2867,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Can you untie it from there?[1]Nngh...[2]No, I can't get it open...[3]No luck from that side either, huh?[4]What do we do, then?[5]What was that?[6]Did you hear something?[7]Yeah...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你能从这解开它吗?[1]不行...[2]不行，弄不开啊...[3]那边也不行啊，哎?[4]那，我们咋办?[5]那是什么?[6]你有听到什么吗?[7]有听到哦...[8]</Translation>
   </Sentence>
   <Sentence id="213">
     <Commands>
@@ -2888,8 +2885,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So how do we get rid of this rope?[1]We need something to get it off with.[2]Yeah...[3]Can you look around for something?[4]Where?[5]Hmm...[6]Wait![7]That sound from before... It sounded like[8]something falling over.[9]It came from that side of the fence. Which[10]means...[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们怎样才可以把这绳子弄开啊?[1]我们得找些东西来整.[2]是啊...[3]你能在周围找找么?[4]上哪找呢?[5]额...[6]等一下![7]又是之前那声音...[8]听起来像是什么东西往下掉.[9]那是从篱笆那边传过来的.[10]这就意味着...[11]</Translation>
   </Sentence>
   <Sentence id="214">
     <Commands>
@@ -2901,8 +2897,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash, where should I look?[1]That sound from before... It sounded like[2]something falling over.[3]I wonder what it was? I think it came from over[4]by the security camera.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾，我应该该上哪去找啊?[1]是之前那声音...[2]听起来是什么东西往下掉.[3]我在想那是什么?我认为那是从[4]监控器那传过来的.[5]</Translation>
   </Sentence>
   <Sentence id="215">
     <Commands>
@@ -2922,8 +2917,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What should I do, Ash?[1]I know![2]Got an idea?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该干啥，小蕾?[1]知道了![2]有主意了?[3]</Translation>
   </Sentence>
   <Sentence id="217">
     <Commands>
@@ -2939,8 +2933,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]Look at this.[1]What about it?[2]There's a saw in that camera picture.[3]A saw?[4]Oh yeah, there it is! Cool![5]Matt, go get it.[6]It should be over by the tunnel you came up[7]out of.[8]Roger![9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看看这个.[1]什么啊，这是?[2]在这个图像里有个电锯.[3]电锯?[4]是的，就在这，酷![5]马特，把它拿来.[6]那应该是在管道外面，就是你进来的那条。[7][8]收到![9]</Translation>
   </Sentence>
   <Sentence id="218">
     <Commands>
@@ -2950,8 +2943,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt, look at this.[1]What about it?[2].....[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特，看这个.[1]那是什么啊?[2].....[3]</Translation>
   </Sentence>
   <Sentence id="219">
     <Commands>
@@ -2966,8 +2958,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADegoA</Command>
     </Commands>
     <Original>[0]I hope he knows what I meant...[1]Ash![2]Get it?[3]This, right?[4]Yeah, pass it under the fence.[5]Okay.[6]Got it?[7]Yeah.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我希望他知道我说的哪...[1]小蕾![2]拿到了?[3]是这个吗?[4]是的，从篱笆下边递过来.[5]好的.[6]拿到了?[7]是的.[8]</Translation>
   </Sentence>
   <Sentence id="220">
     <Commands>
@@ -2980,8 +2971,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]thick rope[2] tied around [3]the fence.[4]How do we get rid of the rope?[5]How about using the saw?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有一根[1]粗绳[2] 绑在 [3]篱笆上.[4]我们该怎样弄开绳子?[5]这电锯怎么用啊?[6]</Translation>
   </Sentence>
   <Sentence id="221">
     <Commands>
@@ -2994,8 +2984,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, we'll cut the rope with the saw.[1]Matt, help me out here.[2]What d'you want me to do?[3]I'll push the saw through the fence. You grab it,[4]and then we can both saw the rope.[5]Check.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哈，我们用这锯子把绳子锯断.[1]马特，在那边帮帮我啊.[2]你想让我怎么做?[3]我把锯子递过去. 你抓住另一头,[4]这样我们就可以一起把绳子锯开.[5]接住啊.[6]</Translation>
   </Sentence>
   <Sentence id="222">
     <Commands>
@@ -3017,8 +3006,7 @@
       <Command>ChoFAAABChoGAABPBAoaBgAATwAKGggAAEgEABkKGggAAEgAAMgKGgYAAAwAChoTAAAvHi4nRD9sJxAqWCcQmFgKGgkAADBjAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaCQAAMWMD6AEKAA==</Command>
     </Commands>
     <Original>[0]We got it![1]Now I can get in![2]Ash![3]Nicely done, Matt![4]Yep, we're a pretty good team.[5]For sure![6]Come on, let's head in![7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们成功了![1]现在我可以进来了![2]小蕾![3]干得好，马特![4]是的，我们是很棒的小队.[5]当然![6]来吧，我们进去![7]</Translation>
   </Sentence>
   <Sentence id="224">
     <Commands>
@@ -3026,8 +3014,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额...[1]</Translation>
   </Sentence>
   <Sentence id="225">
     <Commands>
@@ -3035,8 +3022,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't just leave Matt there.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不能将马特一个人留在那里.[1]</Translation>
   </Sentence>
   <Sentence id="226">
     <Commands>
@@ -3046,8 +3032,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash![1]Don't just leave me here![2]Sorry...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，小蕾![1]别把我一个人留在这啊![2]对不起...[3]</Translation>
   </Sentence>
   <Sentence id="227">
     <Commands>
@@ -3059,8 +3044,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]office door[2] is closed.[3]There is a card lock by the door.[4]It's locked...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那 [1]办公室的门[2] 是关着的.[3]门边有个用卡来开的锁.[4]被锁上了...[5]</Translation>
   </Sentence>
   <Sentence id="228">
     <Commands>
@@ -3069,8 +3053,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's locked.[1]We can't get in, then...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是锁住的.[1]那，我们进不去了...[2]</Translation>
   </Sentence>
   <Sentence id="229">
     <Commands>
@@ -3078,8 +3061,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's locked.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]锁住了.[1]</Translation>
   </Sentence>
   <Sentence id="230">
     <Commands>
@@ -3088,8 +3070,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right...[1]I'll use the TAS.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧...[1]我用这遥控器.[2]</Translation>
   </Sentence>
   <Sentence id="231">
     <Commands>
@@ -3121,8 +3102,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Unlocked![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]打开了![1]</Translation>
   </Sentence>
   <Sentence id="235">
     <Commands>
@@ -3130,8 +3110,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]I need to unlock this...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得打开这锁...[1]</Translation>
   </Sentence>
   <Sentence id="236">
     <Commands>
@@ -3140,8 +3119,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]The display keeps disappearing... Is the lock[1]broken?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]图标不停地消失... 这锁[1]坏了?[2]</Translation>
   </Sentence>
   <Sentence id="237">
     <Commands>
@@ -3149,8 +3127,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll try again![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我再试试![1]</Translation>
   </Sentence>
   <Sentence id="238">
     <Commands>
@@ -3158,8 +3135,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already unlocked it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我已经打开这锁了.[1]</Translation>
   </Sentence>
   <Sentence id="239">
     <Commands>
@@ -3167,8 +3143,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's unlocked, so I don't need a card.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]锁开了，所以我不需要钥匙卡了.[1]</Translation>
   </Sentence>
   <Sentence id="240">
     <Commands>
@@ -3176,8 +3151,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's already unlocked.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这已经打开了.[1]</Translation>
   </Sentence>
   <Sentence id="241">
     <Commands>
@@ -3190,8 +3164,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Whoa![1]This place is a mess![2]I can't believe it's gotten this messy.[3]It was much cleaner when I was here with Dad...[4]I'll bet.[5]Let's take a look around, Matt.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哇哦![1]这一方简直一团糟![2]简直无法相信会乱成这样.[3]我和老豆在一起时这里干净多了...[4]我想也是.[5]我们调查一下吧，马特.[6]</Translation>
   </Sentence>
   <Sentence id="242">
     <Commands>
