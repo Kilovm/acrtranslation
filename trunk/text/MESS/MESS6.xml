@@ -3183,8 +3183,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]staircase to the[2]second floor[3].[4]There are crates and boxes piled up [5]on the stairs.[6]No good...[7]There's too much stuff in the way, we can't get[8]up there.[9]Ash, I didn't go up there with Dad before anyway.[10]Let's try down here.[11]Right.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有 [1]楼梯[2]通向二楼[3].[4]有很多箱子堆积[5]在楼梯上.[6]不妙啊...[7]路上东西太多了挡住了[8]根本上不去啊.[9]小蕾，我以前从未和老爸上去过.[10]我们试试下边的那条路吧.[11]好的.[12]</Translation>
   </Sentence>
   <Sentence id="243">
     <Commands>
@@ -3195,8 +3194,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's this room for?[1]I've been here before, Ash.[2]But there were more desks and chairs here[3]then...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这房间是用来干嘛的?[1]我以前来过这，小蕾.[2]但是以前这有许多桌椅啊[3]那时...[4]</Translation>
   </Sentence>
   <Sentence id="244">
     <Commands>
