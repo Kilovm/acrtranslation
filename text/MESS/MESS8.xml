@@ -754,7 +754,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Did you remember something?[1]Yeah...[2]I was in a room with Mom. That clock was on [3]the mantelpiece.[4]As I thought.[5]That clock belonged to Judd Fitzgerald, the[6]founder of JC Valley.[7]Judd?[8]It used to be in his villa.[9]Thus, if you remember it, that could mean only[10]one thing.[11]13 years ago, Sayoko went to that villa, taking[12]you with her.[13]Ryan, did you know my mom went to Judd's[14]villa?[15]I had my theories, but now I'm certain.[16]Ashley, don't you see? I intentionally showed[17]you that to trigger a flashback.[18]Just like Dr Robins.[19]Ryan...[20]Ashley, let me tell you something,[21]About six months ago, Dr Robins volunteered[22]to take charge of the security system.[23]And at around the same time, a file stored here[24]relating to the EC Project disappeared.[25]That file contained the research of one[26]Sayoko Robins.[27]Ashley, I don't suppose your father ever told[28]you about that?[29]Or showed you any research materials?[30]Huh?[31]Did he show you [32]any materials?[33]</Original>
-    <Translation>[0]你还记得什么？[1]这个……[2]我跟妈妈在房间里。那个钟摆在 [3]壁炉台上。[4]果然。[5]那个钟是贾德·菲茨杰拉德的，[6]就是JC山谷的创建人。[7]贾德？[8]这曾经是他的别墅。[9]Thus, if you remember it, that could mean only[10]one thing.[11]13 years ago, Sayoko went to that villa, taking[12]you with her.[13]Ryan, did you know my mom went to Judd's[14]villa?[15]I had my theories, but now I'm certain.[16]Ashley, don't you see? I intentionally showed[17]you that to trigger a flashback.[18]Just like Dr Robins.[19]Ryan...[20]Ashley, let me tell you something,[21]About six months ago, Dr Robins volunteered[22]to take charge of the security system.[23]And at around the same time, a file stored here[24]relating to the EC Project disappeared.[25]That file contained the research of one[26]Sayoko Robins.[27]Ashley, I don't suppose your father ever told[28]you about that?[29]Or showed you any research materials?[30]Huh?[31]Did he show you [32]any materials?[33]</Translation>
+    <Translation>[0]你还记得什么？[1]这个……[2]我跟妈妈在房间里。那个钟摆在 [3]壁炉台上。[4]果然。[5]那个钟是贾德·菲茨杰拉德的，[6]就是JC山谷的创建人。[7]贾德？[8]这曾经是他的别墅。[9]如果你还记得，那就意味[10]着。[11]13年前，沙叶子带你[12]去过那幢别墅。[13]莱恩，你知道妈妈带我去过贾德的[14]别墅？[15]我自有分寸，不过还不是太确定。[16]阿修蕾，你难道没发现？我故意触发你的[17]记忆。[18]就像罗宾斯博士那样。[19]莱恩……[20]阿修蕾，听我说，[21]大约六个月前，罗宾斯博士自愿[22]负责一项保密系统。[23]然而几乎同时的，存在这里的一个与[24]EC项目有关的文件丢了。[25]那个文件是关于[26]沙叶子的.[27]阿修蕾，我想你爸爸应该跟你提过[28]什么吧？[29]或者给你看过研究内容？[30]嗯？[31]他向你透露过 [32]什么？[33]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
@@ -762,7 +762,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah[1]</Original>
-    <Translation>[0]Yeah[1]</Translation>
+    <Translation>[0]的确有[1]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -770,7 +770,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No[1]</Original>
-    <Translation>[0]No[1]</Translation>
+    <Translation>[0]没有[1]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -781,8 +781,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah.[1]What did he show you?[2]Well...[3]Tell me, Ashley.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]的确有。[1]那是什么呢？[2]这个嘛……[3]快告诉我，阿修蕾。[4]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -796,8 +795,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]What do I do?[1]Should I tell him about the TAS?[2]Okay, Ashley, okay.[3]But don't show it to anyone. Not a single person.[4]If you promise me that, you can have it.[5]No...[6]I can't tell him about the TAS.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么办？[1]我该告诉他有TAS吗？[2]好吧，阿修蕾，到此为止吧。[3]不过你不能跟任何人说。谁都不行。[4]如果你保证的话，就这样吧。[5]不行……[6]我决不能跟他说TAS的事。[7]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -812,8 +810,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's wrong, Ashley?[1]Tell me, what did he show you?[2]He showed me a music player.[3]A music player?[4]Is that all? No research materials?[5]No...[6]Are you absolutely sure?[7]Yeah...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了，阿修蕾？[1]告诉我，他都告诉过你什么？[2]他给过我一个音乐播放器。[3]音乐播放器？[4]就这个？没有研究资料吗？[5]没有……[6]你确定？[7]确定……[8]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -825,8 +822,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]He didn't show me anything.[1]Are you absolutely sure?[2]Yeah.[3]He hasn't shown me anything.[4]I see...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他什么也没告诉我。[1]你确定？[2]确定。[3]他真的没提过。[4]知道了……[5]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -875,8 +871,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCQAJAUlPUDAwMgAAAAoaGgAAGEVfUjEwMF9OAFNUUk1fQkdNXzA2AQoaGgAAGEVfUjEwMF9OAFNUUk1fQkdNXzA2AgoaEgAAGEVfUjEwMF9OAEVOVgIKAA==</Command>
     </Commands>
     <Original>[0]Ryan, is that important right now?[1]Shouldn't we look for Dad?[2]Please, find him![3]Ashley, I want to tell you something, and only[4]you.[5]Just me? What is it?[6]Well.[7]You have nothing to worry about regarding[8]your father.[9]Dr Robins is safe.[10]What?[11]How do you know?[12]I know because I was just with him.[13]Really?[14]Yes.[15]Dr Robins has already regained consciousness.[16]He hid himself to escape his pursuer.[17]Why didn't you tell Gina that before?[18]Ashley...are you sure you can trust Gina?[19]Huh?[20]But she's a good person, right? It was Sofia[21]who did all that...[22]I trusted both Gina and Sofia to the same[23]extent.[24]So I was quite shocked when she told me about[25]Sofia's betrayal.[26]That somebody here could do such a thing...[27]Unbelievable.[28]So now I find myself somewhat unsure of who[29]exactly I can trust.[30]What if Gina is an accomplice to the person[31]who attacked Dr Robins?[32]Or if, indeed, she was the one who did it?[33]No way...[34]I believe Dr Robins agrees with me on this.[35]So just in case, I didn't mention him in front of[36]Gina.[37]Where is he, Ryan?[38]I'll go and bring him here now, Ashley.[39]So wait here for me.[40]Ryan, are you there?[41]Just a minute, Ashley.[42]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩，这事关系大吗？[1]我们是不是应该去找爸爸了？[2]求你了，去找他吧！[3]阿修蕾，我想告诉你些事，只告诉[4]你。[5]只有我？什么事？[6]你瞧。[7]关于你爸爸没什么好[8]担心的。[9]罗宾斯博士很安全。[10]你说什么？[11]你怎么知道的？[12]因为我刚刚还跟他在一起。[13]真的吗？[14]当然。[15]罗宾斯博士已经醒了。[16]他只是为了躲避追踪者藏了起来。[17]那之前你怎么不跟吉娜说？[18]阿修蕾……你还相信吉娜？[19]嗯？[20]不过她的确很不错，对吧？全是索菲亚[21]干的……[22]我信任索菲亚的程度不亚于[23]吉娜。[24]所以当她告诉我索菲亚是个叛徒的时候[25]我彻底震惊了。[26]居然有人做出这种事情……[27]难以置信。[28]所以现在我不确定能[29]完全相信谁了。[30]What if Gina is an accomplice to the person[31]who attacked Dr Robins?[32]Or if, indeed, she was the one who did it?[33]No way...[34]I believe Dr Robins agrees with me on this.[35]So just in case, I didn't mention him in front of[36]Gina.[37]Where is he, Ryan?[38]I'll go and bring him here now, Ashley.[39]So wait here for me.[40]Ryan, are you there?[41]Just a minute, Ashley.[42]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
