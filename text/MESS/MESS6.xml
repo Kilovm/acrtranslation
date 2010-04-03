@@ -3439,8 +3439,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9EX1IwMTJfMDEKGj4BAAlJTlRFUlJVUFRfRF9SMDEyXzAxX29mZgBJTlRFUlJVUFRfRF9SMDEyXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfRF9SMDEyXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is an [1]old newspaper[2] in the [3]locker.[4]This is from five years ago...[5]It's got an article about Crusoe Resort.[6]"Sunday March 23 2002 - Strong Opposition to[7]Lake Juliet Development Project[8]Local residents of Lake Juliet, who aim to[9]establish the area as a model environmental[10]area, staged a demonstration against further[11]development plans by Crusoe Resort[12]Development Co. Ltd.[13]Crusoe Resort Development Co. Ltd. was[14]established two years ago with the motto of[15]"coexistence and harmony between humans and[16]nature", and has proceeded with a large-scale[17]development project, called the Lake Juliet[18]Resort, and construction of cottages and a[19]hotel. Although Lake Juliet was known for its[20]beautiful lake with pure water, there have been[21]a series of complaints from tourists, citing[22]undrinkable water and a complete lack of fish.[23]According to the guesthouse staff, reservations[24]have sharply decreased in the pre-camp season.[25]The local residents staged the demonstration[26]due to the timing of the resort development and[27]the contamination of the lake water. For this[28]project, the company bought up local land, in[29]the face of fierce opposition from local[30]residents. How Michael Crusoe, president of[31]Crusoe Resort Development Co. Ltd., will deal[32]with this matter is attracting considerable[33]attention from the public."[34]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有张[1]旧报纸[2] 在[3]储物柜里.[4]这是五年前的啊...[5]这有一篇关于克鲁索度假村的文章.[6]"2002年3月23日 星期天[7]强烈反对朱丽叶湖发展计划[8]朱丽叶湖原住民, 那些[9]想把本地区建设成现代化社区的人[10]举行了一次示威游行[11]强烈反对克鲁索度假村发展公司[12]的对朱丽叶湖的进一步开发计划.[13]克鲁索度假村发展公司[14]成立于两年前[15]其公司的座右铭是“人与自然，和谐共存”[16]该公司正进行这一项大规模开发计划[17]该计划名称是朱丽叶湖度假村计划[18]包括大量的度假小屋和一个旅馆[19]虽然朱丽叶湖以自身的美丽和清澈见底的湖水[20]闻名于世[21]但是仍有很多游客抱怨[22]湖水完全不能饮用，且湖里一条鱼也没有.[23]根据当地宾馆工作人员描述,由于保留地[24]在露营期前疯狂减缩.[25]当地居民举行大规模示威游行[26]反对度假村发展计划以及该公司对湖水的污染[27]为了该计划[28]该公司买断了当地土地[29]用来面对当地居民反对势力[30]迈克尔·克鲁索，克鲁索度假村发展公司的总裁，[31]他在这个问题的处理上[32]必然会受到社会舆论的监督”[33][34]</Translation>
   </Sentence>
   <Sentence id="262">
     <Commands>
@@ -3452,8 +3451,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] locker[2].[3]There is a sticker on the locker door.[4]Is this where the doll is?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有个[1] 储物柜[2].[3]有一张贴纸在柜门上.[4]这就是娃娃的所在?[5]</Translation>
   </Sentence>
   <Sentence id="263">
     <Commands>
@@ -3464,8 +3462,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The locker is empty.[1]Matt, are you sure you put the doll in here?[2]Yeah, Ash, it's definitely there.[3]Look harder![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]储物柜是空的.[1]马特, 你确定你将娃娃放在这里边了?[2]是的, 小蕾, 肯定是这里.[3]瞧仔细点![4]</Translation>
   </Sentence>
   <Sentence id="264">
     <Commands>
@@ -3489,8 +3486,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADPgoaBgAADAAKGg4AADleDABaAHgBAAAKAA==</Command>
     </Commands>
     <Original>[0]Phew, got it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呼，拿到了.[1]</Translation>
   </Sentence>
   <Sentence id="267">
     <Commands>
@@ -3498,8 +3494,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADWwoaBgAADAAKGg4AADleDABaAHgBAAAKAA==</Command>
     </Commands>
     <Original>[0]Phew, got it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呼，拿到了.[1]</Translation>
   </Sentence>
   <Sentence id="268">
     <Commands>
@@ -3507,8 +3502,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What now?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在该干嘛?[1]</Translation>
   </Sentence>
   <Sentence id="269">
     <Commands>
@@ -3516,8 +3510,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, one more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，再来一次![1]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
@@ -3528,8 +3521,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt![1]What's up, Ash?[2]I found it![3]Really? Show me![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特![1]怎么了，小蕾?[2]我找到了![3]真的? 给我看看![4]</Translation>
   </Sentence>
   <Sentence id="271">
     <Commands>
@@ -3562,8 +3554,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was hidden under a shelf in the locker.[1]Ah yeah, I remember. I put it there so nobody[2]would find it.[3]Matt, this...is a ninja doll, right?[4]Oh, you know what ninjas are?[5]Yeah, Japanese spies. But, uh...why would a[6]little girl have this?[7]Good question.[8]It was actually mine at first.[9]But she really wanted it, so I gave it to her.[10]Aww. That's nice of you.[11]Huh?[12]What's up?[13]Someone just came in, Ash.[14]Huh?[15]Don't be crazy, Matt.[16]Nobody's here.[17]I swear, I heard footsteps![18]I didn't hear anything.[19]Whoa![20]What's wrong?[21]It's Kelly![22]Huh?[23]Where? Where is she?[24]She's there![25]Behind you![26]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]它被藏在柜子里的一个架子下边.[1]哦，我想起来了. 我放在那[2]以防有人找到它.[3]马特, 这是...是个忍者娃娃, 对吧?[4]欧，你知道居然忍者?[5]当然，就是日本的一种间谍. 但是, 额...[6]为什么一个小女孩会有这个?[7]问得好.[8]一开始这个娃娃其实是我的.[9]但是她真的很想要它, 所以我就给了她.[10]吼吼，你可真是个好人啊.[11]吖?[12]怎么了?[13]小蕾，有什么人来了.[14]啊?[15]别傻了,马特.[16]这不会有人来的.[17]我发誓,我听到有脚步声![18]我可什么都听不到哦.[19]哇哦![20]怎么了?[21]是凯莉![22]啊?[23]哪? 她在哪?[24]就在那![25]就在你后边![26]</Translation>
   </Sentence>
   <Sentence id="272">
     <Commands>
@@ -3589,8 +3580,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was hidden under a shelf in the locker.[1]Ah yeah, I remember. I put it there so nobody[2]would find it.[3]Here you go.[4]Huh?[5]What's up?[6]Someone just came in, Ash.[7]Huh?[8]Don't be crazy, Matt.[9]Nobody's here.[10]I swear, I heard footsteps![11]I didn't hear anything.[12]Whoa![13]What's wrong?[14]It's Kelly![15]Huh?[16]Where? Where is she?[17]She's there![18]Behind you![19]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]它被藏在储物柜的架子下边.[1]哦，我想起来了. 我放在那[2]以防有人找到它.[3]给你.[4]啊?[5]怎么了?[6]刚才有人进来了,小蕾.[7]哦?[8]别傻了, 马特.[9]这没人的.[10]我发誓, 我听到脚步声了![11]我可什么都没听到.[12]哇哦![13]怎么了?[14]是凯莉![15]啊?[16]哪? 她在哪?[17]她就在那![18]就在你背后![19]</Translation>
   </Sentence>
   <Sentence id="273">
     <Commands>
@@ -3606,8 +3596,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Uh...that's not the doll, Ash.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额...这不是那个我说的娃娃,小蕾.[1]</Translation>
   </Sentence>
   <Sentence id="275">
     <Commands>
@@ -3656,8 +3645,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do you mean?[1]Just look![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你什么意思啊?[1]你只管看![2]</Translation>
   </Sentence>
   <Sentence id="281">
     <Commands>
@@ -3672,8 +3660,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Kelly![1]Are you Kelly?[2]Kelly, you were here the whole time...[3]I missed you so much.[4]Kelly, I'm sorry I hid your doll.[5]I'll give it back now.[6]Ash, pass me the doll.[7]Right.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]凯莉![1]你就是凯莉?[2]凯莉, 你一直在这啊...[3]我很想你啊.[4]凯莉,我很抱歉我将你的娃娃藏了起来.[5]我现在就还给你.[6]小蕾,把娃娃给我.[7]好的.[8]</Translation>
   </Sentence>
   <Sentence id="282">
     <Commands>
@@ -3713,8 +3700,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDQAAFQQArgABAAAAChoMAAAIBACuAQAAAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]Here, Kelly, your doll.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这,凯莉,你的娃娃.[1]</Translation>
   </Sentence>
   <Sentence id="287">
     <Commands>
@@ -3762,8 +3748,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGiIBAAs3AQAAAABJTlRFUlJVUFRfS2VsbGV5Mm5pbgAAAAoaBgAADAAKGgcAAAMLuAoaDgEAC2UBAgAAAAAAAAoaBgAADAAKGgcAAAMH0AoA</Command>
     </Commands>
     <Original>[0]t h a n k   y o u . . . [1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谢   谢   . . . [1]</Translation>
   </Sentence>
   <Sentence id="293">
     <Commands>
@@ -3771,8 +3756,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBgAADAAKGh8BAAs3AQAAAABJTlRFUlJVUFRfS2VsbGV5MgAAAAoaBgAADAAKGgcAAAMLuAoaDgEAC2UBAgAAAAAAAAoaBgAADAAKGgcAAAMH0AoA</Command>
     </Commands>
     <Original>[0]t h a n k   y o u . . . [1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谢    谢  . . . [1]</Translation>
   </Sentence>
   <Sentence id="294">
     <Commands>
@@ -3797,8 +3781,7 @@
       <Command>GggAAAABC7gaB/8AAQBkChoFAAABChoGAAAMAAoaBwAAAw+gChoHAABJB9AKGg4BAAsAAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Kelly![1]Kelly, don't go![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]凯莉![1]凯莉,别跑啊![2]</Translation>
   </Sentence>
   <Sentence id="297">
     <Commands>
@@ -3851,8 +3834,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AmpkAAoA</Command>
     </Commands>
     <Original>[0]Matt...[1]Ash, let's go find Kelly![2]Matt![3]Come on, Ash![4]Wait![5]What?[6]We won't find her, Matt.[7]She's...not here any more.[8]What?[9]Where the heck are you getting that from?[10]She was right...[11]Matt.[12]Listen to me.[13]What?[14]I think Kelly was looking for that doll.[15]The doll?[16]Yeah.[17]The one you gave back to her.[18]Matt...[19]What happened to Kelly?[20]I don't know...[21]What do you remember about her?[22]Kelly...[23]Where are you, Kelly?[24]Matt, you have to remember.[25]Where is she?[26]Kelly...[27]Where's Kelly?[28]I went looking for her.[29]She [30]disappeared[31].[32]Matt...[33]Where did she disappear?[34]I don't know![35]She [36]fell[37]...[38]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特...[1]小蕾, 我们去找凯莉吧![2]马特![3]快点,小蕾![4]等等![5]怎么了?[6]我们找不到她的,马特.[7]她...根本就没在那.[8]什么?[9]你到底是怎么了?[10]她刚刚就在...[11]马特.[12]听我说.[13]什么?[14]我觉得凯莉以前一直在找这个娃娃.[15]这个娃娃?[16]是的.[17]那个你已经还给她了.[18]马特...[19]凯莉到底怎么了?[20]我不知道...[21]你还记得她的什么事吗?[22]凯莉...[23]你在哪啊, 凯莉?[24]马特,你必须想起来.[25]她在哪?[26]凯莉...[27]凯莉在哪?[28]我以前找过她.[29]她 [30]消失了[31].[32]马特...[33]她在哪消失的?[34]我不知道![35]她 [36]掉了下去[37]...[38]</Translation>
   </Sentence>
   <Sentence id="299">
     <Commands>
@@ -3863,8 +3845,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt, why did she disappear?[1]I said, I don't know![2]I...[3]I just don't know...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特，她为什么会消失啊?[1]我说过了，我不知道![2]我...[3]我就是不知道...[4]</Translation>
   </Sentence>
   <Sentence id="300">
     <Commands>
@@ -3875,8 +3856,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1]Where did she fall?[2]I don't know![3]I can't... I can't remember...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特...[1]她在哪掉的?[2]不知道![3]我... 我想不起来了...[4]</Translation>
   </Sentence>
   <Sentence id="301">
     <Commands>
@@ -3894,8 +3874,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matt...[1]I understand.[2]Just take your time.[3]Remember being with Kelly...[4]Wait![5]What's wrong?[6]Ash, I remember...[7]The boathouse...[8]It was at the boathouse...[9]The boathouse here?[10]You were there with Kelly?[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]马特...[1]我明白.[2]你还是缓缓吧.[3]想像与凯莉在一起时...[4]等等![5]怎么了?[6]小蕾,我想起来了...[7]那个船库...[8]就在那个船库里...[9]就在这地方的船库?[10]你和凯莉曾在那呆过?[11]</Translation>
   </Sentence>
   <Sentence id="302">
     <Commands>
