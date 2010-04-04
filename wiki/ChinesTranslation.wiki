@@ -58,6 +58,7 @@
  * bob's : 鲍勃的餐馆
  * Old Mine: 废弃的矿洞
  * Storage Room: 储藏室
+ * Blood Edward Island 血色爱德华
 
  
 = 物品名 =
