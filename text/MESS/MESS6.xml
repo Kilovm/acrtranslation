@@ -4747,8 +4747,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You have an informant?[1]Yes. He is a staff member there and he gives me[2]information about the company.[3]You said his name was Mike, right?[4]Yes, his name is Mike Tyler.[5]Mike Tyler...[6]Mike is helping me to research something.[7]It's a device called "Another", which is under[8]development in JC Valley.[9]What? Another?[10]Yes.[11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你有一名线人?[1]是的.他是那的工作人员[2]他会时不时的给我他们公司的信息.[3]你说他的名字叫迈克,对吧?[4]是的,他叫迈克·泰勒.[5]迈克·泰勒...[6]迈克他在帮我调查一些事情.[7]那有些设备叫"Another",[8]目前还处于JC山谷的开发阶段.[9]什么? Another?[10]是的.[11]</Translation>
   </Sentence>
   <Sentence id="358">
     <Commands>
@@ -4833,8 +4832,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AmJkAAoA</Command>
     </Commands>
     <Original>[0]You said Judd Fitzgerald's death was unsolved.[1]What do you mean?[2]His brakes gave out while he was driving, and[3]his car went off a cliff.[4]The police ruled it an accidental death, but I[5]still have some doubts about it.[6]Judd Fitzgerald was the old director of[7]JC Valley, right?[8]That's right. He founded the company.[9]He was also the director of MJ Labs. His focus[10]was the field of memory research.[11]He set up the EC Project at MJ Labs, which led[12]to a recruitment drive.[13]Brilliant students from all over the country[14]were brought together as scientists.[15]That was the EC Project?[16]Yes.[17]Judd wanted to create a device that could[18]control memory.[19]And he wanted to turn memory research into a[20]business.[21]What does that mean?[22]He aimed to sell the technology for a high price[23]to those who wanted to control human memory.[24]He wanted to make money off his research?[25]Indeed. It would have become a highly lucrative[26]business venture.[27]Seven years ago, when I wrote an article about[28]science and business. I heard about Judd[29]and his incredible genius and ambition. I was[30]immediately intrigued.[31]I even researched the EC Project.[32]He gathered up all of his research into memory[33]and developed it into that project.[34]His attachment and drive toward the project[35]were quite something,[36]but in the end, the project ended up destroying[37]him. Quite ironic.[38]How did it destroy him?[39]Because of the EC Project, MJ Labs went[40]bankrupt.[41]MJ Labs had government funding, but...[42]the people responsible [43]withdrew their support[44]of the lab.[45]So, with MJ Labs unable to continue its[46]operations,[47]Judd set up JC Valley privately, here at Lake[48]Juliet.[49]He hired new members and continued his[50]research into the memory control unit.[51]He carried on developing Another, which was[52]the final result of the EC Project.[53]JC Valley was set up to develop Another?[54]Yes, I am certain of it.[55]But Judd died six years ago, without ever[56]seeing Another's completion.[57]Without even knowing that your father,[58]Richard Robins,[59]had researched and developed the first[60]Another. Another I.[61]And when Judd died, Rex Alfred became the[62]director of JC Valley.[63]Elizabeth's dad...[64]As a scientist, Rex was very different from[65]Judd.[66]I researched him only once, and it only took one[67]time to discover that...well...let's just say that[68]Rex was highly critical of the research Judd[69]had carried out on memory control.[70]When Rex became the director, research on[71]Another had supposedly come to an end.[72]But then, a year ago, Richard Robins appears[73]on the scene at JC Valley.[74]And now, it seems that they have started[75]development of[76] a new Another[77].[78]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你刚刚说贾德·菲茨杰拉德的死还有隐情.[1]到底是什么意思呢?[2]贾德的车在行驶途中由于刹车失灵[3]跌下了山崖.[4]警方将这起案件定性为交通意外,[5]但是这件事还有很多可疑之处.[6]贾德·菲茨杰拉德是前任[7]JC山谷的董事,对吧?[8]嗯.他是那公司的赞助人.[9]同时他也是MJ实验室的首席研究员.[10]该实验室主要从事记忆领域相关的研究.[11]他提出EC计划在MJ实验室,[12]这就使得他还要再寻找研究员.[13]所以全国范围内的顶尖人才[14]作为科学家都被集中到一起.[15]这也是EC计划的一部分?[16]是的.[17]贾德想开发一种可以控制人的记忆的装置。[18][19]而且他还极度渴望将其研究商业化。[20][21]这到底是?[22]他打算将这些技术高价卖给[23]想要控制人们记忆的人.[24]他想用他的研究赚钱?[25]肯定.那研究可是一个高回报的[26]风险投资.[27]七年前,当时我在写一篇关于科学和商业的文章。[28]我听说了贾德的天赋和野心[29][30]我就被其吸引了.[31]我还调查过EC计划.[32]他将他以前所有的研究成果都投入到计划当中[33]使得计划得到提升.[34]他的加入的确使得计划进行得相当顺利。[35][36]但是最后,计划的终止是他崩溃了[37]很是出人意料.[38]为什么呢?[39]因为EC计划, MJ实验室[40]处于破产的边缘.[41]本来MJ实验室是得到政府资助的,但是...[42]那些负责人 [43]却取消了[44]对实验室的资金支持.[45]所以,MJ Labs被迫停止他们的研究[46][47]后来贾德自己成立了JC山谷,就在[48]朱丽叶湖那.[49]他又找了些研究员继续[50]他的在记忆领域的研究.[51]他一直在开发Another,[52]那个就是EC计划的最终成果.[53]JC山谷以前计划开发Another?[54]是的,我很肯定.[55]但是贾德六年前就死了,[56]根本不可能待到Another完成之时.[57]也不可能知道你的父亲,[58]理查德·罗宾斯,[59]已近完成了[60]Another的第一段研究. Another一号.[61]还有，在贾德死的时候,雷克斯·阿尔弗雷德成为[62]JC山谷的新首席研究员.[63]伊丽莎白的爸爸...[64]作为一个科学家,雷克斯和贾德不同[65][66]我只调查过他一次,[67]那次我发现...嗯...这么说吧[68]雷克斯指出贾德[69]实际上已经完成了记忆控制.[70]所以，雷克斯已成为首席研究员,[71]Another的研究立马就被停止了.[72]但是,一年前, 理查德·罗宾斯[73]在JC呆过一段时间.[74]现在,他们又开始研究[75][76] 新的Another[77].[78]</Translation>
   </Sentence>
   <Sentence id="359">
     <Commands>
@@ -4858,8 +4856,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why did they withdraw funding?[1]The project didn't provide the results that[2]the sponsors were expecting.[3]So, it didn't justify the extremely high cost of[4]the operation.[5]Judd created the perfect environment and had[6]the perfect staff. But that wasn't enough.[7]The development of his memory control unit did[8]not proceed as quickly as he had anticipated.[9]Also, the withdrawal of Sayoko Robins, your[10]mother, in the middle of the project[11]had grave consequences for their progress. She[12]was a vital member of the project team.[13]In any case, the sponsors saw no results[14]coming from the EC Project,[15]so they declared that it had no merit [16]and withdrew their support.[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为什么那些人会撤资?[1]因为计划的成果不符合[2]赞助者的期望.[3]所以,就没必要在这个项目上浪费资金了[4][5]贾德创造了一流的实验环境，[6]拥有一流的研究员.但是这还不够.[7]计划中的记忆单元的进度[8]与预期的不相一致.[9]还有,沙夜子·罗宾斯的离开,就是你妈妈[10]对研究进度造成了灾难性[11]的影响。[12]她可是研究小组的重要成员啊.[13]由于这些因素, 投资者们看不到[14]EC计划的结果,[15]所以他们表示不值得在浪费资金[16]就撤资了[17]</Translation>
   </Sentence>
   <Sentence id="360">
     <Commands>
@@ -4898,8 +4895,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]They're developing a new Another?[1]That was the memory research Ryan was[2]talking about?[3]Ah, Ryan Gray... Judd's golden boy.[4]He was also recruited for the research into[5]Another.[6]Ashley, I know your father's working for them,[7]but...[8]JC Valley has a lot of secrets under its hood.[9]Mr Davis, was Another really created through[10]my parents' research?[11]Ashley, your mother wrote the thesis and your[12]father created the physical device.[13]That was called Another I.[14]Another I...[15]Yes. Two years ago, your father succeeded in[16]creating Another I, a memory control unit[17]based on your mother's thesis. Its function was[18]to implant false memories into a subject.[19]And he added a function to it, called Another II,[20]based on his own research.[21]The extra function restored the subject's true[22]memories.[23]Yeah, he did it all by himself on Blood Edward[24]Island.[25]I am certain that the reason your father came[26]to work at JC Valley was to work on Another O,[27]the device that is currently being developed in[28]their labs.[29]Did Dr Robins ever mention that to you?[30]No, he's never mentioned it. We don't really[31]talk much...[32]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他们在开发新的Another?[1]这就是莱恩说的新的记忆研究[2][3]啊, 莱恩·格雷... 贾德的幸运男孩.[4]他是为了another的研究被找来的研究员[6]阿修蕾,我知道你爸爸为他们工作,[7]但是...[8]JC山谷有很多被埋藏在血色下的秘密.[9]戴维斯先生,Another真的是我父母研究出来的？[10][11]阿修蕾,你妈妈写的论文[12]你爸爸造的设备.[13]那被叫做Another一号.[14]Another一号...[15]是的.两年前, 你爸爸成功的[16]创造出Another一号,一个记忆控制装置[17]是基于你妈妈的论文之上.[18]它可以将假的记忆灌输到实验体之中.[19]后来他又增加了一个功能,Another二号诞生了,[20]是基于他自己的研究.[21]这个特殊的功能是可以修复实验体的记忆[22][23]是的, 这是他自己在血色爱德华上完成的[24][25]我相信你父亲来这为[26]JC山谷工作是为了Another原型机,[27]那个装置完全是在他们的实验室开发的[28][29]罗宾斯博士对你提到过那些事吗?[30]没有, 他没有说过.我们谈得不多[31]...[32]</Translation>
   </Sentence>
   <Sentence id="361">
     <Commands>
@@ -4917,8 +4913,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, Mr Davis.[1]There's something I want you to see.[2]What is it?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的,戴维斯先生.[1]我有些东西想让你看看.[2]是什么呢?[3]</Translation>
   </Sentence>
   <Sentence id="363">
     <Commands>
@@ -4942,8 +4937,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Look at this.[1]A JC Valley badge...[2]It was on the floor inside the clock tower.[3]What?[4]This is the badge that all JC Valley staff wear.[5]If it was in the clock tower...[6]Ashley, Matthew...[7]It looks like JC Valley might be involved in[8]Michael's disappearance.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看看这个.[1]JC山谷的徽章...[2]这是在钟楼里边发现的.[3]什么?[4]所有JC山谷的工作人员都戴着这徽章.[5]如果这东西在钟楼里出现的话...[6]阿修蕾,马修...[7]看来JC山谷与迈克尔的失踪[8]脱不了关系.[9]</Translation>
   </Sentence>
   <Sentence id="365">
     <Commands>
@@ -4951,8 +4945,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, I can't show him the TAS.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，我不能给他看TAS.[1]</Translation>
   </Sentence>
   <Sentence id="366">
     <Commands>
@@ -4968,8 +4961,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Should I recognise that?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该知道这玩意是什么吗?[1]</Translation>
   </Sentence>
   <Sentence id="368">
     <Commands>
@@ -4983,8 +4975,7 @@
       <Command>ChoFAAABChoFAAAzChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQMACQFJT1AwMDEAAAAKGgUAADgKAA==</Command>
     </Commands>
     <Original>[0]Ashley. Matthew.[1]I'm going straight to my office to publish this[2]report.[3]Right.[4]And I'll find my dad. I know I will.[5]I'll continue the search too, Matthew. We'll[6]definitely find him.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾.马修.[1]我直接回我的办公室发表[2]这份报告.[3]好的.[4]我会找到我爸爸的.我相信我会的.[5]我也会继续调查,马修.[6]我们一定会找到他的.[7]</Translation>
   </Sentence>
   <Sentence id="369">
     <Commands>
@@ -4996,8 +4987,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoaBQAAQwoaBgAADAAKGgYAAAwAChoHAAADC7gKAA==</Command>
     </Commands>
     <Original>[0]There's a message from Dad.[1]Huh?[2]"Come to JC Valley right away"?[3]Didn't you just tell me to leave? What's going[4]on here?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有老爸的留言.[1]啊?[2]"快来JC山谷"?[3]你不是叫我离开么? [4]到底怎么了?[5]</Translation>
   </Sentence>
   <Sentence id="370">
     <Commands>
@@ -5011,8 +5001,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash...[1]What now?[2]Are you gonna go home?[3]No.[4]Then what?[5]I'm going to JC Valley.[6]Okay...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾...[1]什么?[2]你要回家了吗?[3]不.[4]那去哪啊?[5]我打算去JC山谷.[6]好吧...[7]</Translation>
   </Sentence>
   <Sentence id="371">
     <Commands>
@@ -5020,8 +5009,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Please, give me the report.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]请给我那份报告好吗.[1]</Translation>
   </Sentence>
   <Sentence id="372">
     <Commands>
@@ -5030,8 +5018,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to ask you something.[1]What is it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想问你点事情.[1]问什么事呢?[2]</Translation>
   </Sentence>
   <Sentence id="373">
     <Commands>
@@ -5040,8 +5027,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want you to see something.[1]What is it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想让你看点东西.[1]是什么呢?[2]</Translation>
   </Sentence>
   <Sentence id="374">
     <Commands>
@@ -5049,8 +5035,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Ash, open the box![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾,快把盒子打开![1]</Translation>
   </Sentence>
   <Sentence id="375">
     <Commands>
@@ -5058,8 +5043,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wait![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等![1]</Translation>
   </Sentence>
   <Sentence id="376">
     <Commands>
@@ -5067,8 +5051,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪里啊?[1]</Translation>
   </Sentence>
   <Sentence id="377">
     <Commands>
@@ -5076,8 +5059,7 @@
       <Command>Ggb/AAAAChoFAAABChoOAQALNgAEAUoBAAAACgA=</Command>
     </Commands>
     <Original>[0]Hang on...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]等等...[1]</Translation>
   </Sentence>
   <Sentence id="378">
     <Commands>
@@ -5088,8 +5070,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]This car looks kinda familiar...[1]Oh yeah![2]It was at the bus stop when my bag was[3]stolen...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这车看起来挺眼熟的...[1]噢，对了![2]我的包在巴士站被偷时[3]这车就在那...[4]</Translation>
   </Sentence>
   <Sentence id="379">
     <Commands>
@@ -5098,8 +5079,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]So this is the entrance to JC Valley?[1]Huh?![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有入口进JC山谷吗?[1]啊?![2]</Translation>
   </Sentence>
   <Sentence id="380">
     <Commands>
@@ -5110,8 +5090,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now...[1]I was here with Mom...[2]Mom went into this building...[3]Mom...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了...[1]我和妈妈来过这里...[2]妈妈到里边去了...[3]妈妈...[4]</Translation>
   </Sentence>
   <Sentence id="381">
     <Commands>
@@ -5120,8 +5099,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGQEAClBfTUVNT1JZX0VudHJhbmNlX29uChoZAAAFV1NEX1NFX1BBUlRfTUVNT1JZAAAKGjsBAAlQX01FTU9SWV9FbnRyYW5jZV9vZmYAUF9NRU1PUllfRW50cmFuY2Vfb2ZmX29mZi5icmxhbgAKGgYAAAwAChoaAQAKUF9NRU1PUllfRW50cmFuY2Vfb2ZmCgA=</Command>
     </Commands>
     <Original>[0]The entrance to JC Valley...[1]Mom was here...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个JC山谷的入口...[1]妈妈以前在那边...[2]</Translation>
   </Sentence>
   <Sentence id="382">
     <Commands>
@@ -5130,8 +5108,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Ash? What's up?[1]Huh?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]小蕾?怎么了?[1]啊?[2]</Translation>
   </Sentence>
   <Sentence id="383">
     <Commands>
@@ -5144,8 +5121,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm not even gonna start on the blackout thing.[1]Yeah, thanks, runaway boy.[2]Did you remember something?[3]Yeah...[4]Your mom?[5]She was here, right here.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我从来都作白日梦的.[1]是啊,多谢,逃命男孩.[2]你想起什么来吗?[3]是的...[4]你妈妈?[5]她以前在那,就在那边.[6]</Translation>
   </Sentence>
   <Sentence id="384">
     <Commands>
@@ -5159,8 +5135,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2] by the door.[3].....[4]No answer.[5]Nobody in?[6]There should be...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有个 [1]通讯器[2] 在门边.[3].....[4]没有回应.[5]里边没人吗?[6]应该有人啊...[7]</Translation>
   </Sentence>
   <Sentence id="385">
     <Commands>
@@ -5170,8 +5145,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh? The door's locked.[1]Well, that sucks.[2]What do we do now?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊? 这门锁上了.[1]晕,倒霉.[2]我们该怎么办?[3]</Translation>
   </Sentence>
   <Sentence id="386">
     <Commands>
@@ -5179,8 +5153,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, I can't use that...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行,这玩意没用...[1]</Translation>
   </Sentence>
   <Sentence id="387">
     <Commands>
@@ -5188,8 +5161,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How about trying the intercom?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]试试通讯器吧?[1]</Translation>
   </Sentence>
   <Sentence id="388">
     <Commands>
@@ -5198,8 +5170,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What now?[1]Good question...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在咋办?[1]问得好...[2]</Translation>
   </Sentence>
   <Sentence id="389">
     <Commands>
@@ -5207,8 +5178,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How about trying the intercom?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]试试通讯器吧?[1]</Translation>
   </Sentence>
   <Sentence id="390">
     <Commands>
@@ -5216,8 +5186,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾![1]</Translation>
   </Sentence>
   <Sentence id="391">
     <Commands>
@@ -5244,8 +5213,7 @@
       <Command>ChoFAAABChoIAABIAP+zChoIAABICgBpChoIAABIBAEYChoGAABPBAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgUAADMKGgcAAEkD6AoA</Command>
     </Commands>
     <Original>[0]Huh?[1]Excuse me, are you Ashley?[2]Yeah...[3]Who are you?[4]Gina Barnes[5].[6]Gina?[7]Yes, I'm your father's assistant.[8]Has Dr Robins told you about me?[9]No, not really.[10]Just that there's someone called Gina at work.[11]I see.[12]Dr Robins asked me to come and bring you in.[13]He said that he sent you a message telling[14]you to come here.[15]Yeah...[16]But why didn't he come himself?[17]He's busy, he couldn't leave his desk. So I came[18]instead.[19]Come inside, Ashley.[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊?[1]对不起,你是阿修蕾吗?[2]是的...[3]你是谁啊?[4]吉娜·班恩[5].[6]吉娜?[7]是的,我是你爸爸的助手.[8]罗宾斯博士以前有提过我吗?[9]没有,真的.[10]只是说过有个一起工作的人家吉娜.[11]原来这样.[12]罗宾斯博士叫我来带你进去.[13]他说他有话对你说[14]你们往这边走.[15]好的...[16]但是为什么他不自己过来呢?[17]他很忙,都不能离开他的桌子.[18]所以我才替他来的.[19]进来,阿修蕾.[20]</Translation>
   </Sentence>
   <Sentence id="392">
     <Commands>
@@ -5267,8 +5235,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYRF9NMDUwX0UAQkdNAAoA</Command>
     </Commands>
     <Original>[0]Why hasn't Dad come to meet me?[1]And why did he tell me to come here, out of[2]nowhere?[3]Dad...[4]Right.[5]I have to go over everything that's happened.[6]I have to remember.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为什么我爸爸不来见我?[1]为什么他让我到这里来,[2]其他地方不行么?[3]爸爸...[4]恩.[5]我必须经历所有的事.[6]我必须拿回我的回忆.[7]</Translation>
   </Sentence>
   <Sentence id="394">
     <Commands>
@@ -5289,8 +5256,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I borrowed the clock tower keys from Mrs[1]Graham and went there with Matt.[2]Using Benjamin's diary and the picture as clues,[3]I got the clock running again.[4]Then, Matt found something in the clockwork. [5]What was it?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我从格雷厄姆太太那借的钟楼钥匙[1]和马特一起去的.[2]通过本杰明的日记和照片,[3]我们又让大钟重新转了起来.[4]那是,马特在钟楼里找到了一些东西. [5]是什么?[6]</Translation>
   </Sentence>
   <Sentence id="396">
     <Commands>
@@ -5298,8 +5264,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Puzzle box[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]机关盒子[1]</Translation>
   </Sentence>
   <Sentence id="397">
     <Commands>
@@ -5307,8 +5272,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]JC Valley badge[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]JC山谷的徽章[1]</Translation>
   </Sentence>
   <Sentence id="398">
     <Commands>
@@ -5316,8 +5280,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Blanket[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]毛毯[1]</Translation>
   </Sentence>
   <Sentence id="399">
     <Commands>
@@ -5328,8 +5291,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]The puzzle box was in the clockwork.[2]It's the toy box that Matt's dad hid his report[3]in.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦...[1]机关盒子原来在钟楼里啊.[2]这就是马特爸爸藏报告的玩具盒子。[3][4]</Translation>
   </Sentence>
   <Sentence id="400">
     <Commands>
@@ -5339,8 +5301,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]It wasn't the JC Valley badge.[2]That was on the floor in the clock tower.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]不是这JC山谷的徽章.[2]这是在钟楼楼下里发现的.[3]</Translation>
   </Sentence>
   <Sentence id="401">
     <Commands>
@@ -5350,8 +5311,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]It wasn't the blanket.[2]I saw the blanket in Mrs Graham's house.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]不是这毛毯.[2]我实在格雷厄姆太太的房子里找到的.[3]</Translation>
   </Sentence>
   <Sentence id="402">
     <Commands>
@@ -5362,8 +5322,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went to Mrs Graham's house to return the[1]clock tower keys.[2]I showed her Mom's kaleidoscope.[3]What did she give me after that?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我回到格雷厄姆太太拿去还[1]钟楼的钥匙.[2]我瞧见了格雷厄姆太太的万花筒.[3]她之后又给了我什么呢?[4]</Translation>
   </Sentence>
   <Sentence id="403">
     <Commands>
@@ -5371,8 +5330,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Blanket[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]毛毯[1]</Translation>
   </Sentence>
   <Sentence id="404">
     <Commands>
@@ -5380,8 +5338,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Flower key[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]花型钥匙[1]</Translation>
   </Sentence>
   <Sentence id="405">
     <Commands>
@@ -5389,8 +5346,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Butterfly chamber[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]蝴蝶机关[1]</Translation>
   </Sentence>
   <Sentence id="406">
     <Commands>
@@ -5401,8 +5357,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]Mom borrowed the blanket from Mrs Graham[2]13 years ago.[3]Mrs Graham didn't give it to me.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]毛毯是13年前妈妈从格雷厄姆太太那借来的][3]并不是之前给我的东西.[4]</Translation>
   </Sentence>
   <Sentence id="407">
     <Commands>
@@ -5412,8 +5367,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I borrowed the flower key from Mrs Graham[2]and gave it back before that.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]我从格雷厄姆太太那借来的钥匙[2]之前已经还了.[3]</Translation>
   </Sentence>
   <Sentence id="408">
     <Commands>
@@ -5425,8 +5379,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]When I showed Mrs Graham the kaleidoscope,[2]she gave me the butterfly chamber.[3]And she said that kaleidoscopes have the power[4]to warm people's hearts.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是了...[1]当我看见格雷厄姆太太的万花筒时,[2]她给了我这个蝴蝶机关.[3]她还说万花筒有让人感觉温暖的[4]奇特魔力.[5]</Translation>
   </Sentence>
   <Sentence id="409">
     <Commands>
@@ -5437,8 +5390,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We went from there to Matt's dad's old office.[1]We managed to get the gate open together,[2]then went in.[3]What did I find in a locker in there?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]后来我们又从那离开到马特爸爸的办公室去.[1]我们一起想办法打开了大门进去[2][3]我们在那发现了什么呢?[4]</Translation>
   </Sentence>
   <Sentence id="410">
     <Commands>
@@ -5446,8 +5398,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Report[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]报告[1]</Translation>
   </Sentence>
   <Sentence id="411">
     <Commands>
@@ -5455,8 +5406,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Kelly's doll[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]凯莉的娃娃[1]</Translation>
   </Sentence>
   <Sentence id="412">
     <Commands>
@@ -5464,8 +5414,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Saw[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]锯子[1]</Translation>
   </Sentence>
   <Sentence id="413">
     <Commands>
@@ -5474,8 +5423,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]The report was in the puzzle box.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]报告书是在机关盒子里.[2]</Translation>
   </Sentence>
   <Sentence id="414">
     <Commands>
@@ -5487,8 +5435,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's right...[1]I found Kelly's doll in the locker.[2]Then she appeared in front of us as a ghost...[3]and Matt remembered everything about the[4]last time he saw her.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是了...[1]我再储物柜里找到了凯莉的娃娃.[2]那是她的灵魂突然出现在我们面前...[3]那时马特就回忆起来最后一次见到凯莉的[4]情形.[5]</Translation>
   </Sentence>
   <Sentence id="415">
     <Commands>
@@ -5498,8 +5445,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, that's not it...[1]Matt and I used the saw to cut the rope on the[2]gate.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不，不是这个...[1]马特和我用锯子来[2]开门的.[3]</Translation>
   </Sentence>
   <Sentence id="416">
     <Commands>
@@ -5511,8 +5457,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I came to Lake Juliet, I suddenly[1]started remembering my mom.[2]I need to put together all the fragments of[3]memory that keep appearing.[4]I need to remember her here 13 years ago.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当我来到朱丽叶湖边时,[1]我忽然想到了妈妈.[2]我必须将所有出现的[3]记忆碎片拼凑在一起.[4]我必须想起13年前的妈妈5]</Translation>
   </Sentence>
   <Sentence id="417">
     <Commands>
@@ -5530,8 +5475,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I heard the clock tower bell, I remembered[1]Mom again.[2]Where was she?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]当我听到钟声响起,[1]我又想到了妈妈.[2]她在哪里啊?[3]</Translation>
   </Sentence>
   <Sentence id="419">
     <Commands>
@@ -5541,8 +5485,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]I remembered hearing the clock tower bell and[2]seeing her meet someone at the tower.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的...[1]我记起来我以前听到钟声时[2]他和谁在塔里.[3]</Translation>
   </Sentence>
   <Sentence id="420">
     <Commands>
@@ -5554,8 +5497,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the mermaid statue[2]when I heard the bell.[3]I remembered that when I was in the basement[4]of the old cottage.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]我不记得钟声响起时[2]她在美人鱼雕像那里.[3]我只记得那时候我在[4]小屋的地下室.[5]</Translation>
   </Sentence>
   <Sentence id="421">
     <Commands>
@@ -5566,8 +5508,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the lakeside when I[2]heard the bell.[3]I remembered that when I first saw the lake.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]我记得钟声响起时她不在湖边[2][3]我只记得那是我第一次看见这么大的湖.[4]</Translation>
   </Sentence>
   <Sentence id="422">
     <Commands>
@@ -5578,8 +5519,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the campsite gate[2]when I heard the bell.[3]I remembered that when I opened the gate.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]我听到钟声时她没有在露营地大门那[2][3]当时是我打开了大门.[4]</Translation>
   </Sentence>
   <Sentence id="423">
     <Commands>
@@ -5591,8 +5531,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the villa when I heard[2]the bell.[3]I remembered that when Tommy showed me the[4]photo.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]钟声响起时她并没有在别墅里[2][3]那时候汤米在给我看他的照片[4][5]</Translation>
   </Sentence>
   <Sentence id="424">
     <Commands>
@@ -5604,8 +5543,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the wall with the logo[2]when I heard the bell.[3]I remembered that when I saw the logo on the[4]music player.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]钟声响起时她没有在有标记的墙边[2][3]我记得那是我在MP3上见过那标记[4][5]</Translation>
   </Sentence>
   <Sentence id="425">
     <Commands>
@@ -5616,8 +5554,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the JC Valley entrance[2]when I heard the bell.[3]I remembered that when I reached the entrance.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]我听到钟声是她没在JC山谷大门那[2][3]那时候是我在那里.[4]</Translation>
   </Sentence>
   <Sentence id="426">
     <Commands>
@@ -5628,8 +5565,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I remembered then that the person she met in[1]front of the clock tower was Elizabeth's dad.[2]And I remembered her being given something.[3]What did Elizabeth's dad give Mom?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我记得妈妈在钟楼前见到的那个人[1]是伊丽莎白的爸爸.[2]伊丽莎白的爸爸给了我妈妈什么东西.[3]是什么呢?[4]</Translation>
   </Sentence>
   <Sentence id="427">
     <Commands>
@@ -5639,8 +5575,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]He gave her the pendant.[2]And she put it around her neck.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了...[1]他给了她一条项链.[2]后来我妈妈将他带在脖子上.[3]</Translation>
   </Sentence>
   <Sentence id="428">
     <Commands>
@@ -5649,8 +5584,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]He didn't give her the blanket.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]毛毯不是他给的.[2]</Translation>
   </Sentence>
   <Sentence id="429">
     <Commands>
@@ -5659,8 +5593,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, that's not right...[1]He didn't give her a hamburger.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是啦...[1]不是汉堡包啦.[2]</Translation>
   </Sentence>
   <Sentence id="430">
     <Commands>
@@ -5669,8 +5602,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]He didn't give her the kaleidoscope.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不...[1]万花筒不是他给的.[2]</Translation>
   </Sentence>
   <Sentence id="431">
     <Commands>
@@ -5681,8 +5613,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mom...[1]Why did Elizabeth's dad give you that pendant?[2]Did the pendant mean something to you?[3]Mom...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]妈妈...[1]为什么伊丽莎白的爸爸会给你项链?[2]这项链对你意味着什么?[3]妈妈...[4]</Translation>
   </Sentence>
   <Sentence id="432">
     <Commands>
@@ -5690,8 +5621,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, let's go to the clock tower![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧,我们到钟楼那去![1]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -5699,8 +5629,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, let's check out the clock tower![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧,我们到钟楼那去![1]</Translation>
   </Sentence>
   <Sentence id="434">
     <Commands>
@@ -5709,8 +5638,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, Ash![1]Let's go to my dad's old office![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]快点,小蕾![1]我们到老爸的办公室去![2]</Translation>
   </Sentence>
   <Sentence id="435">
     <Commands>
@@ -5718,8 +5646,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Weren't we going to Mrs Graham's house?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们不去格雷厄姆太太那了吗?[1]</Translation>
   </Sentence>
   <Sentence id="436">
     <Commands>
@@ -5727,8 +5654,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Don't you want to talk to Mrs Graham?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你不想与格雷厄姆太太谈谈吗?[1]</Translation>
   </Sentence>
   <Sentence id="437">
     <Commands>
@@ -5737,8 +5663,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]My dad's old office is over there.[1]Come on, let's go![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸的办公室就在那边.[1]快点,我们出发![2]</Translation>
   </Sentence>
   <Sentence id="438">
     <Commands>
@@ -5747,8 +5672,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, Ash![1]My dad's old office is right ahead![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]快点,小蕾![1]我爸爸的办公室就在前面了![2]</Translation>
   </Sentence>
   <Sentence id="439">
     <Commands>
@@ -5756,8 +5680,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Aren't we going inside?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们不进去么?[1]</Translation>
   </Sentence>
   <Sentence id="440">
     <Commands>
@@ -5766,8 +5689,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do we open it?[1]I dunno...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎样开门啊?[1]不知道额...[2]</Translation>
   </Sentence>
   <Sentence id="441">
     <Commands>
@@ -5777,8 +5699,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What was it like inside the tunnel?[1]Pitch black. I couldn't see a thing. It was cool![2]Well, that's good...I guess...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那根管道貌似是通向里边的。[1]黑漆漆的.什么都看不见.太棒了![2]额,算是不错吧...也许...[3]</Translation>
   </Sentence>
   <Sentence id="442">
     <Commands>
@@ -5787,8 +5708,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What about the tunnel?[1].....[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这根管道呢?[1].....[2]</Translation>
   </Sentence>
   <Sentence id="443">
     <Commands>
@@ -5797,8 +5717,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's wrong?[1]Aren't we going inside?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么了?[1]我们不进去吗?[2]</Translation>
   </Sentence>
   <Sentence id="444">
     <Commands>
@@ -5807,8 +5726,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's look around in here.[1]Okay.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]先在周围看看.[1]好的.[2]</Translation>
   </Sentence>
   <Sentence id="445">
     <Commands>
@@ -5816,8 +5734,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, let's go to the lab![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]快点,我们到实验室去![1]</Translation>
   </Sentence>
   <Sentence id="446">
     <Commands>
@@ -5826,8 +5743,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What's up?[1]Never mind, it's nothing.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]出什么事了吗?[1]别担心,没什么.[2]</Translation>
   </Sentence>
   <Sentence id="447">
     <Commands>
@@ -5850,8 +5766,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="450">
     <Commands>
@@ -5861,8 +5776,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]Hey, wait a minute...[1]This is from the security camera on the other[2]side of the fence![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿,等等...[1]这是在篱笆外边的监控器[2]的影像![3]</Translation>
   </Sentence>
   <Sentence id="451">
     <Commands>
@@ -5870,8 +5784,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There's a tunnel there...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这有个管道...[1]</Translation>
   </Sentence>
   <Sentence id="452">
     <Commands>
@@ -5880,7 +5793,6 @@
       <Command>Ggb/AAAAChoFAAABCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Command>
     </Commands>
     <Original>[0]Oh, there's a saw.[1]Maybe if we use that...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦, 这有个锯子.[1]也许我们可以用它...[2]</Translation>
   </Sentence>
 </Session>
