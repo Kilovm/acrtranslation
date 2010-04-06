@@ -5497,7 +5497,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the mermaid statue[2]when I heard the bell.[3]I remembered that when I was in the basement[4]of the old cottage.[5]</Original>
-    <Translation>[0]不...[1]我不记得钟声响起时[2]她在美人鱼雕像那里.[3]我只记得那时候我在[4]小屋的地下室.[5]</Translation>
+    <Translation>[0]不...[1]我不记得钟声响起时[2]她在美人鱼雕像那里.[3]我还记得我在[4]小屋的地下室.[5]</Translation>
   </Sentence>
   <Sentence id="421">
     <Commands>
@@ -5508,7 +5508,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the lakeside when I[2]heard the bell.[3]I remembered that when I first saw the lake.[4]</Original>
-    <Translation>[0]不...[1]我记得钟声响起时她不在湖边[2][3]我只记得那是我第一次看见这么大的湖.[4]</Translation>
+    <Translation>[0]不...[1]我记得钟声响起时她不在湖边[2][3]我还记得那是我第一次看见这么大的湖.[4]</Translation>
   </Sentence>
   <Sentence id="422">
     <Commands>
@@ -5519,7 +5519,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the campsite gate[2]when I heard the bell.[3]I remembered that when I opened the gate.[4]</Original>
-    <Translation>[0]不...[1]我听到钟声时她没有在露营地大门那[2][3]当时是我打开了大门.[4]</Translation>
+    <Translation>[0]不...[1]我听到钟声时她没有在露营地大门那[2][3]我还记得我打开了大门.[4]</Translation>
   </Sentence>
   <Sentence id="423">
     <Commands>
@@ -5531,7 +5531,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the villa when I heard[2]the bell.[3]I remembered that when Tommy showed me the[4]photo.[5]</Original>
-    <Translation>[0]不...[1]钟声响起时她并没有在别墅里[2][3]那时候汤米在给我看他的照片[4][5]</Translation>
+    <Translation>[0]不...[1]钟声响起时她并没有在别墅里[2][3]我记得汤米在给我看他的照片[4][5]</Translation>
   </Sentence>
   <Sentence id="424">
     <Commands>
@@ -5543,7 +5543,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I didn't remember her at the wall with the logo[2]when I heard the bell.[3]I remembered that when I saw the logo on the[4]music player.[5]</Original>
-    <Translation>[0]不...[1]钟声响起时她没有在有标记的墙边[2][3]我记得那是我在MP3上见过那标记[4][5]</Translation>
+    <Translation>[0]不...[1]钟声响起时她没有在有标记的墙边[2][3]我记得我在MP3上见过那标记[4][5]</Translation>
   </Sentence>
   <Sentence id="425">
     <Commands>
