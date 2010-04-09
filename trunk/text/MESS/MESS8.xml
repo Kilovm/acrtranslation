@@ -1054,7 +1054,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to answer the VC...[2]</Original>
-    <Translation>[0]No...[1]I need to answer the VC...[2]</Translation>
+    <Translation>[0]不行……[1]我得响应VC……[2]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -1063,8 +1063,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to answer the VC...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不行……[1]我得响应VC[2]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -1080,8 +1079,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMjNfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDIzXzAxX29mZgBJTlRFUlJVUFRfQl9SMDIzXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDIzXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]JC Valley badge[2] on top [3]of the magazine.[4]Is this Ryan's badge?[5]It has a number on the back.[6]Huh?[7]This is the same as the one I found in the clock[8]tower.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个 [1]JC山谷的徽章[2] 在上面 [3]杂志的。[4]是莱恩的徽章吗？[5]徽章背后有编号。[6]奇怪？[7]跟我在钟楼发现的那个[8]一样。[9]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -1096,8 +1094,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9SeWFuUEMKGjsBAAlJTlRFUlJVUFRfUnlhblBDX29mZgBJbnRlcnJ1cHRfRV9SMTAwXzAxX1RhZ18wMS5icmxhbgAKGhkBAApJTlRFUlJVUFRfUnlhblBDX29mZgoA</Command>
     </Commands>
     <Original>[0]Ryan's computer[1] is on the desk.[2]There's something on the monitor...[3]"Ashley, please come to JC Valley right now.[4]We have no time. Just hurry up!"[5]This...[6]This is the message I got from Dad on the DAS![7]But that means...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩的电脑[1] 摆在桌上。[2]控制器上有东西……[3]“阿修蕾，快来JC山谷。[4]我们要来不及了。快点！”[5]这个……[6]这是爸爸发到DAS上面的短信！[7]但是什么意思呢……[8]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -1106,8 +1103,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The camera in Elizabeth's dad's office is off.[1]How come?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]伊丽莎白爸爸办公室的摄像头关了。[1]难道发生什么事了？[2]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
@@ -1115,24 +1111,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the TAS to unlock the door.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]幸好，我可以用TAS把门打开。[1]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -1140,16 +1133,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've seen that first symbol somewhere before...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我以前在哪里见过第一个符号……[1]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
@@ -1157,8 +1148,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgUAABsKAA==</Command>
     </Commands>
     <Original>[0]The door unlocked![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门开了！[1]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -1166,8 +1156,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]What do I put in?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该放什么进去？[1]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -1175,8 +1164,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]What do I put in?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该放什么进去？[1]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -1184,8 +1172,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]What's this house-shaped symbol?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个房型的符号什么意思？[1]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -1193,8 +1180,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试一次！[1]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -1202,8 +1188,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I've already unlocked it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]打开了。[1]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -1211,8 +1196,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's already unlocked.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]已经开了。[1]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -1226,8 +1210,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]Why?[6]Gina, where did you go?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个按钮标有“M 泰勒/[1]G 巴尼斯”在[2]控制面板上[3]。[4]还是不明白。[5]为什么？[6]吉娜，你去哪里了？[7]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1239,8 +1222,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZch0ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
