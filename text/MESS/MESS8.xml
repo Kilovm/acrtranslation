@@ -871,7 +871,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCQAJAUlPUDAwMgAAAAoaGgAAGEVfUjEwMF9OAFNUUk1fQkdNXzA2AQoaGgAAGEVfUjEwMF9OAFNUUk1fQkdNXzA2AgoaEgAAGEVfUjEwMF9OAEVOVgIKAA==</Command>
     </Commands>
     <Original>[0]Ryan, is that important right now?[1]Shouldn't we look for Dad?[2]Please, find him![3]Ashley, I want to tell you something, and only[4]you.[5]Just me? What is it?[6]Well.[7]You have nothing to worry about regarding[8]your father.[9]Dr Robins is safe.[10]What?[11]How do you know?[12]I know because I was just with him.[13]Really?[14]Yes.[15]Dr Robins has already regained consciousness.[16]He hid himself to escape his pursuer.[17]Why didn't you tell Gina that before?[18]Ashley...are you sure you can trust Gina?[19]Huh?[20]But she's a good person, right? It was Sofia[21]who did all that...[22]I trusted both Gina and Sofia to the same[23]extent.[24]So I was quite shocked when she told me about[25]Sofia's betrayal.[26]That somebody here could do such a thing...[27]Unbelievable.[28]So now I find myself somewhat unsure of who[29]exactly I can trust.[30]What if Gina is an accomplice to the person[31]who attacked Dr Robins?[32]Or if, indeed, she was the one who did it?[33]No way...[34]I believe Dr Robins agrees with me on this.[35]So just in case, I didn't mention him in front of[36]Gina.[37]Where is he, Ryan?[38]I'll go and bring him here now, Ashley.[39]So wait here for me.[40]Ryan, are you there?[41]Just a minute, Ashley.[42]</Original>
-    <Translation>[0]莱恩，这事关系大吗？[1]我们是不是应该去找爸爸了？[2]求你了，去找他吧！[3]阿修蕾，我想告诉你些事，只告诉[4]你。[5]只有我？什么事？[6]你瞧。[7]关于你爸爸没什么好[8]担心的。[9]罗宾斯博士很安全。[10]你说什么？[11]你怎么知道的？[12]因为我刚刚还跟他在一起。[13]真的吗？[14]当然。[15]罗宾斯博士已经醒了。[16]他只是为了躲避追踪者藏了起来。[17]那之前你怎么不跟吉娜说？[18]阿修蕾……你还相信吉娜？[19]嗯？[20]不过她的确很不错，对吧？全是索菲亚[21]干的……[22]我信任索菲亚的程度不亚于[23]吉娜。[24]所以当她告诉我索菲亚是个叛徒的时候[25]我彻底震惊了。[26]居然有人做出这种事情……[27]难以置信。[28]所以现在我不确定能[29]完全相信谁了。[30]What if Gina is an accomplice to the person[31]who attacked Dr Robins?[32]Or if, indeed, she was the one who did it?[33]No way...[34]I believe Dr Robins agrees with me on this.[35]So just in case, I didn't mention him in front of[36]Gina.[37]Where is he, Ryan?[38]I'll go and bring him here now, Ashley.[39]So wait here for me.[40]Ryan, are you there?[41]Just a minute, Ashley.[42]</Translation>
+    <Translation>[0]莱恩，这事关系大吗？[1]我们是不是应该去找爸爸了？[2]求你了，去找他吧！[3]阿修蕾，我想告诉你些事，只告诉[4]你。[5]只有我？什么事？[6]你瞧。[7]关于你爸爸没什么好[8]担心的。[9]罗宾斯博士很安全。[10]你说什么？[11]你怎么知道的？[12]因为我刚刚还跟他在一起。[13]真的吗？[14]当然。[15]罗宾斯博士已经醒了。[16]他只是为了躲避追踪者藏了起来。[17]那之前你怎么不跟吉娜说？[18]阿修蕾……你还相信吉娜？[19]嗯？[20]不过她的确很不错，对吧？全是索菲亚[21]干的……[22]我信任索菲亚的程度不亚于[23]吉娜。[24]所以当她告诉我索菲亚是个叛徒的时候[25]我彻底震惊了。[26]居然有人做出这种事情……[27]难以置信。[28]所以现在我不确定能[29]完全相信谁了。[30]假如吉娜是袭击罗宾斯博士的[31]共犯呢？[32]再或者，她就是袭击者？[33]不可能……[34]我相信罗宾斯博士赞成我的观点。[35]所以以防万一，我没在吉娜面前提过[36]他。[37]莱恩，他在哪儿？[38]阿修蕾，我马上带他过来。[39]在这里等我。[40]莱恩，你在吗？[41]阿修蕾，稍等下。[42]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -894,8 +894,7 @@
       <Command>ChoFAAABChoGAAAMAAoaMAAABVdTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfS0lSRVJVAAAKGiEAADQGVEFMS19CQUNLX0RDX1IxMDBfUjA4MF9PVVQFChoGAAAMAAoaBwAAAwfQChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]Yes?[1]I'm in the security room. Something terrible[2]has happened in here.[3]The security camera control panel is destroyed.[4]What's going on?[5]Rex, I have something urgent I need to report[6]to you.[7]What is it?[8]It is of grave importance, so it would be better[9]to tell you in person.[10]Understood. I'll come to your office right away.[11]No, I have a guest in my office at the moment.[12]Perhaps we can meet at the usual location?[13]We will not be disturbed there.[14]I will go there immediately.[15]Good idea. I'm on my way.[16]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]怎么办？[1]我在安全室。这里刚发生了很[2]糟糕的事。[3]安全摄像头的控制面板坏了。[4]接下来会发生什么呢？[5]雷克斯，我有很紧急的事情要向你[6]汇报。[7]你说？[8]这件事非常重要，我想还是私下单独[9]说比较好。[10]明白了。我马上去你办公室。[11]不，办公室里来了个客人。[12]要不我们还在老地方见？[13]那里没有干扰。[14]我这就过去。[15]好主意。我也上路了。[16]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -916,16 +915,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBCQAJAUlPUDAwMwAAAAoaHAAABVdTRF9TRV9ET09SX0FVVE9fT1BFTgAAChoOAAA5cgAAAAAyAQAACgA=</Command>
     </Commands>
     <Original>[0]Where are you going?[1]I have to meet with the director before I bring[2]your father back.[3]I will report to him about Sofia, and of course[4]about Dr Robins.[5]Wait here for me. Understood?[6]Got it.[7]One last thing.[8]Just in case something happens while I am[9]away,[10]I'm going to lock the door from the outside, so[11]that nobody can get in.[12]Don't worry, I'll be back soon.[13]Okay.[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你去哪儿？[1]把你爸爸找回来之前，我得去见下[2]领导。[3]要向他汇报索菲亚的事，当然[4]还有罗宾斯博士。[5]在这里等我。明白了吗？[6]好的。[7]还有件事。[8]为了防止在我离开的时候[9]有事情发生，[10]我会从外面把门锁上，这样就[11]没人会进来了。[12]别害怕，我很快回来。[13]没问题。[14]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAAChoGAAAMAAoaCQAARgIAAAAKGgYAAAwAChoHAAADA+gKGgYAAAwAChoWAQALMwAJAAkBRV9NMDIwX04AAAAKGgYAAAwAChoHAAADA+gKGh0AAAVXU0RfU0VfRE9PUl9BVVRPX0NMT1NFAAAKGg4AADlyAAAyAAABAAAKGg4BAAsAAQAAAAAAAAAKGgYAAAwAChoHAAADA+gKGhYAAAVXU0RfU0VfUkFTX0xBTVAAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -935,8 +932,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]Dad, you're safe...[1]But I won't be able to relax until I see you.[2]Hurry up, Dad...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，虽然你还算安全……[1]但是看不见你我就没法轻松起来。[2]快回来吧，爸爸……[3]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -948,8 +944,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaCQAAMWMAAAEKGiIAABhFX1IxMDBfTgBTVFJNX0JHTV9UQU5TQUtVXzAyAQoaIgAAGEVfUjEwMF9OAFNUUk1fQkdNX1RBTlNBS1VfMDICChoSAAAYRV9SMTAwX04ARU5WAgoA</Command>
     </Commands>
     <Original>[0]Ashley![1]What the-[2]Ashley, where are you?[3]If you're there, answer me![4]That's Dad's voice![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]这是——[2]阿修蕾，你在哪儿？[3]你在的话回应我一下！[4]是爸爸的声音！[5]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -958,8 +953,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes, what is it?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嗯……[1]什么？[2]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -967,32 +961,28 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Stay in here, Ashley.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]待在这儿，阿修蕾。[1]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
@@ -1000,8 +990,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgcAAAMCWAoaBgAADAAKGgYAAAwAChoFAAAbCgA=</Command>
     </Commands>
     <Original>[0]What are you doing, Ashley?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你在做什么，阿修蕾？[1]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
@@ -1036,8 +1025,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgYAAAwAChoFAAAbCgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Dad![2]I'm so glad you're safe![3]So that's where you were![4]Where's Ryan, Ashley?[5]He was here just a minute ago.[6]He said to wait here while he went to get you.[7]What?[8]Dad, where's the control room?[9]I'll go there right now.[10]I'll help Ryan get you back.[11]Ashley, wait! Don't come here![12]And don't give the TAS to anyone![13]Huh?[14]What do you mean?[15]Ashley, calm down and listen to me.[16]You have to get out of there. Right now. Go to[17]Rex's office.[18]Elizabeth's dad's office?[19]Yes, Ashley. You can trust him.[20]Tell him I'm locked in the control room.[21]And don't trust Ryan, Ashley![22]Ryan is...[23]Huh?[24]Dad?! Hello?[25]Dad, what happened?[26]Why did you get disconnected?[27]"Don't trust Ryan"? Why?[28]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]爸爸！[2]你没事实在是太好了！[3]原来你在这儿！[4]阿修蕾，莱恩呢？[5]刚刚还在的。[6]他说出去找你，让我待这儿。[7]你说什么？[8]爸爸，控制室在哪里？[9]我马上去。[10]我要帮莱恩救你出来。[11]阿修蕾，别过来！[12]还有，千万不要把TAS给任何人！[13]嗯？[14]你的意思是？[15]阿修蕾，冷静点听我说。[16]你必须出去，马上！去[17]雷克斯的办公室。[18]伊丽莎白爸爸的办公室？[19]正是，阿修蕾。他可以信任。[20]告诉他我被关在控制室了。[21]还有，阿修蕾，不要相信莱恩！[22]莱恩他是……[23]嗯？[24]爸爸？！喂喂？[25]爸爸，怎么回事？[26]怎么掉线了？[27]“不要相信莱恩”为什么？[28]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -1057,8 +1045,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I can't do this...[1]I can't trust anyone in here.[2]Everyone just keeps lying and lying...[3]I can't handle this any more![4]Hey, no problemo.[5]I'll wait for you at Mrs Graham's place.[6]Go see your dad, okay?[7]Right, Matt.[8]I promised I'd go see my dad.[9]Matt, I'll find him, I swear![10]Right.[11]First things first, I'll go to Elizabeth's dad's[12]office.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]难以接受……[1]这里没人可以相信。[2]每个人都在撒谎……[3]我该怎么办！[4]嗨，没问题。[5]我在格雷厄姆夫人那儿等你。[6]然后去见你爸爸，行吗？[7]行，马修。[8]我发誓要见到爸爸。[9]马修，我要找到他，我发誓！[10]没问题。[11]那么首先，我应该去伊丽莎白爸爸的[12]办公室。[13]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -1067,8 +1054,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to answer the VC...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]No...[1]I need to answer the VC...[2]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
