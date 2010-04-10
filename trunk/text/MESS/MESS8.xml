@@ -1222,7 +1222,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZch0ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Translation>
+    <Translation>[0]有个按钮标有“R 阿尔弗雷德[1]在 [2]控制面板上[3]。[4]还是不明白。[5]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1230,8 +1230,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go to Elizabeth's dad's office.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得去伊丽莎白爸爸的办公室。[1]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1239,8 +1238,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go to Elizabeth's dad's office.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得去伊丽莎白爸爸的办公室。[1]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -1249,8 +1247,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The elevator's not working.[1]What now?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]电梯坏了。[1]现在该怎么办？[2]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1262,8 +1259,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]door [2]is locked.[3]This is Elizabeth's dad's office.[4]I need to see him...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那扇 [1]门 [2]锁着。[3]这就是伊丽莎白爸爸的办公室。[4]我得去见他……[5]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1271,24 +1267,21 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll use the TAS.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]对了，我可以用TAS。[1]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1296,8 +1289,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgUAABsKGh0AABhFX1IxMzBfTgBTVFJNX2JpbGxfbGFzdAEKGhIAABhFX1IxMzBfTgBFTlYCCgA=</Command>
     </Commands>
     <Original>[0]The door unlocked![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门打开了！[1]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1305,8 +1297,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]No luck...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]失败了……[1]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -1314,8 +1305,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再试一次！[1]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -1324,8 +1314,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I need to go to Ryan's office.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不对……[1]我得去莱恩的办公室。[2]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1346,8 +1335,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]Ashley![2]Sofia![3]What are you doing here?[4]You're one to talk![5]How did you get in here?[6]The...door was open...[7]The door was securely locked. I should know,[8]I locked it.[9]Huh?[10]Do you honestly expect me to fall for that?[11]Now tell me.[12]Who helped you [13]unlock the door?[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]谁？[1]阿修蕾！[2]索菲亚！[3]你在这里做什么？[4]你听我说！[5]你怎么进来的？[6]门……门没锁……[7]门肯定锁上了，我确定，[8]就是我锁的。[9]什么？[10]你真的觉得我会相信？[11]跟我讲真话。[12]谁帮你 [13]打开折扇门的？[14]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -1355,8 +1343,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mike[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]麦克[1]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -1364,8 +1351,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nobody[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没人[1]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
