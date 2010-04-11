@@ -2893,8 +2893,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, Ashley, remember when you were talking[1]about Gina in the security room?[2]Yeah?[3]I want you to check something for me.[4]Okay, what is it?[5]It's about Gina.[6]Well, about the woman you met.[7]Gina's name tag is over there on her desk, with[8]her photo on it.[9]Look at that, and tell me if it's the same person[10]you met before.[11]Okay.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，阿修蕾，你记得我们在保安室里说起[1]吉娜的事吗？[2]那？[3]我希望你能为我证实一些事。[4]好的，是什么事？[5]是关于吉娜的。[6]啊，关于你见到的那个女人。[7]吉娜的名牌就在那边她的桌子上，连同[8]她的照片一起[9]你去看一下，然后告诉我那和你见到的女人是否[10]同一个人。[11]好的。[12]</Translation>
   </Sentence>
   <Sentence id="237">
     <Commands>
@@ -2907,8 +2906,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well, Ashley?[1]I haven't looked at the name tag yet...[2]It's on Gina's desk.[3]Quickly, tell me if it's the same person you met[4]before.[5]Okay.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾？[1]我还没看铭牌……[2]那是在吉娜的桌子上。[3]快点，告诉我这和你原来见到的是否同一个[4]人。[5]好的。[6]</Translation>
   </Sentence>
   <Sentence id="238">
     <Commands>
