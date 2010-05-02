@@ -1391,8 +1391,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mike did.[1]Mike, you say?[2]Yeah, he unlocked it for me.[3]Ah, so he was your accomplice.[4]He just can't keep out of things, can he?[5]What did he want? What was he using you[6]for?[7]Using me?[8]Using you.[9]He's not like you, he doesn't scheme and plot.[10]Oh, Ashley, please. Grow up.[11]Mike is leaking information about JC Valley to[12]some journalist.[13]For a nice fat reward, I'm sure.[14]Do you expect a man like that to help some[15]little girl he'd just met for free?[16]So stop playing games and tell me, Ashley.[17]What does Mike want?[18]He doesn't want anything. He's not getting any[19]money from leaking information.[20]But if you want to know why he's helping me...[21]Well?[22]It's because I'm Richard Robins' daughter.[23]What?[24]Some people here trust my dad more than[25]they trust you.[26]So Mike helped me out.[27]So it's like that?[28]Yeah.[29]Ashley, it appears I've underestimated you.[30]I never thought a child like you could gather[31]accomplices like that.[32]I wasn't expecting this at all.[33]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是麦克。[1]你是说，麦克？[2]是啊，他帮我开的。[3]这样啊，就是说他是帮凶咯。[4] 他不可能摆脱干系，对吧？[5]他想怎样？他为什么要利用你[6]？[7]利用我？[8]对。[9]他不是你，才不会搞阴谋呢。[10]拜托，阿修蕾。成熟点把。[11]麦克把JC山谷的信息透露给了[12]一些新闻媒体。[13]我敢肯定，他是为了丰厚的报酬。[14]你指望这样的一个人会无缘无故[15]帮一个小丫头吗？[16]所以，阿修蕾，不要再跟我兜圈子了。[17]麦克究竟要得到什么？[18]他什么也不要。泄密也没[19]得到任何好处。[20]但是如果你一定想知道他为什么帮我……[21]嗯？[22]仅仅因为我是理查德•罗宾斯的女儿。[23]你说什么？[24]这里的有些人更相信我爸爸，而[25]不是你。[26]所以麦克会帮我。[27]这就是理由？[28]对啊。[29]阿修蕾，看来我低估你了。[30]我从来没想过你这样的小孩还能[31]召集同党。[32]真没想到。[33]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -1412,8 +1411,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nobody.[1]Don't lie to me, Ashley.[2]A child like you can't just go in and out of[3]locked rooms without any help.[4]Don't underestimate me, Sofia.[5]What?[6]I'm the daughter of two brilliant scientists.[7]Card locks like this are nothing to me.[8]You mean to say...[9]You unlocked them all by yourself?[10]That's what I said.[11]Well, it seems I really have underestimated you.[12]I wasn't expecting this at all.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没有人。[1]你骗不了我，阿修蕾。[2]像你这样的孩子不可能靠自己的能力随意进出[3]这种上锁的门。[4]索菲亚，不要小看了我。[5]喔？[6]我是两个天才级科学家的女儿。[7]像这种卡锁对我来说根本不是问题。[8]你的意思是……[9]你自己开的门？[10]正是。[11]好吧，看来我真的低估你了。[12]真没想到。[13]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -1446,8 +1444,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AyJkAAoA</Command>
     </Commands>
     <Original>[0]You really are quite an annoying little girl.[1]Why couldn't you just have kept quiet and[2]stayed in the meeting room?[3]Sofia, what did you do to my dad?[4]To Dr Robins?[5]He's in the control room, right?[6]What are you going to do with him?[7]Don't ask me, I have nothing to do with that.[8]Don't lie![9]And why would I lie to you now?[10]But you got Mike and Gina with the stun gun...[11]Well, yes, I did incapacitate those two.[12]But I haven't gone near Dr Robins.[13]He was nowhere to be seen when I went to his[14]room.[15]Then who...[16]I have no idea.[17]Is he safe?[18]You just don't listen, do you?[19]I told you, I don't know![20]You're lying.[21]Anyway, why did you lock me in the meeting[22]room?[23]Because [24]he asked me to[25]. That's all.[26]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你真是个让人抓狂的小丫头。[1]为什么就不能安静的[2]待在会议室呢？[3]索菲亚，你对我爸爸做了什么？[4]你说罗宾斯博士？[5]他在控制室，对吧？[6]你和他要干什么?[7]不要再问我了，什么关系都没有。[8]还撒谎！[9]为什么现在我还要骗你呢？[10]但是你用电击枪偷袭麦克和吉娜……[11]对啊，是我做的。[12]但是我没接触过罗宾斯博士。[13]当我进他房间的时候根本没有[14]人影。[15]那是谁……[16]我也不知道。[17]难道是他自己？[18]你根本没听我说？[19]我说了，我不知道！[20]你在撒谎。[21]不管怎样，你干嘛要把我关会议室[22]里面？[23]因为 [24]他让我这么做的[25]。就是这样。[26]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1477,8 +1474,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AyRkAAoA</Command>
     </Commands>
     <Original>[0]He?[1]Who asked you to lock me in?[2].....[3]You took my bag at the bus stop, right?[4]Did he ask you to do that too?[5].....[6]Sofia, tell me the truth![7]I can't.[8]I have a deal with him.[9]Until we both have what we want, we keep our[10]partnership secret.[11]You want different things?[12]Yes.[13]We both have our own objectives at JC Valley.[14]I want [15]information on a certain project[16] that[17]Judd kept since his MJ Labs days.[18]And as for him...[19]He wants to begin experimenting again with[20]the[21] memory control unit[22].[23]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]他？[1]谁喊你关我的？[2]……[3]是你在车站拿我包的，对吧？[4]这也是他喊你做的？[5]……[6]索菲亚，告诉我真相！[7]不行。[8]我跟他有约。[9]在各自利益实现之前，我们要为[10]同伴保密。[11]你在追求别的东西？[12]是的。[13]我们在JC山谷都有利益。[14]我需要 [15]一项关键项目的资料[16] 是[17]贾德在MJ实验室一直保密的。[18]而他……[19]他想重新开始[20]那项[21] 记忆控制单元[22]。[23]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1538,8 +1534,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AypkAAoA</Command>
     </Commands>
     <Original>[0]What info? What project?[1]A research project. You don't know about it,[2]so never mind...[3]You mean the EC Project?[4]What?[5]You know about the EC Project?[6]Of course.[7]My mom worked on it, didn't she?[8]But why would you want information from a[9]project that old?[10]Old?[11]Ashley, you know nothing.[12]Anyone with even a passing interest in[13]memory research[14]would be desperate to get their hands on any[15]information about the EC Project.[16]Why?[17]Because the EC Project was the last one ever[18]worked on by the two true geniuses,[19]Sayoko Robins and Judd Fitzgerald.[20]The last project? True geniuses?[21]Ashley, there are two types of geniuses.[22]Regular geniuses and true geniuses.[23]Regular geniuses will work long and hard to[24]research their new theses.[25]But true geniuses don't need that kind of time[26]and effort.[27]And their theses shake the very foundations of[28]science.[29]Judd and Sayoko were true geniuses in the[30]field of memory research.[31]So the materials they left behind, the ingenuity[32]behind them and the possibilities they hold...[33]getting hold of them would be a dream come[34]true for any memory researcher.[35]And they were buried in JC Valley along with[36]Judd Fitzgerald.[37]Do you have them all now?[38]Yes, I do.[39]Except for one file.[40]What about the mnemonic fluid? Do you still[41]need that?[42]How do you know about that?[43]It was in the e-mail you got from your partner[44]on the outside.[45]Ah, you cracked the code.[46]Yes, the information about mnemonic fluid is[47]all that I have left to get.[48]That's why I came in here.[49]Is there information about it in here?[50]Yes. This room should have contained the[51]prototype mnemonic fluid[52].[53]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么资料？什么项目？[1]一个研究项目。你不知情，[2]所以别在意……[3]你指的是EC项目？[4]什么？[5]你知道EC项目？[6]当然了。[7]我妈妈就是负责这个的，对吧？[8]但是你干嘛要这么过时的[9]项目资料？[10]过时？[11]阿修蕾，你还不懂。[12]Anyone with even a passing interest in[13]memory research[14]would be desperate to get their hands on any[15]information about the EC Project.[16]Why?[17]Because the EC Project was the last one ever[18]worked on by the two true geniuses,[19]Sayoko Robins and Judd Fitzgerald.[20]The last project? True geniuses?[21]Ashley, there are two types of geniuses.[22]Regular geniuses and true geniuses.[23]Regular geniuses will work long and hard to[24]research their new theses.[25]But true geniuses don't need that kind of time[26]and effort.[27]And their theses shake the very foundations of[28]science.[29]Judd and Sayoko were true geniuses in the[30]field of memory research.[31]So the materials they left behind, the ingenuity[32]behind them and the possibilities they hold...[33]getting hold of them would be a dream come[34]true for any memory researcher.[35]And they were buried in JC Valley along with[36]Judd Fitzgerald.[37]Do you have them all now?[38]Yes, I do.[39]Except for one file.[40]What about the mnemonic fluid? Do you still[41]need that?[42]How do you know about that?[43]It was in the e-mail you got from your partner[44]on the outside.[45]Ah, you cracked the code.[46]Yes, the information about mnemonic fluid is[47]all that I have left to get.[48]That's why I came in here.[49]Is there information about it in here?[50]Yes. This room should have contained the[51]prototype mnemonic fluid[52].[53]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -4083,5 +4078,7 @@
     <Translation>
     </Translation>
   </Sentence>
-  <Comments />
+  <Comments>
+    <Comment Author="" Date="2010-05-02 22:50:30" Position="97">memory control unit</Comment>
+  </Comments>
 </Session>
