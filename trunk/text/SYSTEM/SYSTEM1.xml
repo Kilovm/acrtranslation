@@ -1644,7 +1644,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]window[2] is closed.[3]Are they shut today?[4]</Original>
-    <Translation>[0]窗户[1]是[2]关着的.[3]今天关门么?[4]</Translation>
+    <Translation>[0]那扇[1]窗户[2]是关着的.[3]今天关门么?[4]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -2378,7 +2378,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]barbecue[2].[3]The metal grille is a little dusty.[4]</Original>
-    <Translation>[0]那里有个[1]BBQ[2].[3]金属架看起来有点灰.[4]</Translation>
+    <Translation>[0]那里有个[1]BBQ架[2].[3]金属烤架看起来有点灰.[4]</Translation>
   </Sentence>
   <Sentence id="240">
     <Commands>
@@ -2730,7 +2730,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]sleeping bags[2].[3]Ew. They're kind of dirty. Gross.[4]</Original>
-    <Translation>[0]那里有些[1]睡袋[2].[3]咦. 有点脏. 好恶心.[4]</Translation>
+    <Translation>[0]那里有些[1]睡袋[2].[3]唔. 好脏. 好恶心.[4]</Translation>
   </Sentence>
   <Sentence id="272">
     <Commands>
@@ -3372,7 +3372,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are lots of different [1]soft drinks[2].[3]Iced tea and water...[4]This cooler box is pretty big.[5]Hang on... [6]These aren't even cold![7]Dad, you really are useless...[8]</Original>
-    <Translation>[0]那里有各式各样的[1]软饮料[2].[3]冰茶和水...[4]这个保温箱还真够大的.[5]等等... [6]这都不是冰冻的![7]爸爸啊, 你真是衰...[8]</Translation>
+    <Translation>[0]那里有各式各样的[1]软饮料[2].[3]冰茶和水...[4]这个保温箱还真够大的.[5]等等... [6]这都不是冰冻的![7]爸爸啊, 你真是没用啊...[8]</Translation>
   </Sentence>
   <Sentence id="329">
     <Commands>
