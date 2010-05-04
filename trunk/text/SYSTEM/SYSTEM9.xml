@@ -535,8 +535,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd better recycle this can![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我最好回收了这个罐头![1]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -553,8 +552,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoaCAAAAAEAAAoA</Command>
     </Commands>
     <Original>[0]Yeah![1]I got a token![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]耶![1]我获得了一枚硬币![2]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -738,8 +736,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBHwoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I'd better recycle this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空罐头[2].[3]我最好把它回收了.[4]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -750,8 +747,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBIAoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I'd better recycle this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空罐头[2].[3]我最好把它回收了.[4]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -762,8 +758,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBIQoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I'd better recycle this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空罐头[2].[3]我最好把它回收了.[4]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -786,8 +781,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBFQoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I'd better recycle this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空罐头[2].[3]我最好把它回收了.[4]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -2014,8 +2008,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -2062,8 +2055,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="189">
     <Commands>
@@ -3208,8 +3200,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pen holder[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]笔筒[2].[3]</Translation>
   </Sentence>
   <Sentence id="286">
     <Commands>
@@ -3450,8 +3441,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="307">
     <Commands>
@@ -3461,8 +3451,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="308">
     <Commands>
@@ -3470,8 +3459,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="309">
     <Commands>
@@ -3481,8 +3469,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="310">
     <Commands>
@@ -3490,8 +3477,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="311">
     <Commands>
@@ -3513,8 +3499,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="313">
     <Commands>
@@ -3690,8 +3675,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="328">
     <Commands>
@@ -3710,8 +3694,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="330">
     <Commands>
@@ -3719,8 +3702,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="331">
     <Commands>
@@ -5207,8 +5189,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]door[2].[3]The door is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]door[2].[3]The door is locked.[4]</Translation>
   </Sentence>
   <Sentence id="455">
     <Commands>
@@ -5230,8 +5211,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]door[2].[3]The door is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]door[2].[3]The door is locked.[4]</Translation>
   </Sentence>
   <Sentence id="457">
     <Commands>
