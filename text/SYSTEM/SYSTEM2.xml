@@ -4609,7 +4609,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]desk lamp[2].[3]The shade has a thick layer of dust.[4]</Original>
-    <Translation>[0]那里有盏[1]台灯[2].[3]阴影处落着一层厚厚的灰.[4]</Translation>
+    <Translation>[0]那里有盏[1]台灯[2].[3]灯罩上落着一层厚厚的灰.[4]</Translation>
   </Sentence>
   <Sentence id="444">
     <Commands>
@@ -5135,7 +5135,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]open cans of paint[2] left[3]on the floor.[4]The paint inside has dried up and[5]hardened.[6]</Original>
-    <Translation>[0]那里有些[1]打开了的油漆罐头[2]在[3]地板上.[4]The paint inside has dried up and[5]hardened.[6]</Translation>
+    <Translation>[0]那里有些[1]打开了的油漆罐头[2]在[3]地板上.[4]里面的油漆都发硬[5]结块了.[6]</Translation>
   </Sentence>
   <Sentence id="489">
     <Commands>
@@ -5400,7 +5400,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]technical drawing[2] on the wall.[3]It has explanations about the various[4]parts of the clock tower.[5]</Original>
-    <Translation>[0]那里有幅[1]工程图[2]贴在墙上.[3]上面具体介绍了钟塔的[4]各个部分.[5]</Translation>
+    <Translation>[0]那里有幅[1]工程图[2]贴在墙上.[3]上面具体介绍了钟楼的[4]各个部分.[5]</Translation>
   </Sentence>
   <Sentence id="512">
     <Commands>
@@ -5412,7 +5412,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]technical drawing[2] on the wall.[3]It has warnings about the various [4]pieces of equipment in the clock tower.[5]</Original>
-    <Translation>[0]那里有幅[1]工程图[2]贴在墙上.[3]上面是关于钟塔各个部件的[4]注意事项.[5]</Translation>
+    <Translation>[0]那里有幅[1]工程图[2]贴在墙上.[3]上面是关于钟楼各个部件的[4]注意事项.[5]</Translation>
   </Sentence>
   <Sentence id="513">
     <Commands>
@@ -5509,7 +5509,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]clock part[2].[3]</Original>
-    <Translation>[0]那里有个[1]clock part[2].[3]</Translation>
+    <Translation>[0]那里有个[1]钟表的部件[2].[3]</Translation>
   </Sentence>
   <Sentence id="522">
     <Commands>
@@ -5519,7 +5519,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
+    <Translation>[0]那里有个[1]木制抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="523">
     <Commands>
@@ -5529,7 +5529,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains a [1]box of nails[2]. [3]</Original>
-    <Translation>[0]It contains a [1]box of nails[2]. [3]</Translation>
+    <Translation>[0]里面装着[1]一盒钉子[2]. [3]</Translation>
   </Sentence>
   <Sentence id="524">
     <Commands>
@@ -5539,7 +5539,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
+    <Translation>[0]那里有个[1]木制抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="525">
     <Commands>
@@ -5551,7 +5551,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are papers that look like[1]instruction leaflets[2].[3]For a machine?[4]Oh man, they look complex.[5]</Original>
-    <Translation>[0]There are papers that look like[1]instruction leaflets[2].[3]For a machine?[4]Oh man, they look complex.[5]</Translation>
+    <Translation>[0]那里的纸片看上去像是[1]宣传单[2].[3]用于某种机器的?[4]啊哦, 看上去好复杂.[5]</Translation>
   </Sentence>
   <Sentence id="526">
     <Commands>
@@ -5562,7 +5562,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of papers that look[1]like[2] operating instructions[3].[4]</Original>
-    <Translation>[0]那里有个stack of papers that look[1]like[2] operating instructions[3].[4]</Translation>
+    <Translation>[0]那里有一堆纸片看上去[1]像是[2]操作指南[3].[4]</Translation>
   </Sentence>
   <Sentence id="527">
     <Commands>
@@ -5573,7 +5573,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]can full of liquid[2].[3]It says... "Lubricating oil".[4]</Original>
-    <Translation>[0]那里有个[1]can full of liquid[2].[3]It says... "Lubricating oil".[4]</Translation>
+    <Translation>[0]那里有个[1]装满液体的罐子[2].[3]上面写着... "润滑油".[4]</Translation>
   </Sentence>
   <Sentence id="528">
     <Commands>
@@ -5583,7 +5583,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]can of lubricating oil[2].[3]</Original>
-    <Translation>[0]那里有个[1]can of lubricating oil[2].[3]</Translation>
+    <Translation>[0]那里有个[1]装满润滑油的罐子[2].[3]</Translation>
   </Sentence>
   <Sentence id="529">
     <Commands>
@@ -5594,7 +5594,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of [1]thick books[2]. [3]Every single one is about clocks![4]</Original>
-    <Translation>[0]那里有个stack of [1]thick books[2]. [3]Every single one is about clocks![4]</Translation>
+    <Translation>[0]那里有一堆[1]厚厚的书籍[2]. [3]每一本都是讲关于钟的![4]</Translation>
   </Sentence>
   <Sentence id="530">
     <Commands>
@@ -5605,7 +5605,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blueprint[2] on the desk.[3]Maybe it's of the clock tower.[4]</Original>
-    <Translation>[0]那里有个[1]blueprint[2] on the desk.[3]Maybe it's of the clock tower.[4]</Translation>
+    <Translation>[0]那里有张[1]蓝图[2]放在书桌上.[3]也许是钟楼的蓝图.[4]</Translation>
   </Sentence>
   <Sentence id="531">
     <Commands>
@@ -5626,7 +5626,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a small [1]steel cabinet with[2]drawers[3].[4]</Original>
-    <Translation>[0]那里有个small [1]steel cabinet with[2]drawers[3].[4]</Translation>
+    <Translation>[0]那里有个小小的[1]带抽屉的[2]钢制柜子[3].[4]</Translation>
   </Sentence>
   <Sentence id="533">
     <Commands>
@@ -5638,7 +5638,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a huge pile of [1]papers[2].[3]They look like manuals for the clock[4]parts.[5]</Original>
-    <Translation>[0]那里有个huge pile of [1]papers[2].[3]They look like manuals for the clock[4]parts.[5]</Translation>
+    <Translation>[0]那里有一大堆[1]纸[2].[3]看上去是关于钟部件的[4]手册.[5]</Translation>
   </Sentence>
   <Sentence id="534">
     <Commands>
@@ -5649,7 +5649,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a huge pile of [1]manuals for the[2]clock parts[3].[4]</Original>
-    <Translation>[0]那里有个huge pile of [1]manuals for the[2]clock parts[3].[4]</Translation>
+    <Translation>[0]那里有一大堆的[1]关于钟部件的[2]手册[3].[4]</Translation>
   </Sentence>
   <Sentence id="535">
     <Commands>
@@ -5660,7 +5660,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]thick books[2].[3]They are about clocks.[4]</Original>
-    <Translation>[0]那里有些[1]thick books[2].[3]They are about clocks.[4]</Translation>
+    <Translation>[0]那里有几本[1]厚厚的书籍[2].[3]是关于钟的.[4]</Translation>
   </Sentence>
   <Sentence id="536">
     <Commands>
@@ -5670,7 +5670,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]books about clocks[2].[3]</Original>
-    <Translation>[0]那里有些[1]books about clocks[2].[3]</Translation>
+    <Translation>[0]那里有些[1]关于钟的书籍[2].[3]</Translation>
   </Sentence>
   <Sentence id="537">
     <Commands>
@@ -5682,7 +5682,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]hammer[2].[3]No need for this now I've fixed the[4]stairs![5]</Original>
-    <Translation>[0]那里有个[1]hammer[2].[3]No need for this now I've fixed the[4]stairs![5]</Translation>
+    <Translation>[0]那里有个[1]锤子[2].[3]现在用不到这个了，我已经修好了[4]楼梯![5]</Translation>
   </Sentence>
   <Sentence id="538">
     <Commands>
@@ -5692,7 +5692,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]hammer[2].[3]</Original>
-    <Translation>[0]那里有个[1]hammer[2].[3]</Translation>
+    <Translation>[0]那里有个[1]锤子[2].[3]</Translation>
   </Sentence>
   <Sentence id="539">
     <Commands>
@@ -5704,7 +5704,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]box of nails[2].[3]I hope nobody minds that I used [4]these...[5]</Original>
-    <Translation>[0]那里有个[1]box of nails[2].[3]I hope nobody minds that I used [4]these...[5]</Translation>
+    <Translation>[0]那里有[1]一盒钉子[2].[3]希望没人介意我用了[4]这些...[5]</Translation>
   </Sentence>
   <Sentence id="540">
     <Commands>
@@ -5714,7 +5714,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]box of nails[2].[3]</Original>
-    <Translation>[0]那里有个[1]box of nails[2].[3]</Translation>
+    <Translation>[0]那里有[1]一盒钉子[2].[3]</Translation>
   </Sentence>
   <Sentence id="541">
     <Commands>
@@ -5725,7 +5725,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]thick books[2].[3]They are about clock towers.[4]</Original>
-    <Translation>[0]那里有些[1]thick books[2].[3]They are about clock towers.[4]</Translation>
+    <Translation>[0]那里有些[1]厚厚的书籍[2].[3]是关于钟楼的.[4]</Translation>
   </Sentence>
   <Sentence id="542">
     <Commands>
@@ -5736,7 +5736,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]books about clock[2]towers[3].[4]</Original>
-    <Translation>[0]那里有些[1]books about clock[2]towers[3].[4]</Translation>
+    <Translation>[0]那里有些[1]关于钟楼的书籍[2]书籍[3].[4]</Translation>
   </Sentence>
   <Sentence id="543">
     <Commands>
@@ -5749,7 +5749,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal can[2].[3]It has some small paintbrushes stored[4]in it.[5]Maybe they're used to apply oil?[6]</Original>
-    <Translation>[0]那里有个[1]metal can[2].[3]It has some small paintbrushes stored[4]in it.[5]Maybe they're used to apply oil?[6]</Translation>
+    <Translation>[0]那里有个[1]金属罐[2].[3]里面放着些小的油漆[4]刷.[5]也许那是用来蘸油的?[6]</Translation>
   </Sentence>
   <Sentence id="544">
     <Commands>
@@ -5760,7 +5760,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal can with some[2]paintbrushes[3].[4]</Original>
-    <Translation>[0]那里有个[1]metal can with some[2]paintbrushes[3].[4]</Translation>
+    <Translation>[0]那里有个[1]装着些油漆刷的[2]金属罐[3].[4]</Translation>
   </Sentence>
   <Sentence id="545">
     <Commands>
@@ -5780,7 +5780,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains a [1]small piece of wood[2].[3]</Original>
-    <Translation>[0]It contains a [1]small piece of wood[2].[3]</Translation>
+    <Translation>[0]里面装着[1]一小片木头[2].[3]</Translation>
   </Sentence>
   <Sentence id="547">
     <Commands>
@@ -5790,7 +5790,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains a [1]hammer[2].[3]</Original>
-    <Translation>[0]It contains a [1]hammer[2].[3]</Translation>
+    <Translation>[0]里面装着一个[1]锤子[2].[3]</Translation>
   </Sentence>
   <Sentence id="548">
     <Commands>
@@ -5802,7 +5802,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]small wooden boxes[2].[3]They look like storage boxes for very [4]small parts.[5]</Original>
-    <Translation>[0]那里有些[1]small wooden boxes[2].[3]They look like storage boxes for very [4]small parts.[5]</Translation>
+    <Translation>[0]那里有些[1]小的木头箱子[2].[3]看上去是专门用来装小物件的[4]储存箱.[5]</Translation>
   </Sentence>
   <Sentence id="549">
     <Commands>
@@ -5812,7 +5812,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>[0]那里有个[1]cupboard[2].[3]</Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="550">
     <Commands>
@@ -5824,7 +5824,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]wooden stairs[2].[3]They have fallen apart, so there is no[4]way up to the next floor.[5]</Original>
-    <Translation>[0]那里有些[1]wooden stairs[2].[3]They have fallen apart, so there is no[4]way up to the next floor.[5]</Translation>
+    <Translation>[0]那里有几把[1]木头梯子[2].[3]他们已经分崩离析了, 所以没办法[4]前往上面一层了.[5]</Translation>
   </Sentence>
   <Sentence id="551">
     <Commands>
@@ -5835,7 +5835,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]round wall clock[2].[3]It has stopped.[4]</Original>
-    <Translation>[0]那里有个[1]round wall clock[2].[3]It has stopped.[4]</Translation>
+    <Translation>[0]那里有个[1]圆形挂钟[2].[3]它已经不走了.[4]</Translation>
   </Sentence>
   <Sentence id="552">
     <Commands>
@@ -5847,7 +5847,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]light[2] hanging from the[3]ceiling.[4]The lampshade is covered in dust.[5]</Original>
-    <Translation>[0]那里有个[1]light[2] hanging from the[3]ceiling.[4]The lampshade is covered in dust.[5]</Translation>
+    <Translation>[0]那里有盏[1]灯[2]挂在[3]屋顶上.[4]灯罩上覆盖着一层灰.[5]</Translation>
   </Sentence>
   <Sentence id="553">
     <Commands>
@@ -8114,7 +8114,7 @@
     <Translation>[0]那里有根[1]白色的竿子[2]. [3]</Translation>
   </Sentence>
   <Comments>
-    <Comment Author="" Date="2010-05-03 23:19:20" Position="521">
+    <Comment Author="" Date="2010-05-04 15:26:52" Position="552">
     </Comment>
   </Comments>
 </Session>
