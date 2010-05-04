@@ -3926,8 +3926,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll test the water here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该测试一下这里的水质.[1]</Translation>
   </Sentence>
   <Sentence id="378">
     <Commands>
@@ -3935,8 +3934,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll test the water here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该测试一下这里的水质.[1]</Translation>
   </Sentence>
   <Sentence id="379">
     <Commands>
@@ -4002,8 +4000,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll test the water here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该测试一下这里的水质.[1]</Translation>
   </Sentence>
   <Sentence id="387">
     <Commands>
@@ -4028,8 +4025,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Eww... This water doesn't look so good.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额... 这里的水质看上去不太好啊.[1]</Translation>
   </Sentence>
   <Sentence id="390">
     <Commands>
@@ -4053,8 +4049,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. Shouldn't have mixed those...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]糟啦. 不该混合那些东西的...[1]</Translation>
   </Sentence>
   <Sentence id="393">
     <Commands>
@@ -4087,8 +4082,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll test the water here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该测试一下这里的水质.[1]</Translation>
   </Sentence>
   <Sentence id="397">
     <Commands>
@@ -4096,8 +4090,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll test the water here.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该测试一下这里的水质.[1]</Translation>
   </Sentence>
   <Sentence id="398">
     <Commands>
@@ -4122,8 +4115,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Eww... This water doesn't look so good.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额... 这里的水质看上去不太好啊.[1]</Translation>
   </Sentence>
   <Sentence id="401">
     <Commands>
@@ -4172,8 +4164,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd better recycle this can![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我最好回收了这个罐头![1]</Translation>
   </Sentence>
   <Sentence id="407">
     <Commands>
@@ -4206,8 +4197,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoaCAAAAAEAAAoA</Command>
     </Commands>
     <Original>[0]Yeah![1]I got a token![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]耶![1]我获得了一枚硬币![2]</Translation>
   </Sentence>
   <Sentence id="411">
     <Commands>
@@ -4239,8 +4229,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book[2] on the table.[3]It's about photography.[4]Hey, what's this?[5]Let's have a look inside...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]书[2]在桌子上.[3]是关于摄影的.[4]嘿, 这是什么?[5]让我看看里面...[6]</Translation>
   </Sentence>
   <Sentence id="414">
     <Commands>
@@ -4251,8 +4240,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book about photography[2]on the table.[3]I think I'll have another look![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]关于摄影方面的书[2]在桌子上.[3]我想我该看上一眼![4]</Translation>
   </Sentence>
   <Sentence id="415">
     <Commands>
@@ -4268,8 +4256,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What a strange book.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好奇怪的一本书啊.[1]</Translation>
   </Sentence>
   <Sentence id="417">
     <Commands>
@@ -4277,8 +4264,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What a strange book.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好奇怪的一本书啊.[1]</Translation>
   </Sentence>
   <Sentence id="418">
     <Commands>
@@ -4292,8 +4278,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph of a woman[2].[3]Oh...[4]That must be Olivia![5]She looks so happy, surrounded by all[6]those flowers...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]一个女人的照片[2].[3]噢...[4]那一定是奥利维亚![5]她看起来很开心的样子, 被鲜花[6]包围着...[7]</Translation>
   </Sentence>
   <Sentence id="419">
     <Commands>
@@ -4305,8 +4290,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph of a woman[2].[3]Olivia looks so happy, surrounded by[4]all those flowers...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]一个女人的照片[2].[3]奥利维亚看起来很快乐, 被鲜花所[4]环绕...[5]</Translation>
   </Sentence>
   <Sentence id="420">
     <Commands>
@@ -4320,8 +4304,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph of a woman[2].[3]Wow... That's beautiful. I wonder who [4]she is?[5]She looks so happy, surrounded by all[6]those flowers...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]一个女人的照片[2].[3]喔噢... 真美. 她[4]是谁?[5]她看起来很开心的样子, 被鲜花[6]环绕着...[7]</Translation>
   </Sentence>
   <Sentence id="421">
     <Commands>
@@ -4333,8 +4316,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph of a woman[2].[3]She looks so happy, surrounded by all[4]those flowers...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]一个女人的照片[2].[3]她看起来很开心的样子, 被鲜花[4]环绕着...[5]</Translation>
   </Sentence>
   <Sentence id="422">
     <Commands>
@@ -4363,8 +4345,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDIKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAyX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]There are some [1]newspaper cuttings[2]pinned to the wall.[3]"Lake Juliet Herald[4]1998 Christmas Edition[5]Gilbert Moss, NY Artist, to be Lake [6]Juliet Resident![7]Gilbert Moss, the renowned[8]photographer and youngest ever[9]recipient of the National Photographic[10]Prize for 'Animals and Nature' in 1996,[11]is known for his flamboyant New York[12]social life. But the big news for Lake[13]Juliet residents is that he's bought a[14]cottage here![15]The old cottage has been vacant since[16]the previous tenant, Lou's Tourist[17]Photo Studio, went out of business. [18]Mr. Moss moved in before Christmas."[19]Hey, this guy...[20]His name was on the photo collection[21]I found Olivia's letter in, too.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]几张[1]剪报[2]被钉在了墙上.[3]"朱丽叶湖的先驱者[4]1998年圣诞版[5]吉尔伯特·莫斯, 纽约艺术家, 成为了[6]朱丽叶湖的居民![7]吉尔伯特·莫斯, 著名[8]摄影家,1996年因作品'动物与自然'而获得了[9]国家摄影奖,同时也成为了[10]该奖项最年轻的获得者,[11]他也因为他在纽约五光十色的社交[12]生活而被人们所熟知. 但对于[13]朱丽叶湖的居民来说,最大的消息莫过于他[14]买下了此处的营地![15]自从营地的上一位承租商--[16]罗氏旅游摄影工作室停业之后,[17]营地就一直处于闲置中. [18]莫斯先生在圣诞前入住了."[19]嘿, 这个人...[20]他的名字在摄影集里面有.[21]奥利维亚的信里面也有.[22]</Translation>
   </Sentence>
   <Sentence id="423">
     <Commands>
@@ -4393,8 +4374,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDIKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAyX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]There are some [1]newspaper cuttings[2]pinned to the wall.[3]Huh, who's he?[4]"Lake Juliet Herald[5]1998 Christmas Edition[6]Gilbert Moss, NY Artist, to be Lake [7]Juliet Resident![8]Gilbert Moss, the renowned[9]photographer and youngest ever[10]recipient of the National Photographic[11]Prize for 'Animals and Nature' in 1996,[12]is known for his flamboyant New York[13]social life. But the big news for Lake[14]Juliet residents is that he's bought a[15]cottage here![16]The old cottage has been vacant since[17]the previous tenant, Lou's Tourist[18]Photo Studio, went out of business. [19]Mr. Moss moved in before Christmas."[20]So this is the photographer who lived[21]here...[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]几张[1]剪报[2]被钉在了墙上.[3]唔, 他是谁啊?[4]"朱丽叶湖的先驱者[5]1998年圣诞版[6]吉尔伯特·莫斯, 纽约艺术家, 成为了[7]朱丽叶湖的居民![8]吉尔伯特·莫斯, 著名[9]摄影家,1996年因作品'动物与自然'而获得了[10]国家摄影奖,同时也成为了[11]该奖项最年轻的获得者,[12]他也因为他在纽约五光十色的社交[13]生活而被人们所熟知. 但对于[14]朱丽叶湖的居民来说,最大的消息莫过于他[15]买下了此处的营地![16]自从营地的上一位承租商--[17]罗氏旅游摄影工作室停业之后,[18]营地就一直处于闲置中. [19]莫斯先生在圣诞前入住了."[20]也就是说他是住在这儿的[21]摄影师...[22]</Translation>
   </Sentence>
   <Sentence id="424">
     <Commands>
@@ -4418,8 +4398,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMzFfMDIKGj4BAAlJTlRFUlJVUFRfQl9SMDMxXzAyX29mZgBJTlRFUlJVUFRfQl9SMDMxXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDMxXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]It's an old newspaper cutting...[1]"Lake Juliet Herald[2]1998 Christmas Edition[3]Gilbert Moss, NY Artist, to be Lake [4]Juliet Resident![5]Gilbert Moss, the renowned[6]photographer and youngest ever[7]recipient of the National Photographic[8]Prize for 'Animals and Nature' in 1996,[9]is known for his flamboyant New York[10]social life. But the big news for Lake[11]Juliet residents is that he's bought a[12]cottage here![13]The old cottage has been vacant since[14]the previous tenant, Lou's Tourist[15]Photo Studio, went out of business. [16]Mr. Moss moved in before Christmas."[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是一张旧的剪报...[1]"朱丽叶湖的先驱者[2]1998年圣诞版[3]吉尔伯特·莫斯, 纽约艺术家, 成为了[4]朱丽叶湖的居民![5]吉尔伯特·莫斯, 著名[6]摄影家,1996年因作品'动物与自然'而获得了[7]国家摄影奖,同时也成为了[8]该奖项最年轻的获得者,[9]他也因为他在纽约五光十色的社交[10]生活而被人们所熟知. 但对于[11]朱丽叶湖的居民来说,最大的消息莫过于他[12]买下了此处的营地![13]自从营地的上一位承租商--[14]罗氏旅游摄影工作室停业之后,[15]营地就一直处于闲置中. [16]莫斯先生在圣诞前入住了."[17]</Translation>
   </Sentence>
   <Sentence id="425">
     <Commands>
@@ -4435,8 +4414,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are a number of [1]box files[2] on the[3]shelf.[4]Wonder what's in these box files?[5]Wow... They're all full of film negatives.[6]The boxes are lined up in date order...[7]But several boxes are missing.[8]That's...really strange.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有好几只[1]文件盒[2]在[3]架子上.[4]文件盒里面是什么呢?[5]喔噢... 全是电影底片呢.[6]盒子是按照时间顺序排列的...[7]但是有一只盒子不见了.[8]真的...好奇怪.[9]</Translation>
   </Sentence>
   <Sentence id="426">
     <Commands>
@@ -4447,8 +4425,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBCwoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I'd better recycle this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空罐头[2].[3]我最好把它回收了.[4]</Translation>
   </Sentence>
   <Sentence id="427">
     <Commands>
@@ -4460,8 +4437,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBBQoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2] floating in the [3]water.[4]I wish people would stop littering...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]空罐头[2]漂浮在[3]水面上.[4]大家不要再乱扔垃圾了好不好啊...[5]</Translation>
   </Sentence>
   <Sentence id="428">
     <Commands>
@@ -4490,8 +4466,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]fan[2] on the desk.[3]The fan blades are covered in dust.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]电风扇[2]在桌子上.[3]扇叶上落满了灰尘.[4]</Translation>
   </Sentence>
   <Sentence id="431">
     <Commands>
@@ -4501,8 +4476,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pen holder[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]笔筒[2].[3]</Translation>
   </Sentence>
   <Sentence id="432">
     <Commands>
@@ -4513,8 +4487,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]booking form[2].[3]There are no bookings written on it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]预约表[2].[3]上面没有任何预约.[4]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -4525,8 +4498,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]open notebook[2].[3]There is nothing written on the page.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]打开着的笔记本[2].[3]这页上面没有写任何内容.[4]</Translation>
   </Sentence>
   <Sentence id="434">
     <Commands>
@@ -4536,8 +4508,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]notebooks[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]笔记本[2].[3]</Translation>
   </Sentence>
   <Sentence id="435">
     <Commands>
@@ -4547,8 +4518,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]call bell[2]. [3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]铃[2]. [3]</Translation>
   </Sentence>
   <Sentence id="436">
     <Commands>
@@ -4560,8 +4530,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3] [4]It says "Front Desk".[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]牌子[2].[3] [4]上面写着"前台".[5]</Translation>
   </Sentence>
   <Sentence id="437">
     <Commands>
@@ -4571,8 +4540,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque saying "Front Desk"[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]牌子上写着"前台"[2].[3]</Translation>
   </Sentence>
   <Sentence id="438">
     <Commands>
@@ -4583,8 +4551,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden chair[2]. [3]It is faded from exposure to the sun.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]木头椅子[2]. [3]因为日晒的原因有些褪色.[4]</Translation>
   </Sentence>
   <Sentence id="439">
     <Commands>
@@ -4595,8 +4562,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]desk lamp[2].[3]The shade has a thick layer of dust.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]台灯[2].[3]阴影处落着一层厚厚的灰.[4]</Translation>
   </Sentence>
   <Sentence id="440">
     <Commands>
@@ -4611,8 +4577,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cork notice board[2] on the[3]wall.[4]The board has lots of faded bulletins [5]pinned to it.[6]"We're open all year round! You can [7]rent a boat for as little as 1 hour."[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]木制公告板[2]挂在[3]墙上.[4]上面钉着不少已经褪色了的[5]公告.[6]"我们长年无休! 租船[7]一小时起租."[8]</Translation>
   </Sentence>
   <Sentence id="441">
     <Commands>
@@ -4623,8 +4588,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cork notice board with [2]leaflets[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]木制公告板[2],上面有几张传单[3].[4]</Translation>
   </Sentence>
   <Sentence id="442">
     <Commands>
@@ -4635,8 +4599,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]window[2].[3]You can see the pier through it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有扇[1]窗户[2].[3]透过窗户可以看见码头.[4]</Translation>
   </Sentence>
   <Sentence id="443">
     <Commands>
@@ -4647,8 +4610,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are dusty [1]life jackets[2] in two[3]boxes.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几件[1]脏兮兮的救生衣[2]放在[3]两个盒子里.[4]</Translation>
   </Sentence>
   <Sentence id="444">
     <Commands>
@@ -4658,8 +4620,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]硬纸箱[2].[3]</Translation>
   </Sentence>
   <Sentence id="445">
     <Commands>
@@ -4673,8 +4634,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is[1] one of the[2] [3]rear windows [4]of the[5]boathouse.[6]You can see Lake Juliet through it.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是[1]船坞的[2][3]后窗[4]之[5]一.[6]透过它可以看见朱丽叶湖.[7]</Translation>
   </Sentence>
   <Sentence id="446">
     <Commands>
@@ -4686,8 +4646,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]picture frame[2].[3] [4]It looks like a picture of the lake shore.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有幅[1]相框[2].[3][4]看上去是一幅画着湖岸的画.[5]</Translation>
   </Sentence>
   <Sentence id="447">
     <Commands>
@@ -4697,8 +4656,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]model yachts[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]游艇模型[2].[3]</Translation>
   </Sentence>
   <Sentence id="448">
     <Commands>
@@ -4713,8 +4671,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are[1] [2]some [3]brochures[4].[5]There is a picture of a lakeside house[6]on the cover.[7]They look like property magazines.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里[1][2]有几本[3]小册子[4].[5]封面上是在湖边的房子的[6]图片.[7]看上去像是地产杂志.[8]</Translation>
   </Sentence>
   <Sentence id="449">
     <Commands>
@@ -4724,8 +4681,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]property magazines[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]地产杂志[2].[3]</Translation>
   </Sentence>
   <Sentence id="450">
     <Commands>
@@ -4739,8 +4695,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]magazines[2].[3]There are pictures of yachts and fish[4]on the covers.[5]They look like sailing and fishing [6]magazines.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]杂志[2].[3]封面上画着些[4]游艇和鱼.[5]看上去像是关于航海和钓鱼的[6]杂志.[7]</Translation>
   </Sentence>
   <Sentence id="451">
     <Commands>
@@ -4751,8 +4706,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]sailing and fishing[2]magazines[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]关于航海和钓鱼的[2]杂志[3].[4]</Translation>
   </Sentence>
   <Sentence id="452">
     <Commands>
@@ -4764,8 +4718,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]magazines[2].[3]They look like guides to the Lake Juliet[4]area.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]杂志[2].[3]看上去像是朱丽叶湖[4]的旅游指南.[5]</Translation>
   </Sentence>
   <Sentence id="453">
     <Commands>
@@ -4776,8 +4729,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]guides to the Lake[2]Juliet area[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]朱丽叶湖的[2]旅游指南[3].[4]</Translation>
   </Sentence>
   <Sentence id="454">
     <Commands>
@@ -4793,8 +4745,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cork notice board[2] on the[3]wall.[4]There are letters pinned on it.[5]"We had such a wonderful time![6]We'll definitely be back next year."[7]Looks like thank you letters from[8]some happy campers.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]木制公告板[2]挂在[3]墙上.[4]上面有几封信.[5]"我们度过了一段非常快乐的时光![6]我们明年一定还会再来的."[7]看上去是一些玩得挺高兴的[8]宿营者写来的信.[9]</Translation>
   </Sentence>
   <Sentence id="455">
     <Commands>
@@ -4805,8 +4756,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cork notice board with[2]letters from customers[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]钉着游客来信的[2]木制公告板[3].[4]</Translation>
   </Sentence>
   <Sentence id="456">
     <Commands>
@@ -4816,8 +4766,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden table and chairs[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几张[1]木制桌子和几把木制椅子[2].[3]</Translation>
   </Sentence>
   <Sentence id="457">
     <Commands>
@@ -4827,8 +4776,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]life ring[2] on the floor.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]救生圈[2]在地上.[3]</Translation>
   </Sentence>
   <Sentence id="458">
     <Commands>
@@ -4842,8 +4790,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is[1] one of the[2] [3]rear windows [4]of the[5]boathouse.[6]You can see Lake Juliet through it.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是[1]船坞的[2][3]后窗[4]之[5]一.[6]透过它可以看见朱丽叶湖.[7]</Translation>
   </Sentence>
   <Sentence id="459">
     <Commands>
@@ -4858,8 +4805,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFwEACklOVEVSUlVQVF9CcmFjZWxldAoaPQEACUlOVEVSUlVQVF9CcmFjZWxldF9vZmYASU5URVJSVVBUX0NfUjAyNF8wM19UYWdfMDEuYnJsYW4AChobAQAKSU5URVJSVVBUX0JyYWNlbGV0X29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]bracelet[2] in a crack in the[3]floor.[4]The bracelet has a fish on it.[5]I'll take that...[6]Drat! It's wedged into that crack, I [7]can't get it out...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]手环[2]卡在地板的[3]裂缝里.[4]手环上面刻着一条鱼.[5]我该拿走它...[6]该死的! 它卡死在裂缝里了, 我[7]拿不出来...[8]</Translation>
   </Sentence>
   <Sentence id="460">
     <Commands>
@@ -4873,8 +4819,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFwEACklOVEVSUlVQVF9CcmFjZWxldAoaPQEACUlOVEVSUlVQVF9CcmFjZWxldF9vZmYASU5URVJSVVBUX0NfUjAyNF8wM19UYWdfMDEuYnJsYW4AChobAQAKSU5URVJSVVBUX0JyYWNlbGV0X29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]bracelet[2] in a crack in the[3]floor.[4]The bracelet has a fish on it.[5]It's wedged into that crack, I can't get[6]it out...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]手环[2]卡在地板的[3]裂缝里.[4]手环上面刻着一条鱼.[5]它卡死在裂缝里了, 我[6]拿不出来...[7]</Translation>
   </Sentence>
   <Sentence id="461">
     <Commands>
@@ -4886,8 +4831,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]locker[2].[3]The door will not open, so it may be[4]locked.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]锁[2].[3]门打不开, 可能被[4]锁上了吧.[5]</Translation>
   </Sentence>
   <Sentence id="462">
     <Commands>
@@ -4900,8 +4844,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are a number of [1]files[2] on the [3]shelf.[4]There are years written on the labels.[5]They look like boat rental records.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有好多[1]文件[2]放在[3]架子上.[4]标签上面写有年份.[5]看上去是租船的档案记录.[6]</Translation>
   </Sentence>
   <Sentence id="463">
     <Commands>
@@ -4913,8 +4856,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]files[2]. [3]They have fallen over and are lying[4]haphazardly on the shelf.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]文件[2]. [3]它们乱七八糟地[4]倒在架子上.[5]</Translation>
   </Sentence>
   <Sentence id="464">
     <Commands>
@@ -4925,8 +4867,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Some [1]files[2] are lying scattered on the[3]floor.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有些[1]文件[2]散落在[3]地板上.[4]</Translation>
   </Sentence>
   <Sentence id="465">
     <Commands>
@@ -4938,8 +4879,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]large footprints[2] left[3]on the floor.[4]I wonder whose those are...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]大脚印[2]留在了[3]地板上.[4]不知道是谁的呢...[5]</Translation>
   </Sentence>
   <Sentence id="466">
     <Commands>
@@ -4949,8 +4889,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="467">
     <Commands>
@@ -4958,8 +4897,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="468">
     <Commands>
@@ -4969,8 +4907,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="469">
     <Commands>
@@ -4978,8 +4915,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="470">
     <Commands>
@@ -4989,8 +4925,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="471">
     <Commands>
@@ -4998,8 +4933,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="472">
     <Commands>
@@ -5012,8 +4946,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]front window[2] of the [3]boathouse.[4]You can see the Lake Juliet forest[5]through it.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这个是[1]船坞[2]的[3]前窗.[4]透过它可以看见朱丽叶湖的[5]森林.[6]</Translation>
   </Sentence>
   <Sentence id="473">
     <Commands>
@@ -5025,8 +4958,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]large footprints[2] left[3]on the floor.[4]Someone was here before us...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]大脚印[2]留在[3]地上.[4]在我们之前来过什么人...[5]</Translation>
   </Sentence>
   <Sentence id="474">
     <Commands>
@@ -5038,8 +4970,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]large footprints[2] left[3]on the floor.[4]They lead to the pier.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]大脚印[2]留在[3]地上.[4]它们向码头的方向去了.[5]</Translation>
   </Sentence>
   <Sentence id="475">
     <Commands>
@@ -5049,8 +4980,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blackened cardboard box[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]被烧焦了的硬纸箱[2].[3]</Translation>
   </Sentence>
   <Sentence id="476">
     <Commands>
@@ -5061,8 +4991,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]plastic containers[2].[3]They look empty.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]塑料容器[2].[3]看起来里面是空的.[4]</Translation>
   </Sentence>
   <Sentence id="477">
     <Commands>
@@ -5074,8 +5003,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plastic container[2].[3]It seems half full of some kind of[4]liquid.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]塑料容器[2].[3]里面装着半瓶的某种[4]液体.[5]</Translation>
   </Sentence>
   <Sentence id="478">
     <Commands>
@@ -5087,8 +5015,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some[1] round tins[2].[3]They are full of different colours of[4]paint.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]圆罐头[2].[3]里面装着各种颜色的[4]油漆.[5]</Translation>
   </Sentence>
   <Sentence id="479">
     <Commands>
@@ -5098,8 +5025,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]tins of paint[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几罐[1]油漆[2].[3]</Translation>
   </Sentence>
   <Sentence id="480">
     <Commands>
@@ -5111,8 +5037,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]stained cardboard[2]boxes[3].[4]Looks like oil seeping through...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几只[1]被染了色的[2]硬纸箱[3].[4]看上去渗过油了...[5]</Translation>
   </Sentence>
   <Sentence id="481">
     <Commands>
@@ -5123,8 +5048,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old rope[2] behind the [3]cardboard boxes.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有根[1]很旧的绳子[2]放在了[3]硬纸箱的后面.[4]</Translation>
   </Sentence>
   <Sentence id="482">
     <Commands>
@@ -5137,8 +5061,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]open cans of paint[2] left[3]on the floor.[4]The paint inside has dried up and[5]hardened.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]打开了的油漆罐头[2]在[3]地板上.[4]The paint inside has dried up and[5]hardened.[6]</Translation>
   </Sentence>
   <Sentence id="483">
     <Commands>
@@ -5149,8 +5072,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]long poles[2].[3]Wonder what they're for... [4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]长杆子[2].[3]不知道它们是用来干什么的... [4]</Translation>
   </Sentence>
   <Sentence id="484">
     <Commands>
@@ -5162,8 +5084,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden boat[2].[3]It looks like it was once painted white,[4]but the wood is now showing through.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]木船[2].[3]看上去以前被漆成过白色,[4]但是现在木头的本色显现出来了.[5]</Translation>
   </Sentence>
   <Sentence id="485">
     <Commands>
@@ -5175,8 +5096,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden boat[2].[3]Be great to take a ride in that... [4]Just big enough for two![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]木船[2].[3]乘上它应该不错... [4]正好可以坐两个人![5]</Translation>
   </Sentence>
   <Sentence id="486">
     <Commands>
@@ -5188,8 +5108,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden boat[2].[3]It seems to be badly dried out and[4]damaged.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]木船[2].[3]看上去被晒干了[4]没法再用了.[5]</Translation>
   </Sentence>
   <Sentence id="487">
     <Commands>
@@ -5201,8 +5120,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]note[2] on the boat rack.[3]"Please ask a member of staff[4]before taking any equipment."[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]告示[2]在船架上.[3]"在拿走任何设备前[4]请先联系工作人员."[5]</Translation>
   </Sentence>
   <Sentence id="488">
     <Commands>
@@ -5213,8 +5131,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden boat[2].[3]It is covered in scratches.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]木船[2].[3]上面伤痕累累.[4]</Translation>
   </Sentence>
   <Sentence id="489">
     <Commands>
@@ -5225,8 +5142,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden boat[2].[3]It is covered by a tarpaulin.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]木船[2].[3]上面披着块篷布.[4]</Translation>
   </Sentence>
   <Sentence id="490">
     <Commands>
@@ -5238,8 +5154,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]note[2] on the boat rack.[3]"Dinghy:[4]Takes 2 people."[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]告示[2]在船架上.[3]"小艇:[4]可乘两人."[5]</Translation>
   </Sentence>
   <Sentence id="491">
     <Commands>
@@ -5251,8 +5166,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]note[2] on the boat rack.[3]"Dinghy:[4]Takes 4 people."[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]告示[2]在船架上.[3]"小艇:[4]可乘四人."[5]</Translation>
   </Sentence>
   <Sentence id="492">
     <Commands>
@@ -5264,8 +5178,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small front window[2].[3]You can see the path around Lake[4]Juliet.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]小小的前窗[2].[3]可以看见朱丽叶湖边的一条[4]小路.[5]</Translation>
   </Sentence>
   <Sentence id="493">
     <Commands>
@@ -5275,8 +5188,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden boat[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]木船[2].[3]</Translation>
   </Sentence>
   <Sentence id="494">
     <Commands>
@@ -5286,8 +5198,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stepladder[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]折叠梯[2].[3]</Translation>
   </Sentence>
   <Sentence id="495">
     <Commands>
@@ -5299,8 +5210,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a closed [1]shutter[2].[3]Light from outside is shining through[4]holes in the metal.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有扇关着的[1]窗[2].[3]光从金属板上的小孔[4]照射进来.[5]</Translation>
   </Sentence>
   <Sentence id="496">
     <Commands>
@@ -5312,8 +5222,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]motorboat[2].[3]It is bobbing gently in the water.[4]This water must actually be the lake.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有辆[1]摩托艇[2].[3]在水面上轻轻地晃动着.[4]这一定是湖面.[5]</Translation>
   </Sentence>
   <Sentence id="497">
     <Commands>
@@ -5324,8 +5233,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]damaged boat[2].[3]Looks like it was being repaired...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]损坏了的船[2].[3]看上去在被修理中...[4]</Translation>
   </Sentence>
   <Sentence id="498">
     <Commands>
@@ -5335,8 +5243,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]damaged boat[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]坏了的船[2].[3]</Translation>
   </Sentence>
   <Sentence id="499">
     <Commands>
@@ -5348,8 +5255,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]red appliance[2].[3]It has a black hose connected to it.[4]I wonder what that is... [5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]红色的装置[2].[3]上面连着一根黑色的管子.[4]不知道是干什么用的... [5]</Translation>
   </Sentence>
   <Sentence id="500">
     <Commands>
@@ -5359,8 +5265,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]plastic containers[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]塑料容器[2].[3]</Translation>
   </Sentence>
   <Sentence id="501">
     <Commands>
@@ -5371,8 +5276,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]several paddles[2] leant up[3]against the wall.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有[1]几只桨[2]靠在[3]墙上.[4]</Translation>
   </Sentence>
   <Sentence id="502">
     <Commands>
@@ -5383,8 +5287,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small front window[2].[3]You can see the forest through it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]小小的前窗[2].[3]通过它可以看见森林.[4]</Translation>
   </Sentence>
   <Sentence id="503">
     <Commands>
@@ -5395,8 +5298,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It is full of cogs.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]硬纸箱[2].[3]里面装满了齿轮.[4]</Translation>
   </Sentence>
   <Sentence id="504">
     <Commands>
@@ -5408,8 +5310,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]technical drawing[2] on the wall.[3]It has explanations about the various[4]parts of the clock tower.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有幅[1]工程图[2]贴在墙上.[3]上面具体介绍了钟塔的[4]各个部分.[5]</Translation>
   </Sentence>
   <Sentence id="505">
     <Commands>
@@ -5421,8 +5322,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]technical drawing[2] on the wall.[3]It has warnings about the various [4]pieces of equipment in the clock tower.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有幅[1]工程图[2]贴在墙上.[3]上面是关于钟塔各个部件的[4]注意事项.[5]</Translation>
   </Sentence>
   <Sentence id="506">
     <Commands>
@@ -5434,8 +5334,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wrench[2] hanging from a hook.[3]I've seen one of these before![4]You can adjust the size.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]螺旋钳[2]插在一个钩子上面.[3]我以前见过这个![4]可以用这个来测量尺寸.[5]</Translation>
   </Sentence>
   <Sentence id="507">
     <Commands>
@@ -5445,8 +5344,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]adjustable wrench[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是个可以调节[1]的螺旋钳[2].[3]</Translation>
   </Sentence>
   <Sentence id="508">
     <Commands>
@@ -5457,8 +5355,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wrench[2] hanging from a hook.[3]It is smaller than the wrench beside it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]螺旋钳[2]插在一个钩子上面.[3]要比边上的螺旋钳小.[4]</Translation>
   </Sentence>
   <Sentence id="509">
     <Commands>
@@ -5469,8 +5366,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chisel[2] hanging from a hook.[3]It seems well used.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]凿子[2]挂在一个钩子上面.[3]看上去很好用.[4]</Translation>
   </Sentence>
   <Sentence id="510">
     <Commands>
@@ -5480,8 +5376,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]木制抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="511">
     <Commands>
@@ -5489,8 +5384,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="512">
     <Commands>
@@ -5500,8 +5394,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]木制抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="513">
     <Commands>
@@ -5516,8 +5409,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small[2] [3]mechanism[4].[5]Some small cogs are enmeshed with[6]each other.[7]This looks like part of a clock.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]小的[2][3]机械装置[4].[5]几个小齿轮彼此[6]相嵌.[7]看上去是一只钟的一部分.[8]</Translation>
   </Sentence>
   <Sentence id="514">
     <Commands>
@@ -5527,8 +5419,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]clock part[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]clock part[2].[3]</Translation>
   </Sentence>
   <Sentence id="515">
     <Commands>
@@ -5538,8 +5429,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
   </Sentence>
   <Sentence id="516">
     <Commands>
@@ -5549,8 +5439,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains a [1]box of nails[2]. [3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It contains a [1]box of nails[2]. [3]</Translation>
   </Sentence>
   <Sentence id="517">
     <Commands>
@@ -5560,8 +5449,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
   </Sentence>
   <Sentence id="518">
     <Commands>
@@ -5573,8 +5461,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are papers that look like[1]instruction leaflets[2].[3]For a machine?[4]Oh man, they look complex.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are papers that look like[1]instruction leaflets[2].[3]For a machine?[4]Oh man, they look complex.[5]</Translation>
   </Sentence>
   <Sentence id="519">
     <Commands>
@@ -5585,8 +5472,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of papers that look[1]like[2] operating instructions[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个stack of papers that look[1]like[2] operating instructions[3].[4]</Translation>
   </Sentence>
   <Sentence id="520">
     <Commands>
@@ -5597,8 +5483,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]can full of liquid[2].[3]It says... "Lubricating oil".[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]can full of liquid[2].[3]It says... "Lubricating oil".[4]</Translation>
   </Sentence>
   <Sentence id="521">
     <Commands>
@@ -5608,8 +5493,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]can of lubricating oil[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]can of lubricating oil[2].[3]</Translation>
   </Sentence>
   <Sentence id="522">
     <Commands>
@@ -5620,8 +5504,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of [1]thick books[2]. [3]Every single one is about clocks![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个stack of [1]thick books[2]. [3]Every single one is about clocks![4]</Translation>
   </Sentence>
   <Sentence id="523">
     <Commands>
@@ -5632,8 +5515,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blueprint[2] on the desk.[3]Maybe it's of the clock tower.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]blueprint[2] on the desk.[3]Maybe it's of the clock tower.[4]</Translation>
   </Sentence>
   <Sentence id="524">
     <Commands>
@@ -5654,8 +5536,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a small [1]steel cabinet with[2]drawers[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个small [1]steel cabinet with[2]drawers[3].[4]</Translation>
   </Sentence>
   <Sentence id="526">
     <Commands>
@@ -5667,8 +5548,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a huge pile of [1]papers[2].[3]They look like manuals for the clock[4]parts.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个huge pile of [1]papers[2].[3]They look like manuals for the clock[4]parts.[5]</Translation>
   </Sentence>
   <Sentence id="527">
     <Commands>
@@ -5679,8 +5559,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a huge pile of [1]manuals for the[2]clock parts[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个huge pile of [1]manuals for the[2]clock parts[3].[4]</Translation>
   </Sentence>
   <Sentence id="528">
     <Commands>
@@ -5691,8 +5570,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]thick books[2].[3]They are about clocks.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]thick books[2].[3]They are about clocks.[4]</Translation>
   </Sentence>
   <Sentence id="529">
     <Commands>
@@ -5702,8 +5580,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]books about clocks[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]books about clocks[2].[3]</Translation>
   </Sentence>
   <Sentence id="530">
     <Commands>
@@ -5715,8 +5592,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]hammer[2].[3]No need for this now I've fixed the[4]stairs![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]hammer[2].[3]No need for this now I've fixed the[4]stairs![5]</Translation>
   </Sentence>
   <Sentence id="531">
     <Commands>
@@ -5726,8 +5602,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]hammer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]hammer[2].[3]</Translation>
   </Sentence>
   <Sentence id="532">
     <Commands>
@@ -5739,8 +5614,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]box of nails[2].[3]I hope nobody minds that I used [4]these...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]box of nails[2].[3]I hope nobody minds that I used [4]these...[5]</Translation>
   </Sentence>
   <Sentence id="533">
     <Commands>
@@ -5750,8 +5624,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]box of nails[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]box of nails[2].[3]</Translation>
   </Sentence>
   <Sentence id="534">
     <Commands>
@@ -5762,8 +5635,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]thick books[2].[3]They are about clock towers.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]thick books[2].[3]They are about clock towers.[4]</Translation>
   </Sentence>
   <Sentence id="535">
     <Commands>
@@ -5774,8 +5646,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]books about clock[2]towers[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]books about clock[2]towers[3].[4]</Translation>
   </Sentence>
   <Sentence id="536">
     <Commands>
@@ -5788,8 +5659,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal can[2].[3]It has some small paintbrushes stored[4]in it.[5]Maybe they're used to apply oil?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]metal can[2].[3]It has some small paintbrushes stored[4]in it.[5]Maybe they're used to apply oil?[6]</Translation>
   </Sentence>
   <Sentence id="537">
     <Commands>
@@ -5800,8 +5670,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal can with some[2]paintbrushes[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]metal can with some[2]paintbrushes[3].[4]</Translation>
   </Sentence>
   <Sentence id="538">
     <Commands>
@@ -5821,8 +5690,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains a [1]small piece of wood[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It contains a [1]small piece of wood[2].[3]</Translation>
   </Sentence>
   <Sentence id="540">
     <Commands>
@@ -5832,8 +5700,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains a [1]hammer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It contains a [1]hammer[2].[3]</Translation>
   </Sentence>
   <Sentence id="541">
     <Commands>
@@ -5845,8 +5712,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]small wooden boxes[2].[3]They look like storage boxes for very [4]small parts.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]small wooden boxes[2].[3]They look like storage boxes for very [4]small parts.[5]</Translation>
   </Sentence>
   <Sentence id="542">
     <Commands>
@@ -5856,8 +5722,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="543">
     <Commands>
@@ -5869,8 +5734,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]wooden stairs[2].[3]They have fallen apart, so there is no[4]way up to the next floor.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]wooden stairs[2].[3]They have fallen apart, so there is no[4]way up to the next floor.[5]</Translation>
   </Sentence>
   <Sentence id="544">
     <Commands>
@@ -5881,8 +5745,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]round wall clock[2].[3]It has stopped.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]round wall clock[2].[3]It has stopped.[4]</Translation>
   </Sentence>
   <Sentence id="545">
     <Commands>
@@ -5894,8 +5757,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]light[2] hanging from the[3]ceiling.[4]The lampshade is covered in dust.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]light[2] hanging from the[3]ceiling.[4]The lampshade is covered in dust.[5]</Translation>
   </Sentence>
   <Sentence id="546">
     <Commands>
@@ -5905,8 +5767,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]picture[2] hanging on the wall.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]picture[2] hanging on the wall.[3]</Translation>
   </Sentence>
   <Sentence id="547">
     <Commands>
@@ -5919,8 +5780,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The picture is yellow, with numbers[1]written inside a circle.[2]What's this supposed to be?[3]There are numbers running all the way[4]around the circle...[5]Pretty weird picture.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The picture is yellow, with numbers[1]written inside a circle.[2]What's this supposed to be?[3]There are numbers running all the way[4]around the circle...[5]Pretty weird picture.[6]</Translation>
   </Sentence>
   <Sentence id="548">
     <Commands>
@@ -5930,8 +5790,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The picture is yellow, with numbers[1]written inside a circle.[2]Pretty weird picture.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The picture is yellow, with numbers[1]written inside a circle.[2]Pretty weird picture.[3]</Translation>
   </Sentence>
   <Sentence id="549">
     <Commands>
@@ -5941,8 +5800,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]picture[2] hanging on the wall.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]picture[2] hanging on the wall.[3]</Translation>
   </Sentence>
   <Sentence id="550">
     <Commands>
@@ -5952,8 +5810,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The picture is blue and looks like[1]flowing water.[2]Pretty abstract. Cool.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The picture is blue and looks like[1]flowing water.[2]Pretty abstract. Cool.[3]</Translation>
   </Sentence>
   <Sentence id="551">
     <Commands>
@@ -5965,8 +5822,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]side window[2] of the clock[3]tower.[4]It has thick vertical iron bars on it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]This is the [1]side window[2] of the clock[3]tower.[4]It has thick vertical iron bars on it.[5]</Translation>
   </Sentence>
   <Sentence id="552">
     <Commands>
@@ -5976,8 +5832,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]steel door[2] on the machine.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]steel door[2] on the machine.[3]</Translation>
   </Sentence>
   <Sentence id="553">
     <Commands>
@@ -5990,8 +5845,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plate with an embossed[2]design[3] on the side of the machine.[4]There are three keyholes lined up [5]underneath the design.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plate with an embossed[2]design[3] on the side of the machine.[4]There are three keyholes lined up [5]underneath the design.[6]</Translation>
   </Sentence>
   <Sentence id="554">
     <Commands>
@@ -6004,8 +5858,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]towel[2] laid out on the table.[3]The towel has oil stains on it.[4]It looks like it was used for cleaning[5]the clock tower machinery.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]towel[2] laid out on the table.[3]The towel has oil stains on it.[4]It looks like it was used for cleaning[5]the clock tower machinery.[6]</Translation>
   </Sentence>
   <Sentence id="555">
     <Commands>
@@ -6015,8 +5868,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] brush[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There is a[1] brush[2].[3]</Translation>
   </Sentence>
   <Sentence id="556">
     <Commands>
@@ -6027,8 +5879,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]bucket[2].[3]It is full of cleaning equipment.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]bucket[2].[3]It is full of cleaning equipment.[4]</Translation>
   </Sentence>
   <Sentence id="557">
     <Commands>
@@ -6042,8 +5893,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wiper[2] leaning against the[3]wall.[4]The end is made of soft rubber.[5]Maybe it's for cleaning the glass clock[6]faces?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wiper[2] leaning against the[3]wall.[4]The end is made of soft rubber.[5]Maybe it's for cleaning the glass clock[6]faces?[7]</Translation>
   </Sentence>
   <Sentence id="558">
     <Commands>
@@ -6053,8 +5903,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]window wiper[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]window wiper[2].[3]</Translation>
   </Sentence>
   <Sentence id="559">
     <Commands>
@@ -6064,8 +5913,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Some [1]cogs[2] are turning.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Some [1]cogs[2] are turning.[3]</Translation>
   </Sentence>
   <Sentence id="560">
     <Commands>
@@ -6076,8 +5924,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A [1]huge bell[2] is hanging from the roof.[3]I wonder what it sounds like?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]A [1]huge bell[2] is hanging from the roof.[3]I wonder what it sounds like?[4]</Translation>
   </Sentence>
   <Sentence id="561">
     <Commands>
@@ -6087,8 +5934,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A [1]huge bell[2] is hanging from the roof.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]A [1]huge bell[2] is hanging from the roof.[3]</Translation>
   </Sentence>
   <Sentence id="562">
     <Commands>
@@ -6099,8 +5945,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]cracks[2] on one of the[3]columns.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are [1]cracks[2] on one of the[3]columns.[4]</Translation>
   </Sentence>
   <Sentence id="563">
     <Commands>
@@ -6111,8 +5956,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wall clock[2] on the shelf.[3]It is stopped.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wall clock[2] on the shelf.[3]It is stopped.[4]</Translation>
   </Sentence>
   <Sentence id="564">
     <Commands>
@@ -6122,8 +5966,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stopped wall clock[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]stopped wall clock[2].[3]</Translation>
   </Sentence>
   <Sentence id="565">
     <Commands>
@@ -6135,8 +5978,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small picture frame[2].[3]It has a layer of white dust.[4]It's the clock tower![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small picture frame[2].[3]It has a layer of white dust.[4]It's the clock tower![5]</Translation>
   </Sentence>
   <Sentence id="566">
     <Commands>
@@ -6148,8 +5990,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]dusty[2] [3]picture frame[4].[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]dusty[2] [3]picture frame[4].[5]</Translation>
   </Sentence>
   <Sentence id="567">
     <Commands>
@@ -6160,8 +6001,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden box[2].[3]The inside is full of hardened glue.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden box[2].[3]The inside is full of hardened glue.[4]</Translation>
   </Sentence>
   <Sentence id="568">
     <Commands>
@@ -6174,8 +6014,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden box[2].[3]It contains some paintbrushes.[4]Their bristles have gone hard and [5]brittle.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden box[2].[3]It contains some paintbrushes.[4]Their bristles have gone hard and [5]brittle.[6]</Translation>
   </Sentence>
   <Sentence id="569">
     <Commands>
@@ -6187,8 +6026,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It looks like a fantasy scene, with the[4]mountains reflected in the misty lake.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It looks like a fantasy scene, with the[4]mountains reflected in the misty lake.[5]</Translation>
   </Sentence>
   <Sentence id="570">
     <Commands>
@@ -6199,8 +6037,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]Hey, that's this house![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]Hey, that's this house![4]</Translation>
   </Sentence>
   <Sentence id="571">
     <Commands>
@@ -6212,8 +6049,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It is a photograph of a lake.[4]Is that Lake Juliet?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It is a photograph of a lake.[4]Is that Lake Juliet?[5]</Translation>
   </Sentence>
   <Sentence id="572">
     <Commands>
@@ -6226,8 +6062,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]framed[2] [3]award[4].[5]It looks like a photography award.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]framed[2] [3]award[4].[5]It looks like a photography award.[6]</Translation>
   </Sentence>
   <Sentence id="573">
     <Commands>
@@ -6238,8 +6073,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]brown jar[2].[3]The label says "Peanut Butter".[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]brown jar[2].[3]The label says "Peanut Butter".[4]</Translation>
   </Sentence>
   <Sentence id="574">
     <Commands>
@@ -6251,8 +6085,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]translucent jars[2].[3]It seems like there was honey in them[4]once.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]translucent jars[2].[3]It seems like there was honey in them[4]once.[5]</Translation>
   </Sentence>
   <Sentence id="575">
     <Commands>
@@ -6263,8 +6096,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]small white plates[2].[3]They are covered in dust.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]small white plates[2].[3]They are covered in dust.[4]</Translation>
   </Sentence>
   <Sentence id="576">
     <Commands>
@@ -6275,8 +6107,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]glasses[2].[3]They look like champagne flutes.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]glasses[2].[3]They look like champagne flutes.[4]</Translation>
   </Sentence>
   <Sentence id="577">
     <Commands>
@@ -6286,8 +6117,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]champagne flutes[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]champagne flutes[2].[3]</Translation>
   </Sentence>
   <Sentence id="578">
     <Commands>
@@ -6299,8 +6129,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]bottles[2].[3]The labels are almost too faded to[4]read, but they look like condiments.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]bottles[2].[3]The labels are almost too faded to[4]read, but they look like condiments.[5]</Translation>
   </Sentence>
   <Sentence id="579">
     <Commands>
@@ -6310,8 +6139,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]white teacups[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]white teacups[2].[3]</Translation>
   </Sentence>
   <Sentence id="580">
     <Commands>
@@ -6321,8 +6149,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]ladle[2] hanging from a rack.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]ladle[2] hanging from a rack.[3]</Translation>
   </Sentence>
   <Sentence id="581">
     <Commands>
@@ -6334,8 +6161,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]plates and bowls[2] spread out[3]over the counter.[4]They are all dusty.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are [1]plates and bowls[2] spread out[3]over the counter.[4]They are all dusty.[5]</Translation>
   </Sentence>
   <Sentence id="582">
     <Commands>
@@ -6349,8 +6175,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]pots and pans[2] thrown into[3]the sink.[4]They look like they were not cleaned[5]after being used.[6]This needs a biohazard sign.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are [1]pots and pans[2] thrown into[3]the sink.[4]They look like they were not cleaned[5]after being used.[6]This needs a biohazard sign.[7]</Translation>
   </Sentence>
   <Sentence id="583">
     <Commands>
@@ -6361,8 +6186,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]dirty pots and pans[2] in the[3]sink.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are [1]dirty pots and pans[2] in the[3]sink.[4]</Translation>
   </Sentence>
   <Sentence id="584">
     <Commands>
@@ -6373,8 +6197,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]kettle[2] on top of the cooker.[3]The outside of it is black with soot.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]kettle[2] on top of the cooker.[3]The outside of it is black with soot.[4]</Translation>
   </Sentence>
   <Sentence id="585">
     <Commands>
@@ -6384,8 +6207,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cooker[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]cooker[2].[3]</Translation>
   </Sentence>
   <Sentence id="586">
     <Commands>
@@ -6395,8 +6217,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="587">
     <Commands>
@@ -6406,8 +6227,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lever[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]lever[2].[3]</Translation>
   </Sentence>
   <Sentence id="588">
     <Commands>
@@ -6417,8 +6237,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lever[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]lever[2].[3]</Translation>
   </Sentence>
   <Sentence id="589">
     <Commands>
@@ -6431,8 +6250,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains some [1]trays [2]and[3] cleaning[4]products[5].[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It contains some [1]trays [2]and[3] cleaning[4]products[5].[6]</Translation>
   </Sentence>
   <Sentence id="590">
     <Commands>
@@ -6442,8 +6260,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="591">
     <Commands>
@@ -6455,8 +6272,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains some [1]bowls [2]and a[3] pot[4].[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It contains some [1]bowls [2]and a[3] pot[4].[5]</Translation>
   </Sentence>
   <Sentence id="592">
     <Commands>
@@ -6466,8 +6282,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="593">
     <Commands>
@@ -6477,8 +6292,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains some [1]pots and pans[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It contains some [1]pots and pans[2].[3]</Translation>
   </Sentence>
   <Sentence id="594">
     <Commands>
@@ -6491,8 +6305,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]fireplace[2].[3]It is made of red brick.[4]The remains of burnt logs have been[5]left in the fireplace.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]fireplace[2].[3]It is made of red brick.[4]The remains of burnt logs have been[5]left in the fireplace.[6]</Translation>
   </Sentence>
   <Sentence id="595">
     <Commands>
@@ -6502,8 +6315,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]brick fireplace[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]brick fireplace[2].[3]</Translation>
   </Sentence>
   <Sentence id="596">
     <Commands>
@@ -6516,8 +6328,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]steel tools[2] hanging[3]from the wall.[4]I guess they must be used for cleaning[5]up after using the fireplace.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]steel tools[2] hanging[3]from the wall.[4]I guess they must be used for cleaning[5]up after using the fireplace.[6]</Translation>
   </Sentence>
   <Sentence id="597">
     <Commands>
@@ -6527,8 +6338,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]fireplace cleaning tools[2]hanging from the wall.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]fireplace cleaning tools[2]hanging from the wall.[3]</Translation>
   </Sentence>
   <Sentence id="598">
     <Commands>
@@ -6539,8 +6349,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large framed picture[2].[3]It is a photograph of the lake.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large framed picture[2].[3]It is a photograph of the lake.[4]</Translation>
   </Sentence>
   <Sentence id="599">
     <Commands>
@@ -6553,8 +6362,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]framed[2] [3]award[4].[5]It looks like a photography award.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]framed[2] [3]award[4].[5]It looks like a photography award.[6]</Translation>
   </Sentence>
   <Sentence id="600">
     <Commands>
@@ -6564,8 +6372,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]red check napkin[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]red check napkin[2].[3]</Translation>
   </Sentence>
   <Sentence id="601">
     <Commands>
@@ -6576,8 +6383,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small photograph[2].[3]It is of the lake at night.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small photograph[2].[3]It is of the lake at night.[4]</Translation>
   </Sentence>
   <Sentence id="602">
     <Commands>
@@ -6589,8 +6395,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small photograph[2].[3]It is of the lake surrounded by mist.[4]All these photos are of Lake Juliet...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small photograph[2].[3]It is of the lake surrounded by mist.[4]All these photos are of Lake Juliet...[5]</Translation>
   </Sentence>
   <Sentence id="603">
     <Commands>
@@ -6601,8 +6406,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small photograph[2].[3]It is of the lake surrounded by mist.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small photograph[2].[3]It is of the lake surrounded by mist.[4]</Translation>
   </Sentence>
   <Sentence id="604">
     <Commands>
@@ -6613,8 +6417,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]photo albums[2] on the shelf.[3]They have years written on the spine.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are [1]photo albums[2] on the shelf.[3]They have years written on the spine.[4]</Translation>
   </Sentence>
   <Sentence id="605">
     <Commands>
@@ -6626,8 +6429,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]photo albums[2] on the shelf.[3]They have dates from 1998 written on[4]the spine.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are [1]photo albums[2] on the shelf.[3]They have dates from 1998 written on[4]the spine.[5]</Translation>
   </Sentence>
   <Sentence id="606">
     <Commands>
@@ -6639,8 +6441,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some[1] adult-sized footprints[2].[3]They lead to the door to the back[4]room.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are some[1] adult-sized footprints[2].[3]They lead to the door to the back[4]room.[5]</Translation>
   </Sentence>
   <Sentence id="607">
     <Commands>
@@ -6652,8 +6453,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]child-sized footprints[2].[3]They lead to the door to the back[4]room.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]child-sized footprints[2].[3]They lead to the door to the back[4]room.[5]</Translation>
   </Sentence>
   <Sentence id="608">
     <Commands>
@@ -6665,8 +6465,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]Something is stuck inside it, so it is[4]impossible to open.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]drawer[2].[3]Something is stuck inside it, so it is[4]impossible to open.[5]</Translation>
   </Sentence>
   <Sentence id="609">
     <Commands>
@@ -6677,8 +6476,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small window[2].[3]Dense forest can be seen through it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small window[2].[3]Dense forest can be seen through it.[4]</Translation>
   </Sentence>
   <Sentence id="610">
     <Commands>
@@ -6689,8 +6487,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]door[2].[3]The door is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]door[2].[3]The door is locked.[4]</Translation>
   </Sentence>
   <Sentence id="611">
     <Commands>
@@ -6700,8 +6497,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]locked door[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]locked door[2].[3]</Translation>
   </Sentence>
   <Sentence id="612">
     <Commands>
@@ -6712,8 +6508,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]door[2].[3]The door is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]door[2].[3]The door is locked.[4]</Translation>
   </Sentence>
   <Sentence id="613">
     <Commands>
@@ -6723,8 +6518,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]locked door[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]locked door[2].[3]</Translation>
   </Sentence>
   <Sentence id="614">
     <Commands>
@@ -6738,8 +6532,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]bottles and books[2].[3]Camera manuals and...some kind of[4]chemical?[5]Must be something to do with[6]developing photos.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]bottles and books[2].[3]Camera manuals and...some kind of[4]chemical?[5]Must be something to do with[6]developing photos.[7]</Translation>
   </Sentence>
   <Sentence id="615">
     <Commands>
@@ -6750,8 +6543,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]camera manuals and[2]chemicals[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]camera manuals and[2]chemicals[3].[4]</Translation>
   </Sentence>
   <Sentence id="616">
     <Commands>
@@ -6765,8 +6557,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]bottles[2].[3]The labels say "Developing Fluid" and[4]"Fixative".[5]So, you use these to develop [6]photos...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]bottles[2].[3]The labels say "Developing Fluid" and[4]"Fixative".[5]So, you use these to develop [6]photos...[7]</Translation>
   </Sentence>
   <Sentence id="617">
     <Commands>
@@ -6777,8 +6568,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]photo-developing[2]chemicals[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]photo-developing[2]chemicals[3].[4]</Translation>
   </Sentence>
   <Sentence id="618">
     <Commands>
@@ -6789,8 +6579,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]mystery novels[2].[3]All the spines are faded.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]mystery novels[2].[3]All the spines are faded.[4]</Translation>
   </Sentence>
   <Sentence id="619">
     <Commands>
@@ -6801,8 +6590,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]camera bag[2].[3]Being in the sun has caused it to fade.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]camera bag[2].[3]Being in the sun has caused it to fade.[4]</Translation>
   </Sentence>
   <Sentence id="620">
     <Commands>
@@ -6812,8 +6600,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are files full of [1]film negatives[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are files full of [1]film negatives[2].[3]</Translation>
   </Sentence>
   <Sentence id="621">
     <Commands>
@@ -6825,8 +6612,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]photo albums[2].[3]They are full of photographs of the[4]lake and forest.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]photo albums[2].[3]They are full of photographs of the[4]lake and forest.[5]</Translation>
   </Sentence>
   <Sentence id="622">
     <Commands>
@@ -6837,8 +6623,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]photo albums of the[2]lake and forest[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]photo albums of the[2]lake and forest[3].[4]</Translation>
   </Sentence>
   <Sentence id="623">
     <Commands>
@@ -6850,8 +6635,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a shelf full of [1]photo albums[2].[3]The lower halves of the spines have[4]faded in the sunlight.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个shelf full of [1]photo albums[2].[3]The lower halves of the spines have[4]faded in the sunlight.[5]</Translation>
   </Sentence>
   <Sentence id="624">
     <Commands>
@@ -6862,8 +6646,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a shelf full of [1]photo albums[2].[3]They are dusty, but lined up neatly.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个shelf full of [1]photo albums[2].[3]They are dusty, but lined up neatly.[4]</Translation>
   </Sentence>
   <Sentence id="625">
     <Commands>
@@ -6874,8 +6657,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It was taken on the lake shore.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It was taken on the lake shore.[4]</Translation>
   </Sentence>
   <Sentence id="626">
     <Commands>
@@ -6888,8 +6670,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]It is stuck and will not open.[4]Uhh...[5]I can't just force it open...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]drawer[2].[3]It is stuck and will not open.[4]Uhh...[5]I can't just force it open...[6]</Translation>
   </Sentence>
   <Sentence id="627">
     <Commands>
@@ -6900,8 +6681,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]It is stuck and will not open.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]drawer[2].[3]It is stuck and will not open.[4]</Translation>
   </Sentence>
   <Sentence id="628">
     <Commands>
@@ -6913,8 +6693,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden bed frame[2].[3]There is a layer of dust all over the[4]mattress.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden bed frame[2].[3]那里有个layer of dust all over the[4]mattress.[5]</Translation>
   </Sentence>
   <Sentence id="629">
     <Commands>
@@ -6924,8 +6703,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is something that looks like a[1]trapdoor[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There is something that looks like a[1]trapdoor[2].[3]</Translation>
   </Sentence>
   <Sentence id="630">
     <Commands>
@@ -6937,8 +6715,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden bed frame[2].[3]There is a layer of dust all over the[4]mattress.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden bed frame[2].[3]那里有个layer of dust all over the[4]mattress.[5]</Translation>
   </Sentence>
   <Sentence id="631">
     <Commands>
@@ -6948,8 +6725,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a wooden [1]side table[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个wooden [1]side table[2].[3]</Translation>
   </Sentence>
   <Sentence id="632">
     <Commands>
@@ -6963,8 +6739,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]framed[2] [3]award[4].[5]It looks like some kind of photography[6]award.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]framed[2] [3]award[4].[5]It looks like some kind of photography[6]award.[7]</Translation>
   </Sentence>
   <Sentence id="633">
     <Commands>
@@ -6974,8 +6749,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]camera tripod[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]camera tripod[2].[3]</Translation>
   </Sentence>
   <Sentence id="634">
     <Commands>
@@ -6987,8 +6761,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white bag[2] leaning against[3]the wall.[4]It looks like a tripod bag.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]white bag[2] leaning against[3]the wall.[4]It looks like a tripod bag.[5]</Translation>
   </Sentence>
   <Sentence id="635">
     <Commands>
@@ -7000,8 +6773,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows some reddish mountains[4]under a blue sky.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows some reddish mountains[4]under a blue sky.[5]</Translation>
   </Sentence>
   <Sentence id="636">
     <Commands>
@@ -7013,8 +6785,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows a young woman smiling in a[4]field of flowers.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows a young woman smiling in a[4]field of flowers.[5]</Translation>
   </Sentence>
   <Sentence id="637">
     <Commands>
@@ -7026,8 +6797,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows the sun just rising above the[4]horizon over the lake.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows the sun just rising above the[4]horizon over the lake.[5]</Translation>
   </Sentence>
   <Sentence id="638">
     <Commands>
@@ -7039,8 +6809,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows a bright orange sunset over[4]the lake.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows a bright orange sunset over[4]the lake.[5]</Translation>
   </Sentence>
   <Sentence id="639">
     <Commands>
@@ -7050,8 +6819,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]newspaper cuttings[2]pinned to the wall.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]newspaper cuttings[2]pinned to the wall.[3]</Translation>
   </Sentence>
   <Sentence id="640">
     <Commands>
@@ -7061,8 +6829,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]newspaper cuttings[2]pinned to the wall.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]newspaper cuttings[2]pinned to the wall.[3]</Translation>
   </Sentence>
   <Sentence id="641">
     <Commands>
@@ -7073,8 +6840,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden desk[2].[3]It is covered in shallow scratches.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden desk[2].[3]It is covered in shallow scratches.[4]</Translation>
   </Sentence>
   <Sentence id="642">
     <Commands>
@@ -7086,8 +6852,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]back window[2] of the house.[3]You can see the forest surrounding [4]Lake Juliet through it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]This is the [1]back window[2] of the house.[3]You can see the forest surrounding [4]Lake Juliet through it.[5]</Translation>
   </Sentence>
   <Sentence id="643">
     <Commands>
@@ -7098,8 +6863,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass-fronted cabinet[2].[3]It is empty.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]glass-fronted cabinet[2].[3]It is empty.[4]</Translation>
   </Sentence>
   <Sentence id="644">
     <Commands>
@@ -7109,8 +6873,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="645">
     <Commands>
@@ -7118,8 +6881,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="646">
     <Commands>
@@ -7129,8 +6891,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="647">
     <Commands>
@@ -7138,8 +6899,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="648">
     <Commands>
@@ -7149,8 +6909,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="649">
     <Commands>
@@ -7158,8 +6917,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="650">
     <Commands>
@@ -7169,8 +6927,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="651">
     <Commands>
@@ -7178,8 +6935,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="652">
     <Commands>
@@ -7191,8 +6947,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]side window[2] of the house.[3]A tree stands against the wall, so no[4]light comes through the window.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]This is the [1]side window[2] of the house.[3]A tree stands against the wall, so no[4]light comes through the window.[5]</Translation>
   </Sentence>
   <Sentence id="653">
     <Commands>
@@ -7204,8 +6959,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows the lake bathed in a sunset[4]glow.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows the lake bathed in a sunset[4]glow.[5]</Translation>
   </Sentence>
   <Sentence id="654">
     <Commands>
@@ -7217,8 +6971,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It captures the exact moment the sun[4]comes above the horizon.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It captures the exact moment the sun[4]comes above the horizon.[5]</Translation>
   </Sentence>
   <Sentence id="655">
     <Commands>
@@ -7228,8 +6981,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are lots of [1]chemicals[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There are lots of [1]chemicals[2].[3]</Translation>
   </Sentence>
   <Sentence id="656">
     <Commands>
@@ -7244,8 +6996,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal device[2].[3]There is a label on the side.[4]"Take care not to trap your fingers[5]in the mechanism during operation."[6]It's covered in rust... [7]What's it for?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]metal device[2].[3]那里有个label on the side.[4]"Take care not to trap your fingers[5]in the mechanism during operation."[6]It's covered in rust... [7]What's it for?[8]</Translation>
   </Sentence>
   <Sentence id="657">
     <Commands>
@@ -7258,8 +7009,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]rusted metal device[2].[3]There is a label on the side.[4]"Take care not to trap your fingers[5]in the mechanism during operation."[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]rusted metal device[2].[3]那里有个label on the side.[4]"Take care not to trap your fingers[5]in the mechanism during operation."[6]</Translation>
   </Sentence>
   <Sentence id="658">
     <Commands>
@@ -7272,8 +7022,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stack of trays[2].[3]They have traces of chemicals on them.[4]Someone must have developed photos[5]down here.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]stack of trays[2].[3]They have traces of chemicals on them.[4]Someone must have developed photos[5]down here.[6]</Translation>
   </Sentence>
   <Sentence id="659">
     <Commands>
@@ -7284,8 +7033,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]white trays[2].[3]They have traces of chemicals on them.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]white trays[2].[3]They have traces of chemicals on them.[4]</Translation>
   </Sentence>
   <Sentence id="660">
     <Commands>
@@ -7297,8 +7045,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of [1]small trays[2].[3]They are full of beakers and bottles of [4]chemicals.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个stack of [1]small trays[2].[3]They are full of beakers and bottles of [4]chemicals.[5]</Translation>
   </Sentence>
   <Sentence id="661">
     <Commands>
@@ -7310,8 +7057,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]bottles[2].[3]They look like they contain photograph[4]developing chemicals.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]bottles[2].[3]They look like they contain photograph[4]developing chemicals.[5]</Translation>
   </Sentence>
   <Sentence id="662">
     <Commands>
@@ -7322,8 +7068,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a selection of [1]differently sized [2]beakers[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个selection of [1]differently sized [2]beakers[3].[4]</Translation>
   </Sentence>
   <Sentence id="663">
     <Commands>
@@ -7333,8 +7078,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a single [1]electric hob[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个single [1]electric hob[2].[3]</Translation>
   </Sentence>
   <Sentence id="664">
     <Commands>
@@ -7344,8 +7088,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="665">
     <Commands>
@@ -7355,8 +7098,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a sheet of [1]drawing paper[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个sheet of [1]drawing paper[2].[3]</Translation>
   </Sentence>
   <Sentence id="666">
     <Commands>
@@ -7367,8 +7109,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small jar[2].[3]It is full of a pale pink liquid.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small jar[2].[3]It is full of a pale pink liquid.[4]</Translation>
   </Sentence>
   <Sentence id="667">
     <Commands>
@@ -7378,8 +7119,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass dip pen[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]glass dip pen[2].[3]</Translation>
   </Sentence>
   <Sentence id="668">
     <Commands>
@@ -7390,8 +7130,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]bathtub[2].[3]It is covered in mould.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]bathtub[2].[3]It is covered in mould.[4]</Translation>
   </Sentence>
   <Sentence id="669">
     <Commands>
@@ -7402,8 +7141,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shower curtain[2].[3]It has turned yellow with age.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]shower curtain[2].[3]It has turned yellow with age.[4]</Translation>
   </Sentence>
   <Sentence id="670">
     <Commands>
@@ -7415,8 +7153,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]toilet[2].[3]It is filthy. Do not even think about[4]using it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]toilet[2].[3]It is filthy. Do not even think about[4]using it.[5]</Translation>
   </Sentence>
   <Sentence id="671">
     <Commands>
@@ -7428,8 +7165,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]black and white photograph[2]hanging from the rail.[3]It looks like a picture of the clock face[4]from the clock tower.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]black and white photograph[2]hanging from the rail.[3]It looks like a picture of the clock face[4]from the clock tower.[5]</Translation>
   </Sentence>
   <Sentence id="672">
     <Commands>
@@ -7441,8 +7177,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]black and white photograph[2]hanging from the rail.[3]Drat... It's so dark I can't see what it's[4]supposed to be.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]black and white photograph[2]hanging from the rail.[3]Drat... It's so dark I can't see what it's[4]supposed to be.[5]</Translation>
   </Sentence>
   <Sentence id="673">
     <Commands>
@@ -7455,8 +7190,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some film [1]negatives[2] hanging[3]from the rail.[4]Could they be from pictures of the [5]lake?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些film [1]negatives[2] hanging[3]from the rail.[4]Could they be from pictures of the [5]lake?[6]</Translation>
   </Sentence>
   <Sentence id="674">
     <Commands>
@@ -7468,8 +7202,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some film [1]negatives[2] hanging[3]from the rail.[4]Is that...the clock tower?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些film [1]negatives[2] hanging[3]from the rail.[4]Is that...the clock tower?[5]</Translation>
   </Sentence>
   <Sentence id="675">
     <Commands>
@@ -7481,8 +7214,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some film [1]negatives[2] hanging[3]from the rail.[4]Looks like these might be portraits.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些film [1]negatives[2] hanging[3]from the rail.[4]Looks like these might be portraits.[5]</Translation>
   </Sentence>
   <Sentence id="676">
     <Commands>
@@ -7495,8 +7227,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some film [1]negatives[2] hanging[3]from the rail.[4]Uhh... [5]No, can't make anything out.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些film [1]negatives[2] hanging[3]from the rail.[4]Uhh... [5]No, can't make anything out.[6]</Translation>
   </Sentence>
   <Sentence id="677">
     <Commands>
@@ -7506,8 +7237,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]circuit breaker[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]circuit breaker[2].[3]</Translation>
   </Sentence>
   <Sentence id="678">
     <Commands>
@@ -7518,8 +7248,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph of Richard and [2]Sayoko[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph of Richard and [2]Sayoko[3].[4]</Translation>
   </Sentence>
   <Sentence id="679">
     <Commands>
@@ -7531,8 +7260,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows an older couple leaning [4]towards each other and smiling.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows an older couple leaning [4]towards each other and smiling.[5]</Translation>
   </Sentence>
   <Sentence id="680">
     <Commands>
@@ -7544,8 +7272,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]An older man with glasses stands [4]beside a smiling younger man.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]An older man with glasses stands [4]beside a smiling younger man.[5]</Translation>
   </Sentence>
   <Sentence id="681">
     <Commands>
@@ -7557,8 +7284,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows a father and daughter smiling[4]into the camera.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]photograph[2].[3]It shows a father and daughter smiling[4]into the camera.[5]</Translation>
   </Sentence>
   <Sentence id="682">
     <Commands>
@@ -7568,8 +7294,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a pile of [1]broken furniture[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个pile of [1]broken furniture[2].[3]</Translation>
   </Sentence>
   <Sentence id="683">
     <Commands>
@@ -7580,8 +7305,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shovel[2] leaning against the [3]wall.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]shovel[2] leaning against the [3]wall.[4]</Translation>
   </Sentence>
   <Sentence id="684">
     <Commands>
@@ -7591,8 +7315,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a pair of [1]rubber boots[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个pair of [1]rubber boots[2].[3]</Translation>
   </Sentence>
   <Sentence id="685">
     <Commands>
@@ -7603,8 +7326,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]brush[2] leaning against the[3]wall.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]brush[2] leaning against the[3]wall.[4]</Translation>
   </Sentence>
   <Sentence id="686">
     <Commands>
@@ -7614,8 +7336,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]cleaning equipment[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]There is some [1]cleaning equipment[2].[3]</Translation>
   </Sentence>
   <Sentence id="687">
     <Commands>
@@ -7628,8 +7349,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a pile of [1]broken furniture[2].[3]The furniture is badly damaged and[4]may be beyond repair.[5]This place really feels abandoned...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个pile of [1]broken furniture[2].[3]The furniture is badly damaged and[4]may be beyond repair.[5]This place really feels abandoned...[6]</Translation>
   </Sentence>
   <Sentence id="688">
     <Commands>
@@ -7640,8 +7360,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a pile of [1]furniture broken[2]beyond repair[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个pile of [1]furniture broken[2]beyond repair[3].[4]</Translation>
   </Sentence>
   <Sentence id="689">
     <Commands>
@@ -7652,8 +7371,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden tub[2] hanging on the[3]wall.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden tub[2] hanging on the[3]wall.[4]</Translation>
   </Sentence>
   <Sentence id="690">
     <Commands>
@@ -7664,8 +7382,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]broom[2] leaning against the[3]wall.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]broom[2] leaning against the[3]wall.[4]</Translation>
   </Sentence>
   <Sentence id="691">
     <Commands>
@@ -7676,8 +7393,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]trowels[2] hanging from[3]the wall.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]trowels[2] hanging from[3]the wall.[4]</Translation>
   </Sentence>
   <Sentence id="692">
     <Commands>
@@ -7693,8 +7409,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large tree standing on its[2]own[3] by the lake.[4]The sunlight is filtering down through[5]its leaves.[6]The light coming through the leaves[7]is so soft...[8]I could spend all day here.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large tree standing on its[2]own[3] by the lake.[4]The sunlight is filtering down through[5]its leaves.[6]The light coming through the leaves[7]is so soft...[8]I could spend all day here.[9]</Translation>
   </Sentence>
   <Sentence id="693">
     <Commands>
@@ -7707,8 +7422,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large tree standing on its[2]own[3] by the lake.[4]The sunlight is filtering down through[5]its leaves.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large tree standing on its[2]own[3] by the lake.[4]The sunlight is filtering down through[5]its leaves.[6]</Translation>
   </Sentence>
   <Sentence id="694">
     <Commands>
@@ -7720,8 +7434,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]statue of a mermaid[2].[3]It looks wonderful against the[4]backdrop of Lake Juliet.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]statue of a mermaid[2].[3]It looks wonderful against the[4]backdrop of Lake Juliet.[5]</Translation>
   </Sentence>
   <Sentence id="695">
     <Commands>
@@ -7731,8 +7444,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stone pedestal[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]stone pedestal[2].[3]</Translation>
   </Sentence>
   <Sentence id="696">
     <Commands>
@@ -7757,8 +7469,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Translation>
   </Sentence>
   <Sentence id="697">
     <Commands>
@@ -7783,8 +7494,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Translation>
   </Sentence>
   <Sentence id="698">
     <Commands>
@@ -7809,8 +7519,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Translation>
   </Sentence>
   <Sentence id="699">
     <Commands>
@@ -7820,8 +7529,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]These are the [1]waters of Lake Juliet[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]These are the [1]waters of Lake Juliet[2].[3]</Translation>
   </Sentence>
   <Sentence id="700">
     <Commands>
@@ -7833,8 +7541,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]lake water[2] is completely clear.[3]You can see right down to the bottom.[4]But there is no sign of any fish.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The [1]lake water[2] is completely clear.[3]You can see right down to the bottom.[4]But there is no sign of any fish.[5]</Translation>
   </Sentence>
   <Sentence id="701">
     <Commands>
@@ -7845,8 +7552,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]statue of a mermaid[2].[3]The statue is beautifully crafted.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]statue of a mermaid[2].[3]The statue is beautifully crafted.[4]</Translation>
   </Sentence>
   <Sentence id="702">
     <Commands>
@@ -7856,8 +7562,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stone pedestal[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]stone pedestal[2].[3]</Translation>
   </Sentence>
   <Sentence id="703">
     <Commands>
@@ -7882,8 +7587,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Translation>
   </Sentence>
   <Sentence id="704">
     <Commands>
@@ -7908,8 +7612,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Translation>
   </Sentence>
   <Sentence id="705">
     <Commands>
@@ -7934,8 +7637,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]plaque[2].[3]This is what it says:[4]"To watch over the eternal beauty and[5]bounty of Lake Juliet, most precious[6]clear waters of our hometown, this[7]statue of a mermaid was erected by[8]Benjamin Graham on the 20th of July,[9]1959.[10]Dedicated with all of my love to my[11]daughter Charlotte and wife Lily, who[12]supported their father and husband[13]as he took up his sword, while the[14]family was blessed with the calm of[15]the moon and surrounded by love as if[16]by the fragrance of flowers, just as[17]depicted in the Graham family crest."[18]</Translation>
   </Sentence>
   <Sentence id="706">
     <Commands>
@@ -7945,8 +7647,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden gate[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden gate[2].[3]</Translation>
   </Sentence>
   <Sentence id="707">
     <Commands>
@@ -7956,8 +7657,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the gate.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]card lock[2] on the gate.[3]</Translation>
   </Sentence>
   <Sentence id="708">
     <Commands>
@@ -7970,8 +7670,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]door with a crest[2].[3]The crest has a flower, a moon and a[4]sword.[5]The door is locked.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]door with a crest[2].[3]The crest has a flower, a moon and a[4]sword.[5]The door is locked.[6]</Translation>
   </Sentence>
   <Sentence id="709">
     <Commands>
@@ -7984,8 +7683,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]door with a crest[2].[3]The crest has a flower, a moon and a[4]sword.[5]The door is locked.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]door with a crest[2].[3]The crest has a flower, a moon and a[4]sword.[5]The door is locked.[6]</Translation>
   </Sentence>
   <Sentence id="710">
     <Commands>
@@ -7996,8 +7694,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]boathouse door[2].[3]The door is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]This is the [1]boathouse door[2].[3]The door is locked.[4]</Translation>
   </Sentence>
   <Sentence id="711">
     <Commands>
@@ -8027,8 +7724,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small sign[2].[3]This is what it says:[4]"Temporarily Closed"[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]small sign[2].[3]This is what it says:[4]"Temporarily Closed"[5]</Translation>
   </Sentence>
   <Sentence id="714">
     <Commands>
@@ -8038,8 +7734,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of [1]wooden pails[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个stack of [1]wooden pails[2].[3]</Translation>
   </Sentence>
   <Sentence id="715">
     <Commands>
@@ -8058,8 +7753,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large sign[2] hung on the wall.[3]This is what it says:[4]"Dinghy:[5]Takes two      $45[6]Rowboat:[7]Takes two     $10[8]Opening hours:[9]From sunrise until 4:00pm[10]Please ask at reception for more[11]details."[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large sign[2] hung on the wall.[3]This is what it says:[4]"Dinghy:[5]Takes two      $45[6]Rowboat:[7]Takes two     $10[8]Opening hours:[9]From sunrise until 4:00pm[10]Please ask at reception for more[11]details."[12]</Translation>
   </Sentence>
   <Sentence id="716">
     <Commands>
@@ -8079,8 +7773,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]bag[2] floating in the water.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]bag[2] floating in the water.[3]</Translation>
   </Sentence>
   <Sentence id="718">
     <Commands>
@@ -8090,8 +7783,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]bag pulled from the water[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]bag pulled from the water[2].[3]</Translation>
   </Sentence>
   <Sentence id="719">
     <Commands>
@@ -8101,8 +7793,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]bag[2] is soaked through.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The [1]bag[2] is soaked through.[3]</Translation>
   </Sentence>
   <Sentence id="720">
     <Commands>
@@ -8112,8 +7803,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You can see the [1]surface of the lake[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]You can see the [1]surface of the lake[2].[3]</Translation>
   </Sentence>
   <Sentence id="721">
     <Commands>
@@ -8123,8 +7813,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]water[2] is clear.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]The [1]water[2] is clear.[3]</Translation>
   </Sentence>
   <Sentence id="722">
     <Commands>
@@ -8134,8 +7823,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]winch[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]winch[2].[3]</Translation>
   </Sentence>
   <Sentence id="723">
     <Commands>
@@ -8146,8 +7834,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It has a [1]rope tied to a life ring [2]wound[3]around it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]It has a [1]rope tied to a life ring [2]wound[3]around it.[4]</Translation>
   </Sentence>
   <Sentence id="724">
     <Commands>
@@ -8158,8 +7845,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large wooden barrel[2].[3]It is full of water.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large wooden barrel[2].[3]It is full of water.[4]</Translation>
   </Sentence>
   <Sentence id="725">
     <Commands>
@@ -8170,8 +7856,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large wooden barrel[2].[3]It is full of water.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large wooden barrel[2].[3]It is full of water.[4]</Translation>
   </Sentence>
   <Sentence id="726">
     <Commands>
@@ -8182,8 +7867,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]tin bucket[2].[3]It is full of water.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]tin bucket[2].[3]It is full of water.[4]</Translation>
   </Sentence>
   <Sentence id="727">
     <Commands>
@@ -8194,8 +7878,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden tub[2].[3]It is full of water.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden tub[2].[3]It is full of water.[4]</Translation>
   </Sentence>
   <Sentence id="728">
     <Commands>
@@ -8207,8 +7890,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]side window[2] of the[3]boathouse.[4]You can see into the reception.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]This is the [1]side window[2] of the[3]boathouse.[4]You can see into the reception.[5]</Translation>
   </Sentence>
   <Sentence id="729">
     <Commands>
@@ -8219,8 +7901,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden door[2].[3]The door is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden door[2].[3]The door is locked.[4]</Translation>
   </Sentence>
   <Sentence id="730">
     <Commands>
@@ -8230,8 +7911,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]locked door[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]locked door[2].[3]</Translation>
   </Sentence>
   <Sentence id="731">
     <Commands>
@@ -8243,8 +7923,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large puddle[2].[3]The surrounding trees are reflected in [4]its surface.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]large puddle[2].[3]The surrounding trees are reflected in [4]its surface.[5]</Translation>
   </Sentence>
   <Sentence id="732">
     <Commands>
@@ -8278,8 +7957,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white pole[2]. [3]There is some kind of device inside a[4]dome at the top.[5]What on earth is up there?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]white pole[2]. [3]There is some kind of device inside a[4]dome at the top.[5]What on earth is up there?[6]</Translation>
   </Sentence>
   <Sentence id="735">
     <Commands>
@@ -8326,8 +8004,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Eww... This water doesn't look so good.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额... 这里的水质看上去不太好啊.[1]</Translation>
   </Sentence>
   <Sentence id="740">
     <Commands>
@@ -8351,8 +8028,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. Shouldn't have mixed those...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]糟啦. 不该混合那些东西的...[1]</Translation>
   </Sentence>
   <Sentence id="743">
     <Commands>
@@ -8414,8 +8090,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Eww... This water doesn't look so good.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]额... 这里的水质看上去不太好啊.[1]</Translation>
   </Sentence>
   <Sentence id="750">
     <Commands>
@@ -8439,8 +8114,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oops. Shouldn't have mixed those...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]糟啦. 不该混合那些东西的...[1]</Translation>
   </Sentence>
   <Sentence id="753">
     <Commands>
@@ -8630,8 +8304,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'd better recycle this can![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我最好回收了这个罐头![1]</Translation>
   </Sentence>
   <Sentence id="775">
     <Commands>
@@ -8664,8 +8337,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoaCAAAAAEAAAoA</Command>
     </Commands>
     <Original>[0]Yeah![1]I got a token![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]耶![1]我获得了一枚硬币![2]</Translation>
   </Sentence>
   <Sentence id="779">
     <Commands>
@@ -9066,8 +8738,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBFQoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I'd better recycle this.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空罐头[2].[3]我最好把它回收了.[4]</Translation>
   </Sentence>
   <Sentence id="819">
     <Commands>
@@ -9464,8 +9135,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="854">
     <Commands>
@@ -9827,8 +9497,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="885">
     <Commands>
@@ -9861,8 +9530,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="888">
     <Commands>
@@ -9964,8 +9632,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="897">
     <Commands>
@@ -9986,8 +9653,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="899">
     <Commands>
@@ -10024,8 +9690,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="902">
     <Commands>
@@ -10093,8 +9758,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="908">
     <Commands>
@@ -10140,8 +9804,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="912">
     <Commands>
@@ -10268,8 +9931,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="923">
     <Commands>
@@ -10314,8 +9976,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="927">
     <Commands>
@@ -11041,8 +10702,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="986">
     <Commands>
@@ -11065,8 +10725,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="988">
     <Commands>
@@ -11089,8 +10748,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="990">
     <Commands>
@@ -11521,8 +11179,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1027">
     <Commands>
@@ -12243,8 +11900,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="1086">
     <Commands>
@@ -12267,8 +11923,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]橱柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="1088">
     <Commands>
@@ -12473,8 +12128,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1104">
     <Commands>
@@ -12484,8 +12138,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1105">
     <Commands>
@@ -12857,8 +12510,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white pole[2]. [3]There is some kind of device inside a[4]dome at the top.[5]What on earth is up there?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]white pole[2]. [3]There is some kind of device inside a[4]dome at the top.[5]What on earth is up there?[6]</Translation>
   </Sentence>
   <Sentence id="1136">
     <Commands>
@@ -13450,8 +13102,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
   </Sentence>
   <Sentence id="1182">
     <Commands>
@@ -13459,8 +13110,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1183">
     <Commands>
@@ -13470,8 +13120,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
   </Sentence>
   <Sentence id="1184">
     <Commands>
@@ -13492,8 +13141,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
   </Sentence>
   <Sentence id="1186">
     <Commands>
@@ -13516,8 +13164,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]wooden drawer[2].[3]</Translation>
   </Sentence>
   <Sentence id="1188">
     <Commands>
@@ -13525,8 +13172,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1189">
     <Commands>
@@ -14165,8 +13811,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1241">
     <Commands>
@@ -15085,8 +14730,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1315">
     <Commands>
@@ -15948,8 +15592,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1385">
     <Commands>
@@ -16035,8 +15678,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1391">
     <Commands>
@@ -16044,8 +15686,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1392">
     <Commands>
@@ -16055,8 +15696,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1393">
     <Commands>
@@ -16064,8 +15704,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1394">
     <Commands>
@@ -16075,8 +15714,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1395">
     <Commands>
@@ -16097,8 +15735,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1397">
     <Commands>
@@ -16106,8 +15743,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1398">
     <Commands>
@@ -16117,8 +15753,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1399">
     <Commands>
@@ -16126,8 +15761,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1400">
     <Commands>
@@ -16137,8 +15771,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]抽屉[2].[3]</Translation>
   </Sentence>
   <Sentence id="1401">
     <Commands>
@@ -16146,8 +15779,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1402">
     <Commands>
@@ -16166,8 +15798,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1404">
     <Commands>
@@ -16207,8 +15838,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1408">
     <Commands>
@@ -16227,8 +15857,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1410">
     <Commands>
@@ -16538,8 +16167,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1434">
     <Commands>
@@ -16601,8 +16229,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1439">
     <Commands>
@@ -16739,8 +16366,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1450">
     <Commands>
@@ -16835,8 +16461,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It is empty.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面是空的.[1]</Translation>
   </Sentence>
   <Sentence id="1458">
     <Commands>
