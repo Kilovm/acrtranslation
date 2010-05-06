@@ -2687,7 +2687,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are two [1]lanterns[2].[3]There are numbers on them.[4]</Original>
-    <Translation>[0]那里有两只[1]灯笼[2]。[3]数量还不少呢。[4]</Translation>
+    <Translation>[0]那里有两只[1]煤油灯[2]。[3]数量还不少呢。[4]</Translation>
   </Sentence>
   <Sentence id="269">
     <Commands>
@@ -3023,7 +3023,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯笼[2]。[3]</Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="299">
     <Commands>
@@ -3161,7 +3161,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯笼[2]。[3]</Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="311">
     <Commands>
@@ -6199,7 +6199,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]kettle[2] on top of the cooker.[3]The outside of it is black with soot.[4]</Original>
-    <Translation>[0]那里有个[1]水壶[2]被放在了灶台上。[3]壶的外面都被熏黑了。[4]</Translation>
+    <Translation>[0]那里有个[1]水壶[2]被放在了炉灶上。[3]壶的外面都被熏黑了。[4]</Translation>
   </Sentence>
   <Sentence id="586">
     <Commands>
@@ -6209,7 +6209,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cooker[2].[3]</Original>
-    <Translation>[0]那里有个[1]灶台[2]。[3]</Translation>
+    <Translation>[0]那里有个[1]炉灶[2]。[3]</Translation>
   </Sentence>
   <Sentence id="587">
     <Commands>
@@ -8951,8 +8951,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]container[2] full of sauce.[3]It looks like some kind of vegetable[4]sauce.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]装满了酱汁的[2]罐头.[3]看上去像是某种[4]蔬菜汁.[5]</Translation>
   </Sentence>
   <Sentence id="842">
     <Commands>
@@ -8966,8 +8965,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sink[2].[3]There are no water marks on it. It[4]looks as if it has never been used.[5]What on earth do you eat when you're[6]here, Dad?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]水槽[2].[3]里面没有水迹. [4]看上去好像从来没用过.[5]你到底在这里吃什么呢啊[6], 爸爸?[7]</Translation>
   </Sentence>
   <Sentence id="843">
     <Commands>
@@ -8977,8 +8975,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sink[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]水槽[2].[3]</Translation>
   </Sentence>
   <Sentence id="844">
     <Commands>
@@ -8988,8 +8985,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]washing-up liquid[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有某种[1]洗涤剂[2].[3]</Translation>
   </Sentence>
   <Sentence id="845">
     <Commands>
@@ -8999,8 +8995,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]toaster[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]烤面包机[2].[3]</Translation>
   </Sentence>
   <Sentence id="846">
     <Commands>
@@ -9011,8 +9006,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden chair[2].[3]There is a jacket hung on the back.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]木椅[2].[3]椅背上挂着一件夹克.[4]</Translation>
   </Sentence>
   <Sentence id="847">
     <Commands>
@@ -9022,8 +9016,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]Cool Pop[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是些[1]Cool Pop糖[2].[3]</Translation>
   </Sentence>
   <Sentence id="848">
     <Commands>
@@ -9035,8 +9028,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is a [1]large front window[2] of the[3]cottage.[4]You can see the path outside.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是[1]小屋[2]的[3]大大的前窗.[4]透过它可以看见条小路.[5]</Translation>
   </Sentence>
   <Sentence id="849">
     <Commands>
@@ -9046,8 +9038,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cupboard[2] under the sink.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]水槽的[1]下面[2]有个柜子.[3]</Translation>
   </Sentence>
   <Sentence id="850">
     <Commands>
@@ -9060,8 +9051,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It contains a new saucepan.[4]You've had to replace the saucepan[5]already, huh? Way to go, Dad.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]硬纸箱[2].[3]里面装着一只新的平底锅.[4]你不得不更换平底锅了[5]啊, 是么? 加油啊, 爸爸.[6]</Translation>
   </Sentence>
   <Sentence id="851">
     <Commands>
@@ -9072,8 +9062,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It contains a new saucepan.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]硬纸箱[2].[3]里面装着一只新的平底锅.[4]</Translation>
   </Sentence>
   <Sentence id="852">
     <Commands>
@@ -9083,8 +9072,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]fridge[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]冰箱[2].[3]</Translation>
   </Sentence>
   <Sentence id="853">
     <Commands>
@@ -9094,8 +9082,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]lemons[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]柠檬[2].[3]</Translation>
   </Sentence>
   <Sentence id="854">
     <Commands>
@@ -9107,8 +9094,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]peppers[2].[3]Everything thrown in together, as[4]usual...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]辣椒[2].[3]东西都扔的乱七八糟的, [4]老样子...[5]</Translation>
   </Sentence>
   <Sentence id="855">
     <Commands>
@@ -9118,8 +9104,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]peppers[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]辣椒[2].[3]</Translation>
   </Sentence>
   <Sentence id="856">
     <Commands>
@@ -9133,8 +9118,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]jam[2].[3]The labels say "Strawberry Jam" and [4]"Melon Jam".[5]Melon?![6]That sounds horrible...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几瓶[1]果酱[2].[3]标签上面分别写着"草莓酱"和[4]"蜜瓜酱".[5]蜜瓜?![6]听上去好难吃...[7]</Translation>
   </Sentence>
   <Sentence id="857">
     <Commands>
@@ -9146,8 +9130,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]jam[2].[3]The labels say "Strawberry Jam" and [4]"Melon Jam".[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几瓶[1]果酱[2].[3]标签上面分别写着"草莓酱"和[4]"蜜瓜酱".[5]</Translation>
   </Sentence>
   <Sentence id="858">
     <Commands>
@@ -9157,8 +9140,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]ketchup[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是[1]番茄酱[2].[3]</Translation>
   </Sentence>
   <Sentence id="859">
     <Commands>
@@ -9168,8 +9150,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]mustard[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是[1]芥末[2].[3]</Translation>
   </Sentence>
   <Sentence id="860">
     <Commands>
@@ -9180,8 +9161,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some bottles of [1]Cool Pop[2].[3]Does Dad even like this stuff?[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几瓶[1]Cool Pop糖[2].[3]爸爸难道也喜欢这东西?[4]</Translation>
   </Sentence>
   <Sentence id="861">
     <Commands>
@@ -9191,8 +9171,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some bottles of [1]Cool Pop[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几瓶[1]Cool Pop糖[2].[3]</Translation>
   </Sentence>
   <Sentence id="862">
     <Commands>
@@ -9202,8 +9181,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]freezer[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]冰柜[2].[3]</Translation>
   </Sentence>
   <Sentence id="863">
     <Commands>
@@ -9213,8 +9191,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]ice[2] left in the tray.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]还有些[1]冰[2]留在了盘子里.[3]</Translation>
   </Sentence>
   <Sentence id="864">
     <Commands>
@@ -9242,8 +9219,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains some [1]herbs[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面装着些[1]草药[2].[3]</Translation>
   </Sentence>
   <Sentence id="867">
     <Commands>
@@ -9253,8 +9229,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It contains some [1]water[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]里面装着[1]水[2].[3]</Translation>
   </Sentence>
   <Sentence id="868">
     <Commands>
@@ -9265,8 +9240,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]oven[2].[3]It is part of the cooker.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那有个[1]炉子[2].[3]它是整个炉灶的一部分.[4]</Translation>
   </Sentence>
   <Sentence id="869">
     <Commands>
@@ -9278,8 +9252,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]ventilator[2].[3]The filter is almost completely clean.[4]Dad, are you using this kitchen at all?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]换气扇[2].[3]滤网几乎是全新的.[4]爸爸, 你在用这间厨房么?[5]</Translation>
   </Sentence>
   <Sentence id="870">
     <Commands>
@@ -9290,8 +9263,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]ventilator[2].[3]The filter is almost completely clean.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]换气扇[2].[3]滤网几乎是全新的.[4]</Translation>
   </Sentence>
   <Sentence id="871">
     <Commands>
@@ -9303,8 +9275,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]souvenir T-shirt[2].[3]I'm thinking I should really give this to[4]Dad...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有件[1]纪念T恤[2].[3]我觉得我真的应该把这个给[4]爸爸...[5]</Translation>
   </Sentence>
   <Sentence id="872">
     <Commands>
@@ -9324,8 +9295,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]phone[2] is ringing.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那[1]电话[2]响了.[3]</Translation>
   </Sentence>
   <Sentence id="874">
     <Commands>
@@ -9336,8 +9306,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white bag[2].[3]It has a picture of Pinkie Rabbit on it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]白色的包[2].[3]上面有个粉粉兔的图案.[4]</Translation>
   </Sentence>
   <Sentence id="875">
     <Commands>
@@ -9347,8 +9316,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pouch[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]袋子[2].[3]</Translation>
   </Sentence>
   <Sentence id="876">
     <Commands>
@@ -9358,8 +9326,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]hair spray[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是[1]发胶[2].[3]</Translation>
   </Sentence>
   <Sentence id="877">
     <Commands>
@@ -9371,8 +9338,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]bag[2] and a [3]cowboy hat[4].[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]包[2]和一顶[3]牛仔帽[4].[5]</Translation>
   </Sentence>
   <Sentence id="878">
     <Commands>
@@ -9383,8 +9349,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] band score[2].[3]I'm so glad I found this...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是份[1]乐谱[2].[3]好高兴我找到了这个...[4]</Translation>
   </Sentence>
   <Sentence id="879">
     <Commands>
@@ -9396,8 +9361,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]teddy bear[2].[3]He's a bit dirty, but I'm just happy to[4]have him back![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]泰迪熊[2].[3]熊熊有点脏了, 但是能找回它还是[4]好高兴的说![5]</Translation>
   </Sentence>
   <Sentence id="880">
     <Commands>
@@ -9409,8 +9373,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]souvenir dolls[2].[3]Will Jessica like these enough to put[4]them in the kitchen?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]纪念娃娃[2].[3]杰西卡会喜欢把它们[4]放进厨房么?[5]</Translation>
   </Sentence>
   <Sentence id="881">
     <Commands>
@@ -9422,8 +9385,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]souvenir mug[2].[3]Wonder if Jessica will actually use[4]this...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]纪念杯[2].[3]不知道杰西卡会不会真的[4]用这杯子...[5]</Translation>
   </Sentence>
   <Sentence id="882">
     <Commands>
@@ -9434,8 +9396,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]souvenir cap[2].[3]I hope this will fit Jessica...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有顶[1]纪念帽[2].[3]希望这个杰西卡戴着能合适...[4]</Translation>
   </Sentence>
   <Sentence id="883">
     <Commands>
@@ -9446,8 +9407,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]coat stand[2].[3]It has a coat and umbrella on it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]衣架[2].[3]上面挂着一件外套和一把伞.[4]</Translation>
   </Sentence>
   <Sentence id="884">
     <Commands>
@@ -9457,8 +9417,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large leafy plant[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盆[1]大型绿叶植物[2].[3]</Translation>
   </Sentence>
   <Sentence id="885">
     <Commands>
@@ -9470,8 +9429,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are bundles of[1] old magazines[2].[3]Dad must not have got around to [4]recycling these yet...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一捆[1]旧杂志[2].[3]爸爸一定是还没时间[4]把他们回收了...[5]</Translation>
   </Sentence>
   <Sentence id="886">
     <Commands>
@@ -9481,8 +9439,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are bundles of[1] old magazines[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一捆[1]旧杂志[2].[3]</Translation>
   </Sentence>
   <Sentence id="887">
     <Commands>
@@ -9494,8 +9451,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some rubber [1]boots[2].[3]They are olive green and look like they[4]have been recently cleaned.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几双[1]橡胶靴[2].[3]橄榄绿色的，看上去[4]最近刚被洗过.[5]</Translation>
   </Sentence>
   <Sentence id="888">
     <Commands>
@@ -9507,8 +9463,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is a [1]large front window[2] of the[3]cottage.[4]You can see the road through it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是[1]小屋[2]的[3]大大的前窗.[4]透过它可以看见马路.[5]</Translation>
   </Sentence>
   <Sentence id="889">
     <Commands>
@@ -9518,8 +9473,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]fireplace[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]壁炉[2].[3]</Translation>
   </Sentence>
   <Sentence id="890">
     <Commands>
@@ -9529,8 +9483,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]clock[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]钟[2].[3]</Translation>
   </Sentence>
   <Sentence id="891">
     <Commands>
@@ -9542,8 +9495,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]The glass cover is blackened with soot.[4]Doesn't this need to be cleaned?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2].[3]它的玻璃罩已经被熏黑了.[4]它们需要做清洁么?[5]</Translation>
   </Sentence>
   <Sentence id="892">
     <Commands>
@@ -9554,8 +9506,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]The glass cover is blackened with soot.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2].[3]它的玻璃罩已经被熏黑了.[4]</Translation>
   </Sentence>
   <Sentence id="893">
     <Commands>
@@ -9566,8 +9517,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass vase[2].[3]It is empty.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]玻璃花瓶[2].[3]里面是空的.[4]</Translation>
   </Sentence>
   <Sentence id="894">
     <Commands>
@@ -9577,8 +9527,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]corner table[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]角桌[2].[3]</Translation>
   </Sentence>
   <Sentence id="895">
     <Commands>
@@ -9588,8 +9537,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="896">
     <Commands>
@@ -9599,8 +9547,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white towel[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]白色的毛巾[2].[3]</Translation>
   </Sentence>
   <Sentence id="897">
     <Commands>
@@ -9612,8 +9559,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sink[2].[3]It is sparkling clean.[4]Did Dad clean this?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]水槽[2].[3]里面光亮如新.[4]是爸爸做的清洁么?[5]</Translation>
   </Sentence>
   <Sentence id="898">
     <Commands>
@@ -9624,8 +9570,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sink[2].[3]It is sparkling clean.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]水槽[2].[3]里面光亮如新.[4]</Translation>
   </Sentence>
   <Sentence id="899">
     <Commands>
@@ -9637,8 +9582,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]mirror[2].[3]Is my hair sticking out?[4]Looking good! All right![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]镜子[2].[3]我的头发竖起来了么?[4]看上去还不错! 好啦![5]</Translation>
   </Sentence>
   <Sentence id="900">
     <Commands>
@@ -9648,8 +9592,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]mirror[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]镜子[2].[3]</Translation>
   </Sentence>
   <Sentence id="901">
     <Commands>
@@ -9669,8 +9612,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]unused bar of soap[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]没用过的肥皂[2].[3]</Translation>
   </Sentence>
   <Sentence id="903">
     <Commands>
@@ -9681,8 +9623,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]unopened tube of[2]toothpaste[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有管[1]没打开的[2]牙膏[3].[4]</Translation>
   </Sentence>
   <Sentence id="904">
     <Commands>
@@ -14500,7 +14441,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯笼[2]。[3]</Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="1298">
     <Commands>
@@ -15805,7 +15746,7 @@
     </Translation>
   </Sentence>
   <Comments>
-    <Comment Author="" Date="2010-05-05 16:43:53" Position="840">
+    <Comment Author="" Date="2010-05-06 15:52:38" Position="905">
     </Comment>
   </Comments>
 </Session>
