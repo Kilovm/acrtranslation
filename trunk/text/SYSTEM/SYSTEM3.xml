@@ -8066,16 +8066,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm... What about the water here?[1]Let's test it and see.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔... 这里的水怎么样呢?[1]测试下试试.[2]</Translation>
   </Sentence>
   <Sentence id="744">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="745">
     <Commands>
@@ -8085,8 +8083,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Has this water been purified?[1]I should test water from other places[2]as well.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里的水已经净化过了么?[1]我该再从其他地方测试[2]水质.[3]</Translation>
   </Sentence>
   <Sentence id="746">
     <Commands>
@@ -8152,16 +8149,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm... What about the water here?[1]Let's test it and see.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔... 这里的水怎么样呢?[1]测试下试试.[2]</Translation>
   </Sentence>
   <Sentence id="754">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="755">
     <Commands>
@@ -8171,8 +8166,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Has this water been purified?[1]I should test water from other places[2]as well.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里的水已经净化过了么?[1]我该再从其他地方测试[2]水质.[3]</Translation>
   </Sentence>
   <Sentence id="756">
     <Commands>
@@ -8238,8 +8232,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I guess I shouldn't be doing this in[1]someone else's house...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我觉得在别人家这么做[1]不太好吧...[2]</Translation>
   </Sentence>
   <Sentence id="764">
     <Commands>
@@ -8248,8 +8241,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I guess I shouldn't be doing this in[1]someone else's house...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我觉得在别人家这么做[1]不太好吧...[2]</Translation>
   </Sentence>
   <Sentence id="765">
     <Commands>
@@ -8258,8 +8250,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I guess I shouldn't be doing this in[1]someone else's house...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我觉得在别人家这么做[1]不太好吧...[2]</Translation>
   </Sentence>
   <Sentence id="766">
     <Commands>
@@ -8268,8 +8259,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I guess I shouldn't be doing this in[1]someone else's house...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我觉得在别人家这么做[1]不太好吧...[2]</Translation>
   </Sentence>
   <Sentence id="767">
     <Commands>
@@ -8279,8 +8269,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Wow... There are loads of different[1]coloured gumballs![2]Wonder which flavour I'll get?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔噢... 那里有好多各种颜色的[1]口香糖哦![2]我该要哪个口味的呢?[3]</Translation>
   </Sentence>
   <Sentence id="768">
     <Commands>
@@ -8297,16 +8286,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's give it another shot...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]再来试一次...[1]</Translation>
   </Sentence>
   <Sentence id="770">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="771">
     <Commands>
@@ -8401,24 +8388,21 @@
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="783">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="784">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="785">
     <Commands>
@@ -8457,8 +8441,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBgAADAAKGgcAAGkBAgoA</Command>
     </Commands>
     <Original>[0]There is an [1]empty can[2].[3]I wish people would stop littering...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]空的罐头[2].[3]大家能不能不要再乱扔垃圾了啊...[4]</Translation>
   </Sentence>
   <Sentence id="789">
     <Commands>
@@ -8470,8 +8453,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDEKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAxX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]flyer for the band contest[2].[3]It's got all the details on where, when[4]and how to enter.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]关于乐队比赛的传单[2].[3]上面具体介绍了时间，地点[4]和参加的方法.[5]</Translation>
   </Sentence>
   <Sentence id="790">
     <Commands>
@@ -8482,8 +8464,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDIKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAyX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a spare [1]T-shirt[2].[3]Yeah... I haven't worn this in a while...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有件备用[1]T恤[2].[3]啊...我好久没穿这件了...[4]</Translation>
   </Sentence>
   <Sentence id="791">
     <Commands>
@@ -8494,8 +8475,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTBfMDMKGj4BAAlJTlRFUlJVUFRfQ19SMDEwXzAzX29mZgBJTlRFUlJVUFRfQ19SMDEwXzAzX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEwXzAzX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]wallet[2].[3]20 dollars, and my Student ID.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是个[1]钱包[2].[3]里面有20刀, 和我的学生证.[4]</Translation>
   </Sentence>
   <Sentence id="792">
     <Commands>
@@ -8508,8 +8488,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADdQoaCAAAAAEAAAoaBgAADAAKGgcAAGkBHwoA</Command>
     </Commands>
     <Original>[0]There are some [1]batteries[2].[3]Batteries![4]I might be able to use one for the [5]music player.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几节[1]电池[2].[3]电池![4]我可以把一节用于我的[5]mp3.[6]</Translation>
   </Sentence>
   <Sentence id="793">
     <Commands>
@@ -8522,16 +8501,14 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADdQoaCAAAAAEAAAoaBgAADAAKGgcAAGkBHwoA</Command>
     </Commands>
     <Original>[0]There are some [1]batteries[2].[3]Batteries![4]I might be able to use one for the [5]music player.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几节[1]电池[2].[3]电池![4]我可以把一节用于我的[5]mp3.[6]</Translation>
   </Sentence>
   <Sentence id="794">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="795">
     <Commands>
@@ -8544,8 +8521,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADdQoaCAAAAAEAAAoaBgAADAAKGgcAAGkBHwoA</Command>
     </Commands>
     <Original>[0]There are some [1]batteries[2].[3]Batteries![4]I might be able to use one for the [5]music player.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几节[1]电池[2].[3]电池![4]我可以把一节用于我的[5]mp3.[6]</Translation>
   </Sentence>
   <Sentence id="796">
     <Commands>
@@ -8558,24 +8534,21 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADdQoaCAAAAAEAAAoaBgAADAAKGgcAAGkBHwoA</Command>
     </Commands>
     <Original>[0]There are some [1]batteries[2].[3]Batteries![4]I might be able to use one for the [5]music player.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几节[1]电池[2].[3]电池![4]我可以把一节用于我的[5]mp3.[6]</Translation>
   </Sentence>
   <Sentence id="797">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="798">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="799">
     <Commands>
@@ -8583,8 +8556,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's try using the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]来试试这台电脑...[1]</Translation>
   </Sentence>
   <Sentence id="800">
     <Commands>
@@ -8592,16 +8564,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Let's try using the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]来试试这台电脑...[1]</Translation>
   </Sentence>
   <Sentence id="801">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="802">
     <Commands>
@@ -8609,8 +8579,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="803">
     <Commands>
@@ -8618,8 +8587,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="804">
     <Commands>
@@ -8627,8 +8595,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="805">
     <Commands>
@@ -8636,8 +8603,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="806">
     <Commands>
@@ -8645,8 +8611,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="807">
     <Commands>
@@ -8654,8 +8619,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="808">
     <Commands>
@@ -8663,8 +8627,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="809">
     <Commands>
@@ -8672,8 +8635,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="810">
     <Commands>
@@ -8681,8 +8643,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="811">
     <Commands>
@@ -8690,8 +8651,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="812">
     <Commands>
@@ -8699,8 +8659,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="813">
     <Commands>
@@ -8708,8 +8667,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="814">
     <Commands>
@@ -8717,8 +8675,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="815">
     <Commands>
@@ -8726,8 +8683,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, I'm done with the computer...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好吧，我算是放弃这台电脑了...[1]</Translation>
   </Sentence>
   <Sentence id="816">
     <Commands>
@@ -8739,16 +8695,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]creased piece of paper[2].[3]Huh... Maybe I can fold it up along the[4]creases.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]皱巴巴的纸[2].[3]唔... 我该把它沿着褶皱[4]展开.[5]</Translation>
   </Sentence>
   <Sentence id="817">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="818">
     <Commands>
@@ -8759,8 +8713,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTNfMDQKGj4BAAlJTlRFUlJVUFRfQ19SMDEzXzA0X29mZgBJTlRFUlJVUFRfQ19SMDEzXzA0X1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEzXzA0X29mZgoA</Command>
     </Commands>
     <Original>[0]Wow - if I fold it just right, I can see[1]numbers...[2]Hey...[3]Could these numbers be...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]喔噢……如果我展开得对的话,我可以看见[1]一些数字...[2]嘿...[3]难道说这些数字是...[4]</Translation>
   </Sentence>
   <Sentence id="819">
     <Commands>
@@ -8768,8 +8721,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That's...not right.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那可...不对.[1]</Translation>
   </Sentence>
   <Sentence id="820">
     <Commands>
@@ -8777,16 +8729,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm going to have another read of this.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不打算再把这个读一遍了.[1]</Translation>
   </Sentence>
   <Sentence id="821">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="822">
     <Commands>
@@ -8798,8 +8748,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMTNfMDIKGj4BAAlJTlRFUlJVUFRfQ19SMDEzXzAyX29mZgBJTlRFUlJVUFRfQ19SMDEzXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDEzXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]"We talk to Rex Alfred, Laboratory[1]Director at JC Valley,[2]and find out what the future has in[3]store for his company.[4]Interview by Greg Davis."[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]"我们和雷克斯·阿尔弗雷德谈一谈, 他是[1]JC山谷的实验室主任,[2]搞明白他的公司的未来[3]目标是什么.[4]采访者：格里格·戴维斯"[5]</Translation>
   </Sentence>
   <Sentence id="823">
     <Commands>
@@ -8807,8 +8756,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Actually, never mind.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]说实在的, 还是别管了.[1]</Translation>
   </Sentence>
   <Sentence id="824">
     <Commands>
@@ -8816,8 +8764,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What should I do?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么办?[1]</Translation>
   </Sentence>
   <Sentence id="825">
     <Commands>
@@ -8839,8 +8786,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9DX1IwMjRfMDIKGj4BAAlJTlRFUlJVUFRfQ19SMDI0XzAyX29mZgBJTlRFUlJVUFRfQ19SMDI0XzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQ19SMDI0XzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2] in the drawer.[3]Is this...Elizabeth when she was little?![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]照片[2]放在抽屉里.[3]这是...伊丽莎白的小时候么?![4]</Translation>
   </Sentence>
   <Sentence id="827">
     <Commands>
@@ -8852,8 +8798,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFQEACklOVEVSUlVQVF9sZXR0ZXIKGjsBAAlJTlRFUlJVUFRfbGV0dGVyX29mZgBJTlRFUlJVUFRfQ19SMDI0XzA0X1RhZ18wMS5icmxhbgAKGhkBAApJTlRFUlJVUFRfbGV0dGVyX29mZgoA</Command>
     </Commands>
     <Original>[0]There are some [1]letters[2] in the drawer.[3]The letters are addressed to Elizabeth[4]Alfred, from "Kate".[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]信[2]放在抽屉里.[3]收信人的地址是[4]伊丽莎白·阿尔弗雷德, 寄信人凯特".[5]</Translation>
   </Sentence>
   <Sentence id="828">
     <Commands>
@@ -8865,8 +8810,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFwEACklOVEVSUlVQVF9SZXhQaG90bwoaPQEACUlOVEVSUlVQVF9SZXhQaG90b19vZmYASU5URVJSVVBUX0NfUjAyNF8wNV9UYWdfMDEuYnJsYW4AChobAQAKSU5URVJSVVBUX1JleFBob3RvX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]photograph of two men[2].[3]They're holding up a fish they caught[4]and looking smug.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]两个男人的照片[2].[3]他们举着一条他们钓上来的鱼，[4]看上去很开心.[5]</Translation>
   </Sentence>
   <Sentence id="829">
     <Commands>
@@ -8876,8 +8820,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Looks like nobody's home.[1]Huh? This door...[2].....[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]看上去没人在家.[1]恩? 这扇门...[2].....[3]</Translation>
   </Sentence>
   <Sentence id="830">
     <Commands>
@@ -8889,8 +8832,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]deep pot[2].[3]That's a stock pot.[4]Looks like it's never been used...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]深口锅[2].[3]那是只煮锅.[4]看上去从来没用过...[5]</Translation>
   </Sentence>
   <Sentence id="831">
     <Commands>
@@ -8900,8 +8842,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stock pot[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]煮锅[2].[3]</Translation>
   </Sentence>
   <Sentence id="832">
     <Commands>
@@ -8911,8 +8852,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a stack of [1]white plates[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一堆[1]白盘子[2].[3]</Translation>
   </Sentence>
   <Sentence id="833">
     <Commands>
@@ -8923,8 +8863,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]copper saucepan[2].[3]The bottom is badly burnt.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]铜质平底锅[2].[3]底部被烧的很严重.[4]</Translation>
   </Sentence>
   <Sentence id="834">
     <Commands>
@@ -8936,8 +8875,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large saucepan[2].[3]The bottom is badly burnt.[4]Burning things again, Dad?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]很大的平底锅[2].[3]底部被烧的很严重.[4]又在乱烧东西了哈, 爸爸?[5]</Translation>
   </Sentence>
   <Sentence id="835">
     <Commands>
@@ -8948,8 +8886,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large saucepan[2].[3]The bottom is badly burnt.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]很大的平底锅[2].[3]底部被烧的很严重.[4]</Translation>
   </Sentence>
   <Sentence id="836">
     <Commands>
@@ -8959,8 +8896,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]green mug[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]绿色的马克杯[2].[3]</Translation>
   </Sentence>
   <Sentence id="837">
     <Commands>
@@ -8971,8 +8907,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plastic kettle[2].[3]It is empty.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]塑料水壶[2].[3]里面是空的.[4]</Translation>
   </Sentence>
   <Sentence id="838">
     <Commands>
@@ -8982,8 +8917,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal ladle and spatula [2]hanging from the shelf.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]金属勺和铲子[2]挂在架子上面.[3]</Translation>
   </Sentence>
   <Sentence id="839">
     <Commands>
@@ -8994,8 +8928,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]paper bag[2].[3]It is full of canned goods.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]纸袋[2].[3]里面装满了罐头食品.[4]</Translation>
   </Sentence>
   <Sentence id="840">
     <Commands>
@@ -9006,8 +8939,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]paper bag [2]full of canned[3]goods.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]装满了[2]罐头食品的[3]纸袋.[4]</Translation>
   </Sentence>
   <Sentence id="841">
     <Commands>
@@ -15872,5 +15804,8 @@
     <Translation>
     </Translation>
   </Sentence>
-  <Comments />
+  <Comments>
+    <Comment Author="" Date="2010-05-05 16:43:53" Position="840">
+    </Comment>
+  </Comments>
 </Session>
