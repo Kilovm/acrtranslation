@@ -2708,7 +2708,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are two [1]lanterns[2].[3]There are numbers on them.[4]</Original>
-    <Translation>[0]那里有两只[1]灯笼[2]。[3]数量还不少呢。[4]</Translation>
+    <Translation>[0]那里有两只[1]煤油灯[2]。[3]数量还不少呢。[4]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
@@ -3044,7 +3044,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯笼[2]。[3]</Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="300">
     <Commands>
@@ -3182,7 +3182,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lantern[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯笼[2]。[3]</Translation>
+    <Translation>[0]那里有盏[1]煤油灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="312">
     <Commands>
