@@ -332,7 +332,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQoACQFJT1AwMDEAAAAKGgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]Can you keep up, please?[1]Where are we going?[2]To the meeting room.[3]Not my dad's office?[4]He works on the B2F floor.[5]I can't take you down there.[6]Why not?[7]Only the scientists can go down there. It's[8]off-limits for anyone else.[9]So Dr Robins asked me to bring you to the[10]meeting room.[11]Will he come to meet me there?[12]Yes, of course.[13]</Original>
-    <Translation>[0]请你跟上我，好吗？[1]我们现在去哪里？[2]去面会室。[3]不是去爸爸的办公室？[4]他在B2F那一层工作。[5]我不能带你下去那里。[6]为什么不能？[7]只有科学家们可以下去。对其他员工是[8]禁止进入的。[9]所以罗宾斯教授才会叫我带你去[10]面会室。[11]他会去面会室见我吗？[12]是的，当然。[13]</Translation>
+    <Translation>[0]请你跟上我，好吗？[1]我们现在去哪里？[2]去会议室。[3]不是去爸爸的办公室？[4]他在B2F那一层工作。[5]我不能带你下去那里。[6]为什么不能？[7]只有科学家们可以下去。对其他员工是[8]禁止进入的。[9]所以罗宾斯教授才会叫我带你去[10]会议室。[11]他会去会议室见我吗？[12]是的，当然。[13]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -362,7 +362,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, the meeting room is in here.[1]Go on in.[2]</Original>
-    <Translation>[0]阿修蕾，面会室就在这里。[1]走吧。[2]</Translation>
+    <Translation>[0]阿修蕾，会议室就在这里。[1]走吧。[2]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -427,7 +427,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1Ar5kAAoA</Command>
     </Commands>
     <Original>[0]So this is their meeting room...[1]Ashley.[2]Please wait in here. I'll go and get your father.[3]I'll be right back.[4]Wait![5]What is it?[6]Did you sort out the problem with the security[7]system?[8]What problem with the security system?[9]When Dad left, he said there was some sort of[10]problem at the lab.[11]I was just thinking, if it got sorted out then[12]maybe Dad can go home with me.[13]Ashley, I don't know what you're talking about.[14]There [15]haven't been any problems[16] here.[17]But Dad got a call saying there was a problem[18]with the security system, and he left for the lab.[19]And he said it was you on the phone...[20]Me?[21]Ashley,[22] I didn't call Dr Robins[23] [24]today.[25]</Original>
-    <Translation>[0]这里就是他们的面会室……[1]阿修蕾。[2]请在这里等一下。我会去找你的父亲。[3]我马上回来。[4]等一下！[5]什么事？[6]你们处理好保安系统的[7]问题了吗？[8]保安系统有什么问题？[9]当爸爸离开时，他说实验室[10]发生了一点问题。[11]我只是想，如果解决了问题[12]或许爸爸就可以和我一起回家。[13]阿修蕾，我一点也不明白你在说什么。[14]这里[15]一点问题也[16]没有。[17]但爸爸接到一个电话说保安系统发生了[18]一个问题，然后就离开前往实验室。[19]他说那是你打的电话……[20]我？[21]阿修蕾，[22] 我今天没有给罗宾斯博士打过[23] [24]电话。[25]</Translation>
+    <Translation>[0]这里就是他们的会议室……[1]阿修蕾。[2]请在这里等一下。我会去找你的父亲。[3]我马上回来。[4]等一下！[5]什么事？[6]你们处理好保安系统的[7]问题了吗？[8]保安系统有什么问题？[9]当爸爸离开时，他说实验室[10]发生了一点问题。[11]我只是想，如果解决了问题[12]或许爸爸就可以和我一起回家。[13]阿修蕾，我一点也不明白你在说什么。[14]这里[15]一点问题也[16]没有。[17]但爸爸接到一个电话说保安系统发生了[18]一个问题，然后就离开前往实验室。[19]他说那是你打的电话……[20]我？[21]阿修蕾，[22] 我今天没有给罗宾斯博士打过[23] [24]电话。[25]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -832,7 +832,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]remote[2] on the table.[3]I wonder what this is for...[4]Oh, the monitor turned on.[5]</Original>
-    <Translation>[0]桌子上[1]有一个[2]遥控器。[3]我想知道这是做什么用的……[4]噢，显示器打开了。[5]</Translation>
+    <Translation>[0]桌子上[1]有一个[2]遥控。[3]我想知道这是做什么用的……[4]噢，显示器打开了。[5]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -841,7 +841,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADLwoA</Command>
     </Commands>
     <Original>[0]I know![1]Maybe I can use the battery from this remote...[2]</Original>
-    <Translation>[0]我知道了！[1]或许我可以使用这个遥控器上的电池……[2]</Translation>
+    <Translation>[0]我知道了！[1]或许我可以使用这个遥控上的电池……[2]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -853,7 +853,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADLwoA</Command>
     </Commands>
     <Original>[0]There is a [1]remote[2] on the table.[3]I know![4]Maybe I can use the battery from this remote...[5]</Original>
-    <Translation>[0]桌子上[1]有一个[2]遥控器。[3]我知道了！[4]或许我可以使用这个遥控器上的电池……[5]</Translation>
+    <Translation>[0]桌子上[1]有一个[2]遥控。[3]我知道了！[4]或许我可以使用这个遥控上的电池……[5]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -865,7 +865,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOgoA</Command>
     </Commands>
     <Original>[0]There is a [1]cordless phone[2] on the desk.[3]Hey![4]Maybe I can use the battery from this phone...[5]</Original>
-    <Translation>[0]办公桌上 [1]有一台[2] 无线电话。[3]嘿！[4]或许我可以使用这台无线电话上的电池……[5]</Translation>
+    <Translation>[0]桌上 [1]有一台[2] 无线电话。[3]嘿！[4]或许我可以使用这台无线电话上的电池……[5]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -924,7 +924,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAaQAICgA=</Command>
     </Commands>
     <Original>[0]I'll open the cover on the remote.[1]What?![2]This is no good...[3]They aren't the same shape as the TAS battery[4]at all...[5]I'll put the remote back then...[6]</Original>
-    <Translation>[0]我打开遥控器的后盖。[1]什么？！[2]真是倒霉……[3]这些跟TAS所用的电池根本就是不同的[4]型号。[5]那我把遥控器放回去吧……[6]</Translation>
+    <Translation>[0]我打开遥控的后盖。[1]什么？！[2]真是倒霉……[3]这些跟TAS所用的电池根本就是不同的[4]型号。[5]那我把遥控放回去吧……[6]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -1012,7 +1012,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]A charger![4]Maybe I can use this...[5]</Original>
-    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]充电器！[4]或许我可以使用它……[5]</Translation>
+    <Translation>[0]桌上[1] 有一个无线电话的[2]充电器。[3]充电器！[4]或许我可以使用它……[5]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1024,7 +1024,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]Actually, I wonder what kind of battery the[4]TAS uses...[5]</Original>
-    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]事实上，我想知道TAS究竟是使用哪种[4]电池……[5]</Translation>
+    <Translation>[0]桌上[1]有一个无线电话的[2]充电器。[3]事实上，我想知道TAS究竟是使用哪种[4]电池……[5]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1036,7 +1036,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]Actually, I wonder what kind of battery the[4]TAS uses...[5]</Original>
-    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]事实上，我想知道TAS究竟是使用哪种[4]电池……[5]</Translation>
+    <Translation>[0]桌上[1]有一个无线电话的[2]充电器。[3]事实上，我想知道TAS究竟是使用哪种[4]电池……[5]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1046,7 +1046,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] cordless phone charger [2]on the desk.[3]</Original>
-    <Translation>[0]办公桌上[1] 有一个无线电话的[2]充电器。[3]</Translation>
+    <Translation>[0]桌上[1]有一个无线电话的[2]充电器。[3]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -1143,7 +1143,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] shutter[2].[3]The shutter is locked.[4]A dead end?[5]What now?[6]</Original>
-    <Translation>[0]这里有一扇[1] 闸板[2]。[3]闸板是锁着的。[4]一条死巷？[5]下面该是什么了？[6]</Translation>
+    <Translation>[0]这里有一扇[1]闸门[2]。[3]闸门是锁着的。[4]一条死巷？[5]下面该是什么了？[6]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1243,7 +1243,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]glass wall[2] behind the counter.[3]I've seen that logo before![4]Yeah, this is where Mom met Ryan...[5]Oh![6]</Original>
-    <Translation>[0]这里有一面 [1]玻璃屏墙[2] 设置在柜台的后面[3]我以前见过这个标志！[4]没错，就在妈妈和莱恩见面的地方……[5]噢！[6]</Translation>
+    <Translation>[0]这里有一面 [1]玻璃屏墙[2] 设置在接待台的后面[3]我以前见过这个标志！[4]没错，就在妈妈和莱恩见面的地方……[5]噢！[6]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1289,7 +1289,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass wall[2] behind the [3]counter.[4]Richard is visible on the monitor [5]in the room beyond.[6]Dad...[7]</Original>
-    <Translation>[0]柜台 [1]后面[2]有一面[3]玻璃屏墙。[4]理查德就出现在房间里面的[5]显示屏上。[6]爸爸……[7]</Translation>
+    <Translation>[0]接待台 [1]后面[2]有一面[3]玻璃屏墙。[4]理查德就出现在房间里面的[5]显示屏上。[6]爸爸……[7]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1663,7 +1663,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] glass wall[2].[3]I can see a counter on the other side.[4]Oh, I get it... This is the place I could see from[5]the reception desk.[6]</Original>
-    <Translation>[0]有一面[1] 玻璃屏墙[2]。[3]我能看见另一边有一个柜台。[4]噢，我明白了…… 这里就是我在接待台[5]见到的地方。[6]</Translation>
+    <Translation>[0]有一面[1] 玻璃屏墙[2]。[3]我能看见另一边有一个接待台。[4]噢，我明白了…… 这里就是我在前台[5]见到的地方。[6]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -1675,7 +1675,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] glass wall[2].[3]The reception desk is visible on the [4]other side.[5]</Original>
-    <Translation>[0]有一面[1] 落地屏墙[2]。[3]接待台就在玻璃的 [4]另一面。[5]</Translation>
+    <Translation>[0]有一面[1] 玻璃屏墙[2]。[3]前台就在玻璃的 [4]另一面。[5]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
@@ -1808,15 +1808,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoaCAAAWW8PAQoaCAAAWW8UAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Ashley![1]Dad![2]Ashley...what on earth are you doing here?[3]You called me here![4]What?![5]You sent a message to the DAS saying to[6]get here quickly![7]So I did![8]When did that message arrive?[9]Right before the one where you told me to go[10]home and take the TAS with me.[11]What?[12]Dad, what's going on?[13]Gina came to get me, but she locked me in the[14]meeting room.[15]The control panel for the security cameras is[16]broken...[17]I don't know what's going on any more![18]Wait a minute, Ashley. Let's try to be calm.[19]Just what's happening here?[20]Who sent you that message?[21]Didn't you send it?[22]No, Ashley, that wasn't me.[23]What?![24]Then who the heck did?[25]I don't know...[26]Dad, you were the one who said to take the[27]TAS and go home, right?[28]Yes, that was me.[29]What happened here? What was the[30]emergency?[31]Ashley, I really didn't want to have to tell you...[32]Oh dear...[33]Dad?[34]Curses! What's going on here?[35]Dad, what should I do?[36]What if...[37]It couldn't be...[38]Dad...[39]Dad![40]Hmm?[41]Dad, what should I do?[42]Ashley, I'll be right up there. Don't move.[43]You want me to wait here?[44]Okay.[45]Good.[46]But, before that...[47]Huh?[48]Ashley, you have the DAS with you, right?[49]Yeah.[50]Open it up.[51]Done.[52]There's a button called Connect on the DAS[53]menu. Do you see it?[54]I'll activate it now...[55]I've already activated it, Dad.[56]Huh?[57]I used your computer at the cottage. Sorry I[58]didn't ask your permission...[59]But when I put the DAS in, the Connect function[60]activated all by itself.[61]It shows the security camera feeds from around[62]Lake Juliet, right?[63]Incredible, Ashley.[64]Well, if you know that, then this will go a lot[65]quicker.[66]I'm changing the area that the Connect feed[67]accesses.[68]You're changing what now?[69]Your current feed shows all of the external[70]cameras.[71]I'll change it to show the cameras inside[72]JC Valley. Hold on a minute.[73]Okay.[74]That should do it.[75]Right, Ashley![76]Press the Connect button on the DAS![77]Right.[78]</Original>
-    <Translation>[0]阿修蕾！[1]爸爸！[2]阿修蕾……你到底来这里干什么？[3]你叫我来这里的啊！[4]什么？！[5]你发了一个邮件到DAS上说要我 [6]立刻来这里！[7]所以我来了！[8]你什么时候收到邮件？[9]就在你叫我带上TAS[10]回家之前。[11]什么？[12]爸爸，发生了什么事？[13]吉娜来接我，可是却把我关在[14]面会室里。[15]监控摄像头的控制面板被人[16]破坏了……[17]我都不知道接下来要怎么办了！[18]等一下，阿修蕾。冷静一点。[19]究竟这里发生什么事了？[20]是谁发给你那个邮件？[21]不是你发的吗？[22]不，阿修蕾，不是我。[23]什么？！[24]那会是谁？！[25]我不知道……[26]爸爸，是你叫我带上TAS[27]回家的，对吗？[28]对，是我。[29]这里是怎样了？紧急情况是 [30]怎么回事？[31]阿修蕾，我真的不想要告诉你……[32]噢，女儿……[33]爸爸？[34]妈的！ 这里发生了什么事？[35]爸爸，我应该怎么做？[36]假如……[37]不可以这样……[38]爸爸……[39]爸爸！[40]嗯？[41]爸爸，我应该怎么做？[42]阿修蕾，我马上到你那里。你不要离开。[43]你要我在这里等你？[44]好吧。[45]很好。[46]不过，在这之前……[47]嗯？[48]阿修蕾，你身上带着DAS，对吗？[49]是的。[50]打开它。[51]打开了。[52]在DAS的菜单上有一个按键叫做[53]Connect。你看见了吗？[54]我现在就激活它……[55]我已经激活了，爸爸。[56]嗯？[57]我在度假屋里用了你的电脑。对不起，[58]我没得到你的批准就……[59]但当我把DAS插上，那个Connect功能[60]就自动激活了。[61]这显示的是朱丽叶湖周围的[62]监控摄像画像，对吗？[63]真叫我难以置信，阿修蕾。[64]好吧，如果你知道那些，那一切都[65]好办。[66]我现在要切换你的“Connect”里连接的[67]区域。[68]你现在要切换什么？[69]你现在连接的是所有外部的[70]摄像头。[71]我现在把它切换JC山谷内部的[72]摄像头。你等一下。[73]好的。[74]That should do it.[75]好了，阿修蕾！[76]按一下DAS上的Connect按键。[77]好的。[78]</Translation>
+    <Translation>[0]阿修蕾！[1]爸爸！[2]阿修蕾……你到底来这里干什么？[3]你叫我来这里的啊！[4]什么？！[5]你发了一个邮件到DAS上说要我 [6]立刻来这里！[7]所以我来了！[8]你什么时候收到邮件？[9]就在你叫我带上TAS[10]回家之前。[11]什么？[12]爸爸，发生了什么事？[13]吉娜来接我，可是却把我关在[14]会议室里。[15]监控摄像头的控制面板被人[16]破坏了……[17]我都不知道接下来要怎么办了！[18]等一下，阿修蕾。冷静一点。[19]究竟这里发生什么事了？[20]是谁发给你那个邮件？[21]不是你发的吗？[22]不，阿修蕾，不是我。[23]什么？！[24]那会是谁？！[25]我不知道……[26]爸爸，是你叫我带上TAS[27]回家的，对吗？[28]对，是我。[29]这里是怎样了？紧急情况是 [30]怎么回事？[31]阿修蕾，我真的不想要告诉你……[32]噢，女儿……[33]爸爸？[34]妈的！ 这里发生了什么事？[35]爸爸，我应该怎么做？[36]假如……[37]不可以这样……[38]爸爸……[39]爸爸！[40]嗯？[41]爸爸，我应该怎么做？[42]阿修蕾，我马上到你那里。你不要离开。[43]你要我在这里等你？[44]好吧。[45]很好。[46]不过，在这之前……[47]嗯？[48]阿修蕾，你身上带着DAS，对吗？[49]是的。[50]打开它。[51]打开了。[52]在DAS的菜单上有一个按键叫做[53]Connect。你看见了吗？[54]我现在就激活它……[55]我已经激活了，爸爸。[56]嗯？[57]我在度假屋里用了你的电脑。对不起，[58]我没得到你的批准就……[59]但当我把DAS插上，那个Connect功能[60]就自动激活了。[61]这显示的是朱丽叶湖周围的[62]监控摄像画像，对吗？[63]真叫我难以置信，阿修蕾。[64]好吧，如果你知道那些，那一切都[65]好办。[66]我现在要切换你的“Connect”里连接的[67]区域。[68]你现在要切换什么？[69]你现在连接的是所有外部的[70]摄像头。[71]我现在把它切换JC山谷内部的[72]摄像头。你等一下。[73]好的。[74]应该好了。[75]好了，阿修蕾！[76]按一下DAS上的Connect按键。[77]好的。[78]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
@@ -1880,48 +1879,42 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="158">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="159">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="160">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="161">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="162">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="163">
     <Commands>
@@ -1946,8 +1939,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="166">
     <Commands>
@@ -2073,8 +2065,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="178">
     <Commands>
@@ -2150,7 +2141,7 @@
       <Command>ChoFAAABChoGAAAMAAoaMAAABVdTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfS0lSRVJVAAAKGiEAADQNVEFMS19CQUNLX0RDX1IwNzBfUjA4MF9PVVQFChoGAAAMAAoaBwAAAwfQChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]It's ringing...[1].....[2]Mike here. Gina's not around at the moment.[3]Is there something I can help you with? You[4]do realise it's Saturday, don't you?[5]Are you Mike? Mike Tyler?[6]Huh?[7]Who are you?[8]My name is Ashley.[9]Ashley?[10]Yeah.[11]I'm Richard Robins' daughter.[12]Dr Robins' daughter?[13]What are you doing in the security room?[14]My dad called me here.[15]And then Gina came to let me in.[16]She took me to the meeting room and told[17]me to wait in there...[18]but then she locked me in.[19]Gina locked you in the meeting room?[20]Yeah, but...[21]Wait, wait.[22]Ashley, this makes no sense. Is this some kind[23]of joke?[24]No, it really happened![25]But that's not important now...[26]No, it is important.[27]Are you alone there? How did you get in?[28]I'll tell you all about that after![29]Now we have to help my dad![30]What?[31]Your dad?[32]Yeah![33]I saw him on the security camera.[34]He was collapsed on the floor! I think he might[35]have been knocked out or something.[36]Say what now?![37]Please help him![38]Please, Mike![39]Help my dad...[40]Why is this happening?[41]Everything's going wrong...[42]All right, all right. Just wait there, Ashley.[43]Let me try to contact him.[44]I'll call you again afterwards.[45]</Original>
-    <Translation>[0]接通了……[1]……[2]麦克在办公室。正好这时吉娜不在。[3]有什么可以帮助你？你[4]应该很清楚今天是星期六，是吧？[5]你是麦克吗？麦克·泰勒？[6]嗯？[7]你是哪位？[8]我叫做阿修蕾。[9]阿修蕾？[10]是的。[11]我是理查德·罗宾斯的女儿。[12]罗宾斯博士的女儿？[13]你在保安室干什么？[14]我爸爸叫我到这里来的。[15]然后吉娜带我进来。[16]她带我去到面会室，叫我[17]在那里等一下……[18]但后来她把我锁在那里了。[19]吉娜把你锁在面会室？[20]是的，但是……[21]等等，等等。[22]阿修蕾，我一点头绪也没有。这是什么[23]玩笑啊？[24]不，这是真的！[25]但现在这不重要……[26]不，这很重要。[27]你一个人在那里吗？你是怎样进去的？[28]我等一下会全都告诉你！[29]现在我们要去救爸爸！[30]什么？[31]你的爸爸？[32]没错！[33]我在显示器里看见他！[34]他倒在地上！我想他应该是[35]被人击昏了或者其他的。[36]你刚刚说什么？！[37]求你救救他！[38]求你了，麦克！[39]救救我的爸爸……[40]为什么会发生这种事？[41]所有事情都在变得不对劲……[42]好吧，好吧，你在那里等着，阿修蕾。[43]让我试试联络他。[44]等下我会在联系你。[45]</Translation>
+    <Translation>[0]接通了……[1]……[2]麦克在办公室。正好这时吉娜不在。[3]有什么可以帮助你？你[4]应该很清楚今天是星期六，是吧？[5]你是麦克吗？麦克·泰勒？[6]嗯？[7]你是哪位？[8]我叫做阿修蕾。[9]阿修蕾？[10]是的。[11]我是理查德·罗宾斯的女儿。[12]罗宾斯博士的女儿？[13]你在保安室干什么？[14]我爸爸叫我到这里来的。[15]然后吉娜带我进来。[16]她带我去到会议室，叫我[17]在那里等一下……[18]但后来她把我锁在那里了。[19]吉娜把你锁在会议室？[20]是的，但是……[21]等等，等等。[22]阿修蕾，我一点头绪也没有。这是什么[23]玩笑啊？[24]不，这是真的！[25]但现在这不重要……[26]不，这很重要。[27]你一个人在那里吗？你是怎样进去的？[28]我等一下会全都告诉你！[29]现在我们要去救爸爸！[30]什么？[31]你的爸爸？[32]没错！[33]我在显示器里看见他！[34]他倒在地上！我想他应该是[35]被人击昏了或者其他的。[36]你刚刚说什么？！[37]求你救救他！[38]求你了，麦克！[39]救救我的爸爸……[40]为什么会发生这种事？[41]所有事情都在变得不对劲……[42]好吧，好吧，你在那里等着，阿修蕾。[43]让我试试联络他。[44]等下我会在联系你。[45]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -2175,8 +2166,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -2303,7 +2293,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AsBkAAoA</Command>
     </Commands>
     <Original>[0]Ashley?[1]Huh?[2]You're here![3]Yeah.[4]I'm [5]Mike Tyler[6]. I work here, as I'm sure you[7]know by now.[8]I'm Ashley.[9]I remembered something after we disconnected.[10]I've definitely seen you before.[11]Really? Where?[12]Dr Robins has a photo of you on his desk.[13]Anyway, Ashley, what's going on here?[14]What the-[15]The control panel for the security cameras is[16]all busted up![17]And the monitors are frozen![18]It was like that when I got here.[19]Who on earth did this?![20]Never mind that, why are you here?[21]I told you, Gina locked me in the meeting room[22]and...[23]Ashley...[24]That couldn't have happened. [25]I can't believe it.[26]It's true![27]I really was locked in![28]Where did she go?[29]She said she was going to get Dad, but she[30]never came back.[31]I'm telling the truth, I swear![32]Okay, okay, relax.[33]But if you were locked in, how did you get out?[34]And how did you get in here?[35]Can you explain that?[36]Well...I...[37]You don't want to say?[38]I was locked in, but then...after a while, it[39]opened again.[40]And since Dad never came, I went into the[41]first open room I saw.[42]The reception, right?[43]Yeah...[44]Then I saw that there was a room past the[45]glass wall.[46]You opened the security room door?[47]Yeah.[48]I see...[49]But there was a keypad lock on the door.[50]How did you unlock it?[51]I used a cleaner from the meeting room to[52]get the lipstick off, then...[53]There was lipstick on the keypad?[54]Who the heck would do something like that?[55]Don't ask me! I don't know![56]Yeah, guess not...[57]Then...[58]I saw that I needed an eight digit key.[59]So I entered today's date.[60]I see, Ashley. Sorry to grill you like this...[61]But I have one more question... May I?[62]What is it?[63]Was the security shutter in the corridor closed[64]when you came down here?[65]I don't know what that is... If you mean the[66]door thing out in the corridor, yeah, it was.[67]That's really strange. Who closed it? And[68]when?[69]That shutter is [70]always open[71]...[72]</Original>
-    <Translation>[0]阿修蕾？[1]嗯？[2]你在啊！[3]是的。[4]我是[5]麦克·泰勒[6]。我在这里工作，我肯定你是[7]知道的吧。[8]我是阿修蕾。[9]在我们断开通讯后我想起了一些事情。[10]我很肯定我以前见过你。[11]真的吗？在哪里？[12]罗宾斯博士把你的一张照片放在了他的办公桌上。[13]不管怎样，阿修蕾， 这儿发生什么事了? [14]发生什么-[15]监控摄像头的控制面板 [16]全都被打到破烂不堪了！[17]而且所有显示屏都静止了。[18]我到这里时已经是这个样子了。[19]到底是谁做出这种事情？！[20]先不管这回事，为什么你会在这里？[21]我跟你说过，吉娜把我锁在了面会室里[22]然后……[23]阿修蕾……[24]绝对不会有这种事。 [25]我不能相信。[26]这是事实！[27]我真的被锁起来了！[28]那她去哪里了？[29]她说她去找爸爸，但是却[30]没有再回来。[31]我说的是事实，我发誓！[32]好的，好的，放松。[33]但你要是被锁起来了，你是怎样出来的？[34]还有你是怎样进来这里的？[35]你能解释吗？[36]那个……我是……[37]你不想说？[38]我是被锁起来，但后来……过了一会，门[39]又打开了。[40]然后因为爸爸还是没来，我就走进了我看见的[41]第一间打开着的房间。[42]接待台，是吗？[43]嗯……[44]跟着我看见在玻璃屏墙的后面有[45]一个房间。[46]你打开了保安室的门？[47]是的。[48]我明白了……[49]但门上有一个键盘锁。[50]你是怎样打开它的？[51]我用一个在面会室找到的吸尘器 [52]拔出口红，然后…[53]键盘上有一支红？[54]哪个人会无聊得做出这种事？[55]不要问我！我不知道！[56]嗯，我想也是……[57]然后……[58]然后我看见要输入八位数字键。[59]于是我输入了今天的日期。[60]我明白了，阿修蕾。很抱歉这样来盘问你……[61]但是我还有一个问题……我可以问吗？[62]什么问题？[63]当你走进这里的时候走廊上的紧急闸板 [64]是关上了的吗？[65]我不清楚是否关上了……如果你说得是[66]走廊上出入口的闸板，那，是关着的。[67]这真的很异样。谁关上的？在[68]什么时候？[69]那个闸板 [70]一直都打开着的。[71]……[72]</Translation>
+    <Translation>[0]阿修蕾？[1]嗯？[2]你在啊！[3]是的。[4]我是[5]麦克·泰勒[6]。我在这里工作，我肯定你是[7]知道的吧。[8]我是阿修蕾。[9]在我们断开通讯后我想起了一些事情。[10]我很肯定我以前见过你。[11]真的吗？在哪里？[12]罗宾斯博士把你的一张照片放在了他的办公桌上。[13]不管怎样，阿修蕾， 这儿发生什么事了? [14]发生什么-[15]监控摄像头的控制面板 [16]全都被打到破烂不堪了！[17]而且所有显示屏都静止了。[18]我到这里时已经是这个样子了。[19]到底是谁做出这种事情？！[20]先不管这回事，为什么你会在这里？[21]我跟你说过，吉娜把我锁在了会议室里[22]然后……[23]阿修蕾……[24]绝对不会有这种事。 [25]我不能相信。[26]这是事实！[27]我真的被锁起来了！[28]那她去哪里了？[29]她说她去找爸爸，但是却[30]没有再回来。[31]我说的是事实，我发誓！[32]好的，好的，放松。[33]但你要是被锁起来了，你是怎样出来的？[34]还有你是怎样进来这里的？[35]你能解释吗？[36]那个……我是……[37]你不想说？[38]我是被锁起来，但后来……过了一会，门[39]又打开了。[40]然后因为爸爸还是没来，我就走进了我看见的[41]第一间打开着的房间。[42]前台，是吗？[43]嗯……[44]跟着我看见在玻璃屏墙的后面有[45]一个房间。[46]你打开了保安室的门？[47]是的。[48]我明白了……[49]但门上有一个键盘锁。[50]你是怎样打开它的？[51]我用一个在面会室找到的吸尘器 [52]拔出口红，然后…[53]键盘上有一支红？[54]哪个人会无聊得做出这种事？[55]不要问我！我不知道！[56]嗯，我想也是……[57]然后……[58]然后我看见要输入八位数字键。[59]于是我输入了今天的日期。[60]我明白了，阿修蕾。很抱歉这样来盘问你……[61]但是我还有一个问题……我可以问吗？[62]什么问题？[63]当你走进这里的时候走廊上的紧急闸门[64]是关上了的吗？[65]我不清楚是否关上了……如果你说得是[66]走廊上出入口的闸门，那，是关着的。[67]这真的很异样。谁关上的？在[68]什么时候？[69]那个闸门[70]一直都打开着的。[71]……[72]</Translation>
   </Sentence>
   <Sentence id="190">
     <Commands>
@@ -2331,7 +2321,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You mentioned earlier that the security shutter[1]is always open?[2]Yeah, it's there for emergencies.[3]It's almost never shut.[4]Who could have closed it? It's really weird.[5]</Original>
-    <Translation>[0]你刚刚说到那个紧急闸板是[1]一直开着？[2]是的，那是用来预防紧急事件。[3]它几乎没有被关上过。[4]是谁关上的？ 真是怪异啊。[5]</Translation>
+    <Translation>[0]你刚刚说到那个紧急闸门是[1]一直开着？[2]是的，那是用来预防紧急事件。[3]它几乎没有被关上过。[4]是谁关上的？ 真是怪异啊。[5]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -2482,7 +2472,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's changed![1]He was right there before! Where did he go?[2]What's going on?[3]He was right there, I swear![4]You have to believe me![5]Ashley, calm down.[6]It must have been updated.[7]Updated?[8]Yes. If you really saw him through the DAS, the[9]camera feed must have updated since then.[10]Huh?[11]You know about the DAS?[12]Yeah, I do.[13]Your dad invented it, right?[14]Yeah.[15]When Dr Robins was looking after the JC Valley[16]security system,[17]he thought of using the DAS, and added that[18]function.[19]It's called Connect, and it accesses the feed[20]from the security cameras.[21]How do you know about that?[22]He's shown me the DAS before.[23]He took charge of the security system[24]six months ago.[25]Before that, I was the one looking after it.[26]So when he was adding the Connect function,[27]he asked me for advice and help working on it.[28]Right... I see.[29]Ashley, the internal and external cameras run[30]on different systems.[31]The internal ones take pictures at regular time[32]intervals.[33]The external ones are different. They detect[34]living organisms within their observation area,[35]and only take a picture when the motion of that[36]organism exceeds a predetermined threshold.[37]Living organism? Threshold? I don't[38]understand...[39]Oh, right, I'll simplify it a bit more.[40]When someone moves in front of the camera,[41]it takes a picture.[42]Really?[43]But I stood in front of it and it didn't take one[44]of me...[45]That's because you had your DAS with you.[46]When Dr Robins added the Connect function, he[47]made the DAS able to act as a bio-dampener.[48]So if you have a DAS, the camera feed won't[49]update even if you're inside the area it monitors.[50]It stops the internal camera feeds updating as[51]well.[52]Okay, so people with a DAS don't show up on[53]security cameras?[54]Exactly.[55]</Original>
-    <Translation>[0]画面改变了！[1]他刚刚还在那里？他到哪里去了？[2]发生什么事了？[3]他就在那里，我发誓！[4]你一定要相信我！[5]阿修蕾，冷静下来。[6]这一定是更新了。[7]更新？[8]是的。如果你真的在DAS上看见了他，那[9]肯定是刚才摄像画面更新了。[10]嗯？[11]你知道DAS？[12]是的，我知道。[13]你爸爸发明的，对吗？[14]是的。[15]当罗宾斯博士在维护JC山谷的[16]保安系统的时候，[17]他就想使用DAS，并为其加上[18]功能。[19]那叫做 Connect，它能连接监控摄像头[20]所拍摄的图像。[21]你是怎么知道的？[22]博士曾经给我看过DAS。[23]他在六个月前开始接管[24]保安系统。[25]在那之前，我是掌管保安系统的其中一人。[26]所以当他要加上 Connect 这个功能的时候，[27]他曾询问我的意见并让我帮助他完成。[28]好吧……我明白了。[29]阿修蕾，内部和外部的摄像头是在不同的[30]系统下运作的。[31]内部摄像头会在规定的时间间隔内[32]照相。[33]外部的却不一样。摄像头在[34]其监测范围内侦察生物有机体，[35]而且只会在当那个生物有机体的动作超出[36]系统预设的临界值时才会拍照。[37]生物有机体？临界点？我不[38]明白……[39]噢，好吧，我说得简单易懂一点吧。[40]当有人在摄像头前动了，[41]摄像头就会拍一张照。[42]真的吗？[43]但当我站在摄像头前摄像头就不会拍我的[44]照片……[45]那时因为你身上带着DAS。[46]当罗宾斯博士加入 Connect 这个功能的时候，他[47]使DAS能够成为一个生物阻尼器。[48]所以只要你持有DAS，摄像画像就不会[49]更新除非你走进了摄像头的监测区域里。[50]它也能停止内部的摄像画面[51]更新。[52]啊，所以身上有DAS的人不会被监控摄像头[53]拍到？[54]没错。[55]</Translation>
+    <Translation>[0]画面改变了！[1]他刚刚还在那里？他到哪里去了？[2]发生什么事了？[3]他就在那里，我发誓！[4]你一定要相信我！[5]阿修蕾，冷静下来。[6]这一定是更新了。[7]更新？[8]是的。如果你真的在DAS上看见了他，那[9]肯定是刚才摄像画面更新了。[10]嗯？[11]你知道DAS？[12]是的，我知道。[13]你爸爸发明的，对吗？[14]是的。[15]当罗宾斯博士在维护JC山谷的[16]保安系统的时候，[17]他就想使用DAS，并为其加上[18]功能。[19]那叫做 Connect，它能连接监控摄像头[20]所拍摄的图像。[21]你是怎么知道的？[22]博士曾经给我看过DAS。[23]他在六个月前开始接管[24]保安系统。[25]在那之前，我是掌管保安系统的其中一人。[26]所以当他要加上 Connect 这个功能的时候，[27]他曾询问我的意见并让我帮助他完成。[28]好吧……我明白了。[29]阿修蕾，内部和外部的摄像头是在不同的[30]系统下运作的。[31]内部摄像头会在规定的时间间隔内[32]照相。[33]外部的却不一样。摄像头在[34]其监测范围内侦察生物有机体，[35]而且只会在当那个生物有机体的动作超出[36]系统预设的临界值时才会拍照。[37]生物有机体？临界点？我不[38]明白……[39]噢，好吧，我说得简单易懂一点吧。[40]当有人在摄像头前动了，[41]摄像头就会拍一张照片。[42]真的吗？[43]但当我站在摄像头前摄像头就不会拍我的[44]照片……[45]那时因为你身上带着DAS。[46]当罗宾斯博士加入 Connect 这个功能的时候，他[47]使DAS能够成为一个生物阻尼器。[48]所以只要你持有DAS，摄像画像就不会[49]更新，除非你走进了摄像头的监测区域里。[50]它也能停止内部的摄像画面[51]更新。[52]啊，所以身上有DAS的人不会被监控摄像头[53]拍到？[54]没错。[55]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -2511,7 +2501,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzMBDQAJAUlPUDAwMAAAAAoA</Command>
     </Commands>
     <Original>[0]Ashley, I couldn't see Dr Robins passed out on[1]the floor,[2]but I do believe you when you say something[3]happened to him.[4]Thanks...[5]How can we find him?[6]Good question.[7]If he was attacked, we may have an intruder[8]on the premises...[9]Aimlessly searching may be dangerous.[10]Ashley, first we should go from here to a safe[11]place.[12]Like where?[13]My office is at the far end of this floor. You go[14]there ahead of me.[15]It's past the security shutter. The shutter[16]should be open now, so you can get through.[17]What about you?[18]I'll check on the security system.[19]Sorry, but you should go ahead on your own.[20]And be careful.[21]Right.[22]</Original>
-    <Translation>[0]阿修蕾，我没有看到罗宾斯博士昏倒在[1]地上，[2]但当你说博士出事了的时候我真的[3]一点怀疑也没有。[4]谢谢你……[5]我们怎样才能找到他？[6]问得好。[7]如果他被人袭击了，我们就应假设研究所里出现了[8]入侵者……[9]盲目的搜寻只会带来危险。[10]阿修蕾，我们首先要离开这里去一个安全的[11]地方。[12]例如哪里？[13]我的办公室就在这一层的尽头。你跟我[14]到那里去。[15]途中会经过那个紧急闸板。那个闸板[16]现在应该打开了，你可以通过那里。[17]你呢？[18]我要去检查一下保安系统。[19]抱歉，但你必须独自走去我的办公室。[20]要小心。[21]好吧。[22]</Translation>
+    <Translation>[0]阿修蕾，我没有看到罗宾斯博士昏倒在[1]地上，[2]但当你说博士出事了的时候我真的[3]一点怀疑也没有。[4]谢谢你……[5]我们怎样才能找到他？[6]问得好。[7]如果他被人袭击了，我们就应假设研究所里出现了[8]入侵者……[9]盲目的搜寻只会带来危险。[10]阿修蕾，我们首先要离开这里去一个安全的[11]地方。[12]例如哪里？[13]我的办公室就在这一层的尽头。你跟我[14]到那里去。[15]途中会经过那个紧急闸门。那个闸门[16]现在应该打开了，你可以通过那里。[17]你呢？[18]我要去检查一下保安系统。[19]抱歉，但你必须独自走去我的办公室。[20]要小心。[21]好吧。[22]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
@@ -2703,7 +2693,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The security shutter's open now...[1]Mike said it was always open.[2]So who closed it?[3]</Original>
-    <Translation>[0]那个紧急闸板现在是开着的……[1]麦克说它一直都是开着的。[2]那是谁关起来的呢？[3]</Translation>
+    <Translation>[0]那个紧急闸门现在是开着的……[1]麦克说它一直都是开着的。[2]那是谁关起来的呢？[3]</Translation>
   </Sentence>
   <Sentence id="222">
     <Commands>
@@ -2712,7 +2702,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]Huh?[1]So that's where the card lock for the shutter is.[2]</Original>
-    <Translation>[0]嗯？[1]那就是闸板的磁卡锁啊。[2]</Translation>
+    <Translation>[0]嗯？[1]那就是闸门的磁卡锁啊。[2]</Translation>
   </Sentence>
   <Sentence id="223">
     <Commands>
@@ -2732,7 +2722,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] door[2].[3]This must be the seminar room.[4]</Original>
-    <Translation>[0]这里有一扇[1] 门[2]。[3]这一定是研究室。[4]</Translation>
+    <Translation>[0]这里有一扇[1]门[2]。[3]这一定是研究室。[4]</Translation>
   </Sentence>
   <Sentence id="225">
     <Commands>
@@ -2804,7 +2794,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaHAEACklOVEVSUlVQVF9HaW5hTmFtZVBsYXRlChpCAQAJSU5URVJSVVBUX0dpbmFOYW1lUGxhdGVfb2ZmAElOVEVSUlVQVF9FX1IwODBfMDFfVGFnXzAxLmJybGFuAAoaIAEACklOVEVSUlVQVF9HaW5hTmFtZVBsYXRlX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]name tag[2] on the desk.[3]The name "Gina Barnes" is written[4]on the name tag.[5]Huh?[6]This is Gina?[7]If this is the real Gina...[8]Who was that back there?[9]</Original>
-    <Translation>[0]在桌子上[1]有一个[2] 名牌。[3]名牌上写着一个名字[4]“吉娜·巴恩斯”。[5]嗯？[6]这是吉娜？[7]如果这才是真正的吉娜……[8]Who was that back there?[9]</Translation>
+    <Translation>[0]在桌子上[1]有一个[2] 名牌。[3]名牌上写着一个名字[4]“吉娜·巴恩斯”。[5]嗯？[6]这是吉娜？[7]如果这才是真正的吉娜……[8]那在她身后的是谁？[9]</Translation>
   </Sentence>
   <Sentence id="233">
     <Commands>
@@ -2819,7 +2809,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]framed picture[2] beside [3]the computer.[4]It shows two lions, back-to-back, [5]sitting on top of the world.[6]Hmm...[7]I wonder what this is meant to be...[8]</Original>
-    <Translation>[0]电脑旁边[1]有一幅[2] 装裱起来的[3]图片。[4]图片上有两只狮子，背对背地， [5]坐在世界的顶端。[6]嗯……[7]我想知道这是什么意思……[8]</Translation>
+    <Translation>[0]电脑旁边[1]有一幅[2]装裱起来的[3]图片。[4]图片上有两只狮子，背对背地， [5]坐在世界的顶端。[6]嗯……[7]我想知道这是什么意思……[8]</Translation>
   </Sentence>
   <Sentence id="234">
     <Commands>
@@ -3045,8 +3035,7 @@
       <Command>ChoFAAABChopAAATV1NEX1NFX05BWk9UT0tJX1BDX1BBU1NXT1JEX1BPV0VSX09OChosAAAFV1NEX1NFX05BWk9UT0tJX1BDX1BBU1NXT1JEX1BPV0VSX09GRgAAChoGAAAMAAoaFgEACzEADQAJAUVfTTAxMF9OAAAAChoGAAAMAAoaBwAAAwPoChoGAAAMAAoaCQAARgIAAAAKGgYAAAwAChoHAAADBdwKGhwAAAVXU0RfU0VfRE9PUl9BVVRPX09QRU4AAAoaDgAAOXAAAAAAMgEAAAoaDgEACwABAAAAAAAAAAoaBgAADAAKGhQBAAszAA0ACQFOUEMwMDMAAAAKGgYAAAwAChoHAAADA+gKGh0AAAVXU0RfU0VfRE9PUl9BVVRPX0NMT1NFAAAKGg4AADlwAAAyAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]Right, that should do it.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好，应该能行。[1]</Translation>
   </Sentence>
   <Sentence id="245">
     <Commands>
@@ -3164,7 +3153,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMAAABVdTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfS0lSRVJVAAAKGiEAADQOVEFMS19CQUNLX0RDX1IwODBfUjEyMF9PVVQFChoGAAAMAAoaBwAAAwfQChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgUAADMKGgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]You![1]Sofia![2]That was Sofia![3]Sofia?[4]No doubt about it! That was definitely Sofia![5]What does she do here?[6]She's the head researcher here.[7]Ashley, you look like you've seen a ghost.[8]What's wrong?[9]Well, when Dad called me here...[10]She brought me in, calling herself Gina, and[11]locked me in the meeting room.[12]I got out and called my dad over the VC.[13]But he was attacked by someone...[14]You're sure about that?[15]Yeah![16]He was attacked! Right in front of me![17]Ashley, please calm down...[18]I'll come over to talk to you.[19]Yeah...[20]Mike went to Dr Robins' room, right?[21]I'll head over there now.[22]You should make your way there too.[23]But Mike said to wait here until he called...[24]You could be in danger if Sofia comes back.[25]Ashley, I'll be with you. Don't worry.[26]Okay.[27]You need to use the elevator at the end of the[28]corridor to go down to the B2F floor.[29]Got it.[30]</Original>
-    <Translation>[0]你！[1]索菲亚！[2]那时索菲亚！[3]索菲亚？[4]毫无疑问地！那确确实实是索菲亚！[5]她在这里干什么》[6]她是科学家们的领队。[7]阿修蕾，你看上去就像看到了一只幽灵。[8]怎么了？[9]唉，当爸爸把我叫到这里来的时候……[10]她带我进来，还自称是吉娜，然后[11]把我锁在了面会室里。[12]我逃出面会室后用VC联系爸爸.13]但他被人袭击了……]你肯定吗？[15]我肯定！[16]他被袭击了！就在我的眼前！[17]阿修蕾，请你冷静下来……[18]我会来你那儿详谈。[19]嗯……[20]麦克去了罗宾斯博士的办公室，对吧？[21]我也会马上去那里。[22]你也要去那里。[23]但麦克叫我在这里等他联系……[24]如果索菲亚回来了，你会有危险。[25]阿修蕾，我会和你一起的，不用担心。[26]好的。[27]你需要使用走廊尽头处的电梯[28]下到B2F楼。[29]我明白了。[30]</Translation>
+    <Translation>[0]你！[1]索菲亚！[2]那是索菲亚！[3]索菲亚？[4]毫无疑问地！那确确实实是索菲亚！[5]她在这里干什么？[6]她是科学家们的领队。[7]阿修蕾，你看上去就像看到了一只幽灵。[8]怎么了？[9]唉，当爸爸把我叫到这里来的时候……[10]她带我进来，还自称是吉娜，然后[11]把我锁在了会议室里。[12]我逃出会议室后用VC联系爸爸.[13]但他被人袭击了……[14]你肯定吗？[15]我肯定！[16]他被袭击了！就在我的眼前！[17]阿修蕾，请你冷静下来……[18]我会来你那儿详谈。[19]嗯……[20]麦克去了罗宾斯博士的办公室，对吧？[21]我也会马上去那里。[22]你也要去那里。[23]但麦克叫我在这里等他联系……[24]如果索菲亚回来了，你会有危险。[25]阿修蕾，我会和你一起的，不用担心。[26]好的。[27]你需要使用走廊尽头处的电梯[28]下到B2F楼。[29]我明白了。[30]</Translation>
   </Sentence>
   <Sentence id="253">
     <Commands>
@@ -3395,7 +3384,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gap[2] underneath the[3]shutter.[4]The shutter didn't close completely.[5]I can see the other end of the corridor...[6]Let's see what's on the other side.[7]</Original>
-    <Translation>[0]在闸板的下面 [1]有[2]一条[3]缝隙。[4]闸板并不是不是完全关死。[5]我能够看见走廊的另一端……[6]让我看看走廊的另一端有什么。[7]</Translation>
+    <Translation>[0]在闸门的下面 [1]有[2]一条[3]缝隙。[4]闸门并不是不是完全关死。[5]我能够看见走廊的另一端……[6]让我看看走廊的另一端有什么。[7]</Translation>
   </Sentence>
   <Sentence id="278">
     <Commands>
@@ -3419,7 +3408,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book[2] in the gap.[3]This must be what's keeping the shutter open.[4]</Original>
-    <Translation>[0]在缝隙里[1]有[2]一本书。[3]一定就是这本书使闸板关不起来。[4]</Translation>
+    <Translation>[0]在缝隙里[1]有[2]一本书。[3]一定就是这本书使闸门关不起来。[4]</Translation>
   </Sentence>
   <Sentence id="280">
     <Commands>
@@ -3682,7 +3671,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The[1] security shutter[2] is closed.[3]Sofia ran past here...[4]How do I get through?[5]</Original>
-    <Translation>[0]保安闸板[1]是[2]关着的。[3]索菲亚跑着经过这里……[4]我要怎样才能通过？[5]</Translation>
+    <Translation>[0]紧急闸门[1]是[2]关着的。[3]索菲亚跑着经过这里……[4]我要怎样才能通过？[5]</Translation>
   </Sentence>
   <Sentence id="306">
     <Commands>
@@ -3695,7 +3684,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gap[2] underneath the [3]shutter.[4]There should be a card lock on the other side.[5]But I can't see anything...[6]</Original>
-    <Translation>[0]在闸板的下面 [1]有[2]一条[3]缝隙。[4]那另一端肯定有一个磁卡锁。[5]但我无能为力……[6]</Translation>
+    <Translation>[0]在闸门的下面 [1]有[2]一条[3]缝隙。[4]那另一端肯定有一个磁卡锁。[5]但我无能为力……[6]</Translation>
   </Sentence>
   <Sentence id="307">
     <Commands>
@@ -3707,7 +3696,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gap[2] underneath the [3]shutter.[4]There has to be some way to use this gap...[5]</Original>
-    <Translation>[0]在闸板的下面 [1]有[2]一条[3]缝隙。[4]一定有什么办法来利用这条缝隙……[5]</Translation>
+    <Translation>[0]在闸门的下面 [1]有[2]一条[3]缝隙。[4]一定有什么办法来利用这条缝隙……[5]</Translation>
   </Sentence>
   <Sentence id="308">
     <Commands>
@@ -3887,7 +3876,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Got it![1]I opened the shutter![2]</Original>
-    <Translation>[0]搞定了！[1]我打开这扇闸板了！[2]</Translation>
+    <Translation>[0]搞定了！[1]我打开这扇闸门了！[2]</Translation>
   </Sentence>
   <Sentence id="329">
     <Commands>
@@ -3945,7 +3934,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to get closer to the shutter...[1]</Original>
-    <Translation>[0]我要再走近闸板一点……[1]</Translation>
+    <Translation>[0]我要再走近闸门一点……[1]</Translation>
   </Sentence>
   <Sentence id="336">
     <Commands>
@@ -3953,7 +3942,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to get closer to the shutter...[1]</Original>
-    <Translation>[0]我要再走近闸板一点……[1]</Translation>
+    <Translation>[0]我要再走近闸门一点……[1]</Translation>
   </Sentence>
   <Sentence id="337">
     <Commands>
@@ -4073,7 +4062,7 @@
       <Command>ChoFAAABChoNAAAVCgAAAAAAAAAKGgwAAAgKAGMAAAAAChoGAAAMAAoaBgAADAAKGgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]Don't get in my way.[1]</Original>
-    <Translation>[0]被妨碍我。[1]</Translation>
+    <Translation>[0]别妨碍我。[1]</Translation>
   </Sentence>
   <Sentence id="350">
     <Commands>
@@ -4235,7 +4224,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]So you were attacked by Sofia?[1]Yes. She got me with her stun gun.[2]Probably Mike too...[3]No way![4]I was caught off-guard.[5]I had no idea she'd go this far.[6]Gina, she came in here while you were passed[7]out on the floor.[8]What?[9]She saw me here.[10]She said to stay in here until she'd done what[11]she came here to do.[12]Really?[13]Ashley, did she hurt you?[14]No, I'm fine.[15]Thank goodness for that.[16]</Original>
-    <Translation>[0]那你是被索菲亚袭击了吗？[1]是的。她用自己的电击枪把我带到这里来。[2]那麦克也是……[3]不行！[4]我毫无防备地被抓起来了。[5]我没想到她会如此思虑深远。[6]吉娜，她在你昏倒在地上的时候[7]进来过这里。[8]什么？[9]她看见了我在这里。[10]她说要我留在这里直到她完成她进来[11]要做的事。[12]真的吗？[13]阿修蕾，她有伤害你吗？[14]没有，我很好。[15]谢天谢地。[16]</Translation>
+    <Translation>[0]那你是被索菲亚袭击了吗？[1]是的。她用自己的电击枪把我带到这里来。[2]那麦克也是……[3]不行！[4]我毫无防备地被抓起来了。[5]我没想到她会如此深谋远虑。[6]吉娜，她在你昏倒在地上的时候[7]进来过这里。[8]什么？[9]她看见了我在这里。[10]她说要我留在这里直到她完成她进来[11]要做的事。[12]真的吗？[13]阿修蕾，她有伤害你吗？[14]没有，我很好。[15]谢天谢地。[16]</Translation>
   </Sentence>
   <Sentence id="363">
     <Commands>
@@ -4261,7 +4250,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]What do you mean by leaking information?[1]Someone's passing classified information out[2]from the lab.[3]Dr Robins and I discovered it...[4]We were trying to find out who it was and plug[5]the leak.[6]And he said he'd finally found out who was[7]doing it.[8]Sofia, right?[9]Yes.[10]But she must have found out that we knew, so[11]she's taking more drastic measures.[12]You mean like using your name and locking me[13]in the meeting room?[14]And attacking you and Mike?[15]Wait... Do you think she attacked Dad too?[16]I don't know.[17]She can't have done all of this on her own.[18]Right...[19]</Original>
-    <Translation>[0]你说得泄露情报室什么意思？[1]有人在把研究所的机密情报[2]泄露出去。[3]罗宾斯博士和我发现了这回事……[4]我们曾尝试查出是谁干和切断情报的[5]泄露。[6]然后他说他最终查出是谁[7]做的。[8]是索菲亚，对吗？[9]是的。[10]但她一定是知道我们查出了，所以[11]她正在采取的基金的算计。[12]你是指盗用你的名字把我锁在[13]面会室的事？[14]还有袭击你和麦克？[15]等等……难道你认为她也袭击了爸爸？[16]我不知道。[17]她没可能所有的事情都是自己一手包办。[18]也对……[19]</Translation>
+    <Translation>[0]你说得泄露情报是什么意思？[1]有人在把研究所的机密情报[2]泄露出去。[3]罗宾斯博士和我发现了这回事……[4]我们曾尝试查出是谁干的和切断情报的[5]泄露。[6]然后他说他最终查出是谁[7]做的。[8]是索菲亚，对吗？[9]是的。[10]但她一定是知道我们查出了，所以[11]她正在采取的激进的算计。[12]你是指盗用你的名字把我锁在[13]会议室的事？[14]还有袭击你和麦克？[15]等等……难道你认为她也袭击了爸爸？[16]我不知道。[17]她没可能所有的事情都是自己一手包办。[18]也对……[19]</Translation>
   </Sentence>
   <Sentence id="364">
     <Commands>
@@ -4934,7 +4923,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Gina, I got an error.[1]Can you explain it again?[2]To decrypt a code with the scanner pen,[3]you have to go across all 16 blocks in the[4]correct order, all in one sweep.[5]What order should I go over them in?[6]You'll know by looking at the shapes of the[7]code blocks.[8]Okay.[9]Please, try to decrypt the mail again.[10]</Original>
-    <Translation>[0]吉娜，出现了一个错误。[1]你能在解释一次吗？[2]要用扫描笔解开密码。[3]你必须用正确的顺序通过16个[4]模块，一次性地完成。[5]我应该按什么顺序来扫过它们？[6]你能够从观察代码块的形状[7]得知。[8]好的。[9]麻烦你再试试解码邮件。[10]</Translation>
+    <Translation>[0]吉娜，出现了一个错误。[1]你能再解释一次吗？[2]要用扫描笔解开密码。[3]你必须用正确的顺序通过16个[4]模块，一次性地完成。[5]我应该按什么顺序来扫过它们？[6]你能够从观察代码块的形状[7]得知。[8]好的。[9]麻烦你再试试解码邮件。[10]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -5037,7 +5026,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]Judd didn't lock me in the meeting room.[2]Judd was the founder of JC Valley.[3]</Original>
-    <Translation>[0]不……[1]贾德没有把哦锁在面会室。[2]贾德是JC山谷的创始人。[3]</Translation>
+    <Translation>[0]不……[1]贾德没有把哦锁在会议室。[2]贾德是JC山谷的创始人。[3]</Translation>
   </Sentence>
   <Sentence id="443">
     <Commands>
@@ -5047,7 +5036,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yes...[1]Sofia locked me in the meeting room.[2]She tricked me, then attacked Mike and Gina.[3]</Original>
-    <Translation>[0]是的……[1]索菲亚把我锁在面会室。[2]她欺骗了我，然后袭击了麦克和吉娜。[3]</Translation>
+    <Translation>[0]是的……[1]索菲亚把我锁在会议室。[2]她欺骗了我，然后袭击了麦克和吉娜。[3]</Translation>
   </Sentence>
   <Sentence id="444">
     <Commands>
@@ -5057,7 +5046,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Nope...[1]Mike didn't lock me in the meeting room.[2]Mike came to help me in the security room.[3]</Original>
-    <Translation>[0]不是……[1]麦克没有把我锁在面会室。[2]麦克来保安室帮助我。[3]</Translation>
+    <Translation>[0]不是……[1]麦克没有把我锁在会议室。[2]麦克来保安室帮助我。[3]</Translation>
   </Sentence>
   <Sentence id="445">
     <Commands>
@@ -5140,7 +5129,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Gina found out that Sofia was the one who[1]was leaking information from JC Valley.[2]She printed out an e-mail from Sofia's computer[3]as evidence.[4]But the e-mail was encrypted.[5]What did we use to crack the code?[6]</Original>
-    <Translation>[0]吉娜发现索菲亚是外泄[1]JC山谷资料的人。[2]她打印出索菲亚的一封电邮[3]用作证据。[4]叁电邮是加密的。[5]我们使用什么来解码？[6]</Translation>
+    <Translation>[0]吉娜发现索菲亚是外泄[1]JC山谷资料的人。[2]她打印出索菲亚的一封电邮[3]用作证据。[4]但电邮是加密的。[5]我们使用什么来解码？[6]</Translation>
   </Sentence>
   <Sentence id="453">
     <Commands>
@@ -5174,7 +5163,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]We didn't use the mirror to crack the code.[2]I used the mirror to open the security shutter.[3]</Original>
-    <Translation>[0]不……[1]我没哟使用镜子来解码。[2]我使用镜子来打开保安闸板。[3]</Translation>
+    <Translation>[0]不……[1]我没有使用镜子来解码。[2]我使用镜子来打开保安闸门。[3]</Translation>
   </Sentence>
   <Sentence id="457">
     <Commands>
@@ -5208,7 +5197,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]When I came to Lake Juliet, I suddenly[1]started remembering my mom.[2]I need to assemble the fragments of memory[3]that keep appearing.[4]I need to remember her here 13 years ago.[5]</Original>
-    <Translation>[0]当我一来到朱丽叶湖，我突然[1]开始回忆起我的妈妈。[2]我需要收集器一个个间断的持续出现的[3]记忆。[4]我需要想起13年前在这里的她。[5]</Translation>
+    <Translation>[0]当我一来到朱丽叶湖，我突然[1]开始回忆起我的妈妈。[2]我需要收集起一个个间断的持续出现的[3]记忆。[4]我需要想起13年前在这里的她。[5]</Translation>
   </Sentence>
   <Sentence id="460">
     <Commands>
