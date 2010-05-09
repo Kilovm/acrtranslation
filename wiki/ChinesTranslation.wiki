@@ -78,6 +78,7 @@
  * can recycling machine: 罐头回收机
  * cork notice board： 木制公告板
  * Student ID: 学生证
+ * bay window：挑窗（专业术语好像叫做飘窗，但是我没听过，只听过挑窗这种说法，而且这个比较好理解，个人觉得）
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
