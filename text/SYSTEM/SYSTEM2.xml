@@ -1910,7 +1910,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]Some magazines have been thrown[4]into it.[5]</Original>
-    <Translation>[0]那里有个[1]硬纸板箱[2]。[3]里面扔着一些[4]杂志。[5]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面扔着一些[4]杂志。[5]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
@@ -2320,7 +2320,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It is full of crisp packets.[4]</Original>
-    <Translation>[0]那里有个[1]硬纸板箱[2]。[3]里面装满了薯片包装。[4]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面装满了薯片包装。[4]</Translation>
   </Sentence>
   <Sentence id="235">
     <Commands>
@@ -2357,7 +2357,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It is full of canned asparagus.[4]</Original>
-    <Translation>[0]那里有个[1]硬纸箱[2]。[3]里面装满了芦笋罐头。[4]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面装满了芦笋罐头。[4]</Translation>
   </Sentence>
   <Sentence id="238">
     <Commands>
@@ -2402,7 +2402,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]white cardboard boxes[2].[3]It is impossible to tell what is in them.[4]</Original>
-    <Translation>[0]那里有些[1]白色的硬纸箱[2]。[3]不知道里面是什么。[4]</Translation>
+    <Translation>[0]那里有些[1]白色的纸板箱[2]。[3]不知道里面是什么。[4]</Translation>
   </Sentence>
   <Sentence id="242">
     <Commands>
@@ -2413,7 +2413,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]cardboard boxes[2].[3]One is full of bear logo T-shirts.[4]</Original>
-    <Translation>[0]那里有些[1]硬纸箱[2]。[3]其中一个装满了印有熊熊图案的T恤。[4]</Translation>
+    <Translation>[0]那里有些[1]纸板箱[2]。[3]其中一个装满了印有熊熊图案的T恤。[4]</Translation>
   </Sentence>
   <Sentence id="243">
     <Commands>
@@ -2423,7 +2423,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]cardboard boxes[2].[3]</Original>
-    <Translation>[0]那里有些[1]硬纸箱[2]。[3]</Translation>
+    <Translation>[0]那里有些[1]纸板箱[2]。[3]</Translation>
   </Sentence>
   <Sentence id="244">
     <Commands>
@@ -2434,7 +2434,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]cardboard boxes[2].[3]It is impossible to tell what is in them.[4]</Original>
-    <Translation>[0]那里有些[1]硬纸箱[2]。[3]不知道里面装着什么。[4]</Translation>
+    <Translation>[0]那里有些[1]纸板箱[2]。[3]不知道里面装着什么。[4]</Translation>
   </Sentence>
   <Sentence id="245">
     <Commands>
@@ -2491,7 +2491,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It is full of canned meat and fish.[4]</Original>
-    <Translation>[0]那里有个[1]硬纸箱[2]。[3]里面装满了鱼罐头和肉罐头。[4]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面装满了鱼罐头和肉罐头。[4]</Translation>
   </Sentence>
   <Sentence id="250">
     <Commands>
@@ -2503,7 +2503,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]overturned cardboard box[2].[3]Packets of beef jerky are scattered[4]all over the floor.[5]</Original>
-    <Translation>[0]那里有个[1]倒了的硬纸箱[2]。[3]牛肉干的包装散落得[4]满地都是。[5]</Translation>
+    <Translation>[0]那里有个[1]倒了的纸板箱[2]。[3]牛肉干的包装散落得[4]满地都是。[5]</Translation>
   </Sentence>
   <Sentence id="251">
     <Commands>
@@ -2593,7 +2593,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large cardboard box[2].[3]That looks heavy...[4]</Original>
-    <Translation>[0]那里有[1]个大的硬纸箱[2]。[3]看上去好沉啊……[4]</Translation>
+    <Translation>[0]那里有[1]个大的纸板箱[2]。[3]看上去好沉啊……[4]</Translation>
   </Sentence>
   <Sentence id="259">
     <Commands>
@@ -2646,7 +2646,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a pile of[1] cardboard boxes[2].[3]</Original>
-    <Translation>[0]那里有一堆[1]硬纸箱[2]。[3]</Translation>
+    <Translation>[0]那里有一堆[1]纸板箱[2]。[3]</Translation>
   </Sentence>
   <Sentence id="264">
     <Commands>
@@ -2657,7 +2657,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are several [1]white cardboard [2]boxes[3].[4]</Original>
-    <Translation>[0]那里有几个[1]白色的[2]硬纸箱[3]。[4]</Translation>
+    <Translation>[0]那里有几个[1]白色的[2]纸板箱[3]。[4]</Translation>
   </Sentence>
   <Sentence id="265">
     <Commands>
@@ -3112,7 +3112,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]damp cardboard box[2].[3] [4]There are some oily tools inside.[5]</Original>
-    <Translation>[0]那里有个[1]受潮的硬纸箱[2]。[3] [4]里面有些和油有关的工具。[5]</Translation>
+    <Translation>[0]那里有个[1]受潮的纸板箱[2]。[3] [4]里面有些和油有关的工具。[5]</Translation>
   </Sentence>
   <Sentence id="305">
     <Commands>
@@ -3448,7 +3448,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]There is a picture of vegetables on the[4]side.[5]It is full of camping equipment.[6]</Original>
-    <Translation>[0]那里有个[1]硬纸箱[2]。[3]侧面有个画有蔬菜[4]的图片。[5]里面装满了宿营用的装备。[6]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]侧面有个画有蔬菜[4]的图片。[5]里面装满了宿营用的装备。[6]</Translation>
   </Sentence>
   <Sentence id="335">
     <Commands>
@@ -4665,7 +4665,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]</Original>
-    <Translation>[0]那里有个[1]硬纸箱[2]。[3]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]</Translation>
   </Sentence>
   <Sentence id="449">
     <Commands>
@@ -5039,7 +5039,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blackened cardboard box[2].[3]</Original>
-    <Translation>[0]那里有个[1]被烧焦了的硬纸箱[2]。[3]</Translation>
+    <Translation>[0]那里有个[1]被烧焦了的纸板箱[2]。[3]</Translation>
   </Sentence>
   <Sentence id="481">
     <Commands>
@@ -5109,7 +5109,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]stained cardboard[2]boxes[3].[4]Looks like oil seeping through...[5]</Original>
-    <Translation>[0]那里有几只[1]被染了色的[2]硬纸箱[3]。[4]看上去渗过油了……[5]</Translation>
+    <Translation>[0]那里有几只[1]被染了色的[2]纸板箱[3]。[4]看上去渗过油了……[5]</Translation>
   </Sentence>
   <Sentence id="487">
     <Commands>
@@ -5120,7 +5120,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old rope[2] behind the [3]cardboard boxes.[4]</Original>
-    <Translation>[0]那里有根[1]很旧的绳子[2]放在了[3]硬纸箱的后面。[4]</Translation>
+    <Translation>[0]那里有根[1]很旧的绳子[2]放在了[3]纸板箱的后面。[4]</Translation>
   </Sentence>
   <Sentence id="488">
     <Commands>
@@ -5386,7 +5386,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]It is full of cogs.[4]</Original>
-    <Translation>[0]那里有个[1]硬纸箱[2]。[3]里面装满了齿轮。[4]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面装满了齿轮。[4]</Translation>
   </Sentence>
   <Sentence id="511">
     <Commands>
@@ -7481,7 +7481,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]trowels[2] hanging from[3]the wall.[4]</Original>
-    <Translation>[0]那里有几把[1]泥刀[2]挂在[3]墙上。[4]</Translation>
+    <Translation>[0]那里有几把[1]抹子[2]挂在[3]墙上。[4]</Translation>
   </Sentence>
   <Sentence id="699">
     <Commands>
