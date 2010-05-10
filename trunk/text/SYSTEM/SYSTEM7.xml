@@ -3114,8 +3114,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="281">
     <Commands>
@@ -3615,8 +3614,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]batteries[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几节[1]电池[2].[3]</Translation>
   </Sentence>
   <Sentence id="324">
     <Commands>
@@ -3923,8 +3921,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="349">
     <Commands>
@@ -4219,8 +4216,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="374">
     <Commands>
@@ -4431,8 +4427,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="393">
     <Commands>
@@ -4640,8 +4635,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]It is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]抽屉[2]。[3]它是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="412">
     <Commands>
@@ -4877,8 +4871,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]It is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]抽屉[2]。[3]它是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -4889,8 +4882,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]drawer[2].[3]It is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]抽屉[2]。[3]它是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="434">
     <Commands>
@@ -5259,8 +5251,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="464">
     <Commands>
@@ -5409,8 +5400,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="477">
     <Commands>
@@ -5661,8 +5651,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="498">
     <Commands>
@@ -5672,8 +5661,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2].[3]</Translation>
   </Sentence>
   <Sentence id="499">
     <Commands>
@@ -6352,8 +6340,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]mirror[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]镜子[2].[3]</Translation>
   </Sentence>
   <Sentence id="555">
     <Commands>
@@ -7108,8 +7095,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]mirror[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]镜子[2].[3]</Translation>
   </Sentence>
   <Sentence id="621">
     <Commands>
@@ -7278,8 +7264,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]mirror[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]镜子[2].[3]</Translation>
   </Sentence>
   <Sentence id="636">
     <Commands>
@@ -7289,8 +7274,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]mirror[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]镜子[2].[3]</Translation>
   </Sentence>
   <Sentence id="637">
     <Commands>
