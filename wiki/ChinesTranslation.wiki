@@ -85,6 +85,7 @@
  * grandfather clock： 落地式大摆钟
  * crate：板条箱
  * cardboard box：纸板箱
+ * lantern：煤油灯
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
