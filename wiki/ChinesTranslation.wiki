@@ -79,6 +79,12 @@
  * cork notice board： 木制公告板
  * Student ID: 学生证
  * bay window：挑窗（专业术语好像叫做飘窗，但是我没听过，只听过挑窗这种说法，而且这个比较好理解，个人觉得）
+ * amp： 功放
+ * stereo speaker：立体声扬声器
+ * trowel：抹子（刷墙用的东东）
+ * grandfather clock： 落地式大摆钟
+ * crate：板条箱
+ * cardboard box：纸板箱
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
