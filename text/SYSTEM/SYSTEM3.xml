@@ -1682,7 +1682,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>

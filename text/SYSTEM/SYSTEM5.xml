@@ -1695,7 +1695,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -8742,8 +8742,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on in![1]How about trying the gumball machine, kid?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]进来吧！[1]来玩玩口香糖贩卖机怎么样，小鬼？[2]</Translation>
   </Sentence>
   <Sentence id="823">
     <Commands>
@@ -8753,8 +8752,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You come on over any time![1]Not many customers these days, so you're always[2]welcome.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]随时光临！[1]这两天没什么人，你随时来[2]都可以。[3]</Translation>
   </Sentence>
   <Sentence id="824">
     <Commands>
@@ -13090,8 +13088,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]black and white family [2]photograph[3].[4]The girl in the middle reminds me of[5]someone...[6]Wait a sec...[7]Is that...Mrs Graham?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有幅[1]黑白[2]全家福[3]。[4]中间的那个女孩让我想起了[5]一个人……[6]等一下……[7]那是……格雷厄姆夫人么？[8]</Translation>
   </Sentence>
   <Sentence id="1214">
     <Commands>
@@ -13182,8 +13179,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]machine[2] on the desk.[3]You have never seen anything like it[4]before.[5]Is this...a phone?![6]But...there are holes where the numbers[7]should be, and no buttons![8]How do you use it?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌子上[1]摆着[2]一台机器。[3]以前从来没见过[4]这种东西呢。[5]这是……电话么？！[6]但是……数字键的地方[7]只有一个一个的洞，却没有按键！[8]怎么用啊？[9]</Translation>
   </Sentence>
   <Sentence id="1221">
     <Commands>
@@ -13256,8 +13252,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is [1]something[2] hanging from the [3]wall.[4]Hey, this is garlic. Wonder why Mrs.[5]Graham has it hanging here?[6]Could it be...Dracula?![7]Okay, been watching too many movies.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]墙上[1]挂着[2]什么[3]东西。[4]嘿，是只大蒜啊。不知道[5]格雷厄姆夫人把这个挂这里是什么意思啊？[6]难道是……吸血鬼德库拉？！[7]好啦，我是看太多电影了。[8]</Translation>
   </Sentence>
   <Sentence id="1227">
     <Commands>
@@ -13698,8 +13693,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]long metal pole[2].[3]There is something like a small plate at[4]the end.[5]What is that?[6]Oh, it's a huge candle holder.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有根[1]长长的金属杆[2]。[3]尾部有个像圆盘[4]一样的东西。[5]那是什么啊？[6]噢，是个烛台。[7]</Translation>
   </Sentence>
   <Sentence id="1265">
     <Commands>
@@ -13732,8 +13726,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are bundles of [1]magazines[2].[3]They look like fashion magazines.[4]They are dated May 2000.[5]These are all seven years old...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有好几捆[1]杂志[2]。[3]看上去是时尚杂志。[4]都是2000年的5月刊。[5]7年前的了啊……[6]</Translation>
   </Sentence>
   <Sentence id="1268">
     <Commands>
@@ -14908,8 +14901,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2].[3]I guess I shouldn't ring it for no [4]reason...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有部[1]对讲机[2]。[3]我觉得没理由的话还是不要用它 [4]比较好……[5]</Translation>
   </Sentence>
   <Sentence id="1371">
     <Commands>
@@ -14941,8 +14933,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2].[3]Oh. Yeah, Ryan said he had to go[4]back to the lab.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有部[1]对讲机[2]。[3]哦对了，莱恩说过他要[4]回趟实验室。[5]</Translation>
   </Sentence>
   <Sentence id="1374">
     <Commands>

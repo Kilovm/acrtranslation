@@ -1694,7 +1694,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -8741,8 +8741,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on in![1]How about trying the gumball machine, kid?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]进来吧！[1]来玩玩口香糖贩卖机怎么样，小鬼？[2]</Translation>
   </Sentence>
   <Sentence id="823">
     <Commands>
@@ -8752,8 +8751,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, the future really is online...[1]"Bob Fox's Fine Foods"[2]Got a nice ring to it, huh? You think so?[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不错，一切都在按计划进行嘛……[1]“鲍勃·福克斯的终极美食”[2]铃声不错，是吧？你觉得呢？[3]</Translation>
   </Sentence>
   <Sentence id="824">
     <Commands>
@@ -8762,8 +8760,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You want another Salmon Rice Burger, you just say[1]so, kid![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]如何还想再来个鲑鱼米饼汉堡，叫我就好了。[1]小鬼！[2]</Translation>
   </Sentence>
   <Sentence id="825">
     <Commands>
@@ -14839,8 +14836,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2].[3]I guess I shouldn't ring it for no [4]reason...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有部[1]对讲机[2]。[3]我觉得没理由的话还是不要用它[4]比较好……[5]</Translation>
   </Sentence>
   <Sentence id="1367">
     <Commands>
@@ -14872,8 +14868,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2].[3]Oh. Yeah, Ryan said he had to go[4]back to the lab.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有部[1]对讲机[2]。[3]哦对了，莱恩说了他要[4]回趟实验室。[5]</Translation>
   </Sentence>
   <Sentence id="1370">
     <Commands>
