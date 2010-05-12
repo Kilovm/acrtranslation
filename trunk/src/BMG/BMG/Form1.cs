@@ -483,5 +483,57 @@ namespace BMG
 
 			tbTranslation.Focus();
 		}
+
+		private void nextUntranslatedToolStripMenuItem_Click(object sender, EventArgs e)
+		{
+			if (bmg != null)
+			{
+				SaveTranslation();
+
+				int lastIndex = -1;
+				for (int i = currentIndex; i < bmg.Sentences.Length; i++)
+				{
+					ISentence s = bmg.Sentences[i];
+
+					if (regex.Replace(s.Original, string.Empty).Trim().Equals(string.Empty))
+						continue;
+
+					if (string.IsNullOrEmpty(s.Translation))
+					{
+						lastIndex = i;
+						break;
+					}
+				}
+
+				if (lastIndex == -1)
+				{
+					for (int i = 0; i < currentIndex; i++)
+					{
+						ISentence s = bmg.Sentences[i];
+
+						if (regex.Replace(s.Original, string.Empty).Trim().Equals(string.Empty))
+							continue;
+
+						if (string.IsNullOrEmpty(s.Translation))
+						{
+							lastIndex = i;
+							break;
+						}
+					}
+				}
+
+				if (lastIndex != -1)
+				{
+					currentIndex = lastIndex;
+
+					vScrollBar1.Value = currentIndex + 1;
+					RefreshTextBoxes();
+				}
+				else
+				{
+					MessageBox.Show("No empty lines!");
+				}
+			}
+		}
 	}
 }
