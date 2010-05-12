@@ -281,8 +281,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, there's no battery.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，没有电池。[1]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -2436,8 +2435,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] scanner pen[2].[3]It is used to crack codes.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有支[1]扫描笔[2]。[3]它是用来破解代码的。[4]</Translation>
   </Sentence>
   <Sentence id="234">
     <Commands>
@@ -2633,7 +2631,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="251">
     <Commands>
@@ -2677,7 +2675,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]It displays a live picture of whoever[5]you are talking to.[6]</Original>
-    <Translation>[0]这是[1]视像会议通话系统的[2]显示屏[3]。[4]它能显示出那个和你在通话的人的[5]即时影像。[6]</Translation>
+    <Translation>[0]这是[1]视频会议系统的[2]显示屏[3]。[4]它能显示出那个和你在通话的人的[5]即时影像。[6]</Translation>
   </Sentence>
   <Sentence id="255">
     <Commands>
@@ -3100,7 +3098,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="295">
     <Commands>
@@ -3681,7 +3679,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="350">
     <Commands>
@@ -3703,7 +3701,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]</Original>
-    <Translation>[0]这是[1]视像会议通话系统的[2]显示屏[3]。[4]</Translation>
+    <Translation>[0]这是[1]视频会议系统的[2]显示屏[3]。[4]</Translation>
   </Sentence>
   <Sentence id="352">
     <Commands>
@@ -3849,8 +3847,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]desk lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]台灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="366">
     <Commands>
@@ -3861,7 +3858,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="367">
     <Commands>
@@ -3884,7 +3881,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]</Original>
-    <Translation>[0]这是[1]视像会议通话系统的[2]显示屏[3]。[4]</Translation>
+    <Translation>[0]这是[1]视频会议系统的[2]显示屏[3]。[4]</Translation>
   </Sentence>
   <Sentence id="369">
     <Commands>
@@ -3896,8 +3893,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]The screen is showing Mike.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是[1]视频会议系统[2]的屏幕[3]。[4]屏幕上面的是麦克。[5]</Translation>
   </Sentence>
   <Sentence id="370">
     <Commands>
@@ -3907,8 +3903,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]screen[2] shows "Richard".[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]屏幕[1]上面[2]显示的是“理查德”。[3]</Translation>
   </Sentence>
   <Sentence id="371">
     <Commands>
@@ -3918,8 +3913,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white lab coat[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那有件[1]白色的实验室服[2]。[3]</Translation>
   </Sentence>
   <Sentence id="372">
     <Commands>
@@ -3960,8 +3954,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small cover[2] beside the door.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门边上[1]有个[2]小盖子。[3]</Translation>
   </Sentence>
   <Sentence id="376">
     <Commands>
@@ -3972,8 +3965,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]emergency lock release[2].[3]The light is off.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是有个[1]紧急状况解锁键[2]。[3]灯没有亮。[4]</Translation>
   </Sentence>
   <Sentence id="377">
     <Commands>
@@ -3984,8 +3976,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]emergency lock release[2].[3]The red light is flashing.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是有个[1]紧急状况解锁键[2]。[3]红灯在闪。[4]</Translation>
   </Sentence>
   <Sentence id="378">
     <Commands>
@@ -3996,8 +3987,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]emergency lock release[2].[3]The blue light is flashing.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是有个[1]紧急状况解锁键[2]。[3]蓝灯在闪。[4]</Translation>
   </Sentence>
   <Sentence id="379">
     <Commands>
@@ -4009,8 +3999,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer[2].[3]It is different from the computers in[4]the other rooms.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]电脑[2]。[3]和别的房间里的电脑[4]不太一样。[5]</Translation>
   </Sentence>
   <Sentence id="380">
     <Commands>
@@ -4022,8 +4011,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book[2]. [3]It has a picture of Judd Fitzgerald on[4]the cover.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]书[2]。 [3]封面上是贾德·菲茨杰拉德[4]的照片。[5]</Translation>
   </Sentence>
   <Sentence id="381">
     <Commands>
@@ -4035,8 +4023,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]phone[2]. [3]It does not give a dial tone.[4]Is this disconnected?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有部[1]电话[2]。[3]没有拨号音。[4]是不是没接好啊？[5]</Translation>
   </Sentence>
   <Sentence id="382">
     <Commands>
@@ -4328,7 +4315,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="407">
     <Commands>
@@ -4339,7 +4326,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]</Original>
-    <Translation>[0]这是[1]视像会议通话系统的[2]显示屏[3]。[4]</Translation>
+    <Translation>[0]这是[1]视频会议系统的[2]显示屏[3]。[4]</Translation>
   </Sentence>
   <Sentence id="408">
     <Commands>
@@ -4780,7 +4767,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="444">
     <Commands>
@@ -5061,7 +5048,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2] for the video[3]conferencing system.[4]</Original>
-    <Translation>[0]有一面用于 [1]视像会议[2]通话系统的[3]控制面板。[4]</Translation>
+    <Translation>[0]有一面用于 [1]视频会议[2]系统的[3]控制面板。[4]</Translation>
   </Sentence>
   <Sentence id="469">
     <Commands>
@@ -5072,7 +5059,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]</Original>
-    <Translation>[0]这是[1]视像会议通话系统的[2]显示屏[3]。[4]</Translation>
+    <Translation>[0]这是[1]视频会议系统的[2]显示屏[3]。[4]</Translation>
   </Sentence>
   <Sentence id="470">
     <Commands>
@@ -5979,4 +5966,5 @@
     <Translation>
     </Translation>
   </Sentence>
+  <Comments />
 </Session>

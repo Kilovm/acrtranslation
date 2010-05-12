@@ -1693,7 +1693,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -2838,8 +2838,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]plastic bottles[2] on the[3]floor.[4]They look like bottles of mineral water.[5]The bottles are empty, but the plastic[6]still feels cool.[7]Was someone just here?[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地上[1]有[2]几只[3]塑料瓶。[4]看上去是装矿泉水的瓶子。[5]瓶子是空的，但是摸上去[6]还是凉凉的。[7]刚刚有什么人在这里么？[8]</Translation>
   </Sentence>
   <Sentence id="281">
     <Commands>
@@ -2896,7 +2895,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]old wheels[2].[3]They are covered in mud and look like[4]someone has dumped them here.[5]</Original>
-    <Translation>[0]那里有些[1]旧轮胎[2]。[3]上面沾满了泥土，[4]看上去是被人废弃在这里了。[5]</Translation>
+    <Translation>[0]那里有些[1]旧车轮[2]。[3]上面沾满了泥土，[4]看上去是被人废弃在这里了。[5]</Translation>
   </Sentence>
   <Sentence id="286">
     <Commands>
@@ -2909,8 +2908,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden wheel[2] leaning[3]against the wall.[4]What is this, a wheel from a cart?[5]For horses?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有个[1]木轮[2]倚在[3]墙上。[4]这是什么啊，是车轮么？[5]马车上的？[6]</Translation>
   </Sentence>
   <Sentence id="287">
     <Commands>
@@ -2983,8 +2981,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large metal container[2].[3]This must have been used at a factory.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]大号的金属容器[2]。[3]以前一定是用在工厂里面的。[4]</Translation>
   </Sentence>
   <Sentence id="294">
     <Commands>

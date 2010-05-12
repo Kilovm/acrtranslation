@@ -1695,7 +1695,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -8742,8 +8742,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on in![1]How about trying the gumball machine, kid?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]进来吧！[1]来玩玩这台口香糖贩卖机怎么样，孩子？[2]</Translation>
   </Sentence>
   <Sentence id="823">
     <Commands>
@@ -8752,8 +8751,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You got that special token from the can recycling[1]machine yet?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]从罐头回收机里面得到了[1]纪念币了么?[2]</Translation>
   </Sentence>
   <Sentence id="824">
     <Commands>
@@ -8763,8 +8761,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You and your dad made up yet?[1]You don't have to say yes just to make me happy,[2]y'know? Heh heh.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你和你老爸和好了么？[1]不用为了让我高兴而说和好了的，[2]知道不？呵呵。[3]</Translation>
   </Sentence>
   <Sentence id="825">
     <Commands>
@@ -8774,8 +8771,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You come on over any time![1]Not many customers these days, so you're always[2]welcome.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]随时再来！[1]这两天没什么人，所以你什么时候[2]来都行。[3]</Translation>
   </Sentence>
   <Sentence id="826">
     <Commands>
@@ -12334,8 +12330,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It shows a man grinning broadly as he[4]hold up a huge black bass.[5]Hey, this must be Bob when he was[6]younger...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]照片[2]。[3]上面是个男人笑嘻嘻地[4]举着个巨大的黑色低音炮。[5]嘿，这是鲍勃[6]年轻时候嘛……[7]</Translation>
   </Sentence>
   <Sentence id="1145">
     <Commands>
@@ -12415,8 +12410,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]electric guitar[2].[3]So he uses this for practice...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]电吉他[2]。[3]他是用这把吉他来联系的哦……[4]</Translation>
   </Sentence>
   <Sentence id="1152">
     <Commands>
@@ -12439,8 +12433,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]amp[2].[3]There are some drumsticks balanced [4]on top of it.[5]Oh yeah, Sam said he played drums.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]功放[2]。[3]上面放着几把[4]鼓槌。[5]对了，萨姆是说过他玩鼓的。[6]</Translation>
   </Sentence>
   <Sentence id="1154">
     <Commands>
@@ -12464,8 +12457,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stereo speaker[2].[3]They just need a bass guitar or a [4]keyboard to round it all off...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]立体声扬声器[2]。[3]就差贝斯和电子琴[4]了，能组个乐队了……[5]</Translation>
   </Sentence>
   <Sentence id="1156">
     <Commands>
