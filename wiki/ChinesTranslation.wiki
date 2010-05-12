@@ -91,6 +91,7 @@
  * mnemonic fluid：助记液
  * name tag：姓名卡
  * shutter：百叶窗
+ * card lock：磁卡锁
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
