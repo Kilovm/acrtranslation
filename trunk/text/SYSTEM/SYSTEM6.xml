@@ -15890,8 +15890,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some kind of [1]device[2].[3]It seems to be broken.[4]Hey, this is a security camera![5]It's not the same as the ones outside[6]though...[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有几款[1]仪器[2]。[3]看是去它们都已经坏了。[4]嘿，这是一个监控摄像头。[5]尽管和外面装置的不[6]一样……[7]</Translation>
   </Sentence>
   <Sentence id="1461">
     <Commands>
@@ -15903,8 +15902,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]reddish-brown [2]cardboard boxes[3].[4]They have "Caps" written on them.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一些[1]棕红色的[2]纸皮箱[3]。[4]上面写着“帽子”。[5]</Translation>
   </Sentence>
   <Sentence id="1462">
     <Commands>
@@ -15916,8 +15914,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]reddish-brown [2]cardboard boxes[3].[4]They have "Mugs" written on them.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一些[1]棕红色的[2]纸皮箱[3]。[4]上面写着“马克杯”。[5]</Translation>
   </Sentence>
   <Sentence id="1463">
     <Commands>
@@ -15928,8 +15925,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]cardboard boxes[2].[3]They have "J" written on them.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一些[1]纸皮箱[2]。[3]上面写着“J”。[4]</Translation>
   </Sentence>
   <Sentence id="1464">
     <Commands>
@@ -15941,8 +15937,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]reddish-brown [2]cardboard boxes[3].[4]They have "T-shirts" written on them.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一些[1]棕红色的[2]纸皮箱[3]。[4]上面写着“衬衫”。[5]</Translation>
   </Sentence>
   <Sentence id="1465">
     <Commands>
@@ -15955,8 +15950,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]cardboard boxes[2].[3]The nearest one has "L" written on it.[4]These look like they've never been [5]opened at all![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一些[1]纸皮箱[2]。[3]最外面的箱子上写着“L”。[4]看是去就像它们从未被[5]打开过！[6]</Translation>
   </Sentence>
   <Sentence id="1466">
     <Commands>
@@ -15965,8 +15959,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, great.[1]It's locked.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，很好。[1]这是锁着的。[2]</Translation>
   </Sentence>
   <Sentence id="1467">
     <Commands>
@@ -15978,8 +15971,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]intercom[2] at the entrance.[3].....[4]No answer, huh?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在入口处[1]有一台[2]对讲机。[3]……[4]没人回应，嗯？[5]</Translation>
   </Sentence>
   <Sentence id="1468">
     <Commands>
@@ -15991,8 +15983,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cylindrical building[2] on top[3]of the cliff overlooking the lake.[4]So that's where Dad works...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在悬崖的[1]顶上有一座俯瞰着[2]朱丽叶湖，[3]圆柱形的建筑物。[4]爸爸就是在那里工作……[5]</Translation>
   </Sentence>
   <Sentence id="1469">
     <Commands>
@@ -16001,8 +15992,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]JC Valley[1] can be seen in the distance.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]JC山谷[1] 这几个字已经能远远看见。[2]</Translation>
   </Sentence>
   <Sentence id="1470">
     <Commands>
@@ -16012,8 +16002,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sign[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]告示牌[2]。[3]</Translation>
   </Sentence>
   <Sentence id="1471">
     <Commands>
@@ -16025,8 +16014,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The road is blocked by a [1]landslide[2].[3]The way back to the cottages is [4]totally blocked off by all this earth![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]道路被泥石流[1]堵住了[2]。[3]回去小屋的路已 [4]完全被这些泥土堵死了！[5]</Translation>
   </Sentence>
   <Sentence id="1472">
     <Commands>
@@ -16037,8 +16025,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are two [1]drains[2].[3]The covers are open.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有两个[1]下水道[2]。[3]它们的盖子是开着的。[4]</Translation>
   </Sentence>
   <Sentence id="1473">
     <Commands>
@@ -16052,8 +16039,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]metal drum[2].[3]It is covered in reddish-brown rust[4]and looks about to fall apart.[5]How long as this been left sitting [6]here?[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]金属桶[2]。[3]上面已铺满红棕色的铁锈，[4]而且看是去就要散架似的[5]这个金属桶放在这里[6]多久了？[7]</Translation>
   </Sentence>
   <Sentence id="1474">
     <Commands>
@@ -16065,8 +16051,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blue metal drum[2].[3]Some of the paint on the sides has [4]started to peel off due to the rust.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有一个[1]蓝色的金属桶[2]。[3]外层的一些油漆因为生锈的原因[4]已经开始脱落了。[5]</Translation>
   </Sentence>
   <Sentence id="1475">
     <Commands>
@@ -16077,8 +16062,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A [1]thick rope[2] has been repeatedly[3]wound around the metal gate.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]金属[1]大门[2]已经被一根[3]粗绳来回地缠绕着。[4]</Translation>
   </Sentence>
   <Sentence id="1476">
     <Commands>
@@ -16086,8 +16070,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh no! It won't open.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢不！这打不开！.[1]</Translation>
   </Sentence>
   <Sentence id="1477">
     <Commands>
@@ -16099,8 +16082,7 @@
       <Command>Ggb/AAAAChoFAAABCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</Command>
     </Commands>
     <Original>[0]This is the [1]remains of a bus stop[2].[3]I guess there's no chance of me being[4]able to get a bus home from here...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是一个[1]巴士站的遗迹[2]。[3]我想我没有机会能在这里[4]搭上巴士回家……[5]</Translation>
   </Sentence>
   <Comments />
 </Session>
