@@ -89,7 +89,7 @@
  * butterfly/cherry blossom/password chamber: 蝴蝶/樱花/密码暗箱（关于万花筒的）
  * emergency lock release：紧急状况解锁键
  * mnemonic fluid：助记液
- * name tag：姓名标签
+ * name tag：姓名卡
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
