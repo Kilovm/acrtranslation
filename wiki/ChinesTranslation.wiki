@@ -92,6 +92,7 @@
  * name tag：姓名卡
  * shutter：百叶窗
  * card lock：磁卡锁
+ * *Cool Pop* 酷泡（就这么翻吧　已经翻过的地方改改）
 
 = 专有名词 =
  * drama queen ：八卦女，聊八卦的疯子
