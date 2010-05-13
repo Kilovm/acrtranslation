@@ -1852,7 +1852,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADDAoaBgAADAAKGgcAABEAABoHAAASAQAKGg0AABUBAAAAAAAAAAoaDAAACAEAvQAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]can of Cool Pop[2] on the[3]cooler.[4]Oh, wow![5]You like Cool Pop, right, Ashley? I got you the[6]new orange-flavoured one.[7]Yeah, I've been wanting to try this![8]Really?[9]Well, it's fresh from the cooler so drink it while[10]it's cold.[11]Okay![12]</Original>
-    <Translation>[0]有一个 [1]饮料罐[2]在[3]冷藏箱上。[4]哇！[5]You like Cool Pop, right, Ashley? I got you the[6]new orange-flavoured one.[7]Yeah, I've been wanting to try this![8]Really?[9]Well, it's fresh from the cooler so drink it while[10]it's cold.[11]Okay![12]</Translation>
+    <Translation>[0]有一个 [1]饮料罐[2]在[3]冷藏箱上。[4]哇！[5]你喜欢喝酷泡，是吗，阿修蕾？[6]我给你拿了新的橙味的。[7]太好了，我一直想尝尝这种的。[8]真的？[9]好的，这是刚从冷藏箱拿出来的，[10]赶快喝吧。[11]ＯＫ！[12]</Translation>
   </Sentence>
   <Sentence id="138">
     <Commands>
@@ -1860,8 +1860,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAABLYgBwMDFfYmFzZV9SX0FybV9IYW5kChoFAAAOChoGAQADDQoaBgAADAAKGgYAAAwAChoFAAAbChoGAAAMAAoaCQAARgEAAAAKGgUAAG8KAA==</Command>
     </Commands>
     <Original>[0]This is great![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]真不错！[1]</Translation>
   </Sentence>
   <Sentence id="139">
     <Commands>
@@ -1877,8 +1876,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...[1]Is the barbecue ready yet?[2]Another few minutes...[3]But I'm hungry now.[4]I've just cut the vegetables, and they look...[5]decent enough, so next is...[6]Oh man... This is gonna take forever.[7]Just a few minutes.[8]Really?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸……[1]烧烤好了吗？[2]再等几分钟……[3]可是我饿了。[4]我刚切了蔬菜，看起来……[5]非常够，那接下来……[6]天啊……要弄到神魔时候……[7]只要几分钟就好。[8]真的？[9]</Translation>
   </Sentence>
   <Sentence id="140">
     <Commands>
@@ -1891,8 +1889,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAQAAAAAAAAAKGgwAAAgBAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]I'm gonna go put the empty can in the[1]recycler, okay?[2]The empty Cool Pop can? Go ahead.[3]But come back when you're done, it's almost[4]ready. Just a few minutes.[5]Okay.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我去把空罐子放到回收箱里面，[1]行吗？[2]空的酷泡罐？去吧。[3]快点会来，这里就要好了。[4]只要几分钟。[5]好的。[6]</Translation>
   </Sentence>
   <Sentence id="141">
     <Commands>
@@ -1905,8 +1902,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAQAAAAAAAAAKGgwAAAgBAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]I'm gonna go put the empty can in the[1]recycler, okay?[2]Go ahead.[3]But come back when you're done, it's almost[4]ready. Just a few minutes.[5]Okay.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我去把空罐子放到回收箱里面，[1]行吗？[2]去吧。[3]快点会来，这里就要好了。[4]只要几分钟。[5]好的。[6]</Translation>
   </Sentence>
   <Sentence id="142">
     <Commands>
@@ -1933,8 +1929,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIBAAoaDQAAFQEAAAAAAAAAChoMAAAIAQC9AAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Oh, Ashley.[1]Yeah?[2]You should go and put the Cool Pop can in the[3]recycler.[4]Recycler?[5]There are recycling machines all around the[6]camp.[7]You put in an empty can and it gives you a[8]token in return.[9]A token?[10]Yes, you can swap the token for a gumball.[11]I think they have a gumball dispenser in the[12]guesthouse.[13]A gumball dispenser... I'll give it a shot.[14]I'm gonna go put the empty can in the[15]recycler, then.[16]Go ahead.[17]But come back when you're done, it's almost[18]ready. Just a few minutes.[19]Okay.[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦，阿修蕾。[1]嗯？[2]你应该把酷泡罐放到[3]回收箱里面去。[4]回收箱？[5]露营地到处都有[6]回收机的。[7]你放进去一个空罐子，[8]它就回还你一个硬币。[9]硬币？[10]是的，你能用硬币换到口香糖球。[11]我记得他们在接待处放了[12]一个口香糖球贩售机。[13]糖球贩售机……我要去瞅瞅。[14]那我去把空罐子放到[15]回收机里面去。[16]去吧。[17]放好就回来，这里就要好了。[18]只要几分钟。[19]好的。[20]</Translation>
   </Sentence>
   <Sentence id="143">
     <Commands>
@@ -1943,8 +1938,7 @@
       <Command>ChoFAAABChoNAAAVAQAAAAAAAAAKGgwAAAgBAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Dad...[1]Have a drink while you're waiting. It's Cool Pop![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸……[1]等待的时候喝点饮料吧。有酷泡！[2]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -1955,8 +1949,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIBAAoaDQAAFQEAAAAAAAAAChoMAAAIAQC9AAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Um, Dad? Where was that machine?[1]The recycler? Take the path away from the[2]campsite and it's on the right.[3]Right.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔，爸爸？那个机器在哪啊？[1]回收机？从这条路出了营地，[2]它就在右边。[3]好的。[4]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -1965,8 +1958,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going, Ashley?[1]We're still talking.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你要去哪，阿修蕾？[1]我们还在谈话。[2]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -1976,8 +1968,7 @@
       <Command>ChoFAAABChoNAAAVAQAAAAAAAAAKGgwAAAgBAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Just wait a few minutes while I get the[2]barbecue ready.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你要去哪？[1]再等几分钟，[2]马上烧烤就好了。[3]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
@@ -1996,8 +1987,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I don't get it...[1]I finally get a chance to talk with Dad,[2]but all I want to do is yell at him.[3]Must try harder, Ashley...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不明白……[1]我终于有了一个跟爸爸面对面交谈的机会，[2]而想做的却只有对他叫喊。[3]再努力一点，阿修蕾……[4]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -2005,8 +1995,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, recycling time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，回收时间到！[1]</Translation>
   </Sentence>
   <Sentence id="150">
     <Commands>
@@ -2014,8 +2003,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, recycling time![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的，回收时间到！[1]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
@@ -2032,8 +2020,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoA</Command>
     </Commands>
     <Original>[0]Oh, something came out![1]A token![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢，有东西出来了！[1]一个硬币！[2]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
@@ -2041,8 +2028,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoA</Command>
     </Commands>
     <Original>[0]A token![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一个硬币！[1]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
@@ -2051,8 +2037,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoA</Command>
     </Commands>
     <Original>[0]Oh, something came out![1]A token![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]啊，有东西出来了！[1]一个硬币！[2]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -2060,8 +2045,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAgoA</Command>
     </Commands>
     <Original>[0]A token![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]一个硬币！[1]</Translation>
   </Sentence>
   <Sentence id="156">
     <Commands>
@@ -2070,8 +2054,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Now what?[1]How do I work this thing?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]然后呢？[1]这东西怎么使？[2]</Translation>
   </Sentence>
   <Sentence id="157">
     <Commands>
@@ -2087,8 +2070,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll recycle the can I just finished, too...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要把刚喝完的罐子也回收掉……[1]</Translation>
   </Sentence>
   <Sentence id="159">
     <Commands>
@@ -2096,8 +2078,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll recycle all of my empty cans.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要把所有空罐都回收了。[1]</Translation>
   </Sentence>
   <Sentence id="160">
     <Commands>
@@ -2105,8 +2086,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I should get rid of my trash.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我应该把没用的都处理掉。[1]</Translation>
   </Sentence>
   <Sentence id="161">
     <Commands>
@@ -2114,8 +2094,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll recycle the can I just drank out of, too...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要把刚喝完的罐子也回收掉……[1]</Translation>
   </Sentence>
   <Sentence id="162">
     <Commands>
@@ -2123,8 +2102,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'll recycle all of my empty cans.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我要把所有空罐子都回收了。[1]</Translation>
   </Sentence>
   <Sentence id="163">
     <Commands>
@@ -2133,8 +2111,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right.[1]Back to the campsite![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]好的。[1]回营地了！[2]</Translation>
   </Sentence>
   <Sentence id="164">
     <Commands>
@@ -2147,8 +2124,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, no![1]What's wrong, Dad?[2]I forgot to get charcoal for the barbecue![3]You what?![4]This is a disaster...[5]Okay, I've had it![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]哦，不！[1]怎么了，爸爸？[2]我忘带烧烤的木炭了！[3]什么？！[4]真是个灾难……[5]ＯＫ，我拿到了！[6]</Translation>
   </Sentence>
   <Sentence id="165">
     <Commands>
