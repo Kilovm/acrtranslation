@@ -14,7 +14,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh no - I don't have room for any more[1]photos...[2]</Original>
-    <Translation>[0]噢不……我没地方再放更多的[1]照片了……[2]</Translation>
+    <Translation>[0]噢不——我没地方再放更多的[1]照片了……[2]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -173,7 +173,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Looks like the battery is still charged.[1]I don't need to change it.[2]</Original>
-    <Translation>[0]看来电池充满了。[1]我不用再给电池充电了。[2]</Translation>
+    <Translation>[0]看来电池还在充电。[1]我没有必要更换它。[2]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -334,7 +334,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Looks like the battery is still charged.[1]I don't need to change it.[2]</Original>
-    <Translation>[0]看来电池充满了。[1]我不用再给电池充电了。[2]</Translation>
+    <Translation>[0]看来电池还在充电。[1]我没有必要更换它。[2]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -436,7 +436,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -511,7 +511,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -519,7 +519,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -527,7 +527,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
@@ -587,7 +587,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]One more time![1]</Original>
-    <Translation>[0]再来一次![1]</Translation>
+    <Translation>[0]再来一次！[1]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -687,7 +687,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGhgBAApJTlRFUlJVUFRfRV9SMTEwXzAxCho+AQAJSU5URVJSVVBUX0VfUjExMF8wMV9vZmYASU5URVJSVVBUX0VfUjExMF8wMV9UYWdfMDEuYnJsYW4AChocAQAKSU5URVJSVVBUX0VfUjExMF8wMV9vZmYKAA==</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]Is that Dad?! This must have been [4]taken a long, long time ago...[5]</Original>
-    <Translation>[0]有一张[1]照片[2]。[3]那是爸爸?!这一定是很久[4]很久以前的了……[5]</Translation>
+    <Translation>[0]有一张[1]照片[2]。[3]那是爸爸？！这一定是很久[4]很久以前的了……[5]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -699,7 +699,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGgEACklOVEVSUlVQVF9Sc1BDTW9uaXRvcgoaQAEACUlOVEVSUlVQVF9Sc1BDTW9uaXRvcl9vZmYASU5URVJSVVBUX0VfUjExMF8wMl9UYWdfMDEuYnJsYW4AChoeAQAKSU5URVJSVVBUX1JzUENNb25pdG9yX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]computer[2]. [3]"I've finally found out who it is. It's [4]Sofia. Hurry..."[5]</Original>
-    <Translation>[0]有一台[1]电脑[2]。[3]"我最终查出是谁了。是[5]索菲亚。快……”[6]</Translation>
+    <Translation>[0]这有一台[1]电脑[2]。[3]"我最终查出是谁了。是[5]索菲亚。快……”[6]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -765,7 +765,7 @@
       <Command>ChoFAAABChoGAAAMAAoaHAEACklOVEVSUlVQVF9HaW5hTmFtZVBsYXRlChpCAQAJSU5URVJSVVBUX0dpbmFOYW1lUGxhdGVfb2ZmAElOVEVSUlVQVF9FX1IwODBfMDFfVGFnXzAxLmJybGFuAAoaIAEACklOVEVSUlVQVF9HaW5hTmFtZVBsYXRlX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]name tag[2].[3]It says "Gina Barnes".[4]</Original>
-    <Translation>[0]有一个[1]名牌[2]。[3]上面写着“吉娜 班恩”。[4]</Translation>
+    <Translation>[0]那有一张[1]姓名卡[2]。[3]上面写着“吉娜·班恩”。[4]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -789,7 +789,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGgEACklOVEVSUlVQVF9Sc05hbWVQbGF0ZQoaQAEACUlOVEVSUlVQVF9Sc05hbWVQbGF0ZV9vZmYASU5URVJSVVBUX0VfUjE3MF8wMV9UYWdfMDEuYnJsYW4AChoeAQAKSU5URVJSVVBUX1JzTmFtZVBsYXRlX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]name tag[2] on the other side[3]of the shutter.[4]Hey, isn't that Dad's?[5]Dad...where are you?[6]</Original>
-    <Translation>[0]有一个[1]名牌[2]放在闸门的[3]另一边。[4]嘿，那不是爸爸的吗？[5]爸爸……你在哪里？[6]</Translation>
+    <Translation>[0]有一张[1]姓名卡[2]放在百叶窗的[3]另一边。[4]嘿，那不是爸爸的吗？[5]爸爸……你在哪里啊？[6]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -813,7 +813,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9CX1IwMjNfMDEKGj4BAAlJTlRFUlJVUFRfQl9SMDIzXzAxX29mZgBJTlRFUlJVUFRfQl9SMDIzXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfQl9SMDIzXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]JC Valley badge[2] on top of[3]the magazine.[4]There are numbers on the back of the[5]badge...[6]</Original>
-    <Translation>[0]杂志的[1]封面上[2]有一个[3]JC山谷的标准。[4]在标志的后面有一些[5]数字……[6]</Translation>
+    <Translation>[0]杂志的[1]封面上[2]有一枚[3]JC山谷的徽章。[4]在徽章的后面有一些[5]数字……[6]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -825,7 +825,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZbw0ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -837,7 +837,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZbw4ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -849,7 +849,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZbw8ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -861,7 +861,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZbxAACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -873,7 +873,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZbxEACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -885,7 +885,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZbxIACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -897,7 +897,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZcC0ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -909,7 +909,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZcC4ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -921,7 +921,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZcC8ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -933,7 +933,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZcDAACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -945,7 +945,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZcDEACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -969,7 +969,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZchkACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -981,7 +981,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZchoACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -993,7 +993,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZchsACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1005,7 +1005,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZchwACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1017,7 +1017,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZch0ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -1041,7 +1041,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZcz8ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1053,7 +1053,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZc0AACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1065,7 +1065,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZc0EACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -1077,7 +1077,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZc0IACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1089,7 +1089,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZc0MACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1113,7 +1113,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdBMACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1125,7 +1125,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdBQACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1137,7 +1137,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdBUACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -1149,7 +1149,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdBYACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1161,7 +1161,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdBcACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1185,7 +1185,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdSoACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
@@ -1197,7 +1197,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdSsACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1209,7 +1209,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdSwACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1221,7 +1221,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdS0ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1233,7 +1233,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdS4ACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
@@ -1257,7 +1257,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdiMACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
@@ -1269,7 +1269,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdiQACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="130">
     <Commands>
@@ -1281,7 +1281,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdiUACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
@@ -1293,7 +1293,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdiYACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
@@ -1305,7 +1305,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdicACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
@@ -1329,7 +1329,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdxYACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "M Tyler/[1]G Barnes" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着“M泰勒/[1]G班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着“M 泰勒/[1]G 班恩”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
@@ -1341,7 +1341,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdxcACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked[1]"Researchers" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“ 研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“研究者们”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -1353,7 +1353,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdxgACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Robins"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 罗宾斯”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
@@ -1365,7 +1365,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdxkACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked [1]"S Callaghan" on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“S卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“S 卡拉汉”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="138">
     <Commands>
@@ -1377,7 +1377,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdxoACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Alfred"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 阿尔弗雷德”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="139">
     <Commands>
@@ -1389,7 +1389,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaMQAAE1dTRF9TRV9FVkVOVF9KQ19WQUxMRVlfRElSRUNUX0NBTExfWU9CSURBU0hJChoIAABZdxsACgA=</Command>
     </Commands>
     <Original>[0]There is a button marked "R Gray"[1]on the [2]control panel[3].[4]No answer.[5]</Original>
-    <Translation>[0]在控制面板上有一个标示着[1]“R格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
+    <Translation>[0]在控制面板上有一个标示着[1]“R 格雷”的[2]按键[3]。[4]没人接。[5]</Translation>
   </Sentence>
   <Sentence id="140">
     <Commands>
@@ -1412,7 +1412,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some kind of [1]device.[2]What is that?[3]Some kind of sensor, maybe?[4]</Original>
-    <Translation>[0]有几款[1]仪器。[2]这是什么？[3]也许是，某种传感器？[4]</Translation>
+    <Translation>[0]那有某种[1]设备。[2]那是什么啊？[3]也许是，某种传感器？[4]</Translation>
   </Sentence>
   <Sentence id="142">
     <Commands>
@@ -1423,7 +1423,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass partition[2].[3]It has the JC Valley logo on it.[4]</Original>
-    <Translation>[0]有一块[1]玻璃隔墙[2]。[3]上面有JC山谷的公司标志。[4]</Translation>
+    <Translation>[0]有一块[1]玻璃墙[2]。[3]上面是JC山谷的公司标志。[4]</Translation>
   </Sentence>
   <Sentence id="143">
     <Commands>
@@ -1435,7 +1435,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a desktop [1]calendar[2].[3]August 25th...[4]That's today's date.[5]</Original>
-    <Translation>[0]有一个桌上型[1]日历[2]。[3]8月25日[4]是今天的日期。[5]</Translation>
+    <Translation>[0]有一个桌上型[1]日历[2]。[3]8月25日……[4]是今天的日期。[5]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -1448,7 +1448,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2]. [3]It looks like it is used by the [4]receptionist.[5]This place really is deserted...[6]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]看是去那曾是前台接待员[4]使用的。[5]这里真的是已经荒废了……[6]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]看上去那以前是前台接待员[4]用的。[5]这里真的是已经荒废了……[6]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -1460,7 +1460,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2]. [3]It looks like it is used by the [4]receptionist.[5]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]看是去那曾是前台接待员[4]使用的。[5]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]看上去那以前是前台接待员[4]用的。[5]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -1472,7 +1472,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass partition[2] behind the[3]counter.[4]A room can be seen through the glass.[5]</Original>
-    <Translation>[0]在柜台[1]后面[2]有一块[3]玻璃隔墙。[4]透过玻璃能够看见一个房间。[5]</Translation>
+    <Translation>[0]在柜台[1]后面[2]有一块[3]玻璃墙。[4]透过玻璃能够看见一间房间。[5]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
@@ -1482,7 +1482,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white armchair[2].[3]</Original>
-    <Translation>[0]有一张[1]白色的扶手椅[2]。[3]</Translation>
+    <Translation>[0]有一把[1]白色的扶手椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="148">
     <Commands>
@@ -1493,7 +1493,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white armchair[2].[3]It is simple but well designed.[4]</Original>
-    <Translation>[0]有一张[1]白色的扶手椅[2]。[3]它很简单但设计良好。[4]</Translation>
+    <Translation>[0]有一把[1]白色的扶手椅[2]。[3]它很简单但设计良好。[4]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -1503,7 +1503,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white armchair[2].[3]</Original>
-    <Translation>[0]有一张[1]白色的扶手椅[2]。[3]</Translation>
+    <Translation>[0]有一把[1]白色的扶手椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="150">
     <Commands>
@@ -1514,7 +1514,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white armchair[2].[3]It is covered in a soft fabric.[4]</Original>
-    <Translation>[0]有一张[1]白色的扶手椅[2]。[3]外面覆盖着一种柔软的布料。[4]</Translation>
+    <Translation>[0]有一把[1]白色的扶手椅[2]。[3]外面覆盖着一种柔软的布料。[4]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
@@ -1525,7 +1525,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]leafy plant[2].[3]It has long thin leaves.[4]</Original>
-    <Translation>[0]有一棵[1]阔叶植物[2]。[3]它有着细长的叶子。[4]</Translation>
+    <Translation>[0]那有一盆[1]绿色植物[2]。[3]它有着细长的叶子。[4]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
@@ -1536,7 +1536,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass table[2].[3]There are some small flowers on it.[4]</Original>
-    <Translation>[0]有一张[1]玻璃桌[2]。[3]上面放着一些小盆花。[4]</Translation>
+    <Translation>[0]有一张[1]玻璃桌[2]。[3]上面放着几盆小花。[4]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
@@ -1558,7 +1558,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]The light is directed towards the [4]ceiling.[5]</Original>
-    <Translation>[0]有一盏[1]电灯[2]。[3]灯光是直接照着[4]天花板的。[5]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]灯光直接打在了[4]天花板上。[5]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -1568,7 +1568,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white armchair[2].[3]</Original>
-    <Translation>[0]有一张[1]白色的扶手椅[2]。[3]</Translation>
+    <Translation>[0]有一把[1]白色的扶手椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="156">
     <Commands>
@@ -1578,7 +1578,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white armchair[2].[3]</Original>
-    <Translation>[0]有一张[1]白色的扶手椅[2]。[3]</Translation>
+    <Translation>[0]有一把[1]白色的扶手椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="157">
     <Commands>
@@ -1601,7 +1601,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]small flowers[2].[3]They are artificial.[4]I'm not sure though...[5]They look kind of real.[6]</Original>
-    <Translation>[0]有一些[1]小盆花[2]。[3]都是些假花。[4]尽管我不大确定……[5]它们看是去就像是真的。[6]</Translation>
+    <Translation>[0]那有几盆[1]小花[2]。[3]都是些假花。[4]尽管我不大确定……[5]它们看上去就像是真的。[6]</Translation>
   </Sentence>
   <Sentence id="159">
     <Commands>
@@ -1624,7 +1624,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9FX1IwMzBfMDIKGj4BAAlJTlRFUlJVUFRfRV9SMDMwXzAyX29mZgBJTlRFUlJVUFRfRV9SMDMwXzAyX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfRV9SMDMwXzAyX29mZgoA</Command>
     </Commands>
     <Original>[0]There is an [1]information panel about[2]the founder of JC Valley[3].[4]"Judd Fitzgerald[5]Founder of JC Valley[6]Born on 2 November 1936.[7]A leading scholar in the memory[8]research field. While contributing [9]greatly to the academic community,[10]he remained ambitious in his research[11]and founded JC Valley in his later[12]years to carry out a project that[13]would set the direction for new[14]memory research. [15]Died in 2001."[16]</Original>
-    <Translation>[0]那里有一块[1]关于JC山谷创始人的[2]告示板 [3]。[4]…贾德·菲茨杰拉德[5]JC山谷创始人[6]出生于1936年11月2日。[7]记忆研究领域里的一个[8]领先学者。 当在学术上取得 [9]重大成就之时，[10]他在其研究上依然保有雄心壮志[11]并在后半生创立了[12]JC山谷，从而实行一个能[13]为新的记忆研究确立[14]一个方向的计划。[15]卒于2001年。”[16]</Translation>
+    <Translation>[0]那里有一块[1]关于JC山谷创始人的[2]告示板 [3]。[4]“贾德·菲茨杰拉德[5]JC山谷创始人[6]出生于1936年11月2日。[7]记忆研究领域里的一位[8]领先学者。不断地学术上取得 [9]重大成就的同时，[10]他仍在其研究上保有雄心壮志，[11]并在后半生创立了[12]JC山谷，目的是进行一项[13]能在记忆研究领域创建新方向[14]的项目。[15]卒于2001年。”[16]</Translation>
   </Sentence>
   <Sentence id="160">
     <Commands>
@@ -1645,7 +1645,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGAEACklOVEVSUlVQVF9FX1IwMzBfMDEKGj4BAAlJTlRFUlJVUFRfRV9SMDMwXzAxX29mZgBJTlRFUlJVUFRfRV9SMDMwXzAxX1RhZ18wMS5icmxhbgAKGhwBAApJTlRFUlJVUFRfRV9SMDMwXzAxX29mZgoA</Command>
     </Commands>
     <Original>[0]There is an [1]information panel about[2]the Director of JC Valley[3].[4]"Rex Alfred[5]Current Director of JC Valley[6]Born on 26 October 1959.[7]Based on his experience with advanced[8]memory research, he became a founding[9]member of JC Valley with the late Judd[10]Fitzgerald. He is working on original[11]research subjects which will carve out[12]the future of JC Valley.[13]Became Director in 2001."[14]</Original>
-    <Translation>[0]那里有一块[1]关于JC山谷所长的[2]告示板 [3]。[4]“雷克斯·阿尔弗雷德[5]当前JC山谷的所长[6]生于1959年10月26日。[7]基于其在先进记忆研究的[8]经验上，他和已故的贾德·菲茨杰拉德[9]成为了JC山谷的创立成员[10]之一。他正在进行[11]一项将为JC山谷开创未来的[12]新颖研究。[13]于2001年成为所长。”[14]</Translation>
+    <Translation>[0]那里有一块[1]关于JC山谷所长的[2]告示板 [3]。[4]“雷克斯·阿尔弗雷德[5]目前JC山谷的所长[6]生于1959年10月26日。[7]鉴于其在先进记忆研究方面的[8]有着丰富的经验，他和已故的贾德·[9]菲茨杰拉德一起成为了JC山谷的[10]创始成员之一。他目前正在从事的[11]一项独创的研究将会给JC山谷[12]带来崭新的未来。[13]于2001年成为所长。”[14]</Translation>
   </Sentence>
   <Sentence id="161">
     <Commands>
@@ -1657,7 +1657,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large glass window[2].[3]Lake Juliet at night can be seen [4]through it.[5]</Original>
-    <Translation>[0]有一个[1]巨大的玻璃窗[2]。[3]能够在这里看到夜晚的[4]朱丽叶湖。[5]</Translation>
+    <Translation>[0]那有一扇[1]巨大的玻璃窗[2]。[3]能够在这里看到夜晚的[4]朱丽叶湖。[5]</Translation>
   </Sentence>
   <Sentence id="162">
     <Commands>
@@ -1669,7 +1669,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large glass window[2].[3]A panoramic view of Lake Juliet can[4]be seen past the corridor.[5]</Original>
-    <Translation>[0]有一个[1]巨大的玻璃窗[2]。[3]越过走廊，能够看到[4]朱丽叶湖的全景。[5]</Translation>
+    <Translation>[0]那有一扇[1]巨大的玻璃窗[2]。[3]越过走廊，能够看到[4]朱丽叶湖的全景。[5]</Translation>
   </Sentence>
   <Sentence id="163">
     <Commands>
@@ -1722,7 +1722,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]It is a leather office chair.[4]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]这是一张皮质的办公椅。[4]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]这是一把真皮办公椅。[4]</Translation>
   </Sentence>
   <Sentence id="168">
     <Commands>
@@ -1734,7 +1734,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer[2].[3]It is not a normal model of computer.[4]I guess I'd better not touch it...[5]</Original>
-    <Translation>[0]有一台[1]电脑[2]。[3]这不是一台寻常型号的电脑。[4]我想我最好还是不要碰它……[5]</Translation>
+    <Translation>[0]有一台[1]电脑[2]。[3]这不是一台普通型号的电脑。[4]我想我最好还是不要碰它……[5]</Translation>
   </Sentence>
   <Sentence id="169">
     <Commands>
@@ -1744,7 +1744,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cordless phone charger[2].[3]</Original>
-    <Translation>[0]有一个[1]无线电话充电器[2]。[3]</Translation>
+    <Translation>[0]有一个[1]无线电话充电底座[2]。[3]</Translation>
   </Sentence>
   <Sentence id="170">
     <Commands>
@@ -1754,7 +1754,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cordless phone[2] on the desk.[3]</Original>
-    <Translation>[0]桌上[1]有一台[2]无线电话。[3]</Translation>
+    <Translation>[0]桌上[1]有一部[2]无线电话。[3]</Translation>
   </Sentence>
   <Sentence id="171">
     <Commands>
@@ -1764,7 +1764,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]remote control[2] on the table.[3]</Original>
-    <Translation>[0]桌上[1]有一个[2]遥控。[3]</Translation>
+    <Translation>[0]桌上[1]有一个[2]遥控器。[3]</Translation>
   </Sentence>
   <Sentence id="172">
     <Commands>
@@ -1776,7 +1776,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large screen[2] on the wall.[3]They must use that during the [4]meetings.[5]</Original>
-    <Translation>[0]墙上[1]有一块[2]巨大的显示屏。[3]他们一定是在开会时[4]使用那个。[5]</Translation>
+    <Translation>[0]墙上[1]有一块[2]巨大的显示屏。[3]这个一定是用于[4]会议的。[5]</Translation>
   </Sentence>
   <Sentence id="173">
     <Commands>
@@ -1790,7 +1790,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is [1]a red chair[2].[3]So, Dad, this is where you have your [4]meetings...[5]Hmm. It's not what I thought it would[6]be...[7]</Original>
-    <Translation>[0]有一张[1]红色椅子[2]。[3]那，爸爸，这里就是你开会的[4]地方……[5]哼。和我想象中的不[6]一样……[7]</Translation>
+    <Translation>[0]有一把[1]红色椅子[2]。[3]那，爸爸，这里就是你开会的[4]地方……[5]唔。和我想象中的不[6]一样……[7]</Translation>
   </Sentence>
   <Sentence id="174">
     <Commands>
@@ -1801,7 +1801,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is [1]a red chair[2].[3]The material looks like leather.[4]</Original>
-    <Translation>[0]有一张[1]红色椅子[2]。[3]材质看上去像是皮革。[4]</Translation>
+    <Translation>[0]有一把[1]红色椅子[2]。[3]材质看上去像是皮革。[4]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -1813,7 +1813,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]black chair[2].[3]The red and black chairs seem to be[4]all part of the same set.[5]</Original>
-    <Translation>[0]有一张[1]黑色椅子[2]。[3]红色和黑色的椅子似乎都是[4]同一套家居里的其中一个。[5]</Translation>
+    <Translation>[0]有一把[1]黑色椅子[2]。[3]红色和黑色的椅子似乎是[4]同一套的。[5]</Translation>
   </Sentence>
   <Sentence id="176">
     <Commands>
@@ -1823,7 +1823,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]black chair[2].[3]</Original>
-    <Translation>[0]有一张[1]黑色椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]黑色椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="177">
     <Commands>
@@ -1845,7 +1845,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]old lithium battery[2].[3]I don't think this works any more...[4]</Original>
-    <Translation>[0]有一块[1]残旧的锂电池[2]。[3]我不认为这还能使用……[4]</Translation>
+    <Translation>[0]有一块[1]残旧的锂电池[2]。[3]我不认为这还能用……[4]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -1866,7 +1866,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stainless steel rubbish bin[2].[3]</Original>
-    <Translation>[0]有一个[1]不锈钢垃圾桶[2].[3]</Translation>
+    <Translation>[0]有一个[1]不锈钢垃圾桶[2]。[3]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -1888,7 +1888,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -1942,7 +1942,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a box full of [1]ballpoint pens[2].[3]Hmm... Every single one is black![4]</Original>
-    <Translation>[0]有一个装满原子笔的[1]箱子[2]。[3]嗯……每一支都是黑色的！[4]</Translation>
+    <Translation>[0]有一个装满圆珠笔的[1]箱子[2]。[3]嗯……每一支都是黑色的！[4]</Translation>
   </Sentence>
   <Sentence id="188">
     <Commands>
@@ -1972,7 +1972,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a spray can of [1]cleaner[2].[3]</Original>
-    <Translation>[0]有一个 吸尘器的[1]喷雾罐[2]。[3]</Translation>
+    <Translation>[0]那里有一瓶[1]清洁喷雾[2]。[3]</Translation>
   </Sentence>
   <Sentence id="191">
     <Commands>
@@ -1984,7 +1984,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]projector screen[2].[3]They must keep it rolled up when it's [4]not being used.[5]</Original>
-    <Translation>[0]有一个[1]幻灯机的屏幕[2]。[3]当没有使用的时候他们一定一直把[4]屏幕卷起来了。[5]</Translation>
+    <Translation>[0]那有一面[1]幻灯机的屏幕[2]。[3]不用的时候他们一定是把[4]屏幕卷起来了。[5]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -1997,7 +1997,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large lectern[2].[3]There is a panel set into it.[4]It looks like it connects to the [5]speaker's computer.[6]</Original>
-    <Translation>[0]有一个[1]讲台[2].[3]上面设置了一个面板。[4]看了面板是连接着[5]演讲者的电脑。[6]</Translation>
+    <Translation>[0]有一个[1]讲台[2]。[3]上面装了一个面板。[4]看来面板连接着[5]演讲者的电脑。[6]</Translation>
   </Sentence>
   <Sentence id="193">
     <Commands>
@@ -2007,7 +2007,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="194">
     <Commands>
@@ -2018,7 +2018,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer terminal[2].[3]It is part of a desk-like stand.[4]</Original>
-    <Translation>[0]有一台[1]电脑终端机[2]。[3]It is part of a desk-like stand.像台脚的支架[4]</Translation>
+    <Translation>[0]有一台[1]电脑终端机[2]。[3]它是一个像书桌一样的台子的一部分。[4]</Translation>
   </Sentence>
   <Sentence id="195">
     <Commands>
@@ -2028,7 +2028,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="196">
     <Commands>
@@ -2050,7 +2050,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]The room is set up as a lecture theatre.[4]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]房间造得像一个阶梯教室。[4]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]这间房间是被作为演讲厅而建造的。[4]</Translation>
   </Sentence>
   <Sentence id="198">
     <Commands>
@@ -2070,7 +2070,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="200">
     <Commands>
@@ -2082,7 +2082,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer terminal[2].[3]Looks expensive...[4]I should probably leave this alone.[5]</Original>
-    <Translation>[0]有一台[1]电脑终端机[2]。[3]看似很昂贵……[4]我一定要离那个远一点。[5]</Translation>
+    <Translation>[0]有一台[1]电脑终端机[2]。[3]看似很昂贵……[4]我还是别乱动的好。[5]</Translation>
   </Sentence>
   <Sentence id="201">
     <Commands>
@@ -2092,7 +2092,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]whiteboard[2].[3]</Original>
-    <Translation>[0]有一个[1]白板[2]。[3]</Translation>
+    <Translation>[0]有一块[1]白板[2]。[3]</Translation>
   </Sentence>
   <Sentence id="202">
     <Commands>
@@ -2102,7 +2102,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]whiteboard[2].[3]</Original>
-    <Translation>[0]有一个[1]白板[2]。[3]</Translation>
+    <Translation>[0]有一块[1]白板[2]。[3]</Translation>
   </Sentence>
   <Sentence id="203">
     <Commands>
@@ -2114,7 +2114,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large printer[2].[3]It looks like it can print whatever is[4]written on the whiteboard.[5]</Original>
-    <Translation>[0]有一台[1]巨型打印机[2]。[3]看上去它能够打印出一切写在[4]白板上的东西。[5]</Translation>
+    <Translation>[0]有一台[1]巨型打印机[2]。[3]看上去它能够打印出所有写在[4]那块白板上的东西。[5]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
@@ -2136,7 +2136,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="206">
     <Commands>
@@ -2156,7 +2156,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="208">
     <Commands>
@@ -2177,7 +2177,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair with wheels[2].[3]</Original>
-    <Translation>[0]有一张[1]装有轮子的椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]装有轮子的椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="210">
     <Commands>
@@ -2189,7 +2189,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer terminal[2].[3]The terminals are all completely[4]identical.[5]</Original>
-    <Translation>[0]有一台[1]电脑终端机[2]。[3]所有的终端机都是[4]一摸一样的。[5]</Translation>
+    <Translation>[0]有一台[1]电脑终端机[2]。[3]所有的终端机都是[4]一模一样的。[5]</Translation>
   </Sentence>
   <Sentence id="211">
     <Commands>
@@ -2200,7 +2200,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shutter[2].[3]The shutter is locked.[4]</Original>
-    <Translation>[0]有一扇[1]闸门[2]。[3]闸门是锁着的。[4]</Translation>
+    <Translation>[0]有一扇[1]百叶窗[2]。[3]百叶窗是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="212">
     <Commands>
@@ -2210,7 +2210,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]shutter[2] is locked.[3]</Original>
-    <Translation>[0]闸门[1]是[2]锁着的。[3]</Translation>
+    <Translation>[0]百叶窗[1]是[2]锁着的。[3]</Translation>
   </Sentence>
   <Sentence id="213">
     <Commands>
@@ -2221,7 +2221,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shutter[2].[3]The shutter is locked.[4]</Original>
-    <Translation>[0]有一扇[1]闸门[2]。[3]闸门是锁着的。[4]</Translation>
+    <Translation>[0]有一扇[1]百叶窗[2]。[3]百叶窗是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="214">
     <Commands>
@@ -2231,7 +2231,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]shutter[2] is locked.[3]</Original>
-    <Translation>[0]闸门[1]是[2]锁着的。[3]</Translation>
+    <Translation>[0]百叶窗[1]是[2]锁着的。[3]</Translation>
   </Sentence>
   <Sentence id="215">
     <Commands>
@@ -2271,7 +2271,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]screen[2] shows "M Tyler/G Barnes".[3]</Original>
-    <Translation>[0]显示屏[1]显示[2]的是“M 泰勒/G 班恩”。[3]</Translation>
+    <Translation>[0]显示屏上[1]显示[2]的是“M 泰勒/G 班恩”。[3]</Translation>
   </Sentence>
   <Sentence id="219">
     <Commands>
@@ -2285,7 +2285,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]screen[2] embedded into the[3]wall.[4]It shows the entire lab, floor by floor.[5]It seems to be a security system[6]display.[7]</Original>
-    <Translation>[0]有一个[1]显示屏[2]嵌在[3]墙上。[4]它显示了整个研究所，逐层逐层地。[5]看似是保安系统的一个[6]显示器。[7]</Translation>
+    <Translation>[0]有一个[1]显示屏[2]嵌在了[3]墙上。[4]通过它可以逐层地观察整座实验楼。[5]看似是保安[6]监视器。[7]</Translation>
   </Sentence>
   <Sentence id="220">
     <Commands>
@@ -2296,7 +2296,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2].[3]You don't know how to use it.[4]</Original>
-    <Translation>[0]有一面[1]控制面板[2]。[3]你不会知道怎样使用它。[4]</Translation>
+    <Translation>[0]有一面[1]控制面板[2]。[3]不知道怎样使用它。[4]</Translation>
   </Sentence>
   <Sentence id="221">
     <Commands>
@@ -2339,7 +2339,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="225">
     <Commands>
@@ -2349,7 +2349,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]batteries[2].[3]</Original>
-    <Translation>[0]那里有几节[1]电池[2]。[3]</Translation>
+    <Translation>[0]那有几节[1]电池[2]。[3]</Translation>
   </Sentence>
   <Sentence id="226">
     <Commands>
@@ -2360,7 +2360,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]magazine files[2].[3]They are full of documents.[4]</Original>
-    <Translation>[0]有一些[1]杂志架[2]。[3]上面放满了文件。[4]</Translation>
+    <Translation>[0]有几排[1]杂志架[2]。[3]上面放满了文件。[4]</Translation>
   </Sentence>
   <Sentence id="227">
     <Commands>
@@ -2371,7 +2371,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]books[2].[3]They are about computer programming.[4]</Original>
-    <Translation>[0]有一些[1]书[2]。[3]都是些关于电脑编程的书。[4]</Translation>
+    <Translation>[0]有几本[1]书[2]。[3]都是些关于电脑编程的书。[4]</Translation>
   </Sentence>
   <Sentence id="228">
     <Commands>
@@ -2392,7 +2392,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]music player[2].[3]That's the same one I got from Dad![4]</Original>
-    <Translation>[0]有一台[1]mp3[2]。[3]那和爸爸给我的那个一模一样！[4]</Translation>
+    <Translation>[0]有一台[1]mp3[2]。[3]和爸爸给我的那个一模一样！[4]</Translation>
   </Sentence>
   <Sentence id="230">
     <Commands>
@@ -2415,7 +2415,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]notebook [2]and[3] pen[4].[5]</Original>
-    <Translation>[0]有一本[1]笔记本[2]和一支[3]笔[4]。[5]</Translation>
+    <Translation>[0]那有一本[1]笔记本[2]和一支[3]笔[4]。[5]</Translation>
   </Sentence>
   <Sentence id="232">
     <Commands>
@@ -2425,7 +2425,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]calendar[2].[3]</Original>
-    <Translation>[0]有一个[1]日历[2]。[3]</Translation>
+    <Translation>[0]有一台[1]日历[2]。[3]</Translation>
   </Sentence>
   <Sentence id="233">
     <Commands>
@@ -2450,7 +2450,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]flyer[2].[3]It has a large picture of a Salmon Rice[4]Burger on it.[5]Hey, that's from Bob's place![6]</Original>
-    <Translation>[0]有一张[1]宣传单[2]。[3]宣传单上印着大大的一个鲑鱼米饼汉堡[4]的图片。[5]嘿，这是来自鲍勃的店！[6]</Translation>
+    <Translation>[0]有一张[1]宣传单[2]。[3]宣传单上印着大大的一个鲑鱼米饼[4]汉堡。[5]嘿，这是鲍勃的店里的！[6]</Translation>
   </Sentence>
   <Sentence id="235">
     <Commands>
@@ -2462,7 +2462,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]doughnut box[2].[3]There are two doughnuts balanced on[4]the lid.[5]</Original>
-    <Translation>[0]有一个[1]甜甜圈的盒子[2]。[3]盖子上叠放着2个[4]甜甜圈。[5]</Translation>
+    <Translation>[0]有一只[1]放甜甜圈的盒子[2]。[3]盖子上叠放着两个[4]甜甜圈。[5]</Translation>
   </Sentence>
   <Sentence id="236">
     <Commands>
@@ -2484,7 +2484,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]soft drink cup[2].[3]The outside is covered in condensation[4]and it seems to be half full.[5]</Original>
-    <Translation>[0]有一只[1]软饮料杯子[2]。[3]杯子外围都覆盖着冷凝液，[4]而且看是去里面是装了半满。[5]</Translation>
+    <Translation>[0]有一只[1]软饮料杯子[2]。[3]杯子外围都覆盖着冷凝液，[4]而且看上去里面是装了半满。[5]</Translation>
   </Sentence>
   <Sentence id="238">
     <Commands>
@@ -2495,7 +2495,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an empty [1]Salmon Rice Burger[2]take-away box[3].[4]</Original>
-    <Translation>[0]有一个空的[1]鲑鱼米饼汉堡[2]外卖盒[3]。[4]</Translation>
+    <Translation>[0]有一只空的[1]鲑鱼米饼汉堡的[2]外卖盒[3]。[4]</Translation>
   </Sentence>
   <Sentence id="239">
     <Commands>
@@ -2526,7 +2526,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shelf on wheels[2].[3]</Original>
-    <Translation>[0]有一个[1]装有车轮的架子[2]。[3]</Translation>
+    <Translation>[0]有一个[1]装有轮子的架子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="242">
     <Commands>
@@ -2548,7 +2548,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]screen[2].[3]It looks like the computer is connected[4]to both screens.[5]</Original>
-    <Translation>[0]有一面[1]显示屏[2]。[3]看是去那电脑是连接着[4]两个显示屏的。[5]</Translation>
+    <Translation>[0]有一面[1]显示屏[2]。[3]看上去那电脑是连接着[4]那两个显示屏的。[5]</Translation>
   </Sentence>
   <Sentence id="244">
     <Commands>
@@ -2558,7 +2558,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="245">
     <Commands>
@@ -2570,7 +2570,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]documents[2] and a [3]pen[4].[5]</Original>
-    <Translation>[0]有一些[1]文件[2]和一支[3]笔[4]。[5]</Translation>
+    <Translation>[0]那有一些[1]文件[2]和一支[3]笔[4]。[5]</Translation>
   </Sentence>
   <Sentence id="246">
     <Commands>
@@ -2600,7 +2600,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]picture of Pinkie Rabbit[2].[3]It is made up of hundreds of tiny[4]coloured dots, like a pointillist painting.[5]Wow...[6]How do they do that?[7]</Original>
-    <Translation>[0]有一张[1]粉粉兔的图片[2]。[3]那是由成百上千的彩色[4]远点组成，就像一幅点彩画。[5]喔……[6]他们是怎么做出来的？[7]</Translation>
+    <Translation>[0]有一张[1]粉粉兔的图片[2]。[3]那是由成百上千的[4]彩色小圆点组成的，就像一幅点彩画。[5]喔噢……[6]他们是怎么做出来的？[7]</Translation>
   </Sentence>
   <Sentence id="248">
     <Commands>
@@ -2610,7 +2610,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="249">
     <Commands>
@@ -2631,7 +2631,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]screen[2] shows "Sofia."[3]</Original>
-    <Translation>[0]画面[1]显示[2]“索菲亚”。[3]</Translation>
+    <Translation>[0]画面上[1]显示[2]“索菲亚”。[3]</Translation>
   </Sentence>
   <Sentence id="251">
     <Commands>
@@ -2687,7 +2687,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gumball machine[2].[3]</Original>
-    <Translation>[0]那里有台[1]口香糖贩卖机[2]。[3]</Translation>
+    <Translation>[0]有一台[1]口香糖贩卖机[2]。[3]</Translation>
   </Sentence>
   <Sentence id="256">
     <Commands>
@@ -2699,7 +2699,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large poster[2] on the wall.[3]It has JC Valley's environmental[4]policy printed on it.[5]</Original>
-    <Translation>[0]墙上有[1]一幅巨型的[2]海报。[3]上面印着JC山谷的环境保护[4]方针。[5]</Translation>
+    <Translation>[0]墙上有[1]一大幅[2]海报。[3]上面印着JC山谷的环境保护[4]方针。[5]</Translation>
   </Sentence>
   <Sentence id="257">
     <Commands>
@@ -2723,7 +2723,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass bowl[2].[3]It is full of different kinds of sweets.[4]Boiled sweets...[5]I used to eat them a lot when I was[6]little.[7]</Original>
-    <Translation>[0]有一只[1]玻璃碗[2]。[3]里面装满了各式各样的糖果。[4]硬糖……[5]我小时候的时候经常会一大把一大把地[6]吃这个。[7]</Translation>
+    <Translation>[0]有一只[1]玻璃碗[2]。[3]里面装满了各式各样的糖果。[4]硬糖……[5]我小时候经常[6]吃这个。[7]</Translation>
   </Sentence>
   <Sentence id="259">
     <Commands>
@@ -2818,7 +2818,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]armchair[2].[3]It matches the table.[4]</Original>
-    <Translation>[0]有一张[1]扶手椅[2]。[3]它和桌子是配套的。[4]</Translation>
+    <Translation>[0]有一把[1]扶手椅[2]。[3]它和桌子是配套的。[4]</Translation>
   </Sentence>
   <Sentence id="268">
     <Commands>
@@ -2838,7 +2838,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]ornamental plant[2].[3]</Original>
-    <Translation>[0]有一棵[1]观赏植物[2]。[3]</Translation>
+    <Translation>[0]有一盆[1]观赏植物[2]。[3]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
@@ -2850,7 +2850,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]science magazines[2].[3]There is this and last month's issue of[4]Neurology Monthly.[5]</Original>
-    <Translation>[0]有一些[1]科学杂志[2].[3]这里有这个月和上个月那一期的[4]《Neurology Monthly》。[5]</Translation>
+    <Translation>[0]有一些[1]科学杂志[2]。[3]这里有这个月和上个月的[4]《神经病学月刊》。[5]</Translation>
   </Sentence>
   <Sentence id="271">
     <Commands>
@@ -2862,7 +2862,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]science magazines[2].[3]There is the January and March [4]editions of Neurology Monthly.[5]</Original>
-    <Translation>[0]有一些[1]科学杂志[2]。[3]有1月和3月号的[4]《Neurology Monthly》。[5]</Translation>
+    <Translation>[0]有一些[1]科学杂志[2]。[3]有1月和3月号的[4]《神经病学月刊》。[5]</Translation>
   </Sentence>
   <Sentence id="272">
     <Commands>
@@ -2882,7 +2882,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="274">
     <Commands>
@@ -2924,7 +2924,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="278">
     <Commands>
@@ -2964,7 +2964,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a copy of [1]Neurology Monthly[2]on the top.[3]</Original>
-    <Translation>[0]在顶部[1]有一个《Neurology Monthly》[2]的副本。[3]</Translation>
+    <Translation>[0]在顶部[1]有一本《神经病学月刊》[2]的拷贝。[3]</Translation>
   </Sentence>
   <Sentence id="282">
     <Commands>
@@ -2984,7 +2984,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="284">
     <Commands>
@@ -2994,7 +2994,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]calendar[2].[3]</Original>
-    <Translation>[0]有一个[1]日历[2]。[3]</Translation>
+    <Translation>[0]有一台[1]日历[2]。[3]</Translation>
   </Sentence>
   <Sentence id="285">
     <Commands>
@@ -3014,7 +3014,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]notepad[2].[3]</Original>
-    <Translation>[0]有一个[1]记事本[2]。[3]</Translation>
+    <Translation>[0]有一本[1]记事本[2]。[3]</Translation>
   </Sentence>
   <Sentence id="287">
     <Commands>
@@ -3035,7 +3035,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]remote control[2]. [3]It looks like a remote for a stereo.[4]</Original>
-    <Translation>[0]有一个[1]遥控[2]。[3]这看上去像是一个音箱的遥控。[4]</Translation>
+    <Translation>[0]有一个[1]遥控器[2]。[3]这看上去像是一个音箱的遥控。[4]</Translation>
   </Sentence>
   <Sentence id="289">
     <Commands>
@@ -3045,7 +3045,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stereo remote[2].[3]</Original>
-    <Translation>[0]有一个[1]音箱的遥控[2]。[3]</Translation>
+    <Translation>[0]有一个[1]音箱的遥控器[2]。[3]</Translation>
   </Sentence>
   <Sentence id="290">
     <Commands>
@@ -3056,7 +3056,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]stereo system[2].[3]It is turned off.[4]</Original>
-    <Translation>[0]有一个[1]音量系统[2]。[3]它是关闭着的。[4]</Translation>
+    <Translation>[0]这有一套[1]立体声系统[2]。[3]它是关着的。[4]</Translation>
   </Sentence>
   <Sentence id="291">
     <Commands>
@@ -3067,7 +3067,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]clock[2]. [3]It has two lions above the face.[4]</Original>
-    <Translation>[0]有一个[1]时钟[2]. [3]它的表面上有两只狮子。[4]</Translation>
+    <Translation>[0]有一个[1]时钟[2]。[3]它的表面上有两只狮子。[4]</Translation>
   </Sentence>
   <Sentence id="292">
     <Commands>
@@ -3077,7 +3077,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="293">
     <Commands>
@@ -3215,7 +3215,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="306">
     <Commands>
@@ -3294,7 +3294,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden box[2].[3]It is decorated with a cherry blossom[4]pattern.[5]</Original>
-    <Translation>[0]有一个[1]木盒子[2]。[3]上面有一些樱花图案[4]装饰着。[5]</Translation>
+    <Translation>[0]有一个[1]木盒子[2]。[3]上面装饰有樱花[4]图案。[5]</Translation>
   </Sentence>
   <Sentence id="314">
     <Commands>
@@ -3326,7 +3326,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]lots of chocolate bars[2].[3]You'd better be doing a lot of hiking, [4]Dad.[5]</Original>
-    <Translation>[0]有很多[1]巧克力棒[2]。[3]你最好多上山健行，[4]爸爸。[5]</Translation>
+    <Translation>[0]有很多[1]巧克力棒[2]。[3]你最好是在进行远足运动，[4]爸爸。[5]</Translation>
   </Sentence>
   <Sentence id="317">
     <Commands>
@@ -3545,7 +3545,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]kettle[2].[3]It looks like you put it on top of the[4]electric hotplate to boil water.[5]</Original>
-    <Translation>[0]有一个[1]水壶[2]。[3]看上去是要你把它放在电热板[4]的上面来烧水。[5]</Translation>
+    <Translation>[0]有一只[1]水壶[2]。[3]看上去是要你把它放在电热板[4]的上面来烧水。[5]</Translation>
   </Sentence>
   <Sentence id="338">
     <Commands>
@@ -3566,7 +3566,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]coffee pot[2].[3]It has a filter holder balanced on top.[4]</Original>
-    <Translation>[0]有一个[1]咖啡壶[2]。[3]它有一个滤平衡。[4]</Translation>
+    <Translation>[0]有一个[1]咖啡壶[2]。[3]顶部有个装过滤器的东西。[4]</Translation>
   </Sentence>
   <Sentence id="340">
     <Commands>
@@ -3636,7 +3636,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]square device[2] and [3]some[4]kind of tool[5].[6]The pointed tool has a cable attached[7]to it.[8]</Original>
-    <Translation>[0]有一个[1]方阵仪器[2]和[3]几种[4]工具[5]。[6]那个尖头刀有一条电缆[7]连着。[8]</Translation>
+    <Translation>[0]那有一台[1]方形仪器[2]和[3]几种[4]工具[5]。[6]那个尖头工具和一条电缆相[7]连。[8]</Translation>
   </Sentence>
   <Sentence id="346">
     <Commands>
@@ -3646,7 +3646,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a pair of [1]small pliers[2].[3]</Original>
-    <Translation>[0]有一对 [1]钳子[2]。[3]</Translation>
+    <Translation>[0]有一幅[1]钳子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="347">
     <Commands>
@@ -3713,7 +3713,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]security camera[2]. [3]</Original>
-    <Translation>[0]那里有个[1]监控摄像头[2]。[3]</Translation>
+    <Translation>[0]有一个[1]监控摄像头[2]。[3]</Translation>
   </Sentence>
   <Sentence id="353">
     <Commands>
@@ -3776,7 +3776,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="359">
     <Commands>
@@ -3786,7 +3786,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="360">
     <Commands>
@@ -3807,7 +3807,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass vase[2].[3]It is full of small yellow flowers.[4]</Original>
-    <Translation>[0]有一个[1]玻璃花瓶[2]。[3]上面插满了小黄花。[4]</Translation>
+    <Translation>[0]有一个[1]玻璃花瓶[2]。[3]里面插满了小小的黄色花朵。[4]</Translation>
   </Sentence>
   <Sentence id="362">
     <Commands>
@@ -3817,7 +3817,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]notepad[2].[3]</Original>
-    <Translation>[0]有一个[1]记事本[2]。[3]</Translation>
+    <Translation>[0]有一本[1]记事本[2]。[3]</Translation>
   </Sentence>
   <Sentence id="363">
     <Commands>
@@ -3827,7 +3827,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]calendar[2].[3]</Original>
-    <Translation>[0]有一个[1]日历[2]。[3]</Translation>
+    <Translation>[0]有一台[1]日历[2]。[3]</Translation>
   </Sentence>
   <Sentence id="364">
     <Commands>
@@ -3837,8 +3837,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]desk lamp[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]台灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="365">
     <Commands>
@@ -3884,8 +3883,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is the [1]video conferencing system [2]screen[3].[4]The screen is showing Mike.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这是[1]视频会议系统[2]的屏幕[3]。[4]屏幕上面的是麦克。[5]</Translation>
   </Sentence>
   <Sentence id="369">
     <Commands>
@@ -3895,8 +3893,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]screen[2] shows "Richard".[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]屏幕[1]上面[2]显示的是“理查德”。[3]</Translation>
   </Sentence>
   <Sentence id="370">
     <Commands>
@@ -3906,8 +3903,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white lab coat[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那有件[1]白色的实验室服[2]。[3]</Translation>
   </Sentence>
   <Sentence id="371">
     <Commands>
@@ -3917,7 +3913,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="372">
     <Commands>
@@ -3927,7 +3923,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]security camera[2]. [3]</Original>
-    <Translation>[0]那里有个[1]监控摄像头[2]。[3]</Translation>
+    <Translation>[0]有一个[1]监控摄像头[2]。[3]</Translation>
   </Sentence>
   <Sentence id="373">
     <Commands>
@@ -3948,8 +3944,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small cover[2] beside the door.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]门边上[1]有个[2]小盖子。[3]</Translation>
   </Sentence>
   <Sentence id="375">
     <Commands>
@@ -3960,8 +3955,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]emergency lock release[2].[3]The light is off.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是有个[1]紧急状况解锁键[2]。[3]灯没有亮。[4]</Translation>
   </Sentence>
   <Sentence id="376">
     <Commands>
@@ -3972,8 +3966,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]emergency lock release[2].[3]The red light is flashing.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是有个[1]紧急状况解锁键[2]。[3]红灯在闪。[4]</Translation>
   </Sentence>
   <Sentence id="377">
     <Commands>
@@ -3984,8 +3977,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]emergency lock release[2].[3]The blue light is flashing.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那是有个[1]紧急状况解锁键[2]。[3]蓝灯在闪。[4]</Translation>
   </Sentence>
   <Sentence id="378">
     <Commands>
@@ -3997,8 +3989,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer[2].[3]It is different from the computers in[4]the other rooms.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]电脑[2]。[3]和别的房间里的电脑[4]不太一样。[5]</Translation>
   </Sentence>
   <Sentence id="379">
     <Commands>
@@ -4010,8 +4001,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book[2]. [3]It has a picture of Judd Fitzgerald on[4]the cover.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]书[2]。[3]封面上是贾德·菲茨杰拉德[4]的照片。[5]</Translation>
   </Sentence>
   <Sentence id="380">
     <Commands>
@@ -4023,8 +4013,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]phone[2]. [3]It does not give a dial tone.[4]Is this disconnected?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有部[1]电话[2]。[3]没有拨号音。[4]是不是没接好啊？[5]</Translation>
   </Sentence>
   <Sentence id="381">
     <Commands>
@@ -4034,8 +4023,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]memo block[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]便签本[2]。[3]</Translation>
   </Sentence>
   <Sentence id="382">
     <Commands>
@@ -4046,8 +4034,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]desk set[2] with a clock.[3]There are pens in the pen holders.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一套[1]办公用品，[2]还有一只钟。[3]笔筒里有几只笔。[4]</Translation>
   </Sentence>
   <Sentence id="383">
     <Commands>
@@ -4058,8 +4045,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]photograph[2].[3]It is a family photo.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]照片[2]。[3]是张全家福。[4]</Translation>
   </Sentence>
   <Sentence id="384">
     <Commands>
@@ -4071,8 +4057,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]leather chair[2].[3]It is more luxurious than the ones in[4]the other rooms.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]真皮椅[2]。[3]这把比其他房间里的[4]都舒服。[5]</Translation>
   </Sentence>
   <Sentence id="385">
     <Commands>
@@ -4082,8 +4067,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]secret compartment[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有间[1]秘密隔间[2]。[3]</Translation>
   </Sentence>
   <Sentence id="386">
     <Commands>
@@ -4093,8 +4077,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]case[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]手提箱[2]。[3]</Translation>
   </Sentence>
   <Sentence id="387">
     <Commands>
@@ -4107,8 +4090,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGQEACklOVEVSUlVQVF9NZW1vcnlDYXNlCho/AQAJSU5URVJSVVBUX01lbW9yeUNhc2Vfb2ZmAEludGVycnVwdF9FX1IxMzBfMDJfVGFnXzAxLmJybGFuAAoaHQEACklOVEVSUlVQVF9NZW1vcnlDYXNlX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]case with the lid open[2].[3]It is empty.[4]Hey, something's written here...[5]"1994 S R"[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]打开着的手提箱[2]。[3]里面是空的。[4]嘿，这里写着什么字……[5]“1994 S R”[6]</Translation>
   </Sentence>
   <Sentence id="388">
     <Commands>
@@ -4119,8 +4101,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]celestial globe[2].[3]It has two lions on the top.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]浑天仪[2]。[3]顶上有两只狮子。[4]</Translation>
   </Sentence>
   <Sentence id="389">
     <Commands>
@@ -4131,8 +4112,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]trophy[2].[3]It looks like it is made of crystal.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有座[1]奖杯[2]。[3]看上去是水晶打造的。[4]</Translation>
   </Sentence>
   <Sentence id="390">
     <Commands>
@@ -4143,8 +4123,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]commemorative plaque[2].[3]It says "JC Valley 10th Anniversary".[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]纪念牌[2]。[3]上面写着“JC山谷十周年纪念”。[4]</Translation>
   </Sentence>
   <Sentence id="391">
     <Commands>
@@ -4156,8 +4135,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]commemorative plaque[2].[3]It says something about a great [4]contribution to science.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]纪念牌[2]。[3]上面是关于对科学[4]做出巨大贡献之类的东西。[5]</Translation>
   </Sentence>
   <Sentence id="392">
     <Commands>
@@ -4167,7 +4145,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="393">
     <Commands>
@@ -4177,7 +4155,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]</Original>
-    <Translation>[0]那里有盏[1]灯[2]。[3]</Translation>
+    <Translation>[0]有一盏[1]电灯[2]。[3]</Translation>
   </Sentence>
   <Sentence id="394">
     <Commands>
@@ -4187,8 +4165,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]secret compartment[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有间[1]秘密隔间[2]。[3]</Translation>
   </Sentence>
   <Sentence id="395">
     <Commands>
@@ -4198,7 +4175,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]ornamental plant[2].[3]</Original>
-    <Translation>[0]有一棵[1]观赏植物[2]。[3]</Translation>
+    <Translation>[0]有一盆[1]观赏植物[2]。[3]</Translation>
   </Sentence>
   <Sentence id="396">
     <Commands>
@@ -4209,8 +4186,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]black table[2].[3]It looks like it is used for meetings.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一张[1]黑色桌子[2]。[3]看起来是用于会议的。[4]</Translation>
   </Sentence>
   <Sentence id="397">
     <Commands>
@@ -4221,8 +4197,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]leather chair[2].[3]The leather is smooth and shiny.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]真皮椅[2]。[3]皮面平滑而富有光泽。[4]</Translation>
   </Sentence>
   <Sentence id="398">
     <Commands>
@@ -4234,8 +4209,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]leather chair[2].[3]These chairs seem to be of better[4]quality leather than the other rooms.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]真皮椅[2]。[3]这几把椅子的皮质[4]看上去要比其他房间里面的好。[5]</Translation>
   </Sentence>
   <Sentence id="399">
     <Commands>
@@ -4245,8 +4219,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]leather chair[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]真皮椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="400">
     <Commands>
@@ -4256,8 +4229,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]painting of the Twin Lions[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有幅[1]一对狮子的画[2]。[3]</Translation>
   </Sentence>
   <Sentence id="401">
     <Commands>
@@ -4269,8 +4241,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white table[2].[3]It is perfectly clean with not a single[4]speck of dust.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有张[1]白色的桌子[2]。[3]桌子上面干净得[4]一尘不染。[5]</Translation>
   </Sentence>
   <Sentence id="402">
     <Commands>
@@ -4280,8 +4251,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white leather chair[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]白色的真皮椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="403">
     <Commands>
@@ -4291,8 +4261,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white leather chair[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]白色的真皮椅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="404">
     <Commands>
@@ -4304,8 +4273,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]lamp[2].[3]It casts a bright light over the [4]immediate area.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有盏[1]灯[2]。[3]它把周围照得[4]亮堂堂的。[5]</Translation>
   </Sentence>
   <Sentence id="405">
     <Commands>
@@ -4364,8 +4332,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]framed award[2].[3]It says:[4]"Awarded in recognition of advances[5]made in neurotransmitter and memory[6]research."[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一幅[1]奖状[2]。[3]上面写着：[4]“该奖项颁发给对[5]神经递质和记忆方面的[6]研究作出杰出贡献者。”[7]</Translation>
   </Sentence>
   <Sentence id="410">
     <Commands>
@@ -4379,8 +4346,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]framed award[2].[3]It says: [4]"Advancement of Science Award for[5]contributions to memory and neural[6]network development research."[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一幅[1]奖状[2]。[3]上面写着：[4]“科学进步奖，颁发给[5]对记忆和神经[6]网络方面的研究作出杰出贡献者。”[7]</Translation>
   </Sentence>
   <Sentence id="411">
     <Commands>
@@ -4392,8 +4358,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]commemorative plaque[2].[3]It looks like crystal with letters carved[4]into it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]纪念牌[2]。[3]看上去是一块里面刻有字母的[4]水晶。[5]</Translation>
   </Sentence>
   <Sentence id="412">
     <Commands>
@@ -4403,8 +4368,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]books on electronics[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]关于电子方面的书[2]。[3]</Translation>
   </Sentence>
   <Sentence id="413">
     <Commands>
@@ -4417,8 +4381,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]books on[2] [3]computer [4]programming[5].[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]关于[2][3]电脑[4]编程方面的书[5]。[6]</Translation>
   </Sentence>
   <Sentence id="414">
     <Commands>
@@ -4429,8 +4392,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]books on quantum theory [2]and radioactivity[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]关于量子理论和[2]放射能方面的书[3]。[4]</Translation>
   </Sentence>
   <Sentence id="415">
     <Commands>
@@ -4442,8 +4404,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]books on[2] [3]biology[4].[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]关于[2][3]生物学的书[4]。[5]</Translation>
   </Sentence>
   <Sentence id="416">
     <Commands>
@@ -4453,8 +4414,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]books on neurology[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]关于神经病学方面的书[2]。[3]</Translation>
   </Sentence>
   <Sentence id="417">
     <Commands>
@@ -4464,8 +4424,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]books on genetics[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]关于遗传学方面的书[2]。[3]</Translation>
   </Sentence>
   <Sentence id="418">
     <Commands>
@@ -4485,7 +4444,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="420">
     <Commands>
@@ -4505,8 +4464,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]fishing rod[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有根[1]钓竿[2]。[3]</Translation>
   </Sentence>
   <Sentence id="422">
     <Commands>
@@ -4517,8 +4475,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]magazines[2].[3]They are about fishing.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几本[1]杂志[2]。[3]是关于钓鱼方面的。[4]</Translation>
   </Sentence>
   <Sentence id="423">
     <Commands>
@@ -4529,8 +4486,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]DVDs[2].[3]They are about fishing.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有几张[1]DVD碟片[2]。[3]它们是关于钓鱼方面的。[4]</Translation>
   </Sentence>
   <Sentence id="424">
     <Commands>
@@ -4543,8 +4499,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pen [2]and a [3]notebook[4].[5]The notebook looks brand new.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有支[1]笔 [2]和一本[3]笔记本[4]。[5]笔记本看上去是全新的。[6]</Translation>
   </Sentence>
   <Sentence id="425">
     <Commands>
@@ -4556,8 +4511,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]document[2].[3]The title is "Experiments on Memory[4]Storage during Unconsciousness".[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一份[1]文件[2]。[3]标题是“无意识状态时的[4]记忆存储实验”。[5]</Translation>
   </Sentence>
   <Sentence id="426">
     <Commands>
@@ -4568,8 +4522,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]translucent plastic box[2].[3]It is filled with different kinds of lures.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]半透明的塑料盒[2]。[3]里面装着各种不同的鱼饵。[4]</Translation>
   </Sentence>
   <Sentence id="427">
     <Commands>
@@ -4581,8 +4534,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]reel[2].[3]I guess you use this to wind up [4]fishing line.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]卷筒[2]。[3]估计是用这个来收[4]鱼线的。[5]</Translation>
   </Sentence>
   <Sentence id="428">
     <Commands>
@@ -4597,8 +4549,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]storage box[2].[3]It is full of fishing equipment.[4]Is somebody in here fishing as their [5]full-time job?[6]Sure, pretend you're testing fish [7]memory or whatever...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]储存箱[2]。[3]里面装满了钓鱼用具。[4]这里有谁把钓鱼[5]作为职业的么？[6]当然了，就当你是在测试鱼的[7]记忆之类的好了……[8]</Translation>
   </Sentence>
   <Sentence id="429">
     <Commands>
@@ -4609,8 +4560,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]storage box full of fishing[2]equipment[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]装满了渔具的[2]储存箱[3]。[4]</Translation>
   </Sentence>
   <Sentence id="430">
     <Commands>
@@ -4621,8 +4571,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]plastic box[2].[3]Looks like...fishing gear.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]塑料盒[2]。[3]看上去是……渔具。[4]</Translation>
   </Sentence>
   <Sentence id="431">
     <Commands>
@@ -4633,8 +4582,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is [1]some kind of component [2]analysis report[3].[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有[1]一份某种东西的组成元素[2]分析报告[3]。[4]</Translation>
   </Sentence>
   <Sentence id="432">
     <Commands>
@@ -4646,8 +4594,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]colour chart[2].[3]The title is: "Resistance Value of[4]Liquid Metals by Temperature".[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一幅[1]彩色图表[2]。[3]标题是：“不同温度下[4]液态金属的电阻值”。[5]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -4659,8 +4606,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]experimental results[2].[3]The title is "Experiments on Memory[4]Storage during Unconsciousness".[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一份[1]实验结果[2]。[3]标题是“无意识状态时的[4]记忆存储实验”。[5]</Translation>
   </Sentence>
   <Sentence id="434">
     <Commands>
@@ -4673,8 +4619,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]copy of a thesis[2].[3]The title is a string of scientific words[4]so it is not clear what it is about.[5].....[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一份[1]某篇论文的拷贝[2]。[3]标题是一连串的科学术语[4]，所以搞不清里面是讲什么的。[5]……[6]</Translation>
   </Sentence>
   <Sentence id="435">
     <Commands>
@@ -4694,7 +4639,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="437">
     <Commands>
@@ -4706,8 +4651,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]notebook [2]and some [3]documents[4].[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一本[1]笔记本[2]和几份[3]文件[4]。[5]</Translation>
   </Sentence>
   <Sentence id="438">
     <Commands>
@@ -4718,8 +4662,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]computer case[2].[3]The case is open.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]电脑机箱[2]。[3]机箱是打开的。[4]</Translation>
   </Sentence>
   <Sentence id="439">
     <Commands>
@@ -4732,8 +4675,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]circuit board[2].[3]It is covered in small components.[4]Looks like it was taken out of that[5]computer case...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]电路板[2]。[3]上面都是各种元器件。[4]看上去是从电脑机箱里面[5]电脑机箱里面拿出来的……[6]</Translation>
   </Sentence>
   <Sentence id="440">
     <Commands>
@@ -4745,8 +4687,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]small components[2] scattered[3]over the desk.[4]They are circuit board components.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]桌子上[1]散落着[2]不少[3]小的电子器件。[4]它们是电路板上面的。[5]</Translation>
   </Sentence>
   <Sentence id="441">
     <Commands>
@@ -4756,8 +4697,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]screwdriver[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有把[1]螺丝刀[2]。[3]</Translation>
   </Sentence>
   <Sentence id="442">
     <Commands>
@@ -4788,7 +4728,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]security camera[2]. [3]</Original>
-    <Translation>[0]那里有个[1]监控摄像头[2]。[3]</Translation>
+    <Translation>[0]有一个[1]监控摄像头[2]。[3]</Translation>
   </Sentence>
   <Sentence id="445">
     <Commands>
@@ -4808,7 +4748,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]chair[2].[3]</Original>
-    <Translation>[0]有一张[1]椅子[2]。[3]</Translation>
+    <Translation>[0]有一把[1]椅子[2]。[3]</Translation>
   </Sentence>
   <Sentence id="447">
     <Commands>
@@ -4819,7 +4759,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]magazine files[2].[3]They are full of documents.[4]</Original>
-    <Translation>[0]有一些[1]杂志架[2]。[3]上面放满了文件。[4]</Translation>
+    <Translation>[0]有几排[1]杂志架[2]。[3]上面放满了文件。[4]</Translation>
   </Sentence>
   <Sentence id="448">
     <Commands>
@@ -4830,8 +4770,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass vase[2].[3]It is full of beautiful flowers.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]玻璃花瓶[2]。[3]里面开着许多美丽的花。[4]</Translation>
   </Sentence>
   <Sentence id="449">
     <Commands>
@@ -4853,7 +4792,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]notebook [2]and[3] pen[4].[5]</Original>
-    <Translation>[0]有一本[1]笔记本[2]和一支[3]笔[4]。[5]</Translation>
+    <Translation>[0]那有一本[1]笔记本[2]和一支[3]笔[4]。[5]</Translation>
   </Sentence>
   <Sentence id="451">
     <Commands>
@@ -4864,8 +4803,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pen holder[2].[3]There are some pens in it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有只[1]笔筒[2]。[3]里面插着一支笔。[4]</Translation>
   </Sentence>
   <Sentence id="452">
     <Commands>
@@ -4877,8 +4815,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]clear plastic desk tidy[2].[3]It contains scientific magazines and [4]envelopes.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]干净的塑料桌布[2]。[3]里面装着几本科学杂志和 [4]几个信封。[5]</Translation>
   </Sentence>
   <Sentence id="453">
     <Commands>
@@ -4889,8 +4826,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]rubbish bin[2].[3]There is almost nothing in it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]垃圾桶[2]。[3]里面基本上什么都没有。[4]</Translation>
   </Sentence>
   <Sentence id="454">
     <Commands>
@@ -4942,8 +4878,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]screen hanging from an arm[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]机械臂上连接着[1]一块显示屏[2]。[3]</Translation>
   </Sentence>
   <Sentence id="459">
     <Commands>
@@ -4954,8 +4889,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass screen[2].[3]Data is constantly scrolling down it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]玻璃显示屏[2]。[3]数据一直在滚动显示着。[4]</Translation>
   </Sentence>
   <Sentence id="460">
     <Commands>
@@ -4967,8 +4901,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]glass screen[2].[3]It shows diagrams of a brain and [4]control information.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]玻璃显示屏[2]。[3]里面显示着张大脑的图表和[4]一些控制信息。[5]</Translation>
   </Sentence>
   <Sentence id="461">
     <Commands>
@@ -4980,8 +4913,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large window[2].[3]The Another lab can be observed[4]from here.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有扇[1]大窗户[2]。[3]从这里可以看见[4]另一间实验室。[5]</Translation>
   </Sentence>
   <Sentence id="462">
     <Commands>
@@ -4991,8 +4923,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]control panel[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有面[1]控制面板[2]。[3]</Translation>
   </Sentence>
   <Sentence id="463">
     <Commands>
@@ -5002,8 +4933,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]mnemonic fluid[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]助记液[2]。[3]</Translation>
   </Sentence>
   <Sentence id="464">
     <Commands>
@@ -5013,8 +4943,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]mnemonic fluid[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]助记液[2]。[3]</Translation>
   </Sentence>
   <Sentence id="465">
     <Commands>
@@ -5024,8 +4953,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some [1]mnemonic fluid[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有些[1]助记液[2]。[3]</Translation>
   </Sentence>
   <Sentence id="466">
     <Commands>
@@ -5037,8 +4965,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]TAS[2] is inserted into the control[3]panel.[4]It cannot be removed.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这台[1]TAS[2]被插进了控制[3]面板。[4]没办法拿出来。[5]</Translation>
   </Sentence>
   <Sentence id="467">
     <Commands>
@@ -5070,8 +4997,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]small laptop[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有台[1]小型笔记本电脑[2]。[3]</Translation>
   </Sentence>
   <Sentence id="470">
     <Commands>
@@ -5084,8 +5010,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is [1]Another[2].[3]Richard is inside.[4]DAD![5]Just hang on! I'll get you out![6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这就是[1]所谓的另一个房间[2]。[3]理查德在里面。[4]爸爸！[5]坚持住！我马上就来救你！[6]</Translation>
   </Sentence>
   <Sentence id="471">
     <Commands>
@@ -5095,8 +5020,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This is [1]Another[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这就是[1]所谓的另一个房间[2]。[3]</Translation>
   </Sentence>
   <Sentence id="472">
     <Commands>
@@ -5106,8 +5030,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cylindrical post[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]圆柱形邮筒[2]。[3]</Translation>
   </Sentence>
   <Sentence id="473">
     <Commands>
@@ -5117,8 +5040,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cylindrical post[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]圆柱形邮筒[2]。[3]</Translation>
   </Sentence>
   <Sentence id="474">
     <Commands>
@@ -5130,8 +5052,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large window[2].[3]The control room can be seen through[4]it.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有扇[1]大窗户[2]。[3]透过它可以看见[4]控制室。[5]</Translation>
   </Sentence>
   <Sentence id="475">
     <Commands>
@@ -5143,8 +5064,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]information board[2].[3]It has a floor guide for the JC Valley [4]building.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]信息牌[2]。[3]上面是JC山谷的[4]建筑导航图。[5]</Translation>
   </Sentence>
   <Sentence id="476">
     <Commands>
@@ -5155,8 +5075,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]elevator[2].[3]It is not working.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一个[1]电梯[2]。[3]它停止工作了。[4]</Translation>
   </Sentence>
   <Sentence id="477">
     <Commands>
@@ -5166,8 +5085,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]elevator[2] is not working.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]电梯[2]坏了。[3]</Translation>
   </Sentence>
   <Sentence id="478">
     <Commands>
@@ -5177,7 +5095,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="479">
     <Commands>
@@ -5189,8 +5107,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]information board[2].[3]It has a floor guide for the JC Valley [4]building.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]信息牌[2]。[3]上面是JC山谷的[4]建筑导航图。[5]</Translation>
   </Sentence>
   <Sentence id="480">
     <Commands>
@@ -5221,7 +5138,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="483">
     <Commands>
@@ -5232,8 +5149,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]elevator[2].[3]It is not working.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一个[1]电梯[2]。[3]它停止工作了。[4]</Translation>
   </Sentence>
   <Sentence id="484">
     <Commands>
@@ -5243,8 +5159,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]elevator[2] is not working.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]电梯[2]坏了。[3]</Translation>
   </Sentence>
   <Sentence id="485">
     <Commands>
@@ -5255,8 +5170,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]elevator[2].[3]It is not working.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一个[1]电梯[2]。[3]它停止工作了。[4]</Translation>
   </Sentence>
   <Sentence id="486">
     <Commands>
@@ -5266,8 +5180,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]elevator[2] is not working.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]电梯[2]坏了。[3]</Translation>
   </Sentence>
   <Sentence id="487">
     <Commands>
@@ -5277,7 +5190,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="488">
     <Commands>
@@ -5308,7 +5221,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="491">
     <Commands>
@@ -5318,8 +5231,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]card lock[2] has been released.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]磁卡锁[2]被解开了。[3]</Translation>
   </Sentence>
   <Sentence id="492">
     <Commands>
@@ -5331,8 +5243,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]information board[2].[3]It has a floor guide for the JC Valley [4]building.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]信息牌[2]。[3]上面是JC山谷的[4]建筑导航图。[5]</Translation>
   </Sentence>
   <Sentence id="493">
     <Commands>
@@ -5343,8 +5254,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]elevator[2].[3]It is not working.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一个[1]电梯[2]。[3]它停止工作了。[4]</Translation>
   </Sentence>
   <Sentence id="494">
     <Commands>
@@ -5354,8 +5264,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]elevator[2] is not working.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]电梯[2]坏了。[3]</Translation>
   </Sentence>
   <Sentence id="495">
     <Commands>
@@ -5366,8 +5275,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]elevator[2].[3]It is not working.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一个[1]电梯[2]。[3]它停止工作了。[4]</Translation>
   </Sentence>
   <Sentence id="496">
     <Commands>
@@ -5377,8 +5285,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]elevator[2] is not working.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]电梯[2]坏了。[3]</Translation>
   </Sentence>
   <Sentence id="497">
     <Commands>
@@ -5409,7 +5316,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="500">
     <Commands>
@@ -5440,7 +5347,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="503">
     <Commands>
@@ -5471,7 +5378,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="506">
     <Commands>
@@ -5502,7 +5409,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="509">
     <Commands>
@@ -5533,7 +5440,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="512">
     <Commands>
@@ -5544,7 +5451,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shutter[2].[3]The shutter is locked.[4]</Original>
-    <Translation>[0]有一扇[1]闸门[2]。[3]闸门是锁着的。[4]</Translation>
+    <Translation>[0]有一扇[1]百叶窗[2]。[3]百叶窗是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="513">
     <Commands>
@@ -5554,7 +5461,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]shutter[2] is locked.[3]</Original>
-    <Translation>[0]闸门[1]是[2]锁着的。[3]</Translation>
+    <Translation>[0]百叶窗[1]是[2]锁着的。[3]</Translation>
   </Sentence>
   <Sentence id="514">
     <Commands>
@@ -5564,8 +5471,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]card lock[2] has been released.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]磁卡锁[2]被解开了。[3]</Translation>
   </Sentence>
   <Sentence id="515">
     <Commands>
@@ -5585,8 +5491,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]name tag[2] on the floor.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]地上[1]有张[2]姓名卡。[3]</Translation>
   </Sentence>
   <Sentence id="517">
     <Commands>
@@ -5597,8 +5502,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book[2] wedged into the [3]shutter.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]有本[1]书[2]卡在了[3]百叶窗里。[4]</Translation>
   </Sentence>
   <Sentence id="518">
     <Commands>
@@ -5609,7 +5513,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shutter[2].[3]The shutter is locked.[4]</Original>
-    <Translation>[0]有一扇[1]闸门[2]。[3]闸门是锁着的。[4]</Translation>
+    <Translation>[0]有一扇[1]百叶窗[2]。[3]百叶窗是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="519">
     <Commands>
@@ -5619,7 +5523,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]shutter[2] is locked.[3]</Original>
-    <Translation>[0]闸门[1]是[2]锁着的。[3]</Translation>
+    <Translation>[0]百叶窗[1]是[2]锁着的。[3]</Translation>
   </Sentence>
   <Sentence id="520">
     <Commands>
@@ -5629,8 +5533,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]card lock[2] has been released.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]磁卡锁[2]被解开了。[3]</Translation>
   </Sentence>
   <Sentence id="521">
     <Commands>
@@ -5641,8 +5544,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]elevator[2].[3]It is not working.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一个[1]电梯[2]。[3]它停止工作了。[4]</Translation>
   </Sentence>
   <Sentence id="522">
     <Commands>
@@ -5652,8 +5554,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]elevator[2] is not working.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那个[1]电梯[2]坏了。[3]</Translation>
   </Sentence>
   <Sentence id="523">
     <Commands>
@@ -5684,7 +5585,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the door.[3]</Original>
-    <Translation>[0]门上面[1]有个[2]可以插卡的锁。[3]</Translation>
+    <Translation>[0]门上面[1]有个[2]磁卡锁。[3]</Translation>
   </Sentence>
   <Sentence id="526">
     <Commands>
@@ -5695,8 +5596,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some kind of [1]device[2].[3]It looks like a sensor.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有某种[1]装置[2]。[3]看上去是个传感器。[4]</Translation>
   </Sentence>
   <Sentence id="527">
     <Commands>
@@ -5707,7 +5607,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shutter[2].[3]The shutter is locked.[4]</Original>
-    <Translation>[0]有一扇[1]闸门[2]。[3]闸门是锁着的。[4]</Translation>
+    <Translation>[0]有一扇[1]百叶窗[2]。[3]百叶窗是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="528">
     <Commands>
@@ -5717,7 +5617,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]shutter[2] is locked.[3]</Original>
-    <Translation>[0]闸门[1]是[2]锁着的。[3]</Translation>
+    <Translation>[0]百叶窗[1]是[2]锁着的。[3]</Translation>
   </Sentence>
   <Sentence id="529">
     <Commands>
@@ -5727,8 +5627,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gap[2] underneath the shutter.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]百叶窗的[1]下面[2]有一道沟。[3]</Translation>
   </Sentence>
   <Sentence id="530">
     <Commands>
@@ -5761,8 +5660,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]name tag[2] on the floor [3]beyond the shutter.[4]Hey, that's Dad's name tag.[5]Dad...?[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]百叶窗[1]附近的地上[2]有一张[3]姓名卡。[4]嘿，那是爸爸的姓名卡。[5]爸爸……？[6]</Translation>
   </Sentence>
   <Sentence id="533">
     <Commands>
@@ -5773,8 +5671,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]book[2] wedged in underneath[3]the shutter.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有本[1]书[2]卡在了[3]百叶窗的下面。[4]</Translation>
   </Sentence>
   <Sentence id="534">
     <Commands>
@@ -5785,7 +5682,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]shutter[2].[3]The shutter is locked.[4]</Original>
-    <Translation>[0]有一扇[1]闸门[2]。[3]闸门是锁着的。[4]</Translation>
+    <Translation>[0]有一扇[1]百叶窗[2]。[3]百叶窗是锁着的。[4]</Translation>
   </Sentence>
   <Sentence id="535">
     <Commands>
@@ -5795,7 +5692,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]shutter[2] is locked.[3]</Original>
-    <Translation>[0]闸门[1]是[2]锁着的。[3]</Translation>
+    <Translation>[0]百叶窗[1]是[2]锁着的。[3]</Translation>
   </Sentence>
   <Sentence id="536">
     <Commands>
@@ -5806,8 +5703,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sign[2].[3]The sign says "Security Room".[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有块[1]牌子[2]。[3]上面写着“保安室”。[4]</Translation>
   </Sentence>
   <Sentence id="537">
     <Commands>
