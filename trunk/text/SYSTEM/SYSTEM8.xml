@@ -5738,8 +5738,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The water here hasn't been polluted.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这里的水还没被污染。[1]</Translation>
   </Sentence>
   <Sentence id="541">
     <Commands>
@@ -5787,8 +5786,7 @@
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="547">
     <Commands>
@@ -5801,8 +5799,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]large rocks[2] at the[3]back of the cave.[4]I can see light coming through the gaps[5]between them...[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]山洞的[1]后面[2]有[3]好几块大石头。[4]从石头间的缝隙可以看见[5]光……[6]</Translation>
   </Sentence>
   <Sentence id="548">
     <Commands>
@@ -5815,8 +5812,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]large rocks[2] at the[3]back of the cave.[4]Light can be seen through the gaps[5]between them.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]山洞的[1]后面[2]有[3]好几块大石头。[4]石头间的缝隙中有光[5]透出。[6]</Translation>
   </Sentence>
   <Sentence id="549">
     <Commands>
@@ -5827,8 +5823,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]wooden gate[2].[3]The gate is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有扇[1]木门[2]。[3]门锁上了。[4]</Translation>
   </Sentence>
   <Sentence id="550">
     <Commands>
@@ -5838,16 +5833,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]gate[2] is locked.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那扇[1]大门[2]上了锁.[3]</Translation>
   </Sentence>
   <Sentence id="551">
     <Commands>
       <Command>GggAAAABAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="552">
     <Commands>
@@ -5857,8 +5850,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]boat[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有条[1]船[2]。[3]</Translation>
   </Sentence>
   <Sentence id="553">
     <Commands>
@@ -5870,8 +5862,7 @@
       <Command>ChoFAAABCgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Command>
     </Commands>
     <Original>[0]There is a [1]spring[2].[3]Water is constantly flowing up from its[4]depths.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]泉眼[2]。[3]泉水源源不断地从它的深处[4]涌出。[5]</Translation>
   </Sentence>
   <Comments />
 </Session>
