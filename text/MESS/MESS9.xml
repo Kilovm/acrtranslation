@@ -4,8 +4,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -300,7 +299,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1A4ZkAAoaCQAAMWMAAAEKAA==</Command>
     </Commands>
     <Original>[0]Show me, Ashley.[1]Show me what you brought back.[2]This.[3]This is what was in the box.[4]Is this all?[5]It has a connector, but this won't fit in the[6]control panel.[7]Ashley, is this really all that was in the box?[8]Yeah.[9]I see.[10]Well, that is a pity.[11]Why?[12]It appears to be nothing more than an extra[13]module.[14]I cannot use this for memory restoration,[15]Ashley.[16]It appears my theory was not entirely correct.[17]How unfortunate.[18]What's wrong?[19]I thought that the box must contain a [20]security key for Another,[21]something that Sayoko developed during the[22]EC Project.[23]However, it seems that there was no such key[24]in the box, correct?[25]And thus, I cannot restore Dr Robins' lost[26]memories.[27]But you promised![28]You said that if I opened the box and brought[29]back what was inside,[30]you wouldn't erase my dad's memories![31]I did promise that, yes. But you took such a[32]long time to return.[33]I assumed you had given up on your father[34]and simply gone home.[35]Gone home?[36]I wouldn't just leave my dad here![37]You wouldn't?[38]Of course not![39]I'm the only one who can help him![40]I wouldn't just run off![41]Honestly?[42]How can you say that?[43]I don't understand you, Ashley.[44]I don't understand why you wouldn't be willing[45]to turn your back on your father.[46]What's there to understand?[47]He's my dad![48]Ashley, is your father truly that important to[49]you?[50]Of course he is![51]Come on, Ryan! If it was your dad on the line,[52]in serious danger,[53]even you'd feel exactly the same as me![54]Would I?[55]I can't say I've ever considered it.[56]I've never felt anything like that about my[57]father. Not once.[58]Please, Ryan...[59]Give my dad his memories back![60]Please![61]Please...[62](sniff)[63]Ashley, are you crying?[64]Why would you be crying?[65]Because...my dad...[66]doesn't remember me...[67](sniff)[68]Ashley, stop crying, please.[69]I don't like seeing people cry.[70]Dad...[71](sniff)[72](sniff)[73]Ashley...[74]Stop crying! Now![75]Huh?[76]Don't make me repeat myself.[77]I don't like seeing people cry.[78]Why?[79]I believe that the emotions that trigger crying[80]are unnecessary for humans.[81]In fact, crying is more of a defence mechanism.[82]Nothing more.[83]A...defence mechanism?[84]Yes.[85]When the weak believe they will be subject to[86]emotional distress, they always resort to tears.[87]They pour their stress into these eye secretions[88]in an attempt to expel it from their own bodies.[89]It is a defence mechanism, designed to protect[90]people from their own feelings.[91]And even if those emotions are misguided, these[92]weak-hearted people justify them with tears.[93]The foremost example is small children whining[94]and crying.[95]From this, it seems fair to conclude that tears[96]are nothing more than a sign of weakness.[97]And thus, I despise crying.[98]You're wrong...[99]Am I?[100]You're totally wrong, Ryan.[101]Everyone cries, not just weak people.[102]We cry because our hearts are overwhelmed.[103]Oh, really?[104]What could possibly overwhelm your heart?[105]Our emotions.[106]If there's something you feel really sad about,[107]or if you're feeling really scared.[108]When you're feeling so lonely you can't take it.[109]Even when you're really happy...[110]The emotions overwhelm our hearts and we[111]start to cry.[112]Ryan, has that never happened to you?[113]Never.[114]Not once in my entire life.[115]You're lying.[116]I am not.[117]Ashley, I understand your theory regarding[118]tears and emotions.[119]So let me ask you something.[120]Using your previous statements as a base,[121]when you saw that Dr Robins had lost his[122]memories, your heart was overwhelmed.[123]So tell me, what emotion were you feeling?[124]Sorrow, because you were erased from your[125]father's memory?[126]Or anger, because I carried out the experiment[127]before you returned?[128]Neither.[129]Then what was it?[130]It was because I couldn't save Dad.[131]I was upset because there was nothing I could[132]do. It...it was regret.[133]Regret?[134]I see.[135]So such a situation can also give birth to tears.[136]Ashley, would you like to restore Dr Robins'[137]memories?[138]Of course![139]I see.[140]Then let us restore his memories.[141]Really?[142]Are you serious?[143]Indeed I am.[144]Provided, of course, you aid me with something.[145]With what?[146]A memory experiment.[147]If you aid me with my experiment, I will restore[148]your father's memories.[149]What kind of experiment?[150]A[151] memory overwrite experiment[152], with you as[153]the subject, using this data.[154]Mom's pendant![155]Ashley, to you this is a memento of your[156]mother, correct?[157]Yeah...[158]But to me, this is merely an old data sample,[159]memories extracted 13 years ago.[160]I wanted to find out what was in the memory[161]data, so I analysed it,[162]but I could not read the memories directly from[163]the mnemonic fluid.[164]So I wish to examine this memory data using a[165]different method.[166]Namely, a memory overwrite experiment.[167]This is the perfect data to use for such an[168]experiment.[169]And you are the [170]perfect test subject[171].[172]</Original>
-    <Translation>[0]阿修蕾，给我。[1]给我你带回来的东西。[2]就是这个。[3]在盒子里的就是这个东西。[4]没其他的了？[5]还有一个连接器，但是插不进[6]控制器里。[7]阿修蕾，这真的是盒子里所有的东西了吗？[8]是的。[9]我明白了。[10]呵，那可真是遗憾了。[11]为什么？[12]这看来仅仅是一个附加[13]模块而已。[14]我没办法用它来恢复记忆，[15]阿修蕾。[16]看来我的理论也不是完全正确的。[17]真是不走运啊。[18]怎么了？[19]我还以为盒子里一定会藏有[20]Another的密钥呢。[21]沙夜子完成那东西是在[22]EC计划的时候。[23]然而，现在看来盒子里好像没有[24]所谓的钥匙，对吧？[25]因而我也不能恢复罗宾斯教授的[26]记忆了。[27]但是你刚刚答应我的！[28]你说如果我打开了盒子，并且带回了[29]里面的东西，[30]你就不会删除我爸爸的记忆的！[31]没错没错，我是这么说过，但你[32]花了太长时间啦，[33]我猜……你大概不想救你爸爸而[34]默默回家了。[35]回家？[36]我可不会让我爸爸单独留在这里！[37]你不会？[38]绝对不会！[39]现在只有我一人能帮到他了！[40]我可不会撒腿就跑的！[41]你真这么想？[42]你这是什么意思？[43]阿修蕾，我不太理解哟。[44]我不懂你为什么就那么不愿意[45]抛弃你的父亲。[46]这还有什么需要理解的？[47]他是我爸啊，这就够了！[48]阿修蕾，你爸爸真的对你那么[49]重要？[50]当然重要了！[51]好叫，莱恩！如果换做是你爸爸处在[52]这种危险的境地，[53]你也会跟我有一样的想法的！[54]会吗？[55]我不敢保证我会这么想哟。[56]我从没有为了我的父亲而有这样的[57]感觉，一次都没有。[58]莱恩……[59]还给我爸爸的记忆！[60]求你了！[61]求你了……[62]（抽泣）[63]阿修蕾，你哭了？[64]为什么要哭呢？[65]因为……我爸爸……[66]不记得我了……[67]（抽泣）[68]阿修蕾，快别哭了。[69]我最受不了见着别人哭。[70]爸爸……[71]（抽泣）[72]（继续抽泣）[73]阿修蕾……[74]别哭了！马上！[75]嗯？[76]别让我重复第二遍。[77]我最受不了见着别人哭。[78]为什么？[79]我认为触发人类哭泣的情感[80]是多余而无意义的。[81]事实上，哭泣更多只是单纯的生理防御机制。[82]仅此而已。[83]防御……机制？[84]是的。[85]当懦弱的内在灵魂感知到它即将受[86]情感压力的威胁，泪腺就会分泌出眼泪。[87]为了将压力驱逐出自己的身体，[88]眼睛的这种分泌液就充当了溶剂的作用。[89]这就是所谓的防御机制，是人类为了隐藏自己的[90]真实感受而进化得来的机能。[91]即使这种情感是被误导的，脆弱的人们[92]也会用眼泪来掩盖自己的愚笨。[93]最典型的例子就是小婴孩们总是在无理取闹的[94]时候哇哇大哭。[95]综上易知，眼泪无非[96]就是脆弱的象征。[97]也因此，我真鄙视哭泣。[98]你错了……[99]你确定？[100]莱恩，你大错特错了！[101]每个人都会哭，不止是脆弱的人。[102]当我们的心灵支撑不住时，我们就会哭泣。[103]哦？[104]那有什么能如此压抑你的心灵呢？[105]我们的情感啊。[106]当有什么事让你觉得真的很难受，[107]或者有什么东西让你特别害怕的时候。[108]当你感到异常孤独而无法忍受的时候。[109]甚至当你打从内心里觉得幸福的时候……[110]每当这种时候，情感满溢无法宣泄，[111]我们就会为此而流泪。[112]莱恩，这些都没有在你身上发生过吗？[113]从没有过。[114]在我的生命里，连一次也没有过。[115]你在撒谎。[116]我没有撒谎。[117]阿修蕾，我能理解你关于[118]眼泪和情感的理论。[119]那让我先来问你些事。[120]Using your previous statements as a base,[121]when you saw that Dr Robins had lost his[122]memories, your heart was overwhelmed.[123]So tell me, what emotion were you feeling?[124]Sorrow, because you were erased from your[125]father's memory?[126]Or anger, because I carried out the experiment[127]before you returned?[128]Neither.[129]Then what was it?[130]It was because I couldn't save Dad.[131]I was upset because there was nothing I could[132]do. It...it was regret.[133]Regret?[134]I see.[135]So such a situation can also give birth to tears.[136]Ashley, would you like to restore Dr Robins'[137]memories?[138]Of course![139]I see.[140]Then let us restore his memories.[141]Really?[142]Are you serious?[143]Indeed I am.[144]Provided, of course, you aid me with something.[145]With what?[146]A memory experiment.[147]If you aid me with my experiment, I will restore[148]your father's memories.[149]What kind of experiment?[150]A[151] memory overwrite experiment[152], with you as[153]the subject, using this data.[154]Mom's pendant![155]Ashley, to you this is a memento of your[156]mother, correct?[157]Yeah...[158]But to me, this is merely an old data sample,[159]memories extracted 13 years ago.[160]I wanted to find out what was in the memory[161]data, so I analysed it,[162]but I could not read the memories directly from[163]the mnemonic fluid.[164]So I wish to examine this memory data using a[165]different method.[166]Namely, a memory overwrite experiment.[167]This is the perfect data to use for such an[168]experiment.[169]And you are the [170]perfect test subject[171].[172]</Translation>
+    <Translation>[0]阿修蕾，给我。[1]给我你带回来的东西。[2]就是这个。[3]在盒子里的就是这个东西。[4]没其他的了？[5]还有一个连接器，但是插不进[6]控制器里。[7]阿修蕾，这真的是盒子里所有的东西了吗？[8]是的。[9]我明白了。[10]呵，那可真是遗憾了。[11]为什么？[12]这看来仅仅是一个附加[13]模块而已。[14]我没办法用它来恢复记忆，[15]阿修蕾。[16]看来我的理论也不是完全正确的。[17]真是不走运啊。[18]怎么了？[19]我还以为盒子里一定会藏有[20]Another的密钥呢。[21]沙夜子完成那东西是在[22]EC计划的时候。[23]然而，现在看来盒子里好像没有[24]所谓的钥匙，对吧？[25]因而我也不能恢复罗宾斯教授的[26]记忆了。[27]但是你刚刚答应我的！[28]你说如果我打开了盒子，并且带回了[29]里面的东西，[30]你就不会删除我爸爸的记忆的！[31]没错没错，我是这么说过，但你[32]花了太长时间啦，[33]我猜……你大概不想救你爸爸而[34]默默回家了。[35]回家？[36]我可不会让我爸爸单独留在这里！[37]你不会？[38]绝对不会！[39]现在只有我一人能帮到他了！[40]我可不会撒腿就跑的！[41]你真这么想？[42]你这是什么意思？[43]阿修蕾，我不太理解哟。[44]我不懂你为什么就那么不愿意[45]抛弃你的父亲。[46]这还有什么需要理解的？[47]他是我爸啊，这就够了！[48]阿修蕾，你爸爸真的对你那么[49]重要？[50]当然重要了！[51]好叫，莱恩！如果换做是你爸爸处在[52]这种危险的境地，[53]你也会跟我有一样的想法的！[54]会吗？[55]我不敢保证我会这么想哟。[56]我从没有为了我的父亲而有这样的[57]感觉，一次都没有。[58]莱恩……[59]还给我爸爸的记忆！[60]求你了！[61]求你了……[62]（抽泣）[63]阿修蕾，你哭了？[64]为什么要哭呢？[65]因为……我爸爸……[66]不记得我了……[67]（抽泣）[68]阿修蕾，快别哭了。[69]我最受不了见着别人哭。[70]爸爸……[71]（抽泣）[72]（继续抽泣）[73]阿修蕾……[74]别哭了！马上！[75]嗯？[76]别让我重复第二遍。[77]我最受不了见着别人哭。[78]为什么？[79]我认为触发人类哭泣的情感[80]是多余而无意义的。[81]事实上，哭泣更多只是单纯的生理防御机制。[82]仅此而已。[83]防御……机制？[84]是的。[85]当懦弱的内在灵魂感知到它即将受[86]情感压力的威胁，泪腺就会分泌出眼泪。[87]为了将压力驱逐出自己的身体，[88]眼睛的这种分泌液就充当了溶剂的作用。[89]这就是所谓的防御机制，是人类为了隐藏自己的[90]真实感受而进化得来的机能。[91]即使这种情感是被误导的，脆弱的人们[92]也会用眼泪来掩盖自己的愚笨。[93]最典型的例子就是小婴孩们总是在无理取闹的[94]时候哇哇大哭。[95]综上易知，眼泪无非[96]就是脆弱的象征。[97]也因此，我真鄙视哭泣。[98]你错了……[99]你确定？[100]莱恩，你大错特错了！[101]每个人都会哭，不止是脆弱的人。[102]当我们的心灵支撑不住时，我们就会哭泣。[103]哦？[104]那有什么能如此压抑你的心灵呢？[105]我们的情感啊。[106]当有什么事让你觉得真的很难受，[107]或者有什么东西让你特别害怕的时候。[108]当你感到异常孤独而无法忍受的时候。[109]甚至当你打从内心里觉得幸福的时候……[110]每当这种时候，情感满溢无法宣泄，[111]我们就会为此而流泪。[112]莱恩，这些都没有在你身上发生过吗？[113]从没有过。[114]在我的生命里，连一次也没有过。[115]你在撒谎。[116]我没有撒谎。[117]阿修蕾，我能理解你关于[118]眼泪和情感的理论。[119]那让我先来问你些事。[120]基于你先前的说法，[121]当你看见罗宾斯教授失去了[122]记忆，你感到心灵受到了冲击。[123]那你告诉我，你感觉到了什么样的情绪？[124]悲伤，因为你被从你[125]父亲的记忆中消除了？[126]还是愤怒呢，因为在你回来之前[127]我进行了这个实验呢？[128]都不是。[129]那是什么呢？[130]那是因为我没办法救爸爸。[131]我很难过因为我什么也[132]做不了。是……是愧疚。[133]愧疚？[134]我明白了。[135]所以这种情况下人也会哭。[136]阿修蕾，你想修复罗宾斯教授的[137]记忆么？[138]当然了！[139]我明白了。[140]那就来重置他的记忆吧。[141]真的么？[142]你是认真的么？[143]当然是了。[144]当然前提是，你得帮我个忙。[145]什么忙？[146]一项记忆实验。[147]如果你在这个实验中帮助了我，我就愿意重置[148]你父亲的记忆。[149]哪种实验呢？[150]一项[151]记忆覆盖实验[152]，你作为[153]实验对象，使用这份数据。[154]妈妈的挂饰！[155]阿修蕾，对于你来说这是用来纪念[156]妈妈的，是么？[157]是的……[158]但是对我来说，这只是一份老的数据样品，[159]13年前提取的记忆数据而已。[160]我想弄清楚这份记忆数据里面[161]有什么，所以我分析了它，[162]但是我无法从记忆流体里面直接读出[163]记忆。[164]所以我想用另一种方法来查看[165]这份记忆数据。[166]名字就叫做，记忆覆盖实验。[167]对于这项实验来说，这是份[168]最佳的数据。[169]而且你是[170]最佳的实验对象[171]。[172]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -329,8 +328,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1A4dkAAoA</Command>
     </Commands>
     <Original>[0]What's a memory overwrite experiment?[1]I will implant Sayoko Robins' memories into[2]your mind.[3]Implant them into my mind?[4]How does that work?[5]If successful, you will see Sayoko's memories as[6]your own.[7]They will become yours, so to speak.[8]Mom's memories will become mine?[9]Yes.[10]I believe this experiment is relevant to your[11]interests.[12]But the memories overwritten in the experiment[13]will be destroyed.[14]What?[15]Will I lose my memories?[16]I'm afraid so.[17]But don't worry. The experiment will not [18]destroy any brain cells.[19]The memory deletion will be [20]selective deletion[21].[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么是记忆覆盖实验啊？[1]我将把沙夜子·罗宾斯的记忆移植到[2]你的思想中。[3]移植到我的思想中？[4]这是怎么运作的呢？[5]如果实验成功的话，你会看到沙夜子的[6]记忆。[7]简单来说，她的记忆将变成你的。[8]妈妈的记忆将变成我的？[9]是的。[10]我相信这项实验也是对你有[11]好处的。[12]但是在实验中被覆盖的记忆[13]将被销毁。[14]什么？[15]我会失去我自己的记忆？[16]很遗憾，是的。[17]但是不要担心。 实验并不会[18]损坏任何的脑细胞。[19]记忆删除是[20]选择性删除[21]。[22]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -344,8 +342,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why am I the perfect test subject?[1]You shared Sayoko's body before you were[2]born, so your memories have a common source.[3]The foundations of your own memory were[4]created while you were inside Sayoko's womb.[5]Which means that you should have extremely[6]high compatibility with her memories.[7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]为什么我是这项实验的最佳实验对象？[1]你出生前和沙夜子共用一个身体，[2]所以你们的记忆有着同一个来源。[3]当你在沙夜子的子宫里面的时候，[4]你自身的记忆根基形成了。[5]也就是说你对于她的记忆应该有着[6]极高的兼容性。[7]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -376,16 +373,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What does selective deletion mean?[1]Your brain stores the memories which contain[2]data for both past and present events.[3]When implanting memory data from another[4]person into your mind,[5]the new memory will clash with a previously[6]existing memory.[7]And if the original memory is disposable,[8]your brain will erase it and overwrite it with[9]the new memory.[10]What do you mean by "disposable"?[11]A disposable memory is one that you want to[12]forget.[13]One that I want to forget?[14]Yes.[15]Ashley, you are 16 years old, correct?[16]By the time one turns 16, there must be many[17]experiences that one would wish to forget.[18]And these are the memories that will be[19]overwritten in the experiment.[20]Ryan...[21]What if there aren't any that I want to forget?[22]Who can say?[23]I have no data regarding such an occurrence.[24]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]什么是选择性消除啊？[1]你的大脑能同时保存[2]现在和过去的记忆数据。[3]当把另一个人的记忆[4]移植入你自己的思想中时，[5]新的记忆会和当前存在的[6]记忆相冲突。[7]如果原始记忆是一次性的，[8]你的大脑将会把它消除，并在它[9]上面覆盖上新的记忆。[10]什么是“一次性的”？[11]一次性的记忆是你想[12]忘记的。[13]我想忘记的？[14]没错。[15]阿修蕾，你现在16岁，对么？[16]一个人16岁的时候，一定有很多[17]他想忘记的经历。[18]而这些记忆就是在实验中将被[19]覆盖的记忆。[20]莱恩……[21]要是那不是我想忘记的记忆呢？[22]谁知道呢？[23]我没有考虑到这种情况的数据。[24]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -397,8 +392,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Well, Ashley?[1]Will you aid me in my experiment if it means[2]the restoration of your father's memories?[3]I...[4]Answer me, Ashley.[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，怎么说？[1]为了恢复你父亲的记忆，你愿意[2]协助我进行实验么？[3]我……[4]回答我，阿修蕾。[5]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -408,24 +402,21 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAcwABAABzChoMAAAIAAByAQAAAAoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]Can I trust him?[2]But I have to save Dad...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么办？[1]我能相信他么？[2]但是我必须救爸爸……[3]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
       <Command>GhkAAARTVFJNX2JpbGxfdGhlbWUAAAAAAAoaBgAADAAKGhMAAC8mayecJwYnCyehJxBpeAoaCQAAMGMAAAEKGgYAAAwAChoHAAADAfQKGgYAAAwAChoTAAAvJj8niihDJxQnXScQqFwKGgkAADBjCcQBCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -434,8 +425,7 @@
       <Command>ChoFAAABChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]唔……[1]怎么？[2]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -448,8 +438,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]I'll do it.[1]Excellent choice, Ashley.[2]When you have those memories implanted, I[3]will require you to tell me about them.[4]I know.[5]Well then, into Another you go.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我同意了。[1]明智的选择，阿修蕾。[2]当你被移入了记忆，我会[3]要求你告诉我内容。[4]我知道。[5]那好吧，进入Another。[6]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -457,16 +446,14 @@
       <Command>ChoFAAABChoNAAAVAAFIAAAAAUgKGgwAAAgAAUgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Commencing the experiment.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]实验开始。[1]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -474,8 +461,7 @@
       <Command>GggAAAABB9AaBv8AAAAKGgUAAAEKGgYAAAwAChoIAAAAAAAAChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAACeAQAAAAoaBgAADAAKGgcAAAMH0AoaDgEAC2UBAAAAAAAAAAoaKwAABVdTRF9TRV9FVkVOVF9KQ19WQUxMRVlfQU5PVEhFUl9DTE9TRQAAChoOAAA5eAMAigAAAQAACgA=</Command>
     </Commands>
     <Original>[0]Ugh...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]呃……[1]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -491,8 +477,7 @@
       <Command>ChoFAAABChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]Ashley, how are you feeling?[1]I feel kinda dizzy...[2]I see.[3]But there is nothing to worry about.[4]Overwriting memories is not as taxing on the[5]brain as removing them.[6]Now tell me.[7]Were Sayoko's memories [8]implanted into you?[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你感觉怎么样？[1]我有点头晕……[2]我知道。[3]但是不用担心。[4]覆盖记忆不会像移除记忆那样[5]给大脑带来过多负担。[6]现在告诉我。[7]沙夜子的记忆是不是[8]已经被移植入了你的体内了？[9]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -500,8 +485,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的[1]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -509,8 +493,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是[1]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -548,8 +531,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah...[1]Then what memories did you receive?[2]Tell me.[3]I don't want to...[4]What?[5]Ashley, we had a deal.[6]I won't tell you anything about Mom![7]So you're breaking your promise?[8]Yeah. Just like you did.[9]I'm not telling you anything.[10]Ashley...[11]You couldn't possibly have rejected all of her[12]memories, could you?[13]Yeah! I did![14]What?[15]How could you be so foolish?[16]Foolish?[17]Sayoko's memories contain highly significant[18]information.[19]How could you reject them?[20]Ryan, the memories you gave me...[21]The ones in her pendant...[22]They were the most important things she had.[23]Which is exactly why I need to know.[24]What critical experimental results did the[25]mnemonic fluid contain?[26]You just don't get it![27]Mom's most important memories weren't about[28]research![29]Ryan, you don't understand my mom at all![30]Ashley...[31]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]是的……[1]那你接收到了怎样的记忆？[2]告诉我。[3]我不想……[4]什么？[5]阿修蕾，这可是我们说好的。[6]我不会告诉你关于妈妈的任何事的！[7]你是说你想食言么？[8]没错。 就像你曾经做的那样。[9]我什么也不会告诉你的。[10]阿修蕾……[11]你不会是抗拒她所有的[12]记忆吧，是么？[13]没错！ 我就是那么做了！[14]什么？[15]你怎么这么傻呢？[16]傻？[17]沙夜子的记忆里面包含了非常重要的[18]信息。[19]你怎么会抗拒了她的记忆呢？[20]莱恩，你给我的那些记忆……[21]在她挂饰里面的……[22]是她最重要的东西。[23]这就是为什么我想知道。[24]记忆流体里面包含着什么[25]重要的实验结果？[26]你完全不明白！[27]妈妈最珍贵的记忆不是关于[28]什么科学研究的！[29]莱恩，你根本就不了解我妈妈！[30]阿修蕾……[31]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -576,8 +558,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]Impossible.[2]Don't lie to me, Ashley.[3]I'm not lying.[4]What?[5]You didn't have any disposable memories?[6]Not one?[7]Not a single one.[8]I didn't want to forget anything.[9]They're all important to me.[10]This is unfathomable.[11]You've rejected all of Sayoko's memories?[12]Ashley, I really thought that you were smarter[13]than this.[14]Hasn't it occurred to you that the memories of[15]your mother, a true genius,[16]are more important than your trifling, pathetic[17]recollections?[18]I don't care.[19]Ashley...[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不……[1]不可能。[2]不要骗我，阿修蕾。[3]我没有骗人。[4]什么？[5]你没有获得任何一次性的记忆？[6]一点都没有？[7]一点都没有。[8]我什么也不想忘记。[9]我的记忆对我来说全都很重要。[10]怎么可能。[11]你抗拒了沙夜子所有的记忆？[12]阿修蕾，我原以为你是个[13]聪明的孩子。[14]难道你没有意识到，你的母亲，[15]是个真正的天才，她的记忆远比你[16]那些无关紧要的渺小的所谓[17]回忆更重要么？[18]这不关我的事。[19]阿修蕾……[20]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -644,8 +625,7 @@
       <Command>Ggf/AAEAZAoaDAAACAEAfgEAAAAKGg0AABUBAH4BAAAAAAoaBQAAAQoaBgAADAAKGhQBAAszAQEAEQFJT1AxMDEAAAAKAA==</Command>
     </Commands>
     <Original>[0]You're just like Dr Robins. Unhelpful to the[1]very end.[2]If the memories of her work are unreachable,[3]then the memory overwrite was meaningless.[4]I don't care whether your experiment was[5]important or not![6]What is important is my dad![7]I helped you, so put his memories back![8]Hahaha...hahaha...[9]Hahaha...hahaha...[10]That promise was made to be broken, Ashley.[11]What?[12]What's wrong? Didn't you hear me?[13]I'll tell you again.[14]That promise was made to be broken.[15]Ryan, you're the worst![16]You're breaking another promise?[17]Ashley, I have no more use for you. Leave.[18]No way...[19]Oh, are you going to cry again?[20]I wonder which emotion will overwhelm your[21]heart this time.[22]Sorrow? Anger? Regret?[23]I won't cry![24]What?[25]I won't cry in front of someone like you![26]You don't know how to cry, or even what to[27]feel![28]I am not going to cry in front of someone who[29]can't even understand basic emotions![30]I see.[31]I'm done. I don't need you.[32]I'm gonna give my dad back his memories by[33]myself![34]Oh?[35]And how do you plan to do that?[36]I'll use the TAS.[37]The TAS?[38]Ashley, you couldn't...[39]Yeah, I have it.[40]I have the device Mom made to unlock the[41]security on Another.[42]I see.[43]Ashley, give me the TAS.[44]I'll use it to restore your father's memories...[45]No way![46]What?[47]I'm not giving it to you![48]Oh, really?[49]Yeah, I wouldn't give it to a liar like you![50]That is a pity.[51]You see, I want it very much.[52]And I will do anything I can to get it.[53]Huh?[54]What are you going to do? Stop![55]You brought this upon yourself, Ashley.[56]Didn't you?[57]Ashley, give me the TAS.[58]Stop![59]Stop it![60]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你就和罗宾斯教授一样。到了结束的关键[1]时刻一点都不合作。[2]如果得不到关于她的工作上的记忆的话，[3]那么这个记忆覆盖就完全没意义了。[4]我才不管你的实验是否[5]重要呢！[6]我只关心我的爸爸！[7]我帮助过你了，所以把他的记忆还回来！[8]哈哈哈……哈哈哈……[9]哈哈哈……哈哈哈……[10]那个承诺从来我就没打算履行过，阿修蕾。[11]什么？[12]怎么了？你没听清么？[13]那我再说一遍。[14]那个承诺我从来就没打算履行过。[15]莱恩，你太坏了！[16]你又食言了？[17]阿修蕾，我没什么能为你做的了。走吧。[18]没门……[19]哦，你又要哭了？[20]我不知道这次又是什么情绪让你[21]心灵受到冲击了。[22]悲伤？ 愤怒？ 懊悔？[23]我不会哭的！[24]什么？[25]我不会在你这种人渣面前哭的！[26]你不懂得怎么哭，你甚至就是个没有[27]感情的动物！[28]我不会在你这种连最基本的感情[29]都不明白的人渣面前哭的！[30]我懂了。[31]我受够了。我不需要你。[32]我自己去把我爸爸的记忆[33]恢复回来！[34]喔？[35]你打算怎么做呢？[36]我靠TAS。[37]TAS？[38]阿修蕾，你不会是……[39]没错，我就是有。[40]我有我妈妈做的这个装置，来解开[41]Another的安全锁。[42]我明白了。[43]阿修蕾，把TAS交给我。[44]我用它来恢复你爸爸的记忆……[45]想都别想！[46]什么？[47]我不会给你的！[48]噢，是么？[49]没错，我是不会交给你这种骗子的！[50]那太遗憾了。[51]你也知道，我很想要它。[52]我也会不择手段来得到它的。[53]恩？[54]你想干什么？住手！[55]这是你自找的，阿修蕾。[56]不是么？[57]阿修蕾，把TAS交出来。[58]住手啊！[59]快住手啊！[60]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -666,32 +646,28 @@
       <Command>ChoFAAABChoGAAAuAQoaBwAASQPoChoGAAAMAAoaBwAAAwPoCgA=</Command>
     </Commands>
     <Original>[0]Dr Robins, kindly get out of my way.[1]Ashley, give me the TAS, now.[2]No![3]I won't give it to you![4]If you don't, I'll shoot.[5]Stop![6]Ryan, put down that gun![7]Dr Robins...[8]You don't know this child. You don't need to[9]protect her.[10]Please get out of the way.[11]Ryan, stop![12]Out of my way.[13]If not, I won't hesitate to pull the trigger.[14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]罗宾斯教授，请不要挡我的路。[1]阿修蕾，把TAS给我，快点给我。[2]不要！[3]我是不会给你的！[4]如果你不给，我可就开枪了。[5]住手！[6]莱恩，把枪放下！[7]罗宾斯教授……[8]你不认识这个孩子啊。你没必要[9]保护她的。[10]请让开。[11]莱恩，住手！[12]让开。[13]如果再不让开，我就不手下留情了。[14]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
       <Command>Gh4AABhFX1IxNjBfTgBTVFJNX2JpbGxfdGhlbWUCChoSAAAYRV9SMTYwX04ARU5WAgoaEgAAGEVfUjE2MF9OAEVOVgEKGhoAAEs9CXAxMF9iYXNlX1JfQXJtX0hhbmQKGgYAAAwAChoTAAAvKFQnQCg5JwsnYicQkCQKGgkAADBjAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBQAAMwoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
       <Command>GgYAAAwAChoTAAAvKFgnQCgZJwsnYicQkCQKGgkAADBjF3ABCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -722,16 +698,14 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Mr Alfred![1]Ugh...[2]Wait here, I'll go get help.[3]Ashley...[4]Don't worry...it's only a flesh wound...[5]More importantly, Richard...[6]Mr Alfred, Ryan erased his memories.[7]He doesn't recognise me any more...[8]If you had the TAS...you could restore his[9]memories...[10]Sayoko created it...to unlock Another...[11]Ohh…[12]Is this what I need?[13]What is that?[14]It's the TAS.[15]So you had it all this time...[16]She made it in case Another was used for the[17]wrong reasons...[18]And only I can use it.[19]So I can use it to save Dad.[20]Mr Alfred, what do I do?[21]Go into the control room and use the TAS.[22]That room over there?[23]Yes. Insert the TAS into the control panel.[24]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿尔弗雷德先生！[1]呃……[2]在这儿等着，我去找人。[3]阿修蕾……[4]别担心……只是皮肉伤而已……[5]更重要的是，理查德……[6]阿尔弗雷德先生，莱恩消除了他的记忆。[7]他完全不记得我了……[8]如果你有这台TAS……你就能重置[9]他的记忆……[10]沙夜子制造了它……来解除Another的……[11]噢…[12]这就是我需要的？[13]这是什么？[14]它是TAS。[15]这次你全都有了……[16]为了防止Another被坏人利用，她[17]制造了它……[18]而且只能我来用。[19]所以我可以用这个来救爸爸。[20]阿尔弗雷德先生，我该怎么做？[21]去控制室，然后使用这台TAS。[22]那边的房间么？[23]没错。 把TAS插入控制面板。[24]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
       <Command>GggAAEgGAH0KGgYAAC4BChoJAAAxYwAAAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgkAADEGAAABCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -741,8 +715,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Mr Alfred![1]Restore Richard's memories. Use the TAS,[2]Ashley...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿尔弗雷德先生！[1]恢复理查德的记忆。利用TAS，[2]阿修蕾……[3]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -751,8 +724,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Dad![1].....[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸！[1]……[2]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -760,8 +732,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going, Ashley?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你去哪里，阿修蕾？[1]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -769,8 +740,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I can't leave Dad here![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我不能把爸爸扔在这里！[1]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -779,8 +749,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, where are you going?[1]Oh yeah... I have to unlock the laptop.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你打算去哪里？[1]没错……我得解开那台笔记本的锁。[2]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -788,8 +757,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to go after Ryan.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得去追莱恩。[1]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -797,8 +765,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So this is the control room...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]这就是控制室……[1]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -808,8 +775,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]There's some kind of round thing...[1]Is that the control panel?[2]That's the one.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个圆形的东西……[1]那就是控制面板么？[2]就是这个。[3]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -819,16 +785,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] control panel[2].[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有个[1]控制面板[2]。[3]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
       <Command>Gg4BAAtlAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -838,8 +802,7 @@
       <Command>ChoFAAABChoOAQALAAEAAAAAAAAAChoGAAAuAQoaBgAADAAKGgYAAAwAChoTAAAvJ/AnaidkJyInMScQl5AKGgkAADBjAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Richard![1]Get inside Another![2]Okay...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]理查德！[1]到Another里面来！[2]好的……[3]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -849,16 +812,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaKwAABVdTRF9TRV9FVkVOVF9KQ19WQUxMRVlfQU5PVEhFUl9DTE9TRQAAChoOAAA5dwwAigAAAQAAChoGAAAMAAoaBwAAAwu4CgA=</Command>
     </Commands>
     <Original>[0]Ashley, insert the TAS.[1]I'll restore your memories, Dad.[2]Just wait...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，插入TAS。[1]我来修复你的记忆，爸爸。[2]等等就好……[3]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -867,32 +828,28 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoaCQAAMWMAAAEKGgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzCgA=</Command>
     </Commands>
     <Original>[0]Do it, Ashley.[1]Okay.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]上吧，阿修蕾。[1]好的。[2]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
       <Command>GgYAAAwAChoIAABZdwsBChoGAAAMAAoaBgAADAAKGgUAABsKGgYAAAwAChoTAAAvKSonwicNJwsnaycQw1AKGgkAADBjAAABCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -900,8 +857,7 @@
       <Command>GggAAAABC7gaBv8AAAAKGgUAAAEKGg4BAAsAAQAAAAAAAAAKGgYAAAwAChoIAAAAAAAAChoOAQALjwEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Dad![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸！[1]</Translation>
   </Sentence>
   <Sentence id="50">
     <Commands>
@@ -909,8 +865,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]I have to go check on him![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得去看看他怎么了！[1]</Translation>
   </Sentence>
   <Sentence id="51">
     <Commands>
@@ -919,8 +874,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Quick, Ashley, insert the TAS.[1]Okay.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]快点，阿修蕾，插入TAS。[1]好的。[2]</Translation>
   </Sentence>
   <Sentence id="52">
     <Commands>
@@ -928,8 +882,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I have to restore Dad's memory![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得恢复爸爸的记忆！[1]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -937,64 +890,56 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I have to restore Dad's memory![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得恢复爸爸的记忆！[1]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="55">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -1002,16 +947,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]This isn't the time to use the VC.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在不是用VC的时候。[1]</Translation>
   </Sentence>
   <Sentence id="62">
     <Commands>
       <Command>GhoAABhFX1IxNjBfTgBTVFJNX0JHTV8wNwIKGhIAABhFX1IxNjBfTgBFTlYCChoSAAAYRV9SMTYwX04ARU5WAQoaBgAADAAKGhMAAC8n9ScpKJ4nEiXJJxBKOAoaCQAAMGMAAAEKGg4BAAtkAQAAAAAAAAAKGhMAAC8n9ScpKJ4nEiXJJxBAEAoaCQAAMGMXcAAKGioAAAVXU0RfU0VfRVZFTlRfSkNfVkFMTEVZX0FOT1RIRVJfT1BFTgAAChoOAAA5eAMAAACKAQAAChoGAAAMAAoaBwAAAwfQChoOAQALAAEAAAAAAAAAChoGAAAMAAoaEwAALydwJ5wnuScLJmYnEMNQChoJAAAwYwAAAQoaDQAAFQAAcwAAAABzChoMAAAIAABpAAAAAAoaEwAALydbJ5wnvScLJmYnEMNQChoJAAAwYwu4AAoaDQAAFQYBMQAAAAExChoMAAAIBgEyAAAAAAoaBgAADAAKGgcAAAMLuAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="63">
     <Commands>
@@ -1062,8 +1005,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad![1]It's me...[2]This is...[3]Dad, do you know where you are?[4]Isn't this the Another lab?[5]Yeah![6]Ashley![7]Dad![8]You recognise me![9]Of course I do![10]You're serious, right?[11]You bet.[12]You're my one and only daughter. You're the[13]most important thing in the whole world to me.[14]My sweet Ashley.[15]Dad![16]Ashley![17]I'm so glad...you remember me...[18]Dad...[19](sniff)[20]I'm sorry, Ashley. I'm sorry for what I did to[21]you.[22]Dad...[23]Don't ever say you don't know me. Never[24]again, okay?[25]I promise.[26]Because you're...[27]my one and only Dad...[28]Ashley...[29]Dad, why did Ryan attack you and do all this?[30]Was it just because he wanted to use Another?[31]No...[32]Ashley, I think Ryan knew.[33]He knew that I was digging up the truth about[34]Sayoko's death.[35]Dad...[36]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸！[1]是我啊……[2]这是……[3]爸爸，你知道这是哪里么？[4]这不是Another的实验室么？[5]没错！[6]阿修蕾！[7]爸爸！[8]你认出我来了！[9]当然了啊！[10]你是认真的么，是么？[11]当然了。[12]你是我唯一的宝贝女儿。你是[13]全世界对我来说最最重要的。[14]我最可爱的阿修蕾。[15]爸爸！[16]阿修蕾！[17]我好高兴……你记起我了……[18]爸爸……[19]（抽泣）[20]对不起，阿修蕾。请你原谅我对你做的[21]事。[22]爸爸……[23]永远不要再说你不认识我了。永远[24]不要了，好么？[25]我保证。[26]因为你是……[27]我唯一的爸爸……[28]阿修蕾……[29]爸爸，为什么莱恩会袭击你然后做这些事呢？[30]只是因为他想使用Another么？[31]不是的……[32]阿修蕾，我觉得莱恩知道了。[33]他知道我在追查沙夜子死因[34]的真相。[35]爸爸……[36]</Translation>
   </Sentence>
   <Sentence id="65">
     <Commands>
@@ -1078,16 +1020,14 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzUAAQAJAUlPUDEwMwAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Richard...[1]Rex, are you all right?[2]Yes, the bullet didn't hit anything major.[3]But more importantly...[4]Please, get the laptop in the control room.[5]The laptop?[6]Yes. It's extremely important.[7]All right, I'll get it now.[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]理查德……[1]雷克斯，你没事吧？[2]没事，子弹没有击中要害。[3]但是更重要的是……[4]拜托你，把笔记本拿到控制室里去。[5]笔记本？[6]没错。这至关重要。[7]好吧，我这就拿去。[8]</Translation>
   </Sentence>
   <Sentence id="66">
     <Commands>
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzChoGAAAMAAoaFAEACzUBAAAJAU5QQzExMQAAAAoaDgEACyYAAAAGAAAAAAoaBgAADAAKGgcAAAMB9AoaBgAADAAKGg4BAAsmAQYAAAAAAAAKGg4BAAsAAQAAAAAAAAAKGg0AABUGATEAAAABMQoaDAAACAYBMQAAAAAKGhwAAAVXU0RfU0VfRE9PUl9BVVRPX09QRU4AAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -1096,8 +1036,7 @@
       <Command>Ggb/AAAAChoFAAABChoJAAAxYwAAAQoaCQAARgABAAAKGhwAAAVXU0RfU0VfRE9PUl9BVVRPX09QRU4AAAoA</Command>
     </Commands>
     <Original>[0]Ashley, I'm sorry about all this.[1]Mr Alfred...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，对不起，对不起。[1]阿尔弗雷德先生……[2]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -1107,8 +1046,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Did you get it, Richard?[1]Is this the one?[2]Wait![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]拿到了么，理查德？[1]是这个么？[2]等等！[3]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -1120,8 +1058,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]I remember now...[1]This laptop...[2]Judd had it, he was standing by the window...[3]Ashley?[4]Huh?[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想起来了……[1]这台笔记本……[2]贾德也有过，他那时候站在窗边……[3]阿修蕾？[4]恩？[5]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -1136,8 +1073,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAABKhQFwMDJfYmFzZV9SX0FybV9IYW5kChoGAAAMAAoaBwAAEQAAGgcAABIBAAoaBgAADAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKGg0AABUBAIcAAQAAAAoaDAAACAEAhwEAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAASwAAAAAKGg0AABUBAIcAAAAAAAoaDAAACAEAhwAAAAAKGgYAAAwAChoHAAADCcQKGgkAAFWFA+gAChoGAAAMAAoaBwAAEQAAGgcAABIBAAoaBgAADAAKGg0AABUAAAAAAQAAAAoaDAAACAAASwEAAAAKGg0AABUBAAAAAAAAAAoaDAAACAEAxQAAAAAKGggAAEgB/84KGgkAADFjAAABChoGAABtAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Ashley, what's wrong?[1]Dad...[2]I've seen this laptop before.[3]What?[4]It was in Judd's villa.[5]I just remembered.[6]Ashley, are you sure?[7]Yeah...[8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，怎么了？[1]爸爸……[2]我以前见过这台笔记本。[3]什么？[4]在贾德的别墅里面。[5]我刚想起来。[6]阿修蕾，你确定吗？[7]没错……[8]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
@@ -1146,8 +1082,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Yeah, it was this one.[1](gasp)[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没错，就是这个。[1]（喘息）[2]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -1159,8 +1094,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAEkB9AoaDgEACx8BAAAAAAAAAAoaBwAAYgH0CgA=</Command>
     </Commands>
     <Original>[0]I remember now...[1]Mom was standing beside Judd...[2]She had the laptop, she was writing something[3]on it...[4]Mom...[5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]现在我想起来了……[1]妈妈当时站在贾德的身边……[2]她拿着这台笔记本，往上面[3]写着什么……[4]妈妈……[5]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -1189,8 +1123,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley?[1]Dad...[2]I remembered again... Mom was holding this.[3]What?[4]Mom had it, she was using the screen.[5]Sayoko was holding it?[6]Are you sure, Ashley?[7]Yeah.[8]Rex, what is this?[9]It was Judd's.[10]When Ryan restarted the Another experiments[11]and attacked you, he stole this from my office.[12]What's in it?[13]It should have Judd's research results.[14]It's still locked, though.[15]Richard...[16]What is it, Rex?[17]The only ones who knew the code were Judd...[18]and possibly Sayoko?[19]Ashley, you said Sayoko used this?[20]Yeah, she touched the screen as if she was[21]drawing a letter.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾？[1]爸爸……[2]我又想起来了……妈妈拿着这个。[3]什么？[4]妈妈拿着它，她在使用屏幕。[5]沙夜子拿着它？[6]你确定么，阿修蕾？[7]确定。[8]雷克斯，这到底是什么？[9]这是贾德的笔记本。[10]当莱恩开始Another的实验并[11]袭击你以后，他从我的办公室偷走了它。[12]这里面有什么？[13]里面本来应该是贾德的实验数据。[14]但是还是上着锁。[15]理查德……[16]这是什么啊，雷克斯？[17]知道密码的只有贾德……[18]或者说沙夜子也知道？[19]阿修蕾，你说过沙夜子也用过这个？[20]恩，她摸着屏幕，好像在[21]画一封信。[22]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -1200,16 +1133,14 @@
       <Command>GggAAAABA+gaBv8AAAAKGgUAAAEKGgYAAAwAChoIAAAAAAAAChoOAQALAAEAAAAAAAAAChoGAAAMAQoaBQAADgoaBgEAA2wKAA==</Command>
     </Commands>
     <Original>[0]Ashley, can you reproduce the letter that[1]Sayoko drew?[2]Um...I'll give it a try... [3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你可以重新画出沙夜子画的[1]信么？[2]恩……我试试…… [3]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
       <Command>GgYAAAwACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -1302,16 +1233,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDAAACAEAxQAAAAAKGg0AABUBAAAAAAAAAAoaDQAAFQAAfwABAAAyChoMAAAIAAD+AQAAAAoaBgAADAAKGhMAAC8m4CeXKHAnDihGJxCLEAoaCQAAMGMAAAEKGhoAABhFX1IxNjBfTgBTVFJNX0JHTV8wNgEKGhIAABhFX1IxNjBfTgBFTlYCChoSAAAYRV9SMTYwX04ARU5WAQoA</Command>
     </Commands>
     <Original>[0]Oh...[1]Dad![2]There's a message appearing on the screen.[3]As far as most people are concerned, memory[4]is a dynamically self-developing process that[5]functions to connect past and present.[6]To me, however, it is the sole object of my[7]research, the source of my most fundamental[8]discoveries, of my joys, of the fascination that[9]drove me to my most pioneering work.[10]How different it seems, now that I am [11]contemplating my own death.[12]Now memory is nothing more than a record[13]of my past,[14]and that past is full of sorrow, regret and[15]repentance.[16]I chose to be a scientist. I followed the path[17]that I believed in.[18]But all of the fame, all of the riches I gained are[19]worthless to me.[20]Perhaps I have gone from being Judd Fitzgerald,[21]eminent scientist,[22]to being nothing more than another man[23]among many.[24]And now that I am reduced to this, I cannot[25]allow myself to go on living as I have done.[26]The fame and fortune I gained as a scientist[27]were not from my work alone.[28]I gained them through the sacrifice of Sayoko[29]Robins and Ryan Gray.[30]And now I leave this world, without being able[31]to repent for what I have done.[32]Sayoko, forgive me...[33]When you refused to be my successor, the[34]paternal love I had for you turned to hatred.[35]I stole your memories, the one thing you never[36]wanted to lose.[37]And then one of my former employees stole[38]your very life.[39]I cannot but regret all I have done and all that[40]has been done to you.[41]And Ryan...[42]I am to die without ever telling you the most[43]important thing in the world.[44]I know that you have a terrible secret that you[45]have never told to another soul.[46]You have no memories of your own childhood.[47]I know how this came to be, Ryan.[48]It is because I am your father, and also the one[49]responsible for your memory loss.[50]When your mother died protecting you in an[51]accident, you were inconsolable.[52]You refused to accept that your mother had[53]truly left this world.[54]And after crying for days on end, you closed[55]up and refused to speak to anyone.[56]You locked away your little heart.[57]I didn't know what to do. I held you close to me[58]every single day.[59]As your father, I felt your pain and suffering[60]tenfold. And then I made my decision.[61]At the time, it seemed that it was the least[62]painful option I had.[63]I decided to remove your mother's life and[64]death from your memory,[65]even though I knew that it would also remove[66]your memories of me, your father.[67]I used a formula I had prepared in my lab to[68]erase your memories.[69]I gave you over to someone I trusted and then[70]distanced myself from you.[71]When we met again, I had no idea how I should[72]treat you.[73]I didn't know what we were to each other any[74]more.[75]Ryan, I believe that you will surpass me one day[76]as a scientist.[77]But I will never be able to see that with my own[78]eyes.[79]Forgive me, Ryan...[80]Forgive your foolish father, who could never[81]build up the courage to tell you the truth.[82]I cannot allow myself to continue living like[83]this.[84]Judd was Ryan's father?[85]I can't believe it...[86]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢……[1]爸爸！[2]屏幕上显示出一条信息。[3]对于大多数人来说，记忆[4]是一个动态的自我发展的过程，这个过程[5]连接着过去和现在。[6]然而对于我来说，它是我的研究课题，[7]是我绝大多数重大发现的来源，[8]是我的快乐源泉，吸引着我来进行[9]我最具有先进意义的研究工作。[10]难以接受的是，现在我要[11]面对我的死亡。[12]现在记忆仅仅是我过往的[13]记录，[14]而过往的回忆满是悲伤，遗憾和[15]悔恨。[16]我选择成为一名科学家。我选择了这条道路，[17]并坚信这条道路。[18]但是所有我获得的名利财富现在对我来说[19]毫无用处。[20]也许我早已不是那个杰出的科学家——[21]贾德·菲茨杰拉德了，[22]我变成了芸芸众生中的[23]一个普通人。[24]现在我已经落至此，我不能[25]再容忍自己继续执迷不悟了。[26]我作为一名科学家获得的名誉和财富并[27]不单是来自我个人的成就。[28]而是建立在沙夜子·罗宾斯和[29]莱恩·格雷的牺牲之上的。[30]现在我即将不久于人世，无法再[31]弥补我的所作所为了。[32]沙夜子，原谅我……[33]当你拒绝成为我的接班人，[34]我对你的父亲般的关爱顿时演变成仇恨。[35]我偷取了你的记忆，那是你最不愿意[36]失去的东西。[37]然后让我先前的一名雇员夺走了[38]你的生命。[39]我能做的只有无尽地懊悔我对你的[40]所作所为。[41]至于莱恩……[42]我到死都没有告诉你[43]世界上最重要的事情。[44]我知道你有一个可怕的秘密，[45]你从来没有告诉过任何人。[46]你对你的童年没有任何记忆。[47]莱恩，我知道这是怎么会发生在你身上的。[48]因为我就是你的父亲，而我也是[49]那个导致你失去那部分记忆的人。[50]当你的母亲为了保护你而死于[51]一场事故中时，你伤心欲绝。[52]你不相信自己的母亲已经[53]离开人世这个惨痛的事实。[54]哭了好几天之后，你把自己封闭起来，[55]不和任何人说话。[56]你把自己的心门彻底关上了。[57]我不知如何是好。我每天把你[58]搂在怀中。[59]作为你的父亲，我能感受到你的痛苦，[60]我比你更痛苦万倍。然后我做了一个决定。[61]当时，那是我能把痛苦降到最低的[62]唯一出路。[63]我决定把你妈妈的生死[64]从你的记忆中消去，[65]尽管我知道，这也会同时消除你关于[66]我的记忆，作为你父亲的记忆。[67]我用了一个在实验室里准备好的公式来[68]消除你的记忆。[69]我把它交给了一个我信得过的人，[70]然后故意和你保持距离。[71]当我们再次相逢时，我完全不知道我该[72]怎么对你。[73]我不知道我们对彼此来说意味着[74]什么。[75]莱恩，我坚信你将来会作为一名出色的[76]科学家超越我的。[77]只可惜我没法亲眼[78]看见了。[79]原谅我，莱恩……[80]原谅你愚蠢的父亲，我始终[81]都没办法鼓起勇气告诉你真相。[82]我没办法再像现在这样[83]活下去了。[84]贾德是莱恩的父亲？[85]难以置信……[86]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAAChoJAABGAAEAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -1346,16 +1275,14 @@
       <Command>Ggb/AAAAChoFAAABChoOAQALAAEAAAAAAAAAChoOAQALZQEAAAAAAAAAChoJAAAxYwAAAQoaIgAAGEVfUjE2MF9OAFNUUk1fQkdNX0xBQk9SQVRPUlkCChoSAAAYRV9SMTYwX04ARU5WAgoaEgAAGEVfUjE2MF9OAEVOVgEKGiIAABhFX1IxNTBfTgBTVFJNX0JHTV9MQUJPUkFUT1JZAQoaEgAAGEVfUjE1MF9OAEVOVgIKGhIAABhFX1IxNTBfTgBFTlYBCgA=</Command>
     </Commands>
     <Original>[0]Rex, did you know about Judd and Ryan?[1]No, I had no idea.[2]I would never have imagined that something like[3]that was stored on this laptop...[4]Did you know that Ryan had no memories of[5]his childhood?[6]Actually, I asked him once what his most vivid[7]childhood memory was.[8]He told me that childhood memories were[9]useless, and that he didn't want to remember.[10]Did he know that Judd was his real father?[11]No, I'm sure he never opened that laptop.[12]I don't think he knows the truth.[13]But if he does...[14]Richard, he might...[15]I'll go after him.[16]I need to ask him something anyway.[17]Richard...[18]Rex, please look after Ashley.[19]Leave it to me.[20]No, Dad![21]I'm going with you.[22]Ashley, you should wait here.[23]I'm going with you.[24]But...[25]Dad, take me with you! I have to do this![26]Okay, Ashley, let's go.[27]Right.[28]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]雷克斯，你知道贾德和莱恩之间的事情么？[1]我不知道。[2]我从来没想过这种事情会[3]存在我的电脑里面……[4]你知道莱恩他没有关于[5]他的童年的记忆么？[6]事实上，我曾经问过他，他童年中[7]最生动的回忆是什么。[8]他告诉我童年的回忆[9]毫无用处，他也不想记得。[10]他知道贾德是他真正的父亲么？[11]不知道，我敢肯定他从来没有打开过这台电脑。[12]我觉得他并不知道真相。[13]但是如果他知道的话……[14]理查德，他或许……[15]我去追他。[16]我得问他一些事情。[17]理查德……[18]雷克斯，请照顾好阿修蕾。[19]交给我吧。[20]不要啊，爸爸！[21]我和你一起去。[22]阿修蕾，你在这里等着。[23]我要和你一起去。[24]但是……[25]爸爸，带上我！我必须和你一起去！[26]好吧，阿修蕾，我们走。[27]恩。[28]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
       <Command>Gg0AABUGATEAAAABMQoaDAAACAYBMQAAAAAKGg4BAAtkAQAAAAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1363,8 +1290,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAD+AQAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我该怎么做？[1]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1375,8 +1301,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Ashley, what did your mother write on that[1]laptop screen?[2]She wrote the letter "J".[3]Try writing that.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你妈妈在那台笔记本[1]屏幕上写了什么？[2]她写了一个字母“J”。[3]试着也写个。[4]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -1384,8 +1309,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Ryan went down in the lift.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩乘电梯下楼了。[1]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1396,8 +1320,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, what did your mother write on that[1]laptop screen?[2]She wrote the letter "J".[3]Try writing that.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你妈妈在那台笔记本[1]屏幕上写了什么？[2]她写了一个字母“J”。[3]试着也写个。[4]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -1406,8 +1329,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We need to get help for Rex. Better call[1]someone...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我们得去帮助雷克斯。最好叫上[1]什么人……[2]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -1417,16 +1339,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, call Gina on the VC.[1]Get her to help Rex.[2]Okay.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，用VC呼叫吉娜。[1]让她去帮助雷克斯。[2]明白。[3]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1442,8 +1362,7 @@
       <Command>ChoFAAABChoJAAAxAAAAAQoaBgAADAAKGjAAAAVXU0RfU0VfRVZFTlRfSkNfVkFMTEVZX0RJUkVDVF9DQUxMX0tJUkVSVQAAChohAAA0DlRBTEtfQkFDS19EQ19SMTUwX1IwODBfT1VUBQoaBgAADAAKGgcAAAMH0AoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzChoNAAAVAQByAAAAAAAKGgwAAAgBAHIAAAAACgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]And Dr Robins is there too, what a relief...[2]Gina, Elizabeth's dad is injured![3]The director? What happened?[4]Dr Robins, I'm glad you're okay![5]Mike, there's been an accident in the Another[6]lab. Rex needs medical attention.[7]I'll give you the details later.[8]Understood.[9]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]罗宾斯教授也在，真是太好了……[2]吉娜，伊丽莎白的爸爸受伤了！[3]主任？发生了什么？[4]罗宾斯教授，你没事真是太好了！[5]麦克，Another的实验室里面发生了一场[6]事故。 雷克斯需要医疗救助。[7]之后我再告诉你详细情况。[8]知道了。[9]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1453,72 +1372,63 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAAEQAAGgcAABIBAAoaDQAAFQEAAAAAAAAAChoMAAAIAQAAAAAAAAoaCAAASAEAJAoA</Command>
     </Commands>
     <Original>[0]Ashley, take the elevator down.[1]We need to go after Ryan.[2]Okay, Dad.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，坐电梯下楼。[1]我们得去追莱恩。[2]明白，爸爸。[3]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEGAPIBAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEGAJgBAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEGAMIBAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEGAN4BAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEBAUQBAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEBAKABAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEBANIBAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
       <Command>GgYAAAwAChoOAQALigEBAPABAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -1526,8 +1436,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I need to unlock the laptop.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得解开笔记本电脑的锁。[1]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -1535,8 +1444,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I have to get help on the VC![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我得通过VC来求救！[1]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1545,8 +1453,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Gina will look after Rex. Come on, let's go[1]after Ryan![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]吉娜会照顾好雷克斯的。来吧，我们去[1]追莱恩！[2]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -1557,8 +1464,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The lab has a tunnel underneath it?[1]Ashley...[2]Ashley, we need to get moving.[3]Right.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]实验室下面还有条隧道？[1]阿修蕾……[2]阿修蕾，我们走。[3]好的。[4]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -1567,8 +1473,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where are you going, Ashley?[1]We need to find Ryan![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你往哪里走呢，阿修蕾？[1]我们得去追莱恩！[2]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1592,8 +1497,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad, where does the tunnel go?[1]It ends in a forest behind the lab.[2]Can we get out into the forest?[3]Yes, there's a door at the end of the tunnel.[4]There's a small spring in the forest, and the[5]path leads to a wharf on the lake.[6]You can get a boat from the wharf to a little[7]island out on the lake.[8]An island? I never saw it before...[9]Yes, it's tiny. It's only good for walking around[10]on.[11]I used to go over there with Sayoko when we[12]came here...[13]You went there with Mom?[14]Yeah, just the two of us.[15]But that was long before you were born.[16]Ah...[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，这条隧道通向哪里啊？[1]它通向实验室后面的森林。[2]我们能出去然后进入森林么？[3]可以，隧道的尽头有扇门。[4]森林里有一小股泉水，[5]它通向湖边的码头。[6]你可以坐上码头上的船，然后驶向[7]湖上的小岛。[8]小岛？ 我以前从来没见过啊……[9]不奇怪，岛非常小。 那里只适合[10]散步。[11]以前刚来的时候我经常和沙夜子一起[12]在那里散步……[13]你和妈妈一起去的？[14]是啊，只有我们两个人。[15]不过那是在你出生好久之前的事情了。[16]啊……[17]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1617,8 +1521,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]There is a [1]wooden gate[2] at the top [3]of some small stone steps.[4]Is that the way into the forest?[5]Yes, I'm sure of it.[6]I'll open it.[7]Huh?[8]It won't open...[9]Let me try.[10]Nngh![11]I can't get it open either...[12]It must be locked from the other side. Probably[13]by Ryan.[14]What do we do?[15]We need to find another way out.[16]Yeah...[17]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]在一些[1]小石阶[2]的尽头[3]是一扇木头大门。[4]这就是通往森林的路么？[5]没错，我很确定。[6]我去打开它。[7]恩？[8]打不开……[9]让我试试。[10]啊！[11]我也打不开……[12]门一定是从另一侧被锁上了。可能[13]是莱恩干的。[14]这下我们该怎么办？[15]我们得再找条路出去。[16]没错……[17]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1629,8 +1532,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] wooden gate[2].[3]It is locked.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]那里有一扇[1]木头大门[2]。[3]它被锁上了。[4]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1638,8 +1540,7 @@
       <Command>ChoFAAABChoNAAAVAQBoAAAAAAAKGgwAAAgBAGgAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Ashley, check out the door.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，看看那扇门。[1]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -1648,8 +1549,7 @@
       <Command>ChoFAAABChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAAChoGAAAMAAoaDQAAFQEAAAAAAAAAChoMAAAIAQBjAAAAAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Dad, let's look down here.[1]All right.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，看看这下面。[1]好的。[2]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -1660,8 +1560,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAQAAAAAAAAAKGgwAAAgBAGMAAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]Dad, there's no way out here.[1]This isn't the way to the forest, Ashley.[2]It's a little further on.[3]Okay...[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，这里没路能出去。[1]这不是通往森林的路，阿修蕾。[2]这会远一些。[3]好吧……[4]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -1690,8 +1589,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGgYAAAwAChoFAAAbCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]large rocks [2]at the [3]back of the cave.[4]Hey, I can see light coming through the gaps[5]between the rocks![6]Ashley, there might be a shortcut behind those[7]rocks.[8]I'll move them away.[9]I'll help![10]Let me do it, Ashley.[11]It might be dangerous, so stand back.[12]Okay...[13]Here we go![14]Be careful, Dad![15]And one![16]And two![17]And thrrrgh![18]I can see out![19]You did it, Dad![20]Yeah...[21]Come on, let's go.[22]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]山洞的[1]后面堆着[2]好几块[3]大石头。[4]嘿，从石头间的缝隙中能[5]看见光！[6]阿修蕾，那些石头的后面可能有条[7]近路。[8]我来把它们挪开。[9]我来帮忙！[10]还是交给我吧，阿修蕾。[11]可能会有危险，离远点。[12]好的……[13]上了！[14]小心点，爸爸！[15]一块！[16]两块！[17]三……三块！[18]我能看见外面了！[19]成功了，爸爸！[20]是啊……[21]来吧，我们走。[22]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -1704,8 +1602,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAABDCgA=</Command>
     </Commands>
     <Original>[0]It's getting brighter out here...[1]It'll be dawn soon.[2]Which way should we go?[3]There's a spring straight ahead.[4]Let's go there first.[5]Okay.[6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]外面越来越亮了……[1]马上就是黎明了。[2]我们该走哪条路？[3]前头有股泉水。[4]我们先去那里。[5]好的。[6]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1716,8 +1613,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAAAAAAAAAAAKGgwAAAgAATgAAAAAChoGAAAMAAoaBQAAQwoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Yeah?[2]Turn right there to get to the spring.[3]Got it.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]恩？[2]右转去泉水那里。[3]知道了。[4]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1725,8 +1621,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not that way, Ashley.[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]不是那条路啊，阿修蕾。[1]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1736,8 +1631,7 @@
       <Command>ChoFAAABChoNAAAVAQBtAAAAAAAKGgwAAAgBACAAAAAAChoGAAAMAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]No footprints. Ryan hasn't been by here...[1]Wow! It's beautiful.[2]Ashley, this place is known as the secret spring.[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]没有脚印。莱恩没有来过这里……[1]喔噢！好美。[2]阿修蕾，这地方就是以这股清泉而闻名的。[3]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -1762,8 +1656,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAAAwfQChoJAAAxYwAAAQoA</Command>
     </Commands>
     <Original>[0]What are you looking at?[1]The spring water.[2]Dan once told me that this is the source of[3]Lake Juliet's water.[4]Really?[5]The whole lake is filled from here.[6]Look at it, Ashley.[7]The lake might have been polluted more than[8]once in the past.[9]But as long as this water remains clear and[10]pure, the lake will always recover.[11]But it's polluted now. Do you think it can still[12]recover?[13]You know about the lake pollution?[14]I found out when I was using your computer.[15]And I used the testing kit in your drawer to[16]check the lake water.[17]Ah...[18]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]你在看什么呢？[1]看泉水呢。[2]丹有一次告诉我它是[3]朱丽叶湖的源泉。[4]真的么？[5]整个湖都是由它来注满的。[6]看看它，阿修蕾。[7]这湖可能历史上不止一次地被[8]污染过。[9]但是只要这泉水还能保持纯净[10]透彻，湖就还有复原的机会。[11]但是湖现在被污染了。你认为它还能[12]恢复么？[13]你知道湖水的污染问题？[14]我用你的电脑的时候发现的。[15]然后我用你抽屉里的检测试剂盒来[16]测试了湖水的水质。[17]啊……[18]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1780,8 +1673,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYRl9QMDMwX00AQkdNAQoaCQAAMWMAAAEKGgYAAAwAChoGAAAMAAoaBQAAGwoA</Command>
     </Commands>
     <Original>[0]Dad...[1]This is so beautiful.[2]It is.[3]Do you think the lake can be pure and clear[4]like this again?[5]I'm sure it can.[6]But there's a lot that we must do to help.[7]Yeah...[8]Ashley, let's go to the wharf and find Ryan.[9]Right.[10]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸……[1]真的好美啊。[2]是啊。[3]你觉得湖还能恢复成和这泉水一样[4]干净清透么？[5]肯定可以。[6]但是我们得付出努力来实现。[7]是啊……[8]阿修蕾，我们去码头找莱恩吧。[9]恩。[10]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1791,8 +1683,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dad, can I check the water with the testing kit?[1]There's no time now, we have to find Ryan.[2]Right...[3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，我能用检测试剂盒来测试下水质么？[1]现在没时间了，我们得去找莱恩。[2]好吧……[3]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -1801,8 +1692,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dad...[1]Ashley, let's go to the wharf and find Ryan.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸……[1]阿修蕾，我们赶快去码头找莱恩吧。[2]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1810,8 +1700,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoaBgAADAAKGg4BAAuKAQEAwAEAAAAKAA==</Command>
     </Commands>
     <Original>[0]Hey, that boat![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]嘿，那条船！[1]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1819,8 +1708,7 @@
       <Command>GggAAAABB9AaB/8AAQBkGgb/AAAAChoFAAABChoNAAAVAABzAAAAAHMKGgwAAAgAAGkAAAAAChoNAAAVCQClAAAAAAAKGgwAAAgJAKUAAQAAChoGAAAMAAoaBgAADAAKGggAAAAAAAAKGggAAFmDAQAKGgYAAAwAChoOAQALEAEAAAAAAAAAChoIAAA7CQAAChoKAABLdwnohbAKGicAABNXU0RfU0VfRVZFTlRfU0FOQkFTSElfQk9BVF9DSElLQU1FCgA=</Command>
     </Commands>
     <Original>[0]Ryan's on it![1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩在上面！[1]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -1832,8 +1720,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaEgAAGEZfUDA0MF9NAEJHTQEKGhIAABhGX1AwNDBfTQBCR00CCgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Dad, he's...[2]He's going to the island.[3]Ashley, let's go after him![4]Right![5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩！[1]爸爸，他……[2]他要去岛上。[3]阿修蕾，走，跟着他！[4]好！[5]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1844,8 +1731,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dad![1]There's a boat here![2]Get in![3]Okay![4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸！[1]这儿有条船！[2]上船！[3]好的！[4]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -1854,8 +1740,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, let's go after him![1]Right![2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，走，跟着他！[1]好的！[2]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -1866,16 +1751,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]Where are you going? Get in the boat![3]Right.[4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]恩？[2]你去哪里啊？上船啊！[3]知道了。[4]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
       <Command>Gg0AABUAAAAAAAAAAAoaDAAACAAA+QAAAAAKGhoAAEp1AXAwMl9iYXNlX1JfQXJtX0hhbmQKGhoAAEp2AXAwMl9iYXNlX0xfQXJtX0hhbmQKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -1930,8 +1813,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBgAADAAKGgcAAAMD6AoaPwEACUlOVEVSUlVQVF9Cb2F0UGljdHVyZV8wMgBJTlRFUlJVUFRfRl9QMDQwXzAyX1RhZ18wMC5icmxhbgQKGh0BAApJTlRFUlJVUFRfQm9hdFBpY3R1cmVfMDIKGgYAAAwAChoHAAARAAAaBwAAEgEAChoGAAAMAAoaBgAADAAKGg0AABUAAHMAAQAAcwoaDAAACAAA+QEAAAAKGg0AABUBAAAAAQAAAAoaDAAACAEApQEAAAAKGg4BAAtlAQAAAAAAAAAKGgYAAAwAChoHAAARAAAaBwAAEgEAChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAAChoaAABLdQFwMDJfYmFzZV9SX0FybV9IYW5kChoaAABLdgFwMDJfYmFzZV9MX0FybV9IYW5kCgA=</Command>
     </Commands>
     <Original>[0]Ashley, can you see Ryan's boat?[1]No, not any more.[2]Are you tired?[3]It'll be a while yet before we reach the island.[4]You can sleep if you want.[5]No, I'm fine.[6]Everything's just happened so quickly. I'm not[7]sleepy at all.[8]Okay.[9]Dad, can I ask you something?[10]What is it?[11]It's about something Ryan said.[12]He said that you didn't come here to help with[13]Another,[14]you came here to find Mom's real killer.[15]Is that true?[16]Yes, it's true.[17]I've been thinking, ever since I came back from[18]Blood Edward Island...[19]It was definitely Bill who broke into the house[20]and shot Sayoko 13 years ago.[21]But I wasn't sure if he was the only one behind[22]the whole thing.[23]Or whether there was someone behind the [24]scenes, pulling his strings,[25]all that time he was helping me develop[26]Another on the island.[27]And when I thought about it, one name[28]instantly came to mind.[29]Judd Fitzgerald.[30]Only Judd could have made Bill do what he did.[31]But he was already dead, so there was no way[32]of getting the truth from him.[33]Then, a year ago, I got an anonymous e-mail.[34]It said that there was another person[35]responsible for Sayoko's death.[36]And when I saw that e-mail it clicked.[37]If there was anyone still alive who knew the [38]truth behind what Bill had done,[39]they would be at JC Valley.[40]So, does anyone know who it was?[41]Yes...[42]Who?[43]Well...[44]You'll find out soon enough.[45]Huh?[46]Ashley, can you see the island?[47]Yeah, I can see it now.[48]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾，你能看见莱恩的船么？[1]看不见了。[2]你是不是累了？[3]离小岛还有些路程。[4]你想睡的话可以睡一会儿。[5]没事。[6]一切发生得太突然了。我一点[7]都不困。[8]好吧。[9]爸爸，我能问你点事情么？[10]什么事？[11]一些莱恩说的事情。[12]他说你不是来这里帮助[13]Another的工作的，[14]你来这里是为了寻找杀死妈妈的真凶。[15]是真的么？[16]是真的。[17]自从我从血色爱德华岛上回来，[18]我就一直在想……[19]一定是比尔13年前冲进房子，开枪[20]杀死了沙夜子。[21]但是我不敢肯定他就是整个事件唯一[22]的幕后者。[23]还是有什么人，[24]幕后操纵着这一切，[25]而他一直以来都在岛上[26]帮助我进行Another的工作。[27]当我想到这里的时候，一个名字[28]立刻就浮现在我的脑海中。[29]他就是贾德·菲茨杰拉德 。[30]只有贾德能让比尔做出这种事。[31]但他已经死了，所以没办法[32]从他那里得到真相了。[33]接着，我在一年前收到一封匿名邮件。[34]上面说还有一个人该对[35]沙夜子的死负责。[36]我看了这封邮件之后恍然大悟。[37]如果还有什么活着的人知道[38]这件事情的真相的话，[39]这个人必然在JC山谷。[40]那么，有人知道么？[41]恩……[42]是谁？[43]这个……[44]你马上就会知道答案了。[45]恩？[46]阿修蕾，能看见岛了么？[47]恩，能看见了。[48]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -1958,8 +1840,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYR19NMDEwX00AQkdNAQoaEgAAGEdfTTAxMF9NAEVOVgIKGhIAABhHX00wMTBfTQBFTlYBCgA=</Command>
     </Commands>
     <Original>[0]We're here.[1]Yes...[2]It really is tiny, isn't it?[3]That's right. It's so small it doesn't even have[4]a name.[5]Are you tired?[6]Don't worry. I'm stronger than you might think.[7]This won't faze me.[8]But, Ashley...[9]Yeah?[10]Looks like I dragged you into a big mess again,[11]hmm?[12]Just like two years ago...[13]You didn't drag me into anything.[14]If you want to find out, then so do I, Dad.[15]That's all there is to it.[16]I'm with you all the way.[17]Thank you, Ashley.[18]Let's go find Ryan, then.[19]Right.[20]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]走吧。[1]恩……[2]真的很小啊，是吧？[3]没错。岛小得连个[4]名字都没有。[5]你累了？[6]没事啦。我比你想象中强壮哦。[7]这不会让我退缩的。[8]但是，阿修蕾……[9]恩？[10]看来我又把你牵扯进麻烦中了，[11]是吧？[12]就像两年以前……[13]你没有把我牵扯进任何事。[14]如果你想找出真相，我也想，爸爸。[15]就是这样的。[16]我永远都会支持你的。[17]谢谢你，阿修蕾。[18]那我们赶快去找莱恩吧。[19]恩。[20]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1969,8 +1850,7 @@
       <Command>Ggf/AAEAZAoaBQAAAQoaBgAADAAKGg4BAAtlAQAAAAAAAAAKGhoAAEo9CXAxMF9iYXNlX1JfQXJtX0hhbmQKGhIAABhHX1AwMjBfTQBFTlYCChoSAAAYR19QMDIwX00ARU5WAAoA</Command>
     </Commands>
     <Original>[0]Oh![1]That's...[2]Ryan![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]噢！[1]那是……[2]莱恩！[3]</Translation>
   </Sentence>
   <Sentence id="127">
     <Commands>
@@ -2091,8 +1971,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dr Robins![1]Ryan![2]Ryan...[3]Ashley, you're here too?[4]Ryan, just take it easy. Rex is fine.[5]I see.[6]He was more worried about you than his own[7]injury.[8]Worried? About me?[9]Yes. He forgives you for the attack, the[10]experiment, working with Sofia...everything.[11]He was just worried about you.[12]I don't need him to be worried about me.[13]But more importantly...[14]Dr Robins, do you have your memories back?[15]Yes, I do.[16]I used the TAS.[17]I see...[18]You used the TAS to restore the 17 years of[19]memories I erased.[20]That's right.[21]Yeah, Dad got his memories back thanks to [22]Mom's invention![23]I see.[24]I had expected as much.[25]The work that so many scientists spent so[26]many years to complete,[27]was all undone by one scientist who died over[28]a decade ago.[29]Doesn't it make everything seem so pointless?[30]Pointless?[31]Yes.[32]You, I and Rex were brought to MJ Labs[33]by Judd.[34]All of us were trained by him.[35]We began our memory research under him,[36]trying to get the results that he sought.[37]We're still trying to get them, even now.[38]But all of our research is confined by that[39]security system laid down by Judd and Sayoko.[40]So even now, no matter how hard we work,[41]those restrictions kept us from our results.[42]You're wrong, Ryan.[43]Judd and Sayoko developed that system by[44]considering the idea of memory control[45]from every possible angle, and how people[46]would react to such a device.[47]You can't think of that as a restriction.[48]Really?[49]I can't agree with that.[50]Those two had no plans of ever passing on the[51]leadership of memory research to anyone.[52]Which is why they put restrictions on the[53]system itself.[54]Dr Robins, the woman you loved was cruel[55]indeed.[56]What did you say?[57]She was Judd's most trusted confidante, the[58]successor that everyone expected so much of.[59]She was even tasked with the development of[60]the primary system for the EC Project.[61]And yet, as soon as she married you, she turned[62]her back on those expectations and his trust.[63]She knew how important she was to the[64]EC Project, yet she just took off.[65]And what's worse, she hid crucial information[66]about the system.[67]No![68]She didn't turn her back on anyone![69]She...[70]She wanted to live as my mother, not as a[71]scientist![72]And what do you base this theory on?[73]When Mom made the TAS upgrade module,[74]she recorded a message just for me.[75]She knew, Ryan.[76]She knew people wanted her as a scientist.[77]And that if she didn't listen, her life might[78]be in danger.[79]In danger?[80]She knew from the beginning that she might be[81]killed?[82]Yes, Ryan.[83]She thought that far ahead when she decided [84]to hide the Another thesis.[85]She hid it because she knew people wanted to[86]develop and use it for the wrong reasons.[87]And Bill was one of them.[88]Bill Edward.[89]The man who killed her.[90]Ryan...how do you know that?[91]I simply read it in your memory data when I[92]extracted it.[93]Don't lie, Ryan.[94]Pardon?[95]You knew that Bill had killed Sayoko right from[96]the day I arrived here.[97]The very first day I came, you said:[98]"Dr Robins, please tell me about the Another[99]you created on Blood Edward Island."[100]When I heard that, I was taken aback.[101]I had told Rex about Another and about Bill.[102]But I had never told him where Another was[103]created.[104]So, how did you know that I created it on[105]Blood Edward Island, Ryan?[106]Well...[107]Answer me![108]The other person responsible for Sayoko's[109]death...[110]The one who had Bill kill her...[111]Who was it?[112]Was it Judd?[113]Or was it...[114]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Dr Robins！[1]莱恩！[2]莱恩……[3]阿修蕾，you're here too？[4]莱恩，just take it easy。Rex is fine。[5]I see。[6]He was more worried about you than his own[7]injury。[8]Worried？ About me？[9]Yes。He forgives you for the attack，the[10]experiment，working with Sofia……everything。[11]He was just worried about you。[12]I don't need him to be worried about me。[13]But more importantly……[14]Dr Robins，do you have your memories back？[15]Yes，I do。[16]I used the TAS。[17]I see……[18]You used the TAS to restore the 17 years of[19]memories I erased。[20]That's right。[21]Yeah，爸爸 got his memories back thanks to [22]Mom's invention！[23]I see。[24]I had expected as much。[25]The work that so many scientists spent so[26]many years to complete，[27]was all undone by one scientist who died over[28]a decade ago。[29]Doesn't it make everything seem so pointless？[30]Pointless？[31]Yes。[32]You，I and Rex were brought to MJ Labs[33]by Judd。[34]All of us were trained by him。[35]We began our memory research under him，[36]trying to get the results that he sought。[37]We're still trying to get them，even now。[38]But all of our research is confined by that[39]security system laid down by Judd and Sayoko。[40]So even now，no matter how hard we work，[41]those restrictions kept us from our results。[42]You're wrong，莱恩。[43]Judd and Sayoko developed that system by[44]considering the idea of memory control[45]from every possible angle，and how people[46]would react to such a device。[47]You can't think of that as a restriction。[48]Really？[49]I can't agree with that。[50]Those two had no plans of ever passing on the[51]leadership of memory research to anyone。[52]Which is why they put restrictions on the[53]system itself。[54]Dr Robins，the woman you loved was cruel[55]indeed。[56]What did you say？[57]She was Judd's most trusted confidante，the[58]successor that everyone expected so much of。[59]She was even tasked with the development of[60]the primary system for the EC Project。[61]And yet，as soon as she married you，she turned[62]her back on those expectations and his trust。[63]She knew how important she was to the[64]EC Project，yet she just took off。[65]And what's worse，she hid crucial information[66]about the system。[67]No！[68]She didn't turn her back on anyone！[69]She……[70]She wanted to live as my mother，not as a[71]scientist！[72]And what do you base this theory on？[73]When Mom made the TAS upgrade module，[74]she recorded a message just for me。[75]She knew，莱恩。[76]She knew people wanted her as a scientist。[77]And that if she didn't listen，her life might[78]be in danger。[79]In danger？[80]She knew from the beginning that she might be[81]killed？[82]Yes，莱恩。[83]She thought that far ahead when she decided [84]to hide the Another thesis。[85]She hid it because she knew people wanted to[86]develop and use it for the wrong reasons。[87]And Bill was one of them。[88]Bill Edward。[89]The man who killed her。[90]莱恩……how do you know that？[91]I simply read it in your memory data when I[92]extracted it。[93]Don't lie，莱恩。[94]Pardon？[95]You knew that Bill had killed Sayoko right from[96]the day I arrived here。[97]The very first day I came，you said:[98]"Dr Robins，please tell me about the Another[99]you created on Blood Edward Island。"[100]When I heard that，I was taken aback。[101]I had told Rex about Another and about Bill。[102]But I had never told him where Another was[103]created。[104]So，how did you know that I created it on[105]Blood Edward Island，莱恩？[106]Well……[107]Answer me！[108]The other person responsible for Sayoko's[109]death……[110]The one who had Bill kill her……[111]Who was it？[112]Was it Judd？[113]Or was it……[114]</Translation>
   </Sentence>
   <Sentence id="128">
     <Commands>
@@ -2237,8 +2116,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAAEQEAGgcAABIJAAoaBgAADAAKGg0AABUBAH0AAAAAfQoaDAAACAEArQAAAAAKGg0AABUJAM4AAQAAAAoaDAAACAkAzgEAAAAKAA==</Command>
     </Commands>
     <Original>[0]Dr Robins.[1]Your theory is correct. The one who chased[2]Sayoko to her death was none other than...[3]Me.[4]What?![5]So it was you![6]I was happy and relieved when Sayoko left the[7]EC Project.[8]I believed I was next in line to be Judd's[9]successor.[10]But the reality was quite different.[11]Judd refused to give up on Sayoko, and insisted[12]on getting her back.[13]I told him then that I would complete Another[14]for him,[15]but he told me that I was the wrong person.[16]When Bill heard that, he told me:[17]"Ryan, do you know why Judd doesn't want you[18]to be his successor?"[19]"It's because he's your father."[20]"And he doesn't want you to know that, so he[21]won't name you as successor."[22]He told you that?[23]Indeed he did.[24]And everything he told me was absolutely true.[25]Bill knew that I had no memories of my[26]childhood.[27]He told me that Judd had fed me a formula[28]that erased my memories.[29]And the only ones who knew about it were[30]Judd, Bill and Sayoko.[31]And when he told me that, I laughed out loud.[32]I laughed at myself. At my foolishness.[33]My own father had used me as a test subject[34]for his memory experiment.[35]And without even knowing it, I had seen that[36]man as a mentor, and looked up to him.[37]I have never mocked myself as much as I did[38]on that day.[39]But I managed to regain my cool and analyse[40]the reasons why Bill had told me what he did.[41]On the one hand, he was one of the people who[42]wanted to use Another for his own purposes.[43]On the other hand, he was someone that Judd[44]trusted implicitly.[45]I hypothesised that he was attempting to make[46]me his partner and aid him.[47]That was my theory. And when I confirmed it[48]was true, I made my decision.[49]I would pretend to ally myself with Bill,[50]while at the same time taking my own brand[51]of revenge against Judd Fitzgerald.[52]My targets were his chosen successor, Sayoko,[53]and his research results, all of his successes.[54]I would take them away, one by one, as he did[55]with my memories.[56]I promised Bill I would help him get the Another[57]thesis that Sayoko had hidden.[58]I steadily worked my way into his favour and[59]then began to put ideas into his head.[60]If Sayoko died, leaving the thesis behind, what[61]would the man who loved her[62]and wrote that thesis with her do?[63]And so, because I knew that Bill loved Sayoko, [64]it was easy to inflame his jealousy towards you.[65]And, indeed, his mixed feelings of love and hate[66]for Sayoko.[67]Ryan![68]How could you do such a thing?[69]Bill then went on and killed Sayoko, completely[70]unaware that I was pulling the strings.[71]He became best friends with you, and[72]convinced you to develop Another.[73]I had not even dared to hope that my plans[74]would go so smoothly, but they did.[75]Then I worked with Bill, and began removing the[76]things that Judd held precious to him.[77]The funding disaster that befell MJ Labs was,[78]of course, orchestrated by me.[79]But when Judd suddenly died six years ago, my[80]revenge was unexpectedly halted.[81]And then Bill died on Blood Edward Island[82]two years ago.[83]Before I realised it, the only thing left to me[84]was the shell of JC Valley,[85]and the incomplete Another that Judd had[86]left behind.[87]Dr Robins, I was the one who sent you that[88]e-mail.[89]To bring you here, to JC Valley.[90]I suspected you'd sent it...[91]Yes, indeed.[92]Ryan![93]Why would you send him that?[94]Why do you think?[95]Don't you understand how I feel about all of[96]this, even after hearing my story?[97]No![98]I don't understand you at all![99]And I don't want to![100]Why?[101]Why did you have to kill Mom...[102]just for your revenge?[103]Why did you have to make Bill kill her?![104]If you hated Judd, why not just take revenge[105]there and then?[106]Why did you take away Mom?[107]Why were you so cruel...[108]that you had to kill Mom?[109]When I met Bill on Blood Edward Island[110]two years ago...[111]I remembered looking through the closet where[112]Mom had hid me...[113]I remember Bill's face as he shot Mom...[114]For me, then, remembering that time was...[115]Remembering things I'd forgotten was...[116]It was horrible. But I didn't know how horrible[117]it really was.[118]Ryan, you were the one who told me, right?[119]You told me Dad brought me here to open the[120]doorway to my memories.[121]But you were wrong.[122]The one who opened that doorway and brought[123]me on that journey into my memories...[124]It was Mom.[125]She started me on that journey.[126]She told me and showed me just how much she[127]loved me.[128]But if she was still alive...[129]If she hadn't been killed...[130]Then...[131]I'd never have had to go on this journey![132]Ashley...[133]Do you understand why I sent that e-mail to[134]Dr Robins?[135]No![136]Then I will tell you.[137]This is what I had planned, Dr Robins.[138]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Dr Robins。[1]Your theory is correct。The one who chased[2]Sayoko to her death was none other than……[3]Me。[4]What？！[5]So it was you！[6]I was happy and relieved when Sayoko left the[7]EC Project。[8]I believed I was next in line to be Judd's[9]successor。[10]But the reality was quite different。[11]Judd refused to give up on Sayoko，and insisted[12]on getting her back。[13]I told him then that I would complete Another[14]for him，[15]but he told me that I was the wrong person。[16]When Bill heard that，he told me:[17]"莱恩，do you know why Judd doesn't want you[18]to be his successor？"[19]"It's because he's your father。"[20]"And he doesn't want you to know that，so he[21]won't name you as successor。"[22]He told you that？[23]Indeed he did。[24]And everything he told me was absolutely true。[25]Bill knew that I had no memories of my[26]childhood。[27]He told me that Judd had fed me a formula[28]that erased my memories。[29]And the only ones who knew about it were[30]Judd，Bill and Sayoko。[31]And when he told me that，I laughed out loud。[32]I laughed at myself。At my foolishness。[33]My own father had used me as a test subject[34]for his memory experiment。[35]And without even knowing it，I had seen that[36]man as a mentor，and looked up to him。[37]I have never mocked myself as much as I did[38]on that day。[39]But I managed to regain my cool and analyse[40]the reasons why Bill had told me what he did。[41]On the one hand，he was one of the people who[42]wanted to use Another for his own purposes。[43]On the other hand，he was someone that Judd[44]trusted implicitly。[45]I hypothesised that he was attempting to make[46]me his partner and aid him。[47]That was my theory。And when I confirmed it[48]was true，I made my decision。[49]I would pretend to ally myself with Bill，[50]while at the same time taking my own brand[51]of revenge against Judd Fitzgerald。[52]My targets were his chosen successor，Sayoko，[53]and his research results，all of his successes。[54]I would take them away，one by one，as he did[55]with my memories。[56]I promised Bill I would help him get the Another[57]thesis that Sayoko had hidden。[58]I steadily worked my way into his favour and[59]then began to put ideas into his head。[60]If Sayoko died，leaving the thesis behind，what[61]would the man who loved her[62]and wrote that thesis with her do？[63]And so，because I knew that Bill loved Sayoko，[64]it was easy to inflame his jealousy towards you。[65]And，indeed，his mixed feelings of love and hate[66]for Sayoko。[67]莱恩！[68]How could you do such a thing？[69]Bill then went on and killed Sayoko，completely[70]unaware that I was pulling the strings。[71]He became best friends with you，and[72]convinced you to develop Another。[73]I had not even dared to hope that my plans[74]would go so smoothly，but they did。[75]Then I worked with Bill，and began removing the[76]things that Judd held precious to him。[77]The funding disaster that befell MJ Labs was，[78]of course，orchestrated by me。[79]But when Judd suddenly died six years ago，my[80]revenge was unexpectedly halted。[81]And then Bill died on Blood Edward Island[82]two years ago。[83]Before I realised it，the only thing left to me[84]was the shell of JC Valley，[85]and the incomplete Another that Judd had[86]left behind。[87]Dr Robins，I was the one who sent you that[88]e-mail。[89]To bring you here，to JC Valley。[90]I suspected you'd sent it……[91]Yes，indeed。[92]莱恩！[93]Why would you send him that？[94]Why do you think？[95]Don't you understand how I feel about all of[96]this，even after hearing my story？[97]No！[98]I don't understand you at all！[99]And I don't want to！[100]Why？[101]Why did you have to kill Mom……[102]just for your revenge？[103]Why did you have to make Bill kill her？！[104]If you hated Judd，why not just take revenge[105]there and then？[106]Why did you take away Mom？[107]Why were you so cruel……[108]that you had to kill Mom？[109]When I met Bill on Blood Edward Island[110]two years ago……[111]I remembered looking through the closet where[112]Mom had hid me……[113]I remember Bill's face as he shot Mom……[114]For me，then，remembering that time was……[115]Remembering things I'd forgotten was……[116]It was horrible。But I didn't know how horrible[117]it really was。[118]莱恩，you were the one who told me，right？[119]You told me 爸爸 brought me here to open the[120]doorway to my memories。[121]But you were wrong。[122]The one who opened that doorway and brought[123]me on that journey into my memories……[124]It was Mom。[125]She started me on that journey。[126]She told me and showed me just how much she[127]loved me。[128]But if she was still alive……[129]If she hadn't been killed……[130]Then……[131]I'd never have had to go on this journey！[132]阿修蕾……[133]Do you understand why I sent that e-mail to[134]Dr Robins？[135]No！[136]Then I will tell you。[137]This is what I had planned，Dr Robins。[138]</Translation>
   </Sentence>
   <Sentence id="129">
     <Commands>
@@ -2316,8 +2194,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAAAwfQCgA=</Command>
     </Commands>
     <Original>[0]First, I intended to convince you that everything[1]I did was part of Judd's plan.[2]And I would get you to co-operate with me in[3]completing Another.[4]After that, I would sell it to the company Bill[5]had been dealing with.[6]And thus, my revenge on Judd Fitzgerald would[7]finally be complete.[8]But you didn't do it, Ryan.[9]Why not?[10]Because of you, Dr Robins.[11]You trusted me from the very beginning. Just[12]like you did with Bill.[13]How can you trust someone else so completely?[14]It's basic human nature, Ryan.[15]I cannot accept that.[16]Why didn't you ever doubt me?[17]Oh, I had my doubts about you from the[18]start.[19]You did?[20]Then why didn't you carry out your revenge[21]on me? Why not avenge your wife?[22]Ryan...[23]Why?[24]I don't understand you at all.[25]You should be thirsting for revenge.[26]Dr Robins, if I were to shoot Ashley here, right[27]now, in front of you,[28]what would you do?[29]Would you take revenge?[30]Could you go on without killing me in return?[31]Stop![32]Don't push me, Ryan![33]I'm not out for revenge![34]Don't you understand, Ryan?[35]Don't you understand the suffering of a man[36]whose wife was taken away from him?[37]Every night...[38] Every single night, I[39]dream of killing the man who did it.[40]And my hands...[41]They still remember the warmth of Sayoko's[42]dying body, her blood flowing out...[43]The sorrow and hatred I felt 13 years ago[44]hasn't lessened one bit since then.[45]I haven't gone a single day without feeling it.[46]But I won't let that sorrow turn into vengeance.[47]And do you know why?[48]Because Sayoko would never have wanted [49]that to happen![50]When I found Sayoko, dying, 13 years ago...[51]When I held her as she took her last breaths, I[52]asked her who had done it.[53]She said "He wanted...Another..."[54]And then she died before saying who it was.[55]Do you know why she didn't say any more?[56]Because Bill was her friend![57]That's why, Ryan![58]She shook her head gently, and a single tear[59]fell from her eye.[60]Which is why I...[61]Didn't go out for revenge?[62]Is this true, Dr Robins?[63]If I were to lower this gun and give it to you,[64]and then stand right in front of you as you held[65]the gun...[66]The man responsible for Sayoko's[67]death just standing before you.[68]Would you still be able to keep your sorrow[69]and hatred from turning into vengeance?[70]It might even make your pain go away.[71]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]First，I intended to convince you that everything[1]I did was part of Judd's plan。[2]And I would get you to co-operate with me in[3]completing Another。[4]After that，I would sell it to the company Bill[5]had been dealing with。[6]And thus，my revenge on Judd Fitzgerald would[7]finally be complete。[8]But you didn't do it，莱恩。[9]Why not？[10]Because of you，Dr Robins。[11]You trusted me from the very beginning。Just[12]like you did with Bill。[13]How can you trust someone else so completely？[14]It's basic human nature，莱恩。[15]I cannot accept that。[16]Why didn't you ever doubt me？[17]Oh，I had my doubts about you from the[18]start。[19]You did？[20]Then why didn't you carry out your revenge[21]on me？ Why not avenge your wife？[22]莱恩……[23]Why？[24]I don't understand you at all。[25]You should be thirsting for revenge。[26]Dr Robins，if I were to shoot 阿修蕾 here，right[27]now，in front of you，[28]what would you do？[29]Would you take revenge？[30]Could you go on without killing me in return？[31]Stop！[32]Don't push me，莱恩！[33]I'm not out for revenge！[34]Don't you understand，莱恩？[35]Don't you understand the suffering of a man[36]whose wife was taken away from him？[37]Every night……[38] Every single night，I[39]dream of killing the man who did it。[40]And my hands……[41]They still remember the warmth of Sayoko's[42]dying body，her blood flowing out……[43]The sorrow and hatred I felt 13 years ago[44]hasn't lessened one bit since then。[45]I haven't gone a single day without feeling it。[46]But I won't let that sorrow turn into vengeance。[47]And do you know why？[48]Because Sayoko would never have wanted [49]that to happen！[50]When I found Sayoko，dying，13 years ago……[51]When I held her as she took her last breaths，I[52]asked her who had done it。[53]She said "He wanted……Another……"[54]And then she died before saying who it was。[55]Do you know why she didn't say any more？[56]Because Bill was her friend！[57]That's why，莱恩！[58]She shook her head gently，and a single tear[59]fell from her eye。[60]Which is why I……[61]Didn't go out for revenge？[62]Is this true，Dr Robins？[63]If I were to lower this gun and give it to you，[64]and then stand right in front of you as you held[65]the gun……[66]The man responsible for Sayoko's[67]death just standing before you。[68]Would you still be able to keep your sorrow[69]and hatred from turning into vengeance？[70]It might even make your pain go away。[71]</Translation>
   </Sentence>
   <Sentence id="130">
     <Commands>
@@ -2336,8 +2213,7 @@
       <Command>ChoMAAAICQC3AQAAAAoaDQAAFQkAaAEAAAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dr Robins, I am the man who caused your[1]wife's death.[2]Ryan, I will never forgive you for what you've[3]done.[4]Dad, stop![5]Don't stop me, Ashley...[6]Stop, Dad! Stop![7]Shooting him won't bring Mom back![8]It won't make your pain go away![9]Ashley...[10]Dad...[11]So, I am not even worth shooting.[12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Dr Robins，I am the man who caused your[1]wife's death。[2]莱恩，I will never forgive you for what you've[3]done。[4]爸爸，stop！[5]Don't stop me，阿修蕾……[6]Stop，爸爸！ Stop！[7]Shooting him won't bring Mom back！[8]It won't make your pain go away！[9]阿修蕾……[10]爸爸……[11]So，I am not even worth shooting。[12]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
@@ -2346,16 +2222,14 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVAQAAAAAAAAAKGgwAAAgBAUsAAAAAChoGAAAMAAoaBgAAbQEKGgYAAAwAChoHAAADB9AKGgcAAEkH0AoaBgAADAAKGgcAAAMH0AoA</Command>
     </Commands>
     <Original>[0]Goodbye, Ashley...[1]Dad! He's going to...[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Goodbye，阿修蕾……[1]爸爸！ He's going to……[2]</Translation>
   </Sentence>
   <Sentence id="132">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
@@ -2370,16 +2244,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]Ryan...[1]Let go of me.[2]No![3]I won't let you die here.[4]I won't let you run away.[5]Only the weak take their own lives. And you[6]despise the weak, don't you?[7]Dad![8]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩……[1]Let go of me。[2]No！[3]I won't let you die here。[4]I won't let you run away。[5]Only the weak take their own lives。And you[6]despise the weak，don't you？[7]爸爸！[8]</Translation>
   </Sentence>
   <Sentence id="134">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
@@ -2388,8 +2260,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaCAAAAAAAAAoaBgAADAAKGhMAAC8m0CdTKZwnHib6JxCUDAoaCQAAMGMAAAEKGgYAAAwAChoOAQALEAEAAAAAAAAAChoTAAAvJrwnUymUJx4m+icQlAwKGgkAADBjC7gAChoGAAAMAAoaDQAAFQkAAAABAAAAChoMAAAICQDJAQAAAAoaDQAAFQkAAAAAAAAAChoMAAAICQEzAAAAAAoaDgEACwABAAAAAAAAAAoaDgEAC48BAAAAAAAAAAoaBgAADAAKGhMAAC8mvCeKJ18nGCZ7JxCUDAoaCQAAMGMAAAEKGg4BAAuOAQAAAAAAAAAKGgYAAAwAChoTAAAvJp8niidwJxgmeycQlAwKGgkAADBjC7gBCgA=</Command>
     </Commands>
     <Original>[0]Dad![1]Are you okay?[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸！[1]Are you okay？[2]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -2409,8 +2280,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJATIAAAAAChoGAAAMAAoaBgAADAAKGgcAAAMLuAoaBgAADAAKGgcAABEAABoHAAASCQAKGg0AABUAAIAAAAAAgAoaDAAACAAAgAAAAAAKGgYAAAwAChoIAAAAAAAAChoGAAAuAQoaBgAADAAKGhMAAC8mvid2J5YnFiZ2JxBrCAoaCQAAMGMAAAEKGgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzChoGAAAMAAoaEwAALybtJ48o7CcTJncnEGsIChoJAAAwYyr4AQoaBgAADAAKGgcAAAMLuAoaDgEAC2UBAAAAAAAAAAoaCQAAMWMAAAEKAA==</Command>
     </Commands>
     <Original>[0]Ryan...[1]Dying won't change anything.[2]It won't absolve you of your crimes. Or of [3]Sayoko's death.[4]You have to live on...and pay for your crimes.[5]And you have to figure out for yourself,[6]why Judd removed your memories.[7]Why he removed the most important thing in[8]the world to you.[9]You have to understand his reasons, and the[10]suffering that lay behind them.[11]Ryan, it's okay to cry now. You can stop[12]holding it all back.[13]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]莱恩……[1]Dying won't change anything。[2]It won't absolve you of your crimes。Or of [3]Sayoko's death。[4]You have to live on……and pay for your crimes。[5]And you have to figure out for yourself，[6]why Judd removed your memories。[7]Why he removed the most important thing in[8]the world to you。[9]You have to understand his reasons，and the[10]suffering that lay behind them。[11]莱恩，it's okay to cry now。You can stop[12]holding it all back。[13]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
@@ -2432,16 +2302,14 @@
       <Command>Ggb/AAAAChoFAAABChoHAABJB9AKGgYAAAwAChoHAABJAfQKGg4BAAsfAQAAAAAAAAAKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]After that, Dad, Ryan and I got on the boat[1]and went back to JC Valley.[2]Dad took me to his office, laid out a makeshift[3]bed and told me to sleep for a while.[4]I wanted to go to Mrs Graham's house to pick[5]up Matt,[6]but Dad told me not to worry and tucked me in.[7]Then, while I slept, Dad had a long talk with[8]Ryan.[9]When I woke up, Dad was there and we went[10]back to his cottage together.[11]We didn't talk the whole way back.[12]But we didn't need to. We both understood.[13]We both felt each other's pain. About Mom,[14]about everything...[15]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]After that，爸爸，莱恩 and I got on the boat[1]and went back to JC Valley。[2]爸爸 took me to his office，laid out a makeshift[3]bed and told me to sleep for a while。[4]I wanted to go to Mrs Graham's house to pick[5]up Matt，[6]but 爸爸 told me not to worry and tucked me in。[7]Then，while I slept，爸爸 had a long talk with[8]莱恩。[9]When I woke up，爸爸 was there and we went[10]back to his cottage together。[11]We didn't talk the whole way back。[12]But we didn't need to。We both understood。[13]We both felt each other's pain。About Mom，[14]about everything……[15]</Translation>
   </Sentence>
   <Sentence id="138">
     <Commands>
       <Command>GhIAABhDX1IwMTBfRABCR00BCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="139">
     <Commands>
@@ -2490,8 +2358,7 @@
       <Command>GgcAAAMD6BoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Dad...[2]Are you ready?[3]Yep.[4]I'm sorry I can't go back with you.[5]Don't worry about it, I know how much you[6]have to do here.[7]I'll be fine on my own, I'm sure Jessica's[8]dying for me to get back.[9]Ashley, tell Jessica that I'll be back next week.[10]Definitely this time.[11]You bet.[12]What'll happen to Ryan?[13]Ah, yes.[14]Ryan promised me that he'd turn himself in for[15]his crimes.[16]He's on his way to the police now.[17]Right...[18]Ashley, he...[19]Wait, Dad. I'm not ready to talk about it yet.[20]So much has happened... I'm still recovering.[21]That makes sense...[22]So, what's going to happen to JC Valley?[23]There was an article in the paper this morning.[24]It put the blame on JC Valley for the water[25]pollution five years ago.[26]So I believe things won't exactly be quiet at the[27]lab for a good while.[28]Rex said that he was going to openly admit[29]everything that the lab had done.[30]He's thought long and hard, and decided on[31]everything that needs to be done from here on.[32]Of course, I'll help in any way I can.[33]But after that...[34]What then?[35]What do you want me to do?[36]Dad...[37]Ashley, when I get home, we can sit down and[38]talk.[39]We can decide everything that we'll do[40]from now on.[41]Sounds perfect.[42]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾！[1]爸爸……[2]Are you ready？[3]Yep。[4]I'm sorry I can't go back with you。[5]Don't worry about it，I know how much you[6]have to do here。[7]I'll be fine on my own，I'm sure Jessica's[8]dying for me to get back。[9]阿修蕾，tell Jessica that I'll be back next week。[10]Definitely this time。[11]You bet。[12]What'll happen to 莱恩？[13]Ah，yes。[14]莱恩 promised me that he'd turn himself in for[15]his crimes。[16]He's on his way to the police now。[17]Right……[18]阿修蕾，he……[19]Wait，爸爸。I'm not ready to talk about it yet。[20]So much has happened…… I'm still recovering。[21]That makes sense……[22]So，what's going to happen to JC Valley？[23]There was an article in the paper this morning。[24]It put the blame on JC Valley for the water[25]pollution five years ago。[26]So I believe things won't exactly be quiet at the[27]lab for a good while。[28]Rex said that he was going to openly admit[29]everything that the lab had done。[30]He's thought long and hard，and decided on[31]everything that needs to be done from here on。[32]Of course，I'll help in any way I can。[33]But after that……[34]What then？[35]What do you want me to do？[36]爸爸……[37]阿修蕾，when I get home，we can sit down and[38]talk。[39]We can decide everything that we'll do[40]from now on。[41]Sounds perfect。[42]</Translation>
   </Sentence>
   <Sentence id="140">
     <Commands>
@@ -2543,16 +2410,14 @@
       <Command>ChoFAAABChoGAAAMAAoaEwAALycMJ4sn0ycRJ8MnEJhYChoJAAAwYwAAAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoHAAADA+gKGhMAAC8nDCeLJ+knESfDJxCYWAoaCQAAMGMbWAAKGgYAAAwAChoHAAADE4gKGg4AADk7AAB4ASIAAAAKGgYAAAwAChoHAAADAMgKGhwAAAVXU0RfU0VfRE9PUl9XT09EX09QRU4AAAoaBgAADAAKGgcAAAMBkAoaDgEAC2UAAgAAAAAAAAoaBgAADAAKGgcAAAMH0AoA</Command>
     </Commands>
     <Original>[0]Huh?[1]Phone call.[2]This is Dr Robins.[3]Oh, Bob.[4]I'm sorry I asked you to do that out of[5]nowhere this morning...[6]Oh, you've already asked him?[7]Yes.[8]Oh, I see...[9]And then?[10]I see, I see.[11]Thanks a lot, Bob.[12]I owe you one. Bye![13]That was Bob on the phone?[14]Yes.[15]Ashley, I asked Bob to do something for me.[16]What?[17]I asked him to get the full story about the man[18]who fell from the clock tower five years ago.[19]Apparently the guy who saw it was an old[20]acquaintance of Bob's.[21]Does that mean...[22]Yes, Ashley.[23]I want to know what happened to Matt's dad[24]too.[25]And I asked Bob what he knew about it.[26]Dad...[27]This is what Bob heard:[28]Five years ago, his friend was out by the clock[29]tower,[30]and he heard the loud splash of something[31]hitting the water.[32]He didn't see a person falling?[33]Exactly.[34]It was just a big splash![35]It seems that it spread like Chinese whispers,[36]changing into something completely different.[37]I'm sure that if the matter is looked into more[38]thoroughly, the truth will come out.[39]Thanks, Dad.[40]I'm worried about your friend too, Ashley.[41]Oh, the bus is coming soon.[42]Right.[43]I'll take off, then.[44]I'll go with you to the bus stop.[45]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Huh？[1]Phone call。[2]This is Dr Robins。[3]Oh，Bob。[4]I'm sorry I asked you to do that out of[5]nowhere this morning……[6]Oh，you've already asked him？[7]Yes。[8]Oh，I see……[9]And then？[10]I see，I see。[11]Thanks a lot，Bob。[12]I owe you one。Bye！[13]That was Bob on the phone？[14]Yes。[15]阿修蕾，I asked Bob to do something for me。[16]What？[17]I asked him to get the full story about the man[18]who fell from the clock tower five years ago。[19]Apparently the guy who saw it was an old[20]acquaintance of Bob's。[21]Does that mean……[22]Yes，阿修蕾。[23]I want to know what happened to Matt's dad[24]too。[25]And I asked Bob what he knew about it。[26]爸爸……[27]This is what Bob heard:[28]Five years ago，his friend was out by the clock[29]tower，[30]and he heard the loud splash of something[31]hitting the water。[32]He didn't see a person falling？[33]Exactly。[34]It was just a big splash！[35]It seems that it spread like Chinese whispers，[36]changing into something completely different。[37]I'm sure that if the matter is looked into more[38]thoroughly，the truth will come out。[39]Thanks，爸爸。[40]I'm worried about your friend too，阿修蕾。[41]Oh，the bus is coming soon。[42]Right。[43]I'll take off，then。[44]I'll go with you to the bus stop。[45]</Translation>
   </Sentence>
   <Sentence id="141">
     <Commands>
       <Command>GgkAADFjAAABChoNAAAVAAAAAAAAAAAKGgwAAAgAAAAAAAAAChoaAABKigFwMDJfYmFzZV9MX0FybV9IYW5kCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="142">
     <Commands>
@@ -2625,8 +2490,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDQAAFQEAAAAAAAAAChoMAAAIAQBPAAAAAAoaBgAADAAKGg4BAAs2AQAA7AEAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAACQAAAAAKGgYAAAwAChoHAAADA+gKGg0AABUBAAAAAAAAAAoaDAAACAEACQAAAAAKGgYAAAwAChoHAAADC7gKGgcAAEkD6AoaDgEAC2UBAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dad, you told Matt what time the bus was,[1]right?[2]I did indeed.[3]He said wild dogs wouldn't stop him from seeing[4]you off. I'm sure he's waiting somewhere.[5]Right.[6]Ashley![7]Huh?[8]Dan![9]Morning, Dr Robins.[10]Good morning, Dan.[11]You're seeing Ashley off?[12]Yes, I am.[13]Dan, thanks for finding my bag.[14]No problem, miss. I should be thanking you[15]you for finding Matthew.[16]Huh?[17]Dr Robins told me the whole story.[18]About how you found him and you were looking[19]after him.[20]You don't need to worry about him any more.[21]He'll be just fine.[22]Dad...[23]It's okay, Ashley. I told Dan everything.[24]He's going to take Matt back to his uncle's[25]personally.[26]That's right![27]Dan, where's Matt now?[28]He went to look at the lake.[29]Said he wanted to see it just one last time[30]before he left.[31]I'm meeting him at the mermaid statue in a[32]while and then we'll head for his uncle's place.[33]Dan, he's a good kid. He ran away to find his[34]dad...[35]I know, Ashley.[36]I figured out from talking to him how driven he[37]was to find his pops.[38]Why, that boy phoned his uncle himself to[39]apologise for making him worry so much.[40]Oh, okay.[41]I also have a message from Mrs Graham for[42]you, miss.[43]Really?[44]She said you were welcome to visit her gardens[45]any time.[46]I can't believe you're friends with that old[47]battleaxe! Not many people can say that.[48]I guess so.[49]Oh, yeah.[50]When I went over to Mrs Graham's to pick up[51]Matthew, I saw she had a visitor.[52]She wasn't expecting anyone, from what I could[53]tell. And you won't believe who it was![54]It was her daughter, come back to see her after[55]five years away from home.[56]Said she was worried about her ma, living out[57]here, all on her own.[58]To be totally honest with you, I feel better[59]knowing her daughter came back.[60]Well, I'd like to stay and chat all day, but[61]duty calls. Back to patrolling![62]Goodbye, Dan! Thanks for everything![63]Come and see us again, miss![64]Let's go, Ashley.[65]Right.[66]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]爸爸，you told Matt what time the bus was，[1]right？[2]I did indeed。[3]He said wild dogs wouldn't stop him from seeing[4]you off。I'm sure he's waiting somewhere。[5]Right。[6]阿修蕾！[7]Huh？[8]Dan！[9]Morning，Dr Robins。[10]Good morning，Dan。[11]You're seeing 阿修蕾 off？[12]Yes，I am。[13]Dan，thanks for finding my bag。[14]No problem，miss。I should be thanking you[15]you for finding Matthew。[16]Huh？[17]Dr Robins told me the whole story。[18]About how you found him and you were looking[19]after him。[20]You don't need to worry about him any more。[21]He'll be just fine。[22]爸爸……[23]It's okay，阿修蕾。I told Dan everything。[24]He's going to take Matt back to his uncle's[25]personally。[26]That's right！[27]Dan，where's Matt now？[28]He went to look at the lake。[29]Said he wanted to see it just one last time[30]before he left。[31]I'm meeting him at the mermaid statue in a[32]while and then we'll head for his uncle's place。[33]Dan，he's a good kid。He ran away to find his[34]dad……[35]I know，阿修蕾。[36]I figured out from talking to him how driven he[37]was to find his pops。[38]Why，that boy phoned his uncle himself to[39]apologise for making him worry so much。[40]Oh，okay。[41]I also have a message from Mrs Graham for[42]you，miss。[43]Really？[44]She said you were welcome to visit her gardens[45]any time。[46]I can't believe you're friends with that old[47]battleaxe！ Not many people can say that。[48]I guess so。[49]Oh，yeah。[50]When I went over to Mrs Graham's to pick up[51]Matthew，I saw she had a visitor。[52]She wasn't expecting anyone，from what I could[53]tell。And you won't believe who it was！[54]It was her daughter，come back to see her after[55]five years away from home。[56]Said she was worried about her ma，living out[57]here，all on her own。[58]To be totally honest with you，I feel better[59]knowing her daughter came back。[60]Well，I'd like to stay and chat all day，but[61]duty calls。Back to patrolling！[62]Goodbye，Dan！ Thanks for everything！[63]Come and see us again，miss！[64]Let's go，阿修蕾。[65]Right。[66]</Translation>
   </Sentence>
   <Sentence id="143">
     <Commands>
@@ -2634,8 +2498,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBQAAQwoaBgAADAAKGgcAAAMH0AoaBgAADAAKGhQBAAs1AQAAEQFFUFMwMTAAAAAKGg0AABUBAAAAAAAAAAoaDAAACAEAsgAAAAAKGgYAAAwAChoIAAAAAAAAChoGAAAMAAoaFAEACzUBAQBPAUVQUzExMAAAAAoA</Command>
     </Commands>
     <Original>[0]No sign of Matt...[1]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]No sign of Matt……[1]</Translation>
   </Sentence>
   <Sentence id="144">
     <Commands>
@@ -2656,8 +2519,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQwAEQFFUFAwMDQAAAAKAA==</Command>
     </Commands>
     <Original>[0]Woof?[1]That's...[2]Princess![3]So you came to see me off too, huh?[4]Thanks for everything, Princess.[5]Elizabeth was looking for you, did you see her?[6]Woof![7]Really? Great![8]That's good to hear.[9]I'll be back, okay?[10]I'll never forget how you helped me find Matt,[11]Princess. Thanks so much.[12]Woof![13]See you, Princess![14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Woof？[1]That's……[2]Princess！[3]So you came to see me off too，huh？[4]Thanks for everything，Princess。[5]Elizabeth was looking for you，did you see her？[6]Woof！[7]Really？ Great！[8]That's good to hear。[9]I'll be back，okay？[10]I'll never forget how you helped me find Matt，[11]Princess。Thanks so much。[12]Woof！[13]See you，Princess！[14]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -2666,8 +2528,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzUBAAA6AUVQUzAyMAAAAAoA</Command>
     </Commands>
     <Original>[0]I'm gonna go find Matt, Dad.[1]I'm sure he's around here somewhere.[2]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]I'm gonna go find Matt，爸爸。[1]I'm sure he's around here somewhere。[2]</Translation>
   </Sentence>
   <Sentence id="146">
     <Commands>
@@ -2701,16 +2562,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Elizabeth![1]What are you doing here?[2]Oh, a fine greeting that is, Ashley Mizuki Robins.[3]Especially for someone who's come to see you[4]off.[5]Really?[6]Daddy just got back from the hospital.[7]He told me the whole story.[8]About Ryan, about Dr Robins...and about you.[9]Elizabeth, your dad really...[10]It's okay, Ashley.[11]He told me everything.[12]About the woman he was seeing, the article in[13]the paper about the lab...[14]I've never heard him talk so much.[15]And he apologised for hiding Mom's letters.[16]I'm glad you made up, Elizabeth.[17]Ashley, Daddy said something to me...[18]"I'm going to change, Elizabeth. I have to."[19]So if Daddy's going to change, then I'm[20]going to try to change a bit too.[21]That's great to hear.[22]Right.[23]We'll see each other again, right, Elizabeth?[24]Totally![25]Matt, too.[26]Huh?[27]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Elizabeth！[1]What are you doing here？[2]Oh，a fine greeting that is，阿修蕾 Mizuki Robins。[3]Especially for someone who's come to see you[4]off。[5]Really？[6]爸爸dy just got back from the hospital。[7]He told me the whole story。[8]About 莱恩，about Dr Robins……and about you。[9]Elizabeth，your dad really……[10]It's okay，阿修蕾。[11]He told me everything。[12]About the woman he was seeing，the article in[13]the paper about the lab……[14]I've never heard him talk so much。[15]And he apologised for hiding Mom's letters。[16]I'm glad you made up，Elizabeth。[17]阿修蕾，爸爸dy said something to me……[18]"I'm going to change，Elizabeth。I have to。"[19]So if 爸爸dy's going to change，then I'm[20]going to try to change a bit too。[21]That's great to hear。[22]Right。[23]We'll see each other again，right，Elizabeth？[24]Totally！[25]Matt，too。[26]Huh？[27]</Translation>
   </Sentence>
   <Sentence id="147">
     <Commands>
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="148">
     <Commands>
@@ -2758,8 +2617,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDQAAFQAAcgABAAAAChoMAAAIAAByAQAAAAoaDQAAFQUAiAAAAACIChoMAAAIBQCIAAAAAAoaBgAALgEKGggAAEgEABQKGgYAAAwAChoOAQALEAEAAAAAAAAAChoFAAAzChoGAAAMAAoaDgEAC4oBAQEgAQAAAAoaBgAADAAKGg4BAAs2AQABFAEAAAAKGg4BAAsAAQAAAAAAAAAKGgYAAAwAChoUAQALNQAAADoBRVBTMDMwAAAAChoGAAAMAAoaFAEACzUAAQBPAUVQUzEzMAAAAAoaBgAADAAKGgcAAAMH0AoaBgAADAAKGg4BAAuKAAQADwEAAAAKGg0AABUEATEAAAAAAAoaDAAACAQBMQAAAAAKGg0AABUFATEAAAAAAAoaDAAACAUBMQAAAAAKGgYAAAwAChoHAAADAyAKGgYAAAwAChoTAAAvKt8nZz3ZJxAqWCcQmFgKGgkAADBjG1gBChoFAABDCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Oh![2]Matt![3]Hey, Ash![4]I'm sorry I left you alone, Matt.[5]It's okay, Ash.[6]Mrs Graham let me sleep at her place.[7]When I woke up, your dad called and said he'd[8]met up with you.[9]Right.[10]Ash, I kept my promise.[11]I'm going to go back to my uncle's place.[12]Dan said that you called him yourself.[13]Yeah.[14]I said I was sorry for making him worry, and I[15]told him what I'd found out about Dad.[16]And then he told me something awesome![17]Really? What?[18]Someone saw a man fitting Dad's description![19]Really?[20]Really![21]The police called my uncle and told him.[22]Matt, that's great![23]Yeah, totally![24]Ashley, when I was about to give up, you said,[25]"Your dad's not dead. He's alive."[26]And I kept on believing it.[27]I believed he was alive...[28]I'm sure you'll get to see him![29]Let's make a promise, Ash.[30]I'll find my dad and I'll come back here so we[31]can see each other again.[32]You got it! Promise![33]Hey, I want in too![34]You bet.[35]Right, time for me to take off.[36]See you again, Ash.[37]And thanks for everything, Dr Robins.[38]Of course.[39]See you![40]Ciao, Ashley![41]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]Ash！[1]Oh！[2]Matt！[3]Hey，Ash！[4]I'm sorry I left you alone，Matt。[5]It's okay，Ash。[6]Mrs Graham let me sleep at her place。[7]When I woke up，your dad called and said he'd[8]met up with you。[9]Right。[10]Ash，I kept my promise。[11]I'm going to go back to my uncle's place。[12]Dan said that you called him yourself。[13]Yeah。[14]I said I was sorry for making him worry，and I[15]told him what I'd found out about 爸爸。[16]And then he told me something awesome！[17]Really？ What？[18]Someone saw a man fitting 爸爸's description！[19]Really？[20]Really！[21]The police called my uncle and told him。[22]Matt，that's great！[23]Yeah，totally！[24]阿修蕾，when I was about to give up，you said，[25]"Your dad's not dead。He's alive。"[26]And I kept on believing it。[27]I believed he was alive……[28]I'm sure you'll get to see him！[29]Let's make a promise，Ash。[30]I'll find my dad and I'll come back here so we[31]can see each other again。[32]You got it！ Promise！[33]Hey，I want in too！[34]You bet。[35]Right，time for me to take off。[36]See you again，Ash。[37]And thanks for everything，Dr Robins。[38]Of course。[39]See you！[40]Ciao，阿修蕾！[41]</Translation>
   </Sentence>
   <Sentence id="149">
     <Commands>
@@ -2780,40 +2638,35 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaEwAALyrfJ2c92ScQKlgnEJhYChoJAAAwYwAAAQoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgYAAAwAChoTAAAvKscnlj1bJxAqWCcQiYAKGgkAADBjC7gBChoGAAAMAAoaDgEAC4oBAQEXAQAAAAoaBgAADAAKGhQBAAs1AAEATwFFUEUxMDAAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAA2gAAAAAKGhMAAC8qdig0PSknEC2xJxCJgAoaCQAAMGMfQAAKGgYAAAwAChoHAAADG1gKGgcAAEkF3AoaEgAAGEJfTTA1MF9EAEVOVgAKGgcAAFgF3AoaBgAADAAKGgcAAAMLuAoaDgEAC2UBAAAAAAAAAAoaCQAAMWMAAAEKGhoAAEuKAXAwMl9iYXNlX0xfQXJtX0hhbmQKAA==</Command>
     </Commands>
     <Original>[0]Ashley...[1]Aren't you sad, saying goodbye to your[2]friends?[3]Nah.[4]I know I'll see them again.[5]Yes, that's right.[6]Let's grab Jessica and your friends sometime,[7]and we can all go camping together.[8]Awesome![9]But, Dad, uh...[10]When we do...[11]I know, I know.[12]I'll remember to bring the charcoal.[13]Perfect![14]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]阿修蕾……[1]Aren't you sad，saying goodbye to your[2]friends？[3]Nah。[4]I know I'll see them again。[5]Yes，that's right。[6]Let's grab Jessica and your friends sometime，[7]and we can all go camping together。[8]Awesome！[9]But，爸爸，uh……[10]When we do……[11]I know，I know。[12]I'll remember to bring the charcoal。[13]Perfect！[14]</Translation>
   </Sentence>
   <Sentence id="150">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
@@ -3047,8 +2900,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to hear Mom's voice again...[1]But I have to bring this thing back to the lab.[2]I need to save Dad![3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]我想再次听听妈妈的声音……[1]但是我得把这个带回实验室。[2]我得去救爸爸！[3]</Translation>
   </Sentence>
   <Sentence id="178">
     <Commands>
@@ -3056,7 +2908,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Use the VC to get help.[1]</Original>
-    <Translation>[0]Use the VC to get help.[1]</Translation>
+    <Translation>[0]利用VC找人来帮忙。[1]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -3065,7 +2917,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]We need to go after Ryan.[1]He went down in the elevator.[2]</Original>
-    <Translation>[0]我们得跟着莱恩。[1]他从电梯里下去了。[2]</Translation>
+    <Translation>[0]我们得跟着莱恩。[1]他乘着电梯下去了。[2]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>
@@ -3125,7 +2977,7 @@
       <Command>ChoFAAABCgAAAAA=</Command>
     </Commands>
     <Original>[0]We need to go after Ryan.[1]</Original>
-    <Translation>[0]我们得跟着莱恩。[1]</Translation>
+    <Translation>[0]我们得去追莱恩。[1]</Translation>
   </Sentence>
   <Comments />
 </Session>
