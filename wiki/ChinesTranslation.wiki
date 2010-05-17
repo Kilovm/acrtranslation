@@ -107,6 +107,7 @@
  * mnemonic fluid: 记忆流体（就是沙夜子挂饰里的液体）
  * Lou's Tourist Photo Studio: 罗氏旅游摄影工作室
  * memory overwrite experiment：记忆覆盖实验
+ * selective deletion： 选择性删除
 
 = Recko的后遗症（四、五章） =
 Music Player 我翻成音乐播放器了，胎果翻的是mp3，我是后来才发现的。这个你们看着办吧
