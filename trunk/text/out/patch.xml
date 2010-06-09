@@ -12,314 +12,314 @@
 	<!-- MESS -->
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS1.BMG</Replace>
-		<With>out/patch/MESS1.BMG</With>
+		<With>patch/MESS1.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS2.BMG</Replace>
-		<With>out/patch/MESS2.BMG</With>
+		<With>patch/MESS2.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS3.BMG</Replace>
-		<With>out/patch/MESS3.BMG</With>
+		<With>patch/MESS3.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS4.BMG</Replace>
-		<With>out/patch/MESS4.BMG</With>
+		<With>patch/MESS4.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS5.BMG</Replace>
-		<With>out/patch/MESS5.BMG</With>
+		<With>patch/MESS5.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS6.BMG</Replace>
-		<With>out/patch/MESS6.BMG</With>
+		<With>patch/MESS6.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS7.BMG</Replace>
-		<With>out/patch/MESS7.BMG</With>
+		<With>patch/MESS7.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS8.BMG</Replace>
-		<With>out/patch/MESS8.BMG</With>
+		<With>patch/MESS8.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/MESS9.BMG</Replace>
-		<With>out/patch/MESS9.BMG</With>
+		<With>patch/MESS9.BMG</With>
 	</File>
 	
 	<!-- PUZZLE -->
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_001.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_001.BMG</With>
+		<With>patch/PUZZLE_MESS_001.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_002.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_002.BMG</With>
+		<With>patch/PUZZLE_MESS_002.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_003.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_003.BMG</With>
+		<With>patch/PUZZLE_MESS_003.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_004.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_004.BMG</With>
+		<With>patch/PUZZLE_MESS_004.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_005.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_005.BMG</With>
+		<With>patch/PUZZLE_MESS_005.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_006.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_006.BMG</With>
+		<With>patch/PUZZLE_MESS_006.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_007.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_007.BMG</With>
+		<With>patch/PUZZLE_MESS_007.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_008.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_008.BMG</With>
+		<With>patch/PUZZLE_MESS_008.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_010.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_010.BMG</With>
+		<With>patch/PUZZLE_MESS_010.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_011.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_011.BMG</With>
+		<With>patch/PUZZLE_MESS_011.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_012.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_012.BMG</With>
+		<With>patch/PUZZLE_MESS_012.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_013.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_013.BMG</With>
+		<With>patch/PUZZLE_MESS_013.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_014.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_014.BMG</With>
+		<With>patch/PUZZLE_MESS_014.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_015.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_015.BMG</With>
+		<With>patch/PUZZLE_MESS_015.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_017.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_017.BMG</With>
+		<With>patch/PUZZLE_MESS_017.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_018.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_018.BMG</With>
+		<With>patch/PUZZLE_MESS_018.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_019.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_019.BMG</With>
+		<With>patch/PUZZLE_MESS_019.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_022.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_022.BMG</With>
+		<With>patch/PUZZLE_MESS_022.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_023.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_023.BMG</With>
+		<With>patch/PUZZLE_MESS_023.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_024.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_024.BMG</With>
+		<With>patch/PUZZLE_MESS_024.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_025.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_025.BMG</With>
+		<With>patch/PUZZLE_MESS_025.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_027.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_027.BMG</With>
+		<With>patch/PUZZLE_MESS_027.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_028.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_028.BMG</With>
+		<With>patch/PUZZLE_MESS_028.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_031.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_031.BMG</With>
+		<With>patch/PUZZLE_MESS_031.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_032.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_032.BMG</With>
+		<With>patch/PUZZLE_MESS_032.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_034.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_034.BMG</With>
+		<With>patch/PUZZLE_MESS_034.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_035.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_035.BMG</With>
+		<With>patch/PUZZLE_MESS_035.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_036.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_036.BMG</With>
+		<With>patch/PUZZLE_MESS_036.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_037.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_037.BMG</With>
+		<With>patch/PUZZLE_MESS_037.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_041.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_041.BMG</With>
+		<With>patch/PUZZLE_MESS_041.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_042.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_042.BMG</With>
+		<With>patch/PUZZLE_MESS_042.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_043.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_043.BMG</With>
+		<With>patch/PUZZLE_MESS_043.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_049.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_049.BMG</With>
+		<With>patch/PUZZLE_MESS_049.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_050.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_050.BMG</With>
+		<With>patch/PUZZLE_MESS_050.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_051.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_051.BMG</With>
+		<With>patch/PUZZLE_MESS_051.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_052.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_052.BMG</With>
+		<With>patch/PUZZLE_MESS_052.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_055.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_055.BMG</With>
+		<With>patch/PUZZLE_MESS_055.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_056.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_056.BMG</With>
+		<With>patch/PUZZLE_MESS_056.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_057.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_057.BMG</With>
+		<With>patch/PUZZLE_MESS_057.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_059.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_059.BMG</With>
+		<With>patch/PUZZLE_MESS_059.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_060.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_060.BMG</With>
+		<With>patch/PUZZLE_MESS_060.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_061.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_061.BMG</With>
+		<With>patch/PUZZLE_MESS_061.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_063.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_063.BMG</With>
+		<With>patch/PUZZLE_MESS_063.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_064.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_064.BMG</With>
+		<With>patch/PUZZLE_MESS_064.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_065.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_065.BMG</With>
+		<With>patch/PUZZLE_MESS_065.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_068.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_068.BMG</With>
+		<With>patch/PUZZLE_MESS_068.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_069.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_069.BMG</With>
+		<With>patch/PUZZLE_MESS_069.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_070.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_070.BMG</With>
+		<With>patch/PUZZLE_MESS_070.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_071.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_071.BMG</With>
+		<With>patch/PUZZLE_MESS_071.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_072.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_072.BMG</With>
+		<With>patch/PUZZLE_MESS_072.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_073.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_073.BMG</With>
+		<With>patch/PUZZLE_MESS_073.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_075.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_075.BMG</With>
+		<With>patch/PUZZLE_MESS_075.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_076.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_076.BMG</With>
+		<With>patch/PUZZLE_MESS_076.BMG</With>
 	</File>
 		<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_078.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_078.BMG</With>
+		<With>patch/PUZZLE_MESS_078.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_079.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_079.BMG</With>
+		<With>patch/PUZZLE_MESS_079.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_080.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_080.BMG</With>
+		<With>patch/PUZZLE_MESS_080.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/PUZZLE_MESS_081.BMG</Replace>
-		<With>out/patch/PUZZLE_MESS_081.BMG</With>
+		<With>patch/PUZZLE_MESS_081.BMG</With>
 	</File>
 	
 	<!-- SYSTEM -->
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/HISTORY.BMG</Replace>
-		<With>out/patch/HISTORY.BMG</With>
+		<With>patch/HISTORY.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/LOAD_HISTORY.BMG</Replace>
-		<With>out/patch/LOAD_HISTORY.BMG</With>
+		<With>patch/LOAD_HISTORY.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM1.BMG</Replace>
-		<With>out/patch/SYSTEM1.BMG</With>
+		<With>patch/SYSTEM1.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM2.BMG</Replace>
-		<With>out/patch/SYSTEM2.BMG</With>
+		<With>patch/SYSTEM2.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM3.BMG</Replace>
-		<With>out/patch/SYSTEM3.BMG</With>
+		<With>patch/SYSTEM3.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM4.BMG</Replace>
-		<With>out/patch/SYSTEM4.BMG</With>
+		<With>patch/SYSTEM4.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM5.BMG</Replace>
-		<With>out/patch/SYSTEM5.BMG</With>
+		<With>patch/SYSTEM5.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM6.BMG</Replace>
-		<With>out/patch/SYSTEM6.BMG</With>
+		<With>patch/SYSTEM6.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM7.BMG</Replace>
-		<With>out/patch/SYSTEM7.BMG</With>
+		<With>patch/SYSTEM7.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM8.BMG</Replace>
-		<With>out/patch/SYSTEM8.BMG</With>
+		<With>patch/SYSTEM8.BMG</With>
 	</File>
 	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM9.BMG</Replace>
-		<With>out/patch/SYSTEM9.BMG</With>
+		<With>patch/SYSTEM9.BMG</With>
 	</File>
 </Patch>
