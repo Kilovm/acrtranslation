@@ -279,14 +279,6 @@
 	
 	<!-- SYSTEM -->
 	<File>
-		<Replace>REVOLUTION/LANG/ENG/MESS/HISTORY.BMG</Replace>
-		<With>patch/HISTORY.BMG</With>
-	</File>
-	<File>
-		<Replace>REVOLUTION/LANG/ENG/MESS/LOAD_HISTORY.BMG</Replace>
-		<With>patch/LOAD_HISTORY.BMG</With>
-	</File>
-	<File>
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM1.BMG</Replace>
 		<With>patch/SYSTEM1.BMG</With>
 	</File>
