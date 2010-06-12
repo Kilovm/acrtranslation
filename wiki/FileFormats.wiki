@@ -10,6 +10,8 @@ Files inside MESS/ are almost the same, between PAL and NTSC-J version of the ga
 
 == .BRFNT file ==
 
+see http://github.com/Tempus/Brfnt-Creator
+
 === RFNT Header ===
 
 10h bytes
@@ -138,11 +140,11 @@ I03
 
 0010: character count `*` (
 
-  BYTE space width ?
+  BYTE bearing_x
 
-  BYTE character width
+  BYTE glyph width
 
-  BYTE smaller than character width )
+  BYTE advance_x )
 
 ????: (0~3) `*` 00 (align to 4 bytes)
 
