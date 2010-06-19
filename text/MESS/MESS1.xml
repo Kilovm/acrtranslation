@@ -243,7 +243,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] big wooden gate[2].[3]I wonder if I can open it.[4]No luck.[5]It won't budge.[6]</Original>
-    <Translation>[0]这是一扇[1]巨大的[2]木门[3]我不知道能不能打开它[4]不行啊[5]它根本不动[6]</Translation>
+    <Translation>[0]这是一扇[1]巨大的木门[2]。[3]我不知道能不能打开它。[4]不行啊。[5]它根本不动。[6]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -275,7 +275,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBCACqAQAAAAoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUIAAAAAAAAAAoaDAAACAgAYAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Excuse me?[2]Just a second...[3]What seems to be the problem, miss?[4]Well, I just got here to go camping...[5]Ah, you should register at the guesthouse then.[6]Just go back where you came and it's on the[7]right. You can't miss it.[8]Thanks![9]</Original>
-    <Translation>[0]嗯……[1]对不起？[2]请问……[3]你要问什么？小姐？[4]嗯，我刚来这露营……[5]哦，你需要去接待处登记。[6]沿着你来的路，接待处在右边[7]你不会找不到它[8]谢谢！[9]</Translation>
+    <Translation>[0]嗯……[1]打扰一下？[2]请问……[3]有什么问题么？小姐？[4]嗯，我刚来这里参加露营……[5]哦，你需要去接待处登记。[6]沿着你过来的路往回走，接待处就在右手边。[7]你不会找不到它的。[8]谢谢！[9]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -288,7 +288,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBCACqAQAAAAoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUIAAAAAAAAAAoaDAAACAgAYAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yeah?[2]If you want the guesthouse, it's back that[3]way and on the right.[4]Got it?[5]Got it! Thanks![6]</Original>
-    <Translation>[0]嗯……[1]怎么？[2]你要去接待处的话， [3]沿那条路往回走，接待处就在右边。[4]明白了么？[5]明白了！ 谢谢！[6]</Translation>
+    <Translation>[0]嗯……[1]怎么？[2]你要去接待处的话， [3]沿你来的路往回走，接待处就在右手边。[4]明白了么？[5]明白了！ 谢谢！[6]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -325,7 +325,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There we go! Mighty fine, if I say so myself.[1]Excuse me?[2]Well, howdy![3]How can I help you this time, miss?[4]I went to the guesthouse, but no one was[5]there.[6]Are they closed today?[7]Closed? Nope, they should be open today.[8]If I'm working, why ain't they?[9]But I was there and the door was locked...[10]That's strange, miss.[11]Ahh, I know what it is. He's takin' another[12]break. That's what he's doing.[13]Uh... Taking "another" break?[14]Yeah, the guesthouse is run by some[15]college boy.[16]He ain't a bad kid, but his heart's not really[17]in it.[18]As soon as the guests leave, he goofs off to[19]hang out with his friends.[20]Give it a while, and he'll be back. You'll see.[21]Hope it's not too long.[22]</Original>
-    <Translation>[0]太好了，这样就行了[1]请问？[2]嗯，你好！[3]我能帮你什么忙么，小姐？[4]我去过了接待处[5]但是那里没有一个人[6]难道说他们今天休息？[7]休息？不对啊，今天应该开着门啊。[8]既然我在上班， 他们也不会休息[9]但是我到那后门上着锁……[10]这就奇怪了， 小姐[11]啊， 我知道怎么回事了。 [12]他肯定现在正在某处闲聊呢。[13]恩，闲聊？[14]对，这些接待处是一群[15]打工大学生在看店[16]真是个坏小子[17]整天心不在焉的[18]现在客人来了[19]他却跑出去和朋友闲聊[20]可能一会他就会回来了吧。[21]真希望时间别太久。[22]</Translation>
+    <Translation>[0]搞定了！要我说还真不错。[1]请问？[2]嗯，你好！[3]我能帮你什么忙么，小姐？[4]我去了接待处，[5]但是那里一个人都没有。[6]难道说他们今天休息？[7]休息？不对啊，今天应该开着门啊。[8]既然我在上班， 他们也不会休息。[9]但是我去那里以后发现门是锁着的……[10]这就奇怪了， 小姐。[11]啊， 我知道怎么回事了。 [12]他肯定现在正在某处偷懒呢。[13]恩，偷懒？[14]没错，接待处是个[15]打工大学生在看店。[16]他不是个坏小子，[17]但是整天心不在焉的。[18]客人一离开，[19]他立马就跑出去和他的朋友们鬼混去了。[20]等一会他就会回来的。相信我。[21]真希望时间别太久。[22]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -353,7 +353,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There we go! Mighty fine, if I say so myself.[1]Um... [2]Excuse me?[3]Well, howdy![4]What can I do you for?[5]Is the guesthouse closed today?[6]Closed? Nope, they should be open today.[7]If I'm working, why ain't they?[8]But I went there and the door was locked...[9]That's strange, miss.[10]Ahh, I know what it is. He's takin' another[11]break. That's what he's doing.[12]Uh... Taking "another" break?[13]Yeah, the guesthouse is run by some[14]college boy working here part-time.[15]He ain't a bad kid, but his heart's not really[16]in it.[17]As soon as the guests leave, he goofs off to[18]hang out with his friends.[19]Give it a while, and he'll be back. You'll see.[20]Hope it's not too long.[21]</Original>
-    <Translation>[0]太好了，这样就行了。[1]嗯…… [2]请问？[3]嗯，你好！[4]我能为你做些什么呢？[5]接待处今天休息？[6]休息？不对啊，今天应该开着门啊[7]既然我在上班， 他们也不会休息[8]但是我到那后门上着锁……[9]这就奇怪了， 小姐。[10]啊， 我知道怎么回事了[11]他肯定现在正在某处闲聊呢。[12]恩，闲聊？[13]对，这些接待处是一群[14]业余时间打工的大学生在看店[15]真是个坏小子[16]整天心不在焉的[17]现在客人来了[18]他却跑出去和朋友闲聊[19]可能一会他就会回来了吧。[20]真希望时间别太久。[21]</Translation>
+    <Translation>[0]搞定了！要我说还真不错。[1]请问？[2]嗯，你好！[3]我能帮你什么忙么，小姐？[4]我去了接待处，[5]但是那里一个人都没有。[6]难道说他们今天休息？[7]休息？不对啊，今天应该开着门啊。[8]既然我在上班， 他们也不会休息。[9]但是我去那里以后发现门是锁着的……[10]这就奇怪了， 小姐。[11]啊， 我知道怎么回事了。 [12]他肯定现在正在某处偷懒呢。[13]恩，偷懒？[14]没错，接待处是个[15]打工大学生在看店。[16]他不是个坏小子，[17]但是整天心不在焉的。[18]客人一离开，[19]他立马就跑出去和他的朋友们鬼混去了。[20]等一会他就会回来的。相信我。[21]真希望时间别太久。[22]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -365,7 +365,7 @@
       <Command>Ggf/AAEAZAoaBQAAAQoaCAAACQQBAAoaBgAADAAKGg0AABUAAHoAAQAAegoaDAAACAAAegEAAAAKGgYAAAwAChoHAABJAfQKGg4BAAsfAQAAAAAAAAAKGgcAAGIB9AoA</Command>
     </Commands>
     <Original>[0]Ugh, what a pain![1]I get here and my bag's stolen, nobody's at[2]the guesthouse...[3]Could today get any worse?[4]Excuse me, miss?[5]</Original>
-    <Translation>[0]唉！真倒霉！[1]包被偷了[2]接待处还没有人……[3]今天到底怎么了？[4]怎么了， 小姐？[5]</Translation>
+    <Translation>[0]唉！真倒霉！[1]包被偷了，[2]接待处还没有人……[3]今天到底怎么了？[4]怎么了，小姐？[5]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -410,7 +410,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You okay? You look a bit like a rain cloud[1]on this fine day.[2]Why don't you tell me about it, I might be[3]able to help.[4]I dunno...[5]Don't you worry, I work here as a Forest[6]Ranger. You can trust me.[7]The name's [8]Dan Maxwell[9].[10]Ranger Maxwell...[11]Shucks...just call me Dan.[12]And what might your name be, miss?[13]Ashley.[14]Ashley Mizuki Robins.[15]So, just what happened to you, Ashley?[16]Someone stole my bag![17]Your bag was stolen?![18]Yeah, I still can't believe it![19]Where did this happen?[20]When I was getting off the bus, someone[21]shoved me from behind.[22]I dropped my bag, and then they took it and[23]ran off![24]No doubt about it. That's a theft, all right![25]Yeah.[26]Who pushed you?[27]I don't know.[28]I saw the back of them as they ran away[29]though.[30]Do you remember anything about them?[31]Can you describe them?[32]It was a woman.[33]I ran after her, but I lost her.[34]I see.[35]What kind of bag was it?[36]What size are we [37]talking here?[38]</Original>
-    <Translation>[0]你没事吧？ [1]你看起来脸色不太好[2]告诉我怎么了[3]也许我能帮助你。[4]可是我……[5]别着急， 我是这的护林员[6]你完全可以相信我[7]我叫 [8]丹·玛克斯韦尔[9]。[10]护林员……玛克斯韦尔先生……[11]嘘……还是叫我丹吧[12]你叫什么名字， 小姐？[13]阿修蕾[14]阿修蕾·美月·罗宾斯[15]那么，发生什么事情了， 阿修蕾？[16]有人偷走了我的包！[17]你的包被偷了？！[18]是啊！我还是不敢相信！[19]事情经过时怎么样的？[20]当我下车时[21]有人从后面推了我一下[22]我的包掉了[23]然后有人就抢走我的包跑了！[24]毫无疑问。这是盗窃，我知道了！[25]嗯。[26]谁推的你？[27]我不知道。[28]他跑了[29]但是我看到了她的背影[30]你还记得一些细节么？[31]你能描述一下么？[32]是个女的。[33]我追了她一段，但是追丢了。[34]我知道了[35]你的包是什么样子的？[36]告诉我 [37]它的尺寸有多大？[38]</Translation>
+    <Translation>[0]你没事吧？[1]你看起来脸色不太好诶。[2]能告诉我怎么了么，[3]也许我能帮助你。[4]可是我……[5]别担心，我是这儿的护林员。[6]你完全可以相信我。[7]我叫[8]丹·玛克斯韦尔[9]。[10]护林员……玛克斯韦尔先生……[11]嘘……还是叫我丹吧[12]你叫什么名字，小姐？[13]阿修蕾，[14]阿修蕾·美月·罗宾斯[15]那么，发生什么事情了，阿修蕾？[16]有人偷走了我的包！[17]你的包被偷了？！[18]是啊！我还是不敢相信！[19]事情经过是怎么样的？[20]我下车的时候，[21]有人从后面推了我一把，[22]我的包掉到了地上，[23]然后有人就抢走我的包跑了！[24]毫无疑问。这是盗窃，我明白了！[25]嗯。[26]谁推的你？[27]我不知道。[28]但是他们逃走的时候[29]我看到了他们的背影。[30]对于他们你能记得些什么吗？[31]可以描述一下么？[32]是个女的。[33]我追了她一段，但是追丢了。[34]我知道了。[35]你的包是什么样子的？[36]告诉我[37]它的大小？[38]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -436,7 +436,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was about this size.[1]That size, eh?[2]Yeah.[3]</Original>
-    <Translation>[0]大概就是这个尺寸。[1]这个尺寸？[2]是的。[3]</Translation>
+    <Translation>[0]大概就是这么大。[1]这么大？[2]是的。[3]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -446,7 +446,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It was about this size.[1]Hmm, that's a pretty small bag.[2]Yeah.[3]</Original>
-    <Translation>[0]大概就是这个尺寸。[1]唔，真小啊。[2]是的。[3]</Translation>
+    <Translation>[0]大概就是这个大小。[1]唔，真小啊。[2]是的。[3]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -478,7 +478,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's white, with pink around the edges.[1]There's a big pocket on the outside with[2]a picture of a rabbit on it.[3]A rabbit?[4]Yeah. Pinkie Rabbit.[5]Ah, Pinkie Rabbit. That sure brings back some[6]old memories.[7]I've had that bag since I was a kid.[8]Are there any valuables in the bag?[9]There's a little money in it...[10]But more importantly, my favourite teddy[11]bear is in it.[12]Then there's my pick case, band scores...lots[13]of important stuff.[14]All right then.[15]I'll keep an eye out for your bag while I patrol.[16]I'll soon find some clues about where it went.[17]Really?[18]Leave it to me.[19]Oh yeah...[20]You should also go to the guesthouse and[21]file a missing items report.[22]That way, you're even more likely to get your[23]bag back.[24]Okay.[25]</Original>
-    <Translation>[0]包是白色的， 有粉色花边[1]边上有个大口袋[2]上面有一个可爱的兔子[3]兔子？[4]对。 粉粉兔[5]啊，粉粉兔， [6]真让人怀念啊[7]这是我从小用的包。[8]包里有什么贵重物品么？[9]里面有一点钱……[10]但是这个包很重要[11]我最喜欢的泰迪熊在里面[12]然后是我的吉他拨片盒，乐谱……[13]还有很多重要的东西[14]我知道了[15]我会在巡逻的时候注意你的包的[16]我应该马上就能找到一些线索。[17]真的？[18]交给我好了。[19]嗯……[20]你也需要去接待处[21]出示一下这个失物招领单[22]看来你有很大几率[23]找回你的包呢[24]好的[25]</Translation>
+    <Translation>[0]包是白色的，有粉色花边。[1]外侧有个大口袋，[2]上面有一只可爱的兔子[3]兔子？[4]对。 粉粉兔。[5]啊，粉粉兔，[6]真让人怀念啊。[7]这只包我从小用到大。[8]包里有什么贵重物品么？[9]里面有一些钱……[10]但是更重要的是，[11]里面有我最喜欢的泰迪熊。[12]还有我的吉他拨片盒，乐谱……[13]好多好多重要的东西。[14]好的。[15]我会在巡逻的时候留意你的包的。[16]我应该马上就能找到一些线索。[17]真的？[18]交给我好了。[19]嗯……[20]你最好再去接待处的[21]失物招领单上登记一下。[22]这样的话，你找回你的包[23]的几率更大些。[24]好的。[25]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -506,7 +506,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]By the way, Ashley, are you here by[1]yourself?[2]I came here on my own, but my dad will be[3]with me for the camp.[4]He's at the campsite now, waiting for me.[5]Roger that.[6]That's good to hear.[7]I'm sure you're worried about your bag, but[8]seeing your pops should make you feel better.[9]If only.[10]It'll be fine. Try to cheer up.[11]It's times like these that it's good to have your[12]pops there to look after you.[13]I guess...[14]Do you go camping with him a lot?[15]No, never.[16]This is the first time we've gone camping[17]together.[18]Is that so? In that case...[19]You enjoy yourself [20]today, okay?[21]</Original>
-    <Translation>[0]顺便问一下， 阿修蕾， [1]你是自己一个人来的吗？[2]我是自己来的[3]但是爸爸会和我一起野营[4]他现在在营地等着我[5]这样啊[6]听起来不错。[7]我知道你很担心自己的包[8]但是你看到你的爸爸后也许能好受点[9]但愿如此吧[10]会找到的。 打起精神来[11]发生这种事的时候，[12]还有个老爸在你身后照看着你，就没啥好担心的了。[13]或许……是这样吧……[14]你经常和你爸爸一起露营吗？[15]不，以前没有过[16]这是我们第一次[17]一起露营[18]是这样啊……[19]那么，今天好好玩一天吧 [20]好吗？[21]</Translation>
+    <Translation>[0]顺便问一下，阿修蕾，[1]你是自己一个人来的吗？[2]我是自己来的。[3]但是我爸爸会和我一起去野营。[4]他现在在营地等着我。[5]明白了。[6]那就好。[7]我知道你很担心自己的包，[8]但是你看到你爸爸后也许能好受点。[9]但愿如此吧。[10]会找到的。打起精神来嘛。[11]发生这种事的时候，还有个老爸[12]在边上照顾你，没什么好担心的。[13]可能吧……[14]你经常和你爸爸一起露营吗？[15]没有，以前没有过。[16]这是我们第一次[17]一起露营。[18]是么？这样啊……[19]那今天玩得开心点吧。[20]好吗？[21]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -522,7 +522,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Maybe...[1]</Original>
-    <Translation>[0]也许……[1]</Translation>
+    <Translation>[0]也许吧……[1]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -543,7 +543,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right! I'll try and have fun.[1]How about that? Your pops is quite the lucky[2]one, you know?[3]Really? Why?[4]Well...[5]My girl will be five this year. And I just[6]hope that when she's the same age as you,[7]she'll be able to enjoy going camping with me,[8]just like you with your pops.[9]Sounds nice...[10]Now that I think about it,[11]I think every dad wants to go camping with[12]his kids at some point.[13]Hah! You're right, I suppose they do![14]</Original>
-    <Translation>[0]好的！我会尽量开心些的[1]你知道吗？[2]你爸爸真走运啊[3]是么？ 为什么？[4]是啊……[5]我女儿今年5岁了[6]她要像你这么可爱就好了[7]我真想像你和你爸爸一样[8]和你一起旅行[9]听起来真不错……[10]我认为[11]每一个父亲[12]肯定都想和他的孩子一起野营[13]啊！ 你说得对，我是该考虑考虑了！[14]</Translation>
+    <Translation>[0]好的！我会好好玩的。[1]你知道吗？[2]你爸爸真走运啊。[3]是么？为什么？[4]恩……[5]我女儿今年也要5岁了，[6]希望等到她长到你这个年纪，[7]我们也能像你和你爸爸一样，[8]一起去野营。[9]听起来真不错……[10]听你这么说，我忽然觉得，[11]每一个当爸爸的从某种意义上来说[12]都想和他的孩子一起野营。[13]哈！你说得没错，我觉得也是！[14]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -571,7 +571,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I dunno...[1]Aw, don't be like that.[2]Yeah, but I really don't know...[3]It's just, my dad invited me out of nowhere[4]and I already had plans with my friends...[5]But you're here now, so you might as well[6]have a good time with your pops, right?[7]I suppose so...[8]If Jessica hadn't said anything, I might not[9]even have come here...[10]Jessica? Who's that?[11]My dad's little sister. My aunt.[12]She's been kind of like a mother to me.[13]She always knows exactly what I'm thinking[14]all the time...[15]It's like that, huh?[16]Well then, I'm sure if Jessica was here, she'd[17]tell you to forget your friends for a while[18]and spend some quality time with your pops.[19]She probably would.[20]I'm sure she would.[21]</Original>
-    <Translation>[0]可是我……[1]唉，不要这样。[2]嗯，但是我真的不知道……[3]我的爸爸邀请我来这里[4]但是我真的和我的朋友有别的计划了……[5]但是你现在已经在这里了[6]何不和你爸爸一起高兴的玩玩，你说对吗？[7]我希望是这样……[8]如果杰西卡没有说什么[9]也许我现在就不会在这里了……[10]杰西卡是谁？[11]我爸爸的妹妹。 我的姑姑。[12]她一直像妈妈一样的对待我[13]她总是知道[14]我在想什么……[15]她是这样的人？[16]我相信 如果杰西卡在这里， [17]她肯定会告诉你，暂时忘了你的朋友[18]和你的爸爸在一起度过一段时间吧[19]她大概会这么做的[20]她肯定会这么做[21]</Translation>
+    <Translation>[0]我不知道……[1]唉，不要这样嘛。[2]嗯，但是我真的不知道……[3]我爸爸忽然邀请我来这个陌生的地方，[4]我本来和我的朋友已经有别的计划了……[5]但是你还不是来么，说不定你和[6]你爸爸也能玩的挺开心的，你说对吗？[7]希望如此吧……[8]如果不是杰西卡劝我，[9]也许我现在就不会在这里了……[10]杰西卡是谁啊？[11]我爸爸的妹妹。我的姑姑。[12]她对我来说就像妈妈一样。[13]她总是知道[14]我在想什么……[15]她是这样的人？[16]我相信，如果杰西卡在这里，[17]她肯定会让你暂时忘了你的朋友，[18]和你爸爸一起呆一段时间的。[19]她可能会这么做的。[20]我肯定她会的。[21]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
@@ -600,7 +600,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AGZkAAoA</Command>
     </Commands>
     <Original>[0]Ashley, give it a chance and enjoy the natural[1]beauty of Lake Juliet.[2]We might not have malls or cinemas here, but[3]you can still enjoy yourself just as much.[4]I hope so.[5]And promise me something.[6]When you're finished at the campsite...[7]I know, I know.[8]Clean up all of my trash, right?[9]Well, I'll be. Exactly![10]You know, it'd be fine and dandy if all our[11]visitors were like you.[12]But unfortunately, we've had some bother with[13]a few [14]troublesome visitors[15] lately.[16]Yep. Turning out to be quite a pain, I can tell[17]you that for free.[18]All it's doing is making more and more [19]work[20]for Rangers like me[21].[22]</Original>
-    <Translation>[0]阿修蕾， 放松一下[1]享受朱丽叶湖美丽的自然景观吧[2]这里虽然没有购物中心和电影院[3]但是你仍然可以享受很多乐趣的[4]我希望如此[5]不过要答应我一些事情[6]当你结束野营的时候……[7]我知道了，我知道了[8]清理掉所有垃圾， 是吧？[9]没错！[10]你知道，如果所有的游客都像你这样 [11]那该多好啊[12]但是很不幸的是[13]最近经常有一些[14]很讨厌的游客[15]来到这里[16]唉。 巡逻是很累的， [17]我可以告诉你，我们是志愿的[18]他们给像我[19]这样的护林员[20]找了不少的麻烦[21]。[22]</Translation>
+    <Translation>[0]阿修蕾，放松一下，[1]享受朱丽叶湖美丽的自然景观吧。[2]这里虽然没有购物中心和电影院，[3]但是你仍然可以享受很多乐趣的。[4]希望如此。[5]不过要答应我件事情。[6]当你结束野营的时候……[7]我知道，我知道。[8]清理掉所有垃圾，是吧？[9]没错！[10]你要知道，如果所有的游客都像你这样 [11]那该多好啊。[12]但是很不幸的是，[13]最近经常有一些[14]很讨厌的游客[15]来到这里。[16]唉。巡逻是很累的，[17]我可以告诉你。[18]他们给像我这样的护林员带来了越来越多的[19]工作[20][21]。[22]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -620,7 +620,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AGdkAAoA</Command>
     </Commands>
     <Original>[0]Troublesome visitors? Who?[1]Some pesky kids up to no good in the forest.[2]Lately, they've been coming from nearby towns[3]and getting together in the forest.[4]They make a lot of racket in the middle of the[5]night, break branches, drop litter...[6]I suppose there are bad kids everywhere.[7]That's true indeed...[8]Lately, they've even been messing about with[9]fire. Can you believe it?[10]I'm starting to wonder whether or not the[11]villa fire[12] was something to do with them...[13]</Original>
-    <Translation>[0]讨厌的游客？ 谁？[1]有些讨厌的孩子在森林里捣乱[2]他们来自附近的小镇[3]成群结队的进入森林里。[4]大半夜发出噪音[5]折断树枝，扔垃圾……[6]你得知道捣蛋鬼是无所不在的[7]你说的对……[8]最近他们已经把这搞得一团糟[9]甚至造成了火灾，你能相信吗？[10]我甚至开始怀疑[11]别墅失火[12]是不是和他们有关系……[13]</Translation>
+    <Translation>[0]讨厌的游客？谁？[1]有些讨厌的孩子在森林里捣乱。[2]他们来自附近的小镇，[3]成群结队的进入森林里。[4]大半夜发出噪音，[5]折断树枝，扔垃圾……[6]你也知道捣蛋鬼是无所不在的。[7]说的也是……[8]最近他们开始玩火了，[9]你能相信吗？[10]我甚至开始怀疑[11]别墅失火[12]是不是和他们有关系……[13]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -642,7 +642,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What kind of work does a Ranger do?[1]We patrol the forest to make sure there are no[2]accidents that would damage the area.[3]We also arrest folks chopping down trees or[4]lighting illegal fires in the forest.[5]So you can arrest people?[6]Sure can![7]That's pretty neat. This is the first time I've[8]ever met a Forest Ranger.[9]The first time? Really?[10]Yeah.[11]I shouldn't be surprised.[12]I often hear that from city kids.[13]Always the same thing about Forest Rangers:[14]"I've only ever seen them on TV!"[15]</Original>
-    <Translation>[0]护林员都做什么工作呢？[1]我们在森林里巡逻，确保不会发生[2]破坏这个地区的事故[3]我们还逮捕砍伐树木和[4]在森林里非法生火的人。[5]这么说，你可以抓人？[6]当然可以！[7]这可真好。 话说回来，这是我[8]第一次见到护林员呢。[9]第一次？ 真的？[10]是啊。[11]当然，我不感到惊讶。[12]我经常听到城里的孩子。[13]对于护林员总是只说一句话:[14]"我只在电视上见到过他们！"[15]</Translation>
+    <Translation>[0]护林员都做什么工作呢？[1]我们在森林里巡逻，确保不会发生[2]破坏这个地区的事故。[3]我们还逮捕砍伐树木和[4]在森林里非法生火的人。[5]这么说，你可以逮捕人？[6]当然可以！[7]真帅啊。话说回来，这是我[8]第一次见到护林员呢。[9]第一次？真的吗？[10]是啊。[11]当然，我不感到惊讶。[12]我经常听到城里的孩子[13]对于护林员总是只说一句话:[14]“我只在电视上见到过他们！”[15]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
@@ -659,7 +659,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There was a villa fire?[1]Yeah. There was a big villa at the end of this [2]path.[3]But it was burned down in a fire three days[4]ago. Burned right down.[5]I just put up a sign to warn people away from[6]the remains, since they're still dangerous.[7]That place ain't no playground, so make sure[8]to keep away from it, you understand?[9]Got it.[10]</Original>
-    <Translation>[0]别墅着火了？[1]是啊。 在这条道路的尽头 [2]有一座大别墅[3]但是三天前它被一场大火烧毁了[4]所有东西都烧光了。[5]我刚刚做了个标志，警告人们远离废墟[6]因为那里还是很危险的[7]那里可不是玩的地方， [8]所以，一定要远离那里，明白吗？[9]明白了[10]</Translation>
+    <Translation>[0]别墅着火了？[1]是啊。在这条道路的尽头[2]有一座大别墅。[3]但是三天前它被一场大火烧毁了。[4]所有东西都烧光了。[5]我刚刚做了个警示牌，警告人们远离废墟。[6]那里还是很危险的。[7]那里可不是玩的地方， [8]所以，一定要远离那里，明白吗？[9]明白了。[10]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -680,7 +680,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC4oBCACqAQAAAAoaCAAASAgAqgoaBgAADAAKGgcAABEAABoHAAASCAAKGg0AABUIAAAAAAAAAAoaDAAACAgAYAAAAAAKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Anyway, the guesthouse staff should be back[1]by now.[2]Why don't you run along and take a look?[3]Okay.[4]I'll head there now.[5]Thanks for your help![6]</Original>
-    <Translation>[0]顺便说一下，[1]接待处的职员现在也该回来了[2]不如现在你过去看看？[3]好的。[4]我现在就去那儿[5]谢谢你帮助我！[6]</Translation>
+    <Translation>[0]话说回来，[1]接待处的人现在也该回来了。[2]不如现在你过去看看吧？[3]好的。[4]我现在就去那儿。[5]谢谢你的帮忙！[6]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -697,7 +697,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>[0]嗯……[1]是吗？[2]</Translation>
+    <Translation>[0]嗯……[1]什么事？[2]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>

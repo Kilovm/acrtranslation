@@ -1571,7 +1571,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sign[2] on the door.[3]It says "Back Soon".[4]</Original>
-    <Translation>[0]在门上[1]有个[2]牌子。[3]上面写着"马上回来"。[4]</Translation>
+    <Translation>[0]有块[1]牌子[2]挂在了门上。[3]上面写着"马上回来"。[4]</Translation>
   </Sentence>
   <Sentence id="168">
     <Commands>
@@ -1622,7 +1622,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large potted plant[2].[3]It has red flowers.[4]</Original>
-    <Translation>[0]那里有个[1]大型盆栽[2]。[3]里面开着红色的花。[4]</Translation>
+    <Translation>[0]那里有[1]一大盆花[2]。[3]里面插着红色的花。[4]</Translation>
   </Sentence>
   <Sentence id="173">
     <Commands>
@@ -3642,7 +3642,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some kind of [1]device[2] on the [3]pillar of the gate.[4]</Original>
-    <Translation>[0]在门的柱子上[1]装着[2]某种[3]设备。[4]</Translation>
+    <Translation>[0]某种[1]设备[2]被安装在[3]门柱上。[4]</Translation>
   </Sentence>
   <Sentence id="354">
     <Commands>
@@ -3653,7 +3653,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is some kind of [1]device[2] on the [3]pillar of the gate.[4]</Original>
-    <Translation>[0]在门的柱子上[1]装着[2]某种[3]设备。[4]</Translation>
+    <Translation>[0]某种[1]设备[2]被安装在[3]门柱上。[4]</Translation>
   </Sentence>
   <Sentence id="355">
     <Commands>
@@ -3664,7 +3664,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2] on the pillar of[3]the gate.[4]</Original>
-    <Translation>[0]在门的柱子上[1]装着[2]一个[3]插卡的电子锁。[4]</Translation>
+    <Translation>[0]有个[1]磁卡锁[2]被安装在了[3]门柱上。[4]</Translation>
   </Sentence>
   <Sentence id="356">
     <Commands>
@@ -3799,7 +3799,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]white pole[2]. [3]There is some kind of device inside a[4]dome at the top.[5]Just what is that?[6]</Original>
-    <Translation>[0]那里有根[1]白色的竿子[2]。[3]在屋顶上有着[4]某种设备。[5]究竟是什么啊？[6]</Translation>
+    <Translation>[0]那里有根[1]白色的竿子[2]。[3]在顶部上安装着[4]某种设备。[5]究竟是什么啊？[6]</Translation>
   </Sentence>
   <Sentence id="365">
     <Commands>
@@ -3953,7 +3953,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]card lock[2].[3]</Original>
-    <Translation>[0]那里有个[1]插卡的电子锁[2]。[3]</Translation>
+    <Translation>[0]那里有个[1]磁卡锁[2]。[3]</Translation>
   </Sentence>
   <Sentence id="379">
     <Commands>
@@ -3963,7 +3963,7 @@
       <Command>Ggb/AAAAChoFAAABCgAAAAAA</Command>
     </Commands>
     <Original>[0]The [1]gate[2] is closed.[3]</Original>
-    <Translation>[0]大门[1]紧紧[2]闭着。[3]</Translation>
+    <Translation>[0][1]大门[2]紧紧闭着。[3]</Translation>
   </Sentence>
   <Comments>
     <Comment Author="" Date="2010-04-30 22:53:29" Position="213">
