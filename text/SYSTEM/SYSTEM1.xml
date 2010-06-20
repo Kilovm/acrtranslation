@@ -74,7 +74,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -82,7 +82,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -90,7 +90,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -98,7 +98,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -106,7 +106,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -114,7 +114,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADYwoaCAAAAAEAAAoaBQAAbwoA</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -122,7 +122,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -139,7 +139,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No.[1]This is for Matt.[2]</Original>
-    <Translation>[0]不。[1]这个是给马修的。[2]</Translation>
+    <Translation>[0]不行啦。[1]这个是给马修的。[2]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -147,7 +147,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -155,7 +155,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Delicious![1]</Original>
-    <Translation>[0]真好吃！[1]</Translation>
+    <Translation>[0]真美味！[1]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -278,7 +278,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Okay, that's enough distractions for now.[1]</Original>
-    <Translation>[0]好啦，烦心的事够多的了。[1]</Translation>
+    <Translation>[0]好啦，该干正事啦。[1]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -405,7 +405,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了啦。[1]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -479,7 +479,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="57">
     <Commands>
@@ -487,7 +487,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="58">
     <Commands>
@@ -495,7 +495,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh, never mind.[1]</Original>
-    <Translation>[0]啊，别介意了。[1]</Translation>
+    <Translation>[0]啊，算了吧。[1]</Translation>
   </Sentence>
   <Sentence id="59">
     <Commands>
@@ -706,7 +706,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]All right! You got strawberry.[1]One prize for you, Ash.[2]Thanks![3]And I get the gum too...[4]This is delicious![5]</Original>
-    <Translation>[0]好啦！你得到了草莓味的。[1]你的奖品，小蕾。[2]谢谢！[3]我也有了口香糖了……[4]真的好好吃哦！[5]</Translation>
+    <Translation>[0]好啦！你得到了草莓味的。[1]你的奖品，小蕾。[2]谢谢！[3]还有口香糖……[4]真的好好吃哦！[5]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -722,7 +722,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Oh yeah, that reminds me of what[1]Jessica said before I left...[2]She wanted something cute to [3]put in the kitchen.[4]I wonder if she'd like these guys?[5]Hey, good choice.[6]Those two are the top sellers right now.[7]We only have that [8]one set left.[9]</Original>
-    <Translation>[0]啊，这让我想起了[1]我走之前杰西卡对我说的……[2]她想要在厨房里放些[3]可爱的东东 。[4]我不知道她喜不喜欢这些家伙们？[5]嘿，好眼光。[6]这两个是现在卖得最火的。[7]我们只剩下[8]这最后一套了。[9]</Translation>
+    <Translation>[0]啊，这让我想起了[1]我走之前杰西卡对我说的……[2]她想要在厨房里放些[3]可爱的东东。[4]我不知道她喜不喜欢这两个家伙？[5]嘿，好眼光。[6]这两个是现在卖得最火的。[7]我们只剩下[8]这最后一套了。[9]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -796,7 +796,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A mug...[1]Maybe Jessica would like this.[2]It's a nice mug. It's got the Lake Juliet logo,[3]so you can only get it here.[4]You want one?[5]</Original>
-    <Translation>[0]一个马克杯……[1]也许杰西卡喜欢这个。[2]这是个很不错的马克杯哦。它上面是朱丽叶湖的图案，[3]所以你只能从这里买到哦。[4]要一个么？[5]</Translation>
+    <Translation>[0]一个马克杯……[1]也许杰西卡会喜欢这个。[2]这是个很不错的马克杯哦。它上面是朱丽叶湖的图案，[3]所以你只能从这里买到哦。[4]要一个么？[5]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -845,7 +845,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, thanks.[1]Just looking![2]No sweat...[3]We've got lots of stuff, so take your time and[4]look around.[5]</Original>
-    <Translation>[0]不了，谢谢。[1]只是看看而已！[2]没事……[3]我们这里有好多东西，慢慢看吧[4]。[5]</Translation>
+    <Translation>[0]不了，谢谢。[1]只是看看而已！[2]没事……[3]我们这里有好多东西，慢慢看吧。[4][5]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -910,7 +910,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADKgoaCAAAAAEAAAoaDgAAOQsFAAAAHQEAAAoA</Command>
     </Commands>
     <Original>[0]One of these might be nice.[1]I'll take one.[2]Thank you![3]What colour do you want?[4]Hmm... I'll take a brown one.[5]Good choice, that'll suit you.[6]Matches your eyes.[7]Really? Great.[8]</Original>
-    <Translation>[0]这里面会有不错的东西的。[1]我就要这个了。[2]谢谢！[3]你想要什么颜色的？[4]恩……我要棕色的。[5]好眼光，很适合你哦。[6]和你的眼睛很配。[7]真的么？太好啦。[8]</Translation>
+    <Translation>[0]选一个吧。[1]我就要这个了。[2]谢谢！[3]你想要什么颜色的？[4]恩……我要棕色的。[5]好眼光，很适合你哦。[6]和你的眼睛很配。[7]真的么？太好啦。[8]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -922,7 +922,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not right now.[1]Let me think about it.[2]Can I look around?[3]Sure.[4]Take all the time you need.[5]</Original>
-    <Translation>[0]不是现在。[1]让我想想。[2]我能到处看看么？[3]当然了。[4]请随意。[5]</Translation>
+    <Translation>[0]等等吧。[1]让我在考虑考虑。[2]我能到处看看么？[3]当然了。[4]请随意。[5]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -947,7 +947,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A T-shirt...[1]Maybe Jessica would like this?[2]It's a nice T-shirt.[3]You can only [4]get those here![5]</Original>
-    <Translation>[0]一件T恤……[1]说不定杰西卡喜欢这个？[2]挺漂亮的T恤。[3]你可是只能在 [4]这里才能买到哦！[5]</Translation>
+    <Translation>[0]一件T恤……[1]说不定杰西卡喜欢这个？[2]挺漂亮的T恤。[3]你可是只能在[4]这里才能买到哦！[5]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -981,7 +981,7 @@
       <Command>ChoFAAABChoFAAAOChoGAQADbwoaCAAAAAEAAAoaDgAAOQsGAAAAHQEAAAoA</Command>
     </Commands>
     <Original>[0]I'll take this![1]Thank you![2]</Original>
-    <Translation>[0]我要这个！[1]谢谢你！[2]</Translation>
+    <Translation>[0]我要这个！[1]谢谢惠顾！[2]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -993,7 +993,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, I'll leave it.[1]I'm just looking...[2]Okay... [3]We've got lots of stuff, so take your time and[4]look around.[5]</Original>
-    <Translation>[0]不了，我很快就走了。[1]这是到处看看……[2]好的……[3]我们的商品有很多哦，不急[4]慢慢看。[5]</Translation>
+    <Translation>[0]不了，我很快就走了。[1]只是随便看看……[2]好的……[3]我们的商品有很多哦，不急[4]慢慢看。[5]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -1060,7 +1060,7 @@
       <Command>ChoFAAABChoFAAAOChoGAQADBQoaCAAAAAEAAAoA</Command>
     </Commands>
     <Original>[0]Yeah![1]I'll take a packet of these, please.[2]Thanks![3]</Original>
-    <Translation>[0]恩！[1]我要一包这个，谢谢。[2]谢谢！[3]</Translation>
+    <Translation>[0]恩！[1]我要一包这个，谢谢。[2]谢谢惠顾！[3]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1086,7 +1086,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not right now.[1]Let me think about it.[2]Can I look around?[3]Sure.[4]Take all the time you need.[5]</Original>
-    <Translation>[0]不是现在。[1]让我想想。[2]我能到处看看么？[3]当然了。[4]请随意。[5]</Translation>
+    <Translation>[0]等会吧。[1]让我再考虑考虑。[2]我能到处看看么？[3]当然了。[4]请随意。[5]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -1266,7 +1266,7 @@
       <Command>ChoFAAABChoFAAAOChoGAQADMAoaCAAAAAEAAAoaDgAAOQsbAAAAHQEAAAoA</Command>
     </Commands>
     <Original>[0]Give it to me![1]Now![2]Uh, I mean...please.[3]Thank you![4]</Original>
-    <Translation>[0]我要我要了啦！[1]现在就要！[2]额，我是说……给我来一点，谢谢。[3]谢谢！[4]</Translation>
+    <Translation>[0]我要我要我要！[1]现在就要！[2]呃，我是说……给我来一点，谢谢。[3]谢谢惠顾！[4]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
@@ -1719,7 +1719,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard cutout of a bear[2].[3]It has "J" on its sweater.[4]Are these the Lake Juliet mascots or[5]something?[6]</Original>
-    <Translation>[0]熊熊身上[1]有个剪标[2]。[3]它的外套上写着"J"。[4]这些是朱丽叶湖的吉祥物还是[5]什么的？[6]</Translation>
+    <Translation>[0]那里有块[1]画着熊熊图案的牌牌[2]。[3]它的外套上写着"J"。[4]这些是朱丽叶湖的吉祥物还是[5]什么的？[6]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
@@ -1730,7 +1730,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard cutout of a bear[2].[3]It has "J" on its sweater.[4]</Original>
-    <Translation>[0]熊熊身上[1]有个剪标[2]。[3]它的外套上写着“J”。[4]</Translation>
+    <Translation>[0]那里有块[1]画着熊熊图案的牌牌[2]。[3]它的外套上写着“J”。[4]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -1742,7 +1742,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard cutout of a bear[2].[3]It has "L" on its sweater.[4]These are popular?![5]</Original>
-    <Translation>[0]熊熊身上[1]有个剪标[2]。[3]它的外套上写着"J"。[4]它们很流行么？！[5]</Translation>
+    <Translation>[0]那里有块[1]画着熊熊图案的牌牌[2]。[3]它的外套上写着"J"。[4]它们很流行么？！[5]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -1753,7 +1753,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard cutout of a bear[2].[3]It has "L" on its sweater.[4]</Original>
-    <Translation>[0]熊熊身上[1]有个剪标[2]。[3]他的外套上面有个“L”。[4]</Translation>
+    <Translation>[0]那里有块[1]画着熊熊图案的牌牌[2]。[3]他的外套上面有个“L”。[4]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -1763,7 +1763,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]T-shirts[2] on a rack.[3]</Original>
-    <Translation>[0]有几件[1]T恤[2]放在了架子上。[3]</Translation>
+    <Translation>[0]有几件[1]T恤[2]挂在了架子上。[3]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
@@ -1775,7 +1775,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large window[2] at the front[3]of the guesthouse.[4]Bright light is spilling in through it.[5]</Original>
-    <Translation>[0]在接待处的前面有一扇[1]大窗户[2][3]。[4]明亮的阳光透过它照射进来。[5]</Translation>
+    <Translation>[0]在接待处的前面有一扇[1]大窗户[2]。[3][4]明亮的阳光透过它照射进来。[5]</Translation>
   </Sentence>
   <Sentence id="187">
     <Commands>
@@ -1788,7 +1788,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large window[2] at the front[3]of the guesthouse.[4]The light is so bright you can't really[5]see through it.[6]</Original>
-    <Translation>[0]在接待处的前面有一扇[1]大窗户[2][3]。[4]光线太强了都没办法[5]看清楚屋子里的情况。[6]</Translation>
+    <Translation>[0]在接待处的前面有一扇[1]大窗户[2]。[3][4]光线太强了都没办法[5]看清楚屋子外面的情况。[6]</Translation>
   </Sentence>
   <Sentence id="188">
     <Commands>
@@ -1906,7 +1906,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]Some magazines have been thrown[4]into it.[5]</Original>
-    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面扔着一些[4]杂志。[5]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]里面放着一些[4]杂志。[5]</Translation>
   </Sentence>
   <Sentence id="199">
     <Commands>
@@ -1952,7 +1952,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]boxes of chocolate[2].[3]They look like chocolate-covered[4]almonds.[5]</Original>
-    <Translation>[0]那里有几盒[1]巧克力[2]。[3]看上去好像是巧克力外皮的[4]杏仁。[5]</Translation>
+    <Translation>[0]那里有几盒[1]巧克力[2]。[3]看上去好像是杏仁夹心的[4]巧克力。[5]</Translation>
   </Sentence>
   <Sentence id="203">
     <Commands>
@@ -1963,7 +1963,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]postcards[2] in the card[3]rack.[4]</Original>
-    <Translation>[0]有几张[1]明信片[2]放在了[3]卡片盒里。[4]</Translation>
+    <Translation>[0]有几张[1]明信片[2]摆在了[3]卡片架上。[4]</Translation>
   </Sentence>
   <Sentence id="204">
     <Commands>
@@ -1974,7 +1974,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]calendar[2] on the wall.[3]It seems to have a Lake Juliet theme.[4]</Original>
-    <Translation>[0]墙上挂着一幅[1]日历[2]。[3]好像是朱丽叶湖的主题。[4]</Translation>
+    <Translation>[0]墙上挂着一幅[1]日历[2]。[3]好像是关于朱丽叶湖的主题。[4]</Translation>
   </Sentence>
   <Sentence id="205">
     <Commands>
@@ -2041,7 +2041,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]check cloth[2].[3]The area under the plant pot looks[4]damp.[5]Maybe it got wet when the plant was[6]watered.[7]</Original>
-    <Translation>[0]那里有块[1]格布[2]。[3]花盆下面那块地方看起来[4]很潮湿。[5]也许是给植物浇水的时候[6]弄湿的。[7]</Translation>
+    <Translation>[0]那里有块[1]格子图案的布[2]。[3]花盆下面那块地方看起来[4]很潮湿。[5]也许是给植物浇水的时候[6]弄湿的。[7]</Translation>
   </Sentence>
   <Sentence id="211">
     <Commands>
@@ -2114,7 +2114,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]blind[2].[3]You can see a window through it.[4]There's another room back there.[5]</Original>
-    <Translation>[0]那里有扇[1]百叶窗[2]。[3]透过它你可以看到一扇窗。[4]后面有另外的一个房间。[5]</Translation>
+    <Translation>[0]那里有扇[1]百叶窗[2]。[3]透过它你可以看到一扇窗。[4]后面还有一间房间。[5]</Translation>
   </Sentence>
   <Sentence id="217">
     <Commands>
@@ -2153,7 +2153,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]poster of the boathouse[2]on the wall.[3]There is a sticker over it saying[4]"Temporarily Closed".[5]Aww, that means there aren't any[6]boats! I wanted to go out on the lake...[7]</Original>
-    <Translation>[0]在墙上挂着一幅[1]关于船屋的海报[2]。[3]上面有张贴纸写着[4]"暂时歇业"。[5]啊啊， 那就是说现在弄不到[6]船了咯！我想在湖上划船啊……[7]</Translation>
+    <Translation>[0]在墙上挂着一幅[1]关于船屋的海报。[2][3]上面有张贴纸写着[4]"暂时歇业"。[5]啊啊，那就是说现在弄不到[6]船了咯！我想在湖上划船啊……[7]</Translation>
   </Sentence>
   <Sentence id="220">
     <Commands>
@@ -2177,7 +2177,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]small photographs[2] on[3]the wall.[4]They are photographs of the lake and[5]the sky.[6]</Original>
-    <Translation>[0]有几幅[1]小照片[2]挂在了[3]墙上。[4]拍的是这个湖和天空的[5]风景。[6]</Translation>
+    <Translation>[0]有几幅[1]小照片[2]挂在了[3]墙上。[4]拍的是湖和天空的[5]风景。[6]</Translation>
   </Sentence>
   <Sentence id="222">
     <Commands>
@@ -2188,7 +2188,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]photographs of the lake and[2]the sky[3].[4]</Original>
-    <Translation>[0]那些是[1]湖和天空的风景照片[2][3]。[4]</Translation>
+    <Translation>[0]那些是[1]湖和天空的风景照片[2]。[3][4]</Translation>
   </Sentence>
   <Sentence id="223">
     <Commands>
@@ -2262,7 +2262,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]large, strangely-coloured [2]stone[3] on the stand.[4]</Original>
-    <Translation>[0]有块[1]个子大而且颜色古怪的[2]石头[3]放在了架子上。[4]</Translation>
+    <Translation>[0]有块[1]个子大而且颜色古怪的[2]石头[3]摆在了台子上。[4]</Translation>
   </Sentence>
   <Sentence id="230">
     <Commands>
@@ -2277,7 +2277,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]sign[2] with information[3]about the stone.[4]This is what it says:[5]"Rainbow Stone"[6]"If you take a photo of this stone,[7]you'll see its true rainbow colours!"[8]</Original>
-    <Translation>[0]边上有一块[1]牌子[2]，上面有关于[3]这块石头的信息。[4]上面写着：[5]“彩虹石”[6]“如果你给这块石头拍张照的话，[7]你能见到真正的彩虹的颜色哦！”[8]</Translation>
+    <Translation>[0]边上有一块[1]牌子[2]，上面是关于[3]这块石头的信息。[4]上面写着：[5]“彩虹石”[6]“如果你给这块石头拍张照的话，[7]你能见到真正的彩虹的颜色哦！”[8]</Translation>
   </Sentence>
   <Sentence id="231">
     <Commands>
@@ -2344,7 +2344,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]plastic plates[2].[3]They look like they have a thin layer[4]of dust on them.[5]I know I wouldn't want to eat off a[6]dusty plate like that...[7]</Original>
-    <Translation>[0]那里有些[1]塑料盘[2]。[3]看上去上面落了一层[4]薄薄的灰。[5]我可不想吃光像那样[6]的脏盘子上的东西……[7]</Translation>
+    <Translation>[0]那里有些[1]塑料盘[2]。[3]看上去上面落了一层[4]薄薄的灰。[5]我可不想吃装在这种[6]脏盘子上的东西……[7]</Translation>
   </Sentence>
   <Sentence id="237">
     <Commands>
@@ -2570,7 +2570,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]boxes with pictures of[2]vegetables[3].[4]Maybe they're full of vegetables.[5]</Original>
-    <Translation>[0]那里有些[1]盒子，上面画着[2]蔬菜的图案[3]。[4]也许里面装着蔬菜。[5]</Translation>
+    <Translation>[0]那里有些[1]画着蔬菜图案的[2]盒子[3]。[4]也许里面装着蔬菜吧。[5]</Translation>
   </Sentence>
   <Sentence id="257">
     <Commands>
@@ -2581,7 +2581,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are some [1]boxes with pictures of[2]vegetables[3].[4]</Original>
-    <Translation>[0]那里有些[1]盒子，上面画着[2]蔬菜的图案[3]。[4]</Translation>
+    <Translation>[0]那里有些[1]画着蔬菜图案的[2]盒子[3]。[4]</Translation>
   </Sentence>
   <Sentence id="258">
     <Commands>
@@ -2592,7 +2592,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are [1]bottles of mineral water[2].[3]The water is still cold. [4]</Original>
-    <Translation>[0]那里有[1]几瓶矿泉水[2]。[3]里面的水还是很凉呢。[4]</Translation>
+    <Translation>[0]那里有几瓶[1]矿泉水[2]。[3]里面的水还是很凉呢。[4]</Translation>
   </Sentence>
   <Sentence id="259">
     <Commands>
@@ -2708,7 +2708,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are two [1]lanterns[2].[3]There are numbers on them.[4]</Original>
-    <Translation>[0]那里有两盏[1]煤油灯[2]。[3]数量还不少呢。[4]</Translation>
+    <Translation>[0]那里有两盏[1]煤油灯[2]。[3]上面标有号码。[4]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
@@ -3337,7 +3337,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]green mug[2].[3]It is full of water.[4]</Original>
-    <Translation>[0]那里有个[1]绿色的马克杯[2]。[3]里面装满了书。[4]</Translation>
+    <Translation>[0]那里有个[1]绿色的马克杯[2]。[3]里面装满了水。[4]</Translation>
   </Sentence>
   <Sentence id="326">
     <Commands>
@@ -3357,7 +3357,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]saucepan[2].[3]</Original>
-    <Translation>[0]那里有只[1]平底锅[2]。[3]</Translation>
+    <Translation>[0]那里有只[1]大煮锅[2]。[3]</Translation>
   </Sentence>
   <Sentence id="328">
     <Commands>
@@ -3416,7 +3416,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]cardboard box[2].[3]There is a picture of vegetables on the[4]side.[5]It is full of camping equipment.[6]</Original>
-    <Translation>[0]那里有个[1]纸板箱[2]。[3]侧面是画有蔬菜[4]的图片。[5]里面装满了宿营用的装备。[6]</Translation>
+    <Translation>[0]那里有个[1]纸板箱[2]。[3]侧面有蔬菜[4]的图片。[5]里面装满了宿营用的装备。[6]</Translation>
   </Sentence>
   <Sentence id="333">
     <Commands>
@@ -3551,7 +3551,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are the [1]remains of a fire[2].[3]At least it was put out properly.[4]</Original>
-    <Translation>[0]那些是被[1]大火烧剩下的废墟[2]。[3]最起码火被及时地扑灭了。[4]</Translation>
+    <Translation>[0]那些是被[1]被火烧剩下的木头渣[2]。[3]最起码火被及时地扑灭了。[4]</Translation>
   </Sentence>
   <Sentence id="346">
     <Commands>
@@ -3562,7 +3562,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]grille[2].[3]The grille is raised up on blocks.[4]</Original>
-    <Translation>[0]那里有个[1]烤架[2]。[3]烤架被架在了几个物块上面。[4]</Translation>
+    <Translation>[0]那里有个[1]烤架[2]。[3]烤架被架在了许多砖头上面。[4]</Translation>
   </Sentence>
   <Sentence id="347">
     <Commands>
@@ -3700,7 +3700,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]information board[2].[3]It has a picture of the entire lake area.[4]"Welcome to Lake Juliet, surrounded[5]by the Romeo Mountains,[6]an oasis of natural beauty.[7]The area around the campsite is full[8]of spectacular hiking trails,[9]ranging from easy beginner trails to [10]those for experienced hikers.[11]Or enjoy nature while out in a canoe[12]or a boat on the lake."[13]That might be fun.[14]</Original>
-    <Translation>[0]那里有块[1]信息牌[2]。[3]上面有张整个湖区的图片。[4]"欢迎来到朱丽叶湖， 被[5]罗密欧山环绕着的朱丽叶湖，[6]是一片有着大自然美景的天然绿洲。[7]营地的周边区域有着众多的[8]徒步游览路线，[9]从适合新手的入门路线到适合经验丰富的[10]专业远足者的高级路线应有尽有。[11]您也可以选择乘坐独木舟或游船[12]游览湖区。"[13]祝您玩得开心。[14]</Translation>
+    <Translation>[0]那里有块[1]信息牌[2]。[3]上面有张整个湖区的图片。[4]“欢迎来到朱丽叶湖，被[5]罗密欧山环绕着的朱丽叶湖，[6]是一片有着大自然美景的天然绿洲。[7]营地的周边区域有着众多的[8]徒步游览路线，[9]从适合新手的入门路线到适合经验丰富的[10]专业远足者的高级路线应有尽有。[11]您也可以选择乘坐独木舟或游船[12]游览湖区。”[13]祝您玩得开心。[14]</Translation>
   </Sentence>
   <Sentence id="358">
     <Commands>
@@ -3721,7 +3721,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is an [1]information board for[2]Lake Juliet[3].[4]It has a picture of the entire lake area.[5]"Welcome to Lake Juliet, surrounded[6]by the Romeo Mountains,[7]an oasis of natural beauty.[8]The area around the campsite is full[9]of spectacular hiking trails,[10]ranging from easy beginner trails to [11]those for experienced hikers.[12]Or enjoy nature while out in a canoe[13]or a boat on the lake."[14]</Original>
-    <Translation>[0]那里有块[1]信息牌，是介绍[2]朱丽叶湖的[3]。[4]上面有张整个湖区的图片。[5]“欢迎来到朱丽叶湖，被[6]罗密欧山环绕着的朱丽叶湖，[7]是一片有着大自然美景的天然绿洲。[8]营地的周边区域有着众多的[9]徒步游览路线，[10]从适合新手的入门路线到适合经验丰富的[11]专业远足者的高级路线应有尽有。[12]您也可以选择乘坐独木舟或游船[13]游览湖区。”[14]</Translation>
+    <Translation>[0]那里有块[1]介绍朱丽叶湖的[2]信息牌[3]。[4]上面有张整个湖区的图片。[5]“欢迎来到朱丽叶湖，被[6]罗密欧山环绕着的朱丽叶湖，[7]是一片有着大自然美景的天然绿洲。[8]营地的周边区域有着众多的[9]徒步游览路线，[10]从适合新手的入门路线到适合经验丰富的[11]专业远足者的高级路线应有尽有。[12]您也可以选择乘坐独木舟或游船[13]游览湖区。”[14]</Translation>
   </Sentence>
   <Sentence id="359">
     <Commands>
@@ -3848,7 +3848,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]warning sign[2].[3]This is what it says:[4]"KEEP OUT[5]Authorised personnel only during[6]restoration works."[7]</Original>
-    <Translation>[0]那里有块[1]警示牌[2]。[3]上面写着：[4]“请勿靠近[5]重建中，非施工人员[6]请勿靠近。”[7]</Translation>
+    <Translation>[0]那里有块[1]警示牌[2]。[3]上面写着：[4]“禁止入内[5]重建中，非施工人员[6]请勿靠近。”[7]</Translation>
   </Sentence>
   <Sentence id="369">
     <Commands>
