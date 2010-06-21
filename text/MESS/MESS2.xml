@@ -18,7 +18,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went to the guesthouse and got charcoal for[1]the barbecue, but on the way back[2]I ran into Dad, who'd got an urgent phone call[3]and had to get back to the lab.[4]Now I'm waiting for Gina, the person Dad sent[5]to keep me company while I wait for him.[6]</Original>
-    <Translation>[0]我去了趟接待处，为烧烤准备了[1]一点儿木炭，在回来的路上[2]碰见了爸爸，他刚接到一个紧急电话[3]正要赶回研究所。[4]现在我正在等吉娜，爸爸不放心我一个人，[5]就让吉娜来陪我。[6]</Translation>
+    <Translation>[0]我去了趟接待处，拿回了[1]烧烤用的木炭，但在回来的路上[2]碰见了爸爸，他刚接到一个紧急电话[3]正要赶回研究所。[4]现在我正在等吉娜，爸爸不放心我一个人，[5]就让吉娜来陪我等他。[6]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -74,7 +74,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Hello.[1]Huh?[2]Are you Ashley?[3]Yeah.[4]Who are you?[5]I came here instead of Gina.[6]I'm here to have the barbecue with you.[7]Instead of Gina?[8]Why didn't she come?[9]Gina said that Dr Robins had asked her to[10]keep you company.[11]But unfortunately, she had some urgent work[12]to attend to and was unable to come.[13]Urgent work? What happened?[14]I'm sorry, I don't know exactly what it was. In[15]any case, she wasn't able to come here.[16]And so I came in her place.[17]I believe Gina has already informed Dr Robins[18]that I came here instead.[19]But...[20]You seem unsettled.[21]Do I really seem so bad?[22]No, that's not it. It's just...[23]It's just?[24]I was just wondering, isn't having a barbecue[25]with someone you just met kind of...[26]Strange?[27]Yeah...[28]I suppose I feel the same way.[29]Really?[30]Yes. But even with something as unplanned[31]as this, two strangers can talk and share[32]their views on life.[33]Perhaps that could make it enjoyable.[34]Forgive me, I haven't introduced myself.[35]My name is [36]Ryan Gray[37]. I am a scientist at JC[38]Valley, like your father.[39]Nice to meet you.[40]Wait![41]</Original>
-    <Translation>[0]你好。[1]嗯？[2]你就是阿修蕾？[3]对啊。[4]你是？[5]我是代替吉娜来[6]陪你一起烧烤的。[7]代替吉娜？[8]她怎么没来？[9]吉娜告诉我说，是罗宾斯博士[10]请她来陪你的。[11]但真不巧……她有急事要处理，[12]所以不能亲自来了。[13]急事？要紧吗？[14]实在不好意思，我也不清楚是怎么回事，[15]总之……现在她没法脱身，[16]所以你看，我来陪你了。[17]不过吉娜应该已经把我代替她过来这事[18]通知给罗宾斯博士了吧。[19]但是……[20]你看上去很不安呐，[21]我就那么像坏人？[22]不！不是这个意思，只是……[23]只是？[24]我只是不习惯，总觉得跟一个才见面的人一起烧烤，[25]会有点……[26]奇怪？[27]是啊……[28]其实我也挺紧张的。[29]真的吗？[30]是啊。但是我觉得既然两个陌生人[31]能够在这种情况下邂逅，[32]那倒不妨一起畅谈人生吧，[33]这样才能消除隔阂。[34]噢！原谅我还没先做自我介绍。[35]我的名字叫[36]莱恩·格雷[37]我是JC山谷的研究员，[38]跟你爸爸一样哦。[39]很高兴见到你。[40]等等！[41]</Translation>
+    <Translation>[0]你好。[1]嗯？[2]你就是阿修蕾？[3]对啊。[4]你是？[5]我是代替吉娜来[6]陪你一起烧烤的。[7]代替吉娜？[8]她怎么没来？[9]吉娜告诉我，是罗宾斯博士[10]拜托她来陪你的。[11]但真不巧……她有急事要处理，[12]所以不能亲自来了。[13]急事？发生什么了？[14]实在不好意思，我也不清楚是怎么回事。[15]总之……现在她没法脱身。[16]所以你看，我来陪你了。[17]不过吉娜应该已经把我代替她过来这事[18]通知给罗宾斯博士了吧。[19]但是……[20]你看上去很不安呐，[21]我就那么像坏人？[22]不！不是这个意思，只是……[23]只是？[24]我只是不习惯，总觉得跟一个才见面的人一起烧烤，[25]会有点……[26]奇怪？[27]是啊……[28]其实我也挺紧张的。[29]真的吗？[30]是啊。但是我觉得既然两个陌生人[31]能够在这种情况下邂逅，[32]那倒不妨一起畅谈人生吧，[33]这样才能消除隔阂。[34]噢！原谅我还没先做自我介绍。[35]我的名字叫[36]莱恩·格雷[37]，我是JC山谷的研究员，[38]跟你爸爸一样哦。[39]很高兴见到你。[40]等等！[41]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -214,7 +214,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]No... I'm still sure I've seen you before[1]somewhere.[2]Oh?[3]I remembered it when I saw you.[4]I've definitely seen you somewhere before.[5]You recognise me from somewhere?[6]Yeah...[7]I was here with my mom 13 years ago.[8]Maybe I met you back then.[9]I see... Hmm...[10]Ashley, how old are you?[11]I'm 16.[12]Which means that 13 years ago, you were three.[13]There is a theory regarding myelination in the [14]human hippocampus, stating that as this[15]particular development is a slow process, the[16]hippocampus is not fully formed until the age[17]of three or four years old. If we consider the[18]concept of implicit memory, where emotions,[19]memory of basic tasks and facial recognition[20]develop before the age of three, it is not[21]an impossibility for you to retain memories[22]from 13 years ago. However, the majority of[23]test subjects cannot recall episodes or events[24]from their own childhood, which would imply[25]that explicit memory has not developed by that[26]stage.[27]Sorry, I didn't understand a word of that.[28]What are you telling me?[29]What I mean is that...[30]Your recognition of my face may be due to[31]ambiguous, unreliable memories.[32]Ambiguous, unreliable memories?[33]But as soon as I arrived here, I suddenly[34]started remembering my mom...[35]Ashley, do you think that coming here may be a[36]trigger that made you remember your mother?[37]Yeah...[38]Let me ask you something.[39]Okay.[40]Did you come here today by your own free will?[41]By which I mean, did you yourself decide to [42]come here?[43]No.[44]My dad called me here.[45]So Dr Robins invited you here, correct?[46]Yeah.[47]My dad knew that I'd been here with my mom[48]13 years ago...[49]So he wanted to show me the place again.[50]I see.[51]Before I came here...[52]I had no idea that I'd even been here, let alone[53]with my mom.[54]But when I came here and saw everything...[55]I suddenly started remembering my mom[56]and the last time I was here.[57]And you also remembered something when you[58]saw me, correct?[59]Yeah...[60]But if you ask me whether I'm completely sure[61]that all of the memories are true...[62]I couldn't honestly say I was sure.[63]I see...[64]Ashley, we call sudden memories like that[65]"flashbacks".[66]It usually happens when you have a traumatic[67]experience or mental scarring.[68]Did anything like that happen to you 13 years[69]ago?[70]Yeah...[71]On the night of my third birthday, my mom[72]died.[73]She was killed...13 years ago.[74]A great pity.[75]Sayoko Robins was killed 13 years ago, at the[76]young age of 28.[77]Wait...[78]You know about my mom?[79]Of course.[80]The death of Sayoko Robins was a great loss[81]for the entire scientific community, especially[82]for those of us focused on memory research.[83]And now, after 13 years, I have the chance[84]to meet her daughter.[85]It is quite an unexpected opportunity.[86]</Original>
-    <Translation>[0]不……我还是觉得以前在哪里……[1]有见过你。[2]噢？[3]一见到你我就觉得眼熟，[4]肯定以前在哪里见过你。[5]你在某个地方见过我？[6]是的……[7]十三年前我跟我妈妈来过这里，[8]或许是那个时候。[9]嗯……我想想……[10]阿修蕾，你今年几岁啊？[11]十六岁。[12]也就是说十三年前，你只有三岁。[13]有一种关于人类海马体中髓鞘形成[14]的理论，说是由于这一组织结构的生长[15]相对来说是一个缓慢的过程，所以[16]在人类三岁到四岁之前，负责记忆的海马体并没有真正成形。[17]所以你不会记得我。[18]但如果考虑到你的内隐记忆，那么[19]三岁前的情感发育、基本活动能力以及人脸识别功能等等[20]这些十三年前的回忆，[21]倒也是可能有所保留呢。[22]然而，实验对象中的[23]绝大多数人都无法回忆起童年的一些[24]事件以及片段，这又说明了[25]内隐记忆并没有[26]在这个年龄阶段出现。[27]呃……我觉得我一个字都没听懂。[28]你想告诉我什么？[29]我的意思是说……[30]你觉得我眼熟很可能是由于一些[31]模棱两可且不怎么可靠的记忆。[32]模棱两可？不可靠？[33]但是我一到了这儿，就会突然[34]想起妈妈呀……[35]阿修蕾，你是不是想说来到这里触景生情，[36]想到了你的妈妈？[37]是的……[38]那我问你些事情。[39]好的。[40]你现在站在这里，是由于你的意思自治吗？[41]好吧……说简单点，是你自己决定[42]来这里的吗？[43]不是的。[44]爸爸叫我来的。[45]也就是说，罗宾斯博士叫你来的,对吗？[46]没错。[47]爸爸知道十三年前，[48]我和妈妈一起来过这里，[49]所以他想让我再次回到这里。[50]我懂了。[51]在我来之前……[52]我根本没意识到曾经来过这里，更不用说……[53]还是和妈妈一起来的。[54]但当我到了这里，看到了这里的一切……[55]就突然在脑海中闪现出妈妈的影子，[56]以及我曾经来过这里的事实。[57]你还想起了曾经看到过我的一些事，[58]对吗？[59]是的……[60]但正如你要问我是不是百分百肯定[61]这些记忆的真实性……[62]我就真的不那么自信了。[63]我明白了。[64]阿修蕾，我们通常把这种突然出现的记忆称为[65]“闪影”。[66]这通常是由于精神创伤、[67]心理或者经历上的恐惧导致的。[68]十三年前，有没有这类事情[69]发生过？[70]是的……[71]在我三岁生日的晚上，妈妈……[72]死了。[73]她是被杀害的……就在十三年前……[74]啊……遗憾……[75]只有28岁啊……沙夜子·罗宾斯，[76]十三年前被杀害了。[77]等等……[78]你知道我妈妈？[79]当然。[80]沙夜子·罗宾斯的死，对于整个科研界来说[81]都是一个很大的损失，尤其是[82]对于像我们这样专注于研究记忆的。[83]如今，十三年过去了……我在这里[84]见到了她的女儿。[85]真是机缘巧合。[86]</Translation>
+    <Translation>[0]不……我还是觉得以前在哪里……[1]有见过你。[2]噢？[3]一见到你我就觉得眼熟，[4]肯定以前在哪里见过你。[5]你在某个地方见过我？[6]是的……[7]十三年前我跟我妈妈来过这里，[8]或许是那个时候。[9]嗯……我想想……[10]阿修蕾，你今年几岁啊？[11]十六岁。[12]也就是说十三年前，你只有三岁。[13]有一种关于人类海马体中髓鞘形成[14]的理论，说是由于这一组织结构的生长[15]相对来说是一个缓慢的过程，所以在人[16]类三岁到四岁之前，负责记忆的海马体[17]并没有真正成形，所以你不会记得我。[18]但如果考虑到你的内隐记忆，比如三岁前的[19]情感发育、基本活动能力以及人脸识别等等，[20]这些十三年前的回忆，[21]倒也是可能有所保留呢。[22]然而，实验对象中的绝大多[23]数人都无法回忆起童年的[24]事件以及片段，这又说明了[25]内隐记忆并没有在这个[26]年龄阶段出现。[27]呃……我觉得我一个字都没听懂。[28]你想告诉我什么？[29]我的意思是说……[30]你觉得我眼熟很可能是由于一些[31]模棱两可且不怎么可靠的记忆。[32]模棱两可？不可靠？[33]但是我一到了这儿，就会突然[34]想起妈妈呀……[35]阿修蕾，你是不是想说来到这里触景生情，[36]想到了你的妈妈？[37]是的……[38]那我问你些事情。[39]好的。[40]你今天来这里是自已的意愿吗？[41]好吧……说简单点，是你自己决定[42]来这里的吗？[43]不是的。[44]爸爸叫我来的。[45]也就是说，罗宾斯博士叫你来的，对吗？[46]没错。[47]爸爸知道十三年前，[48]我和妈妈一起来过这里，[49]所以他想让我再次回到这里。[50]我懂了。[51]在我来到这里之前……[52]我完全不知道自己曾经来过这里，更不用说……[53]还是和妈妈一起来的。[54]但当我到了这里，看到了这里的一切……[55]就突然在脑海中闪现出妈妈的影子，[56]以及我最后一次来这里的场景。[57]你看到我以后也想起了一些事情，[58]对吗？[59]是的……[60]但你要是问我是不是百分百肯定[61]这些记忆的真实性……[62]我就真的不那么自信了。[63]我明白了。[64]阿修蕾，我们通常把这种突然出现的记忆称为[65]“闪影”。[66]这通常是由于精神创伤或者[67]某种恐怖的经历导致的。[68]十三年前，有没有这类事情[69]发生过？[70]是的……[71]在我三岁生日的晚上，妈妈……[72]死了。[73]她是被杀害的……就在十三年前……[74]很遗憾啊……[75]只有28岁啊……沙夜子·罗宾斯，[76]十三年前被杀害了。[77]等等……[78]你知道我妈妈？[79]当然。[80]沙夜子·罗宾斯的死，对于整个科研[81]界来说都是一个很大的损失，尤其是[82]对于像我们这样专注于研究记忆的。[83]如今，十三年过去了……我在这里[84]见到了她的女儿。[85]真是机缘巧合。[86]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -226,7 +226,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]This guy knows about Mom.[1]Someone here at Lake Juliet knows about my[2]mom...[3]And I remember seeing him somewhere in my[4]memories of her...[5]</Original>
-    <Translation>[0]这个男人知道妈妈。[1]朱丽叶湖的人……[2]竟然知道妈妈……[3]更巧的是，在关于妈妈的回忆里……[4]我见过这个人……[5]</Translation>
+    <Translation>[0]这个男人知道妈妈。[1]在朱丽叶湖的人……[2]竟然知道妈妈……[3]更巧的是，在关于妈妈的回忆里……[4]我记得自己见过这个人……[5]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -270,7 +270,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]First, you need to put in the charcoal, then[2]light it.[3]</Original>
-    <Translation>[0]唔……[1]首先，你得把木炭放进去，然后[2]点燃它们吧。[3]</Translation>
+    <Translation>[0]唔……[1]首先，你得把木炭放进去，然后[2]再点燃它们。[3]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -281,7 +281,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Er...[1]Do you have anything to light it with?[2]There should be something somewhere. I'm sure[3]Dr Robins had something here to use.[4]</Original>
-    <Translation>[0]呃……[1]你有什么能点燃木炭的东西吗？[2]这里应该有些东西的。我可以确定[3]罗宾斯博士留了些在这里。[4]</Translation>
+    <Translation>[0]呃……[1]你有什么能点燃木炭的东西吗？[2]这里应该有些东西的。我觉得[3]罗宾斯博士应该留了些在这里。[4]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -325,7 +325,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hmm...[1]Okay, that's plenty of charcoal.[2]Next up is lighting the barbecue.[3]</Original>
-    <Translation>[0]嗯……[1]可以了，有足够的木炭。[2]接下来就是要点燃烤炉了。[3]</Translation>
+    <Translation>[0]嗯……[1]可以了，木炭足够了。[2]接下来就是要点燃烤炉了。[3]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -338,7 +338,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]Now I just need to light it.[5]There should be something here to start a fire.[6]</Original>
-    <Translation>[0]现在，[1] 有了摆满 [2]木炭[3]的烤炉。[4]我只需要点燃它。[5]这里应该有些什么东西能够生火。[6]</Translation>
+    <Translation>[0]现在，[1]摆满木炭[2]的烤炉[3]也准备好了。[4]现在我只需要点燃它就好了。[5]这里应该有些什么东西能够生火。[6]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -351,7 +351,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]Now I just need to light it.[5]Try using the matches.[6]</Original>
-    <Translation>[0]现在，[1] 有摆满了 [2]木炭[3]的烤炉。[4]我只需要点燃它。[5]试试看用火柴吧。[6]</Translation>
+    <Translation>[0]现在，[1]摆满木炭[2]的烤炉[3]也准备好了。[4]现在我只需要点燃它就好了。[5]试试看用火柴吧。[6]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -362,7 +362,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADGAoA</Command>
     </Commands>
     <Original>[0]There are [1]matches[2] by the lantern.[3]These should come in handy.[4]</Original>
-    <Translation>[0]油灯旁边有些[1]火柴[2] 。[3]这东西应该有用。[4]</Translation>
+    <Translation>[0]煤油灯旁边有些[1]火柴[2] 。[3]这东西应该有用。[4]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -374,7 +374,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]I'll use the matches to light this up.[5]</Original>
-    <Translation>[0]现在[1]有个摆满[2]木炭[3]的烤炉。[4]用火柴点燃它们。[5]</Translation>
+    <Translation>[0]现在，[1]摆满木炭[2]的烤炉[3]也准备好了。[4]用火柴点燃它们。[5]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -384,7 +384,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]It's not really burning properly.[2]What now?[3]</Original>
-    <Translation>[0]点燃了，但是……[1]并没有烧得很旺。[2]现在怎么办？[3]</Translation>
+    <Translation>[0]点燃了，但是……[1]烧得不太旺。[2]现在怎么办？[3]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -453,7 +453,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAMYAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]All right![1]The charcoal's really burning now![2]</Original>
-    <Translation>[0]成功了！[1]木炭现在烧得很旺！[2]</Translation>
+    <Translation>[0]成功了！[1]木炭现在烧得很旺耶！[2]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -463,7 +463,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]The fire's still pretty weak.[2]How do I make it burn better?[3]</Original>
-    <Translation>[0]我把它点燃了，但……[1]火光微弱啊。[2]怎么样让它烧旺呢？[3]</Translation>
+    <Translation>[0]我把它点燃了，但……[1]火光微弱啊。[2]怎么样让它烧旺些呢？[3]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -472,7 +472,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What do I do?[1]It's not catching fire at all...[2]</Original>
-    <Translation>[0]该怎么办？[1]这个根本点不着火……2]</Translation>
+    <Translation>[0]怎么办？[1]这个根本点不着火……2]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -503,7 +503,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ah, that looks like it's coming along nicely.[1]I've also finished preparing the food.[2]Time to skewer and grill the meat and [3]vegetables, I think.[4]Okay![5]Oh yeah![6]I should burn the cardboard flap too.[7]</Original>
-    <Translation>[0]啊，看上去烧得不错哦。[1]我也已经准备完吃的了。[2]差不多是时候把肉和蔬菜[3]串起来烤一烤啦。[4]说得没错！[5]开始吧！[6]我把纸板箱片也一起烧了吧。[7]</Translation>
+    <Translation>[0]哈哈，看上去烧得不错哦。[1]我也已经准备完吃的了。[2]差不多是时候把肉和蔬菜[3]串起来烤一烤啦。[4]说得没错！[5]开始吧！[6]我把纸板箱片也一起烧了吧。[7]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
@@ -572,7 +572,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgkAADEAAAAAChoJAAAxCQAAAQoA</Command>
     </Commands>
     <Original>[0]How is it?[1]Yeah, it's great![2]That's good to hear.[3]Being here with you reminds me of Sayoko,[4]actually.[5]You bear quite a strong resemblance to her.[6]I look like her?[7]Yes. Your hair is a different colour, but your[8]dark eyes are almost exactly like hers.[9]You've...met her?[10]Yes, indeed.[11]She is one of the few people that I can [12]never[13]forget[14].[15]She was exactly the [16]same type of person[17] as me.[18]Say, Ryan...[19]Yes?[20]Can I ask you about my mom?[21]Of course.[22]Let's talk about her after we've eaten.[23]Please help yourself! Bon appétit![24]Okay.[25]</Original>
-    <Translation>[0]怎么样？[1]嗯！色香味俱全的感觉！[2]太好了。[3]说实话，[4]跟你待在一起，让我想起了沙夜子。[5]你确实长得跟她很像。[6]我长得像妈妈？[7]是的。虽然发色不同，[8]但深色的瞳孔，就像她一样。[9]你……见过她？[10]当然了。[11]她是那种少有的，让我[12]不能[13]忘怀的人[14]。[15]她是跟我 [16]一样类型[17] 的人。[18]说下去，莱恩……[19]什么？[20]我能问你一些关于妈妈的事吗？[21]当然可以了。[22]那我们吃完再说她吧。[23]多吃点吧，祝胃口好！[24]必须的！[25]</Translation>
+    <Translation>[0]怎么样？[1]嗯！色香味俱全的感觉！[2]太好了。[3]说实话，[4]跟你待在一起，让我想起了沙夜子。[5]你确实长得跟她很像。[6]我长得像妈妈？[7]是的。虽然发色不同，[8]但深色的瞳孔，就像她一样。[9]你……见过她？[10]当然了。[11]很少有像她一样的人，能让我这么[12]难以[13]忘怀[14]。[15]她是跟我[16]一类人[17]。[18]说说看，莱恩……[19]什么？[20]我能问你一些关于妈妈的事吗？[21]当然可以了。[22]那我们吃完再说她吧。[23]多吃点吧，祝胃口好！[24]恩！[25]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
@@ -608,7 +608,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That was really great![1]I dunno why, but eating outside makes it taste[2]so much nicer.[3]Indeed.[4]It was quite delicious.[5]Do you like barbecues?[6]Yeah, I like them, but today's barbecue[7]was totally amazing.[8]I can't stand peppers, and I even ate them![9]You don't like peppers?[10]Nope.[11]I can kind of eat them now, but when I was[12]little I couldn't stand them at all.[13]I'm the same.[14]Really?[15]It is said the best way to overcome hatred of a[16]food is by force of will and careful cooking.[17]Perhaps today's barbecue helped you grow to[18]enjoy peppers.[19]You think?[20]I do indeed.[21]</Original>
-    <Translation>[0]真的很美味啊！[1]不知道是什么原因，但在室外吃东西，[2]显得更美味呢。[3]确实如此。[4]这些东西非常好吃。[5]你平时喜欢烧烤吗？[6]是的，我喜欢，尤其是今天的烧烤，[7]简直太合我胃口啦！[8]我最受不了胡椒了，但今天我也吃了！[9]你不喜欢胡椒吗？[10]也不是。[11]我现在是能吃一点，[12]但小时候完全不能接受。[13]我也一样。[14]真的吗？[15]据说克服厌食的最好方法，[16]就是意志力和美妙的烹饪。[17]或许今天的烧烤可以帮助你增加对[18]胡椒的喜爱。[19]你是认真的？[20]我是认真的。[21]</Translation>
+    <Translation>[0]真的很美味啊！[1]不知道是什么原因，但在室外吃东西，[2]感觉更美味呢。[3]确实如此。[4]真的非常好吃。[5]你平时喜欢烧烤吗？[6]恩，挺喜欢的，尤其是今天的烧烤，[7]简直太合我胃口啦！[8]我最受不了胡椒了，但今天我也吃了！[9]你不喜欢胡椒吗？[10]不喜欢。[11]我现在是能吃一点，[12]但小时候一点都不吃。[13]我也是。[14]真的吗？[15]据说克服对某种食物的厌恶的最好[16]方法，就是意志力和精心的烹饪。[17]或许今天的烧烤可以帮助你增加对[18]胡椒的喜爱。[19]是么？[20]对啊。[21]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -619,7 +619,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I'm so glad Ryan's keeping me company.[1]I thought scientists were all like Dad...[2]But Ryan's so open and talkative. I guess not[3]all scientists are the same.[4]</Original>
-    <Translation>[0]我很高兴莱恩能陪我一起吃烧烤。[1]我还以为科学家都像爸爸那样呢。[2]但是莱恩很开朗，也很健谈。看来我要对[3]科学家有所改观了呢。[4]</Translation>
+    <Translation>[0]我很高兴莱恩能陪我一起吃烧烤。[1]我还以为科学家都像爸爸那样呢……[2]但是莱恩很开朗，也很健谈。看来我要对[3]科学家有所改观了呢。[4]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -643,7 +643,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, let's talk about Sayoko.[1]You wanted to ask me about her, didn't you?[2]Yeah.[3]How do you know her?[4]Before I was recruited by JC Valley, I was[5]occasionally at MJ Labs.[6]MJ Labs was where Mom worked, right?[7]Yes, Dr Robins and Sayoko were both[8]researching Another there.[9]So you know about Another?[10]Yes, I do.[11]And I knew Sayoko when she was working on[12]Another...[13]Ah...[14]So there are people at JC Valley who know[15]about Another...[16]There are.[17]</Original>
-    <Translation>[0]阿修蕾，我们来谈谈沙夜子吧。[1]你不是想要跟我讨论一下她吗？[2]没错。[3]你怎么会认识妈妈的？[4]在我入职JC山谷前，[5]我曾偶然在MJ研究所工作。[6]MJ研究所……就是妈妈曾经工作的地方对么？[7]是的，罗宾斯博士和沙夜子都在那里[8]研究Another。[9]那你知道Another？[10]是的。[11]我就是在沙夜子研究Another的时候[12]认识她的。[13]啊……[14]那么，在JC山谷，还有人知道[15]Another……[16]是有一些。[17]</Translation>
+    <Translation>[0]阿修蕾，我们来谈谈沙夜子吧。[1]你不是想要跟我谈谈她吗？[2]是啊。[3]你怎么会认识妈妈的？[4]在我入职JC山谷前，我偶尔会[5]呆在MJ研究所。[6]MJ研究所……就是妈妈曾经工作的地方对么？[7]是的，罗宾斯博士和沙夜子都在那里[8]研究Another。[9]那你知道Another？[10]是啊。[11]我就是在沙夜子研究Another的时候[12]认识她的……[13]这样……[14]那么，在JC山谷，还有人知道[15]Another……[16]是的。[17]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -667,7 +667,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What did you mean when you said that Mom[1]was someone you'd never forget?[2]I meant that I remember her very well.[3]Why?[4]When I started out in research, Sayoko was[5]the first scientist I ever met.[6]She taught me the very fundamentals of[7]being a scientist.[8]What kind of person was she?[9]She was a truly incredible scientist.[10]To this day, I have yet to meet someone that[11]could even hope to surpass her.[12]She was that good?[13]Oh, absolutely.[14]If she were still alive today...[15]I can only imagine what incredible things might[16]have developed from her research.[17]</Original>
-    <Translation>[0]你说妈妈是你永远不会忘记的人，[1]这是什么意思？[2]就是……对她的记忆难以磨灭。[3]为什么？[4]沙夜子是我投身科研领域后，[5]第一个认识的科学家。[6]是她教会了我成为[7]科学家的一些基本法则。[8]那……妈妈是怎么样的人呢？[9]她是一个很棒的科学家。[10]直到今天，我也没有遇见一个[11]能超越她的人。[12]她真的那么厉害？[13]嗯，毫不夸张。[14]如果她还活着的话……[15]真不敢想象[16]她的研究成果能达到多高的程度。[17]</Translation>
+    <Translation>[0]你说妈妈是你难以忘怀的人，[1]这是什么意思？[2]就是说……对她的记忆难以磨灭。[3]为什么呢？[4]沙夜子是我投身科研领域后，[5]第一个认识的科学家。[6]是她教会了我作为科学家[7]的一些基本原则。[8]那……妈妈是怎么样的人呢？[9]她是一个很棒的科学家。[10]直到今天，我也没有遇见一个[11]能超越她的人。[12]她真的那么厉害？[13]嗯，毫不夸张。[14]如果她还活着的话……[15]真不敢想象她的研究成果能达到[16]多高的程度。[17]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
@@ -693,7 +693,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What did you mean when you said she's the[1]same type of person as you?[2]Well... Someone that's followed the path of[3]research all their life, someone who you could[4]say was born to be a scientist.[5]Huh?[6]My parents were both scientists.[7]I started researching at university when I was[8]ten years old.[9]Ten?[10]Yes.[11]I didn't start proper research until I was 16.[12]And then I was recruited to work for JC Valley,[13]so here I am.[14]You became a scientist at 16?[15]Yes.[16]That's amazing. You must be a real genius.[17]I heard that Sayoko began at 18.[18]Wow.[19]</Original>
-    <Translation>[0]你说妈妈跟你是同一类型的人[1]这是什么意思呢？[2]嗯……那种能为科学研究奉献一生的人，[3]那种被称之为[4]生而注定成为科学家的人。[5]哦？[6]我的父母都是科学家，[7]我从十岁开始，[8]就在大学里从事科学研究[9]十岁？！[10]是的。[11]十六岁之前，我都没有找到很适合自己的科研项目，[12]但那以后，我就被JC山谷录用，[13]直到现在。[14]你十六岁的时候就已经是一名科学家了？[15]是的。[16]真是不可思议！你一定是个天才！[17]听说沙夜子是从十八岁开始的。[18]哇！[19]</Translation>
+    <Translation>[0]你说妈妈跟你是一类人，[1]这是什么意思呢？[2]嗯……那种能为科学奉献[3]一生的人，那种被称之为[4]天生就注定成为科学家的人。[5]哦？[6]我的父母都是科学家。[7]我从十岁开始就在大学里[8]从事科学研究了。[9]十岁？！[10]是的。[11]十六岁之前我都没有找到很适合自己[12]的科研项目。后来我就被JC山谷录用，[13]一直到现在。[14]你十六岁的时候就已经是一名科学家了？[15]是的。[16]真是不可思议！你真是个天才！[17]听说沙夜子是从十八岁开始的。[18]哇！[19]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
@@ -743,7 +743,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I don't know...[1]You haven't thought about it?[2]No, not really.[3]There's a lot of different things I'd like to do...[4]What about being a scientist?[5]No way.[6]Looking at my dad, I decided that the one[7]thing I didn't want to be was a scientist.[8]Why?[9]Because they hold their research above[10]everything else in the world.[11]I don't want to be the kind of person who[12]completely shuts out other stuff.[13]Other stuff? What do you mean?[14]Friends, family, all that. Lots of other things[15]are just as important, you know?[16]Ah yes, those.[17]</Original>
-    <Translation>[0]我也不知道……[1]还没想过这个问题么？[2]真没有。[3]我对很多事都有兴趣……都想去尝试……[4]比如……科学研究？[5]没门。[6]看着爸爸，我至少确定[7]唯一不想做的就是科学家了。[8]为什么？[9]因为科学家把科学研究看得[10]比世界上任何东西都重。[11]我可不想成为那种为了事业[12]而关上了生活这扇门的人。[13]生活的门？说来听听。[14]朋友家庭什么的。这个世界上有很多其他东西[15]也很重要，你懂我的意思吗？[16]嗯对，是有一些。[17]</Translation>
+    <Translation>[0]我也不知道……[1]还没想过这个问题么？[2]真没有。[3]我对很多事都有兴趣……都想去尝试……[4]比如……当个科学家？[5]没兴趣。[6]看着爸爸，我至少确定唯一[7]不想做的就是科学家了。[8]为什么？[9]因为科学家把科学研究看得[10]比世界上任何东西都重。[11]我可不想成为那种为了事业[12]而错过其他美好事情的人。[13]其他美好的事情？说来听听。[14]朋友家庭之类的。这个世界上有很多其他东西[15]也很重要，你懂我的意思吗？[16]嗯，是啊，其他重要的事情。[17]</Translation>
   </Sentence>
   <Sentence id="53">
     <Commands>
@@ -762,7 +762,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A musician![1]A...musician?[2]Yeah![3]I want to be a musician![4]One day, I want to write my own songs.[5]I really want to move people with my music.[6]I think that'd be the best feeling of all.[7]I see...[8]I'm sure everyone dreams of becoming a musician[9]when they're a certain age.[10]Although it is rather unlikely to become reality, [11]one is free to dream as one pleases.[12]</Original>
-    <Translation>[0]我成为音乐家哦！[1]音乐家？[2]对！[3]我想做音乐！[4]总有一天，我要写出我自己的曲子。[5]我想用我自己的音乐来感动身边的人。[6]对我来说，这将是世界上最美妙的感觉！[7]大致了解……[8]我想……每个人在某个年龄阶段……[9]都想着要成为音乐家。[10]虽然这个梦想不太靠谱，[11]但人人都有梦想的权利。[12]</Translation>
+    <Translation>[0]音乐家！[1]音乐家？[2]对！[3]我想成为音乐家！[4]总有一天，我要写出我自己的曲子。[5]我想用自己的音乐来感动身边的人。[6]对我来说，这是世界上最美妙的感觉！[7]这样啊……[8]我想……每个人在某个年龄阶段……[9]都想着要成为音乐家。[10]虽然这个梦想不太靠谱，[11]但人人都有梦想的权利。[12]</Translation>
   </Sentence>
   <Sentence id="54">
     <Commands>
@@ -838,7 +838,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, I think I understand how you feel[1]about the future.[2]Just from that conversation?[3]Yes. Very well, in fact.[4]You know, on the surface you may look a lot[5]like Sayoko...[6]But on the inside, you're just like Dr Robins.[7]Like Dad?[8]Exactly like him.[9]Ryan...[10]Yes?[11]What's my dad like?[12]Ah, yes.[13]Your father is a very [14]hard worker[15].[16]Mm-hmm...[17]Ashley...[18]Yeah?[19]May I ask you something?[20]Go ahead.[21]Do you often go camping with Dr Robins?[22]Never![23]I'm sure the camping trip was just an excuse[24]to get me here.[25]An excuse?[26]Yeah.[27]Dad hasn't been home for six months. Not[28]even at weekends.[29]He probably knew I was mad at him, so...[30]He needed to come up with an excuse to see[31]me.[32]I see.[33]He's really selfish at times. It's like he lives[34]life on his own terms.[35]Which makes it really difficult when you're[36]his daughter, right?[37]Everything's short notice. Look what[38]happened this time.[39]What happened?[40]My bag was stolen. All because I came here.[41]Your bag was stolen?[42]Yeah.[43]I've never had my bag stolen before.[44]Was there anything important in it?[45]Clothes, my band scores, pick case, teddy[46]bear...[47]And a bit of money.[48]Is that all?[49]Yeah.[50]I kept Mom's pendant in my pouch, so at least[51]that was safe.[52]Your mother's pendant?[53]It's all I have left of her.[54]What kind of pendant is it?[55]It's shaped like a tear, and it has some sort of[56]liquid in it. It's beautiful.[57]I couldn't take a look at it, could I?[58]Well, I'd show you but my dad has it at the[59]moment.[60]I see...[61]</Original>
-    <Translation>[0]阿修蕾，我想我已经开始有点了解[1]你对未来的看法了。[2]就因为刚刚几句话？[3]是的，而且是……很了解。[4]仅仅从外表来看，你长得很像[5]沙夜子……[6]但是内在的一些感想，却更像罗宾斯博士。[7]像爸爸？[8]非常像。[9]我说……莱恩……[10]怎么了？[11]那爸爸是什么样子的呢？[12]啊……[13]你爸爸是个[14]工作狂[15]。[16]嗯……[17]阿修蕾……[18]嗯？[19]能问你些事吗？[20]问吧。[21]经常跟罗宾斯博士来野营吗？[22]这是第一次！[23]而且我觉得，野营只是[24]叫我来这里的一个借口。[25]借口？[26]没错。[27]爸爸已经有六个月没回家了，[28]包括周末！[29]或许他已经察觉到我的不快了……所以……[30]他应该只是找个借口野营，其实是想[31]看看我。[32]这样啊。[33]很多时候，他真的很自私。就像是……[34]他只根据自己的思路来活。[35]他的思路，并不是他女儿的思路，[36]对不对？[37]所有对于我的安排都是临时的，[38]就像这次一样，一团糟。[39]发生什么事了？[40]我的包被偷了！全都是因为我来了这个鬼地方。[41]包被……偷了？[42]是啊。[43]我在这里那么久，从没被偷过包啊。[44]里面有什么重要的东西？[45]衣服，乐谱，拨片盒，[46]泰迪熊……[47]哦，还有一些钱。[48]就这些了吗？[49]对啊。[50]还好我把妈妈的挂饰放在口袋里了，还不算[51]一无所有。[52]你母亲的挂饰？[53]这是我仅有的她的遗物。[54]是什么样的挂饰？[55]泪滴状的，里面封存着一些液体，[56]非常美丽。[57]不知道……能不能让我看一下？[58]我可以给你看，但是爸爸刚好[59]把它拿走了。[60]好吧……[61]</Translation>
+    <Translation>[0]阿修蕾，我想我已经开始有点了解[1]你对未来的看法了。[2]就因为刚刚几句话？[3]是的，事实上可以说很了解。[4]仅仅从外表来看，你长得很像[5]沙夜子……[6]但是内在的一些想法，却更像罗宾斯博士。[7]像爸爸？[8]非常像。[9]我说……莱恩……[10]怎么了？[11]那爸爸是什么样子的呢？[12]啊……[13]你爸爸是个[14]工作狂[15]。[16]哦……[17]阿修蕾……[18]嗯？[19]能问你些事吗？[20]问吧。[21]经常跟罗宾斯博士来野营吗？[22]这是第一次！[23]而且我觉得，野营只是[24]叫我来这里的一个借口。[25]借口？[26]没错。[27]爸爸已经有六个月没回家了，[28]包括周末！[29]或许他已经察觉到我的不快了……所以……[30]他应该只是找个借口野营，其实是想[31]看看我。[32]这样啊。[33]很多时候，他真的很自私。就像是……[34]他完全活在他自己的世界里。[35]作为他的女儿有时候这真的很难，[36]对不对？[37]所有对于我的安排都是临时的，[38]就像这次一样，一团糟。[39]发生什么事了？[40]我的包被偷了！全都是因为我来了这个鬼地方。[41]包被……偷了？[42]是啊。[43]我在这里那么久，从没被偷过包啊。[44]里面有什么重要的东西吗？[45]衣服，乐谱，拨片盒，[46]泰迪熊……[47]哦，还有一些钱。[48]就这些了吗？[49]对啊。[50]还好我把妈妈的挂饰放在口袋里了，还不算[51]一无所有。[52]你母亲的挂饰？[53]这是我仅有的她的遗物。[54]是什么样的挂饰？[55]泪滴状的，里面封存着一些液体，[56]非常美丽。[57]不知道……能不能让我看一下？[58]我可以给你看，但是爸爸刚好[59]把它拿走了。[60]好吧……[61]</Translation>
   </Sentence>
   <Sentence id="56">
     <Commands>
@@ -905,7 +905,7 @@
       <Command>ChoFAAABChoJAABGAAEAAAoaBgAATwUKGgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Huh?[2]Hi![3]Elizabeth.[4]What are you doing here?[5]Well, I asked Daddy and...[6]He told me you were here.[7]I see.[8]Do you need me for something?[9]I've lost something.[10]Lost something?[11]The thing we got for JC Valley's anniversary[12]thing or whatever.[13]You got one too, right? It's that one.[14]And?[15]Ryan, won't you do me a favour?[16]What is it?[17]Help me find my [18]music player[19]![20]I'm sorry, but I have to refuse.[21]What? Why?[22]I can't leave until Dr Robins comes back.[23]And why not?[24]I promised Dr Robins that I'd stay here to[25]keep Ashley company.[26]Come on, Ryan. Just forget that promise, no[27]one'll know.[28]</Original>
-    <Translation>[0]莱恩！[1]嗯？[2]好啊！[3]是伊丽莎白啊。[4]你在这里干什么？[5]那个……我刚刚问了我爸，[6]他说你在这里。[7]这样啊。[8]我能帮上什么忙吗？[9]我掉了点东西。[10]掉了东西？[11]就是JC山谷的……[12]纪念品什么的。[13]你不是也有一个吗？就是那东西。[14]那么？[15]莱恩，帮我个忙怎么样？[16]你先说吧。[17]帮我找到那个[18]播放器[19]！[20]不好意思，我想我得拒绝这个请求。[21]啊？为什么？[22]罗宾斯博士回来前我都不会离开这里的。[23]为什么不会？[24]我答应好罗宾斯博士[25]在这里陪阿修蕾。[26]得了吧！先别管那个承诺了，没有人[27]会知道你稍稍走开一会儿的。[28]</Translation>
+    <Translation>[0]莱恩！[1]嗯？[2]嗨！[3]是伊丽莎白啊。[4]你在这里干什么？[5]那个……我刚刚问了我爸，[6]他说你在这里。[7]这样啊。[8]我能帮上什么忙吗？[9]我掉了点东西。[10]掉了东西？[11]就是JC山谷的……[12]纪念品什么的。[13]你不是也有一个吗？就是那东西。[14]然后呢？[15]莱恩，帮我个忙怎么样？[16]什么忙啊？[17]帮我找到那个[18]mp3[19]！[20]不好意思，我想我得拒绝这个请求。[21]啊？为什么？[22]罗宾斯博士回来前我都不会离开这里的。[23]为什么不会？[24]我答应了罗宾斯博士[25]在这里陪阿修蕾。[26]拜托了，莱恩！先别管那个承诺了，没有人[27]会知道你稍稍走开一会儿的。[28]</Translation>
   </Sentence>
   <Sentence id="60">
     <Commands>
@@ -914,7 +914,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]Yes?[2]</Original>
-    <Translation>[0]唔……[1]怎么样？[2]</Translation>
+    <Translation>[0]恩……[1]恩？[2]</Translation>
   </Sentence>
   <Sentence id="61">
     <Commands>
@@ -961,7 +961,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Excuse me.[1]What?[2]Hi.[3].....[4]I'm Ashley. Ashley Mizuki Robins.[5]I see...[6]Should I care?[7]![8]Where'd that come from?[9]Who are you, anyway?[10]Elizabeth.[11]Elizabeth Alfred[12].[13]Elizabeth Alfred...[14]That's me.[15]My daddy runs JC Valley.[16]He's Rex Alfred.[17]Right. Should I care?[18]Actually, you should. It means that your[19]father works for mine.[20]I just thought you should know that.[21]Doesn't matter to me.[22]Whatever.[23]How old are you?[24]</Original>
-    <Translation>[0]请问……[1]什么？[2]你好啊。[3]……[4]我叫阿修蕾。阿修蕾·美月·罗宾斯[5]噢……[6]我需要拿支笔记下来吗？[7]！[8]那东西哪里来的？[9]你又是谁？[10]伊丽莎白。[11]伊丽莎白·阿尔弗雷德[12]。[13]伊丽莎白·阿尔弗雷德……[14]对，就是我。[15]我爸是JC山谷的头头。[16]他叫雷克斯·阿尔弗雷德。[17]很好，那我需要拿支笔记下来吗？[18]当然需要咯。就像你的爸爸为我的[19]爸爸工作一样。[20]我想你必须分清其中的区别。[21]这跟我可没关系。[22]随便怎么样。[23]你多大了？[24]</Translation>
+    <Translation>[0]打扰一下……[1]怎么了？[2]你好。[3]……[4]我叫阿修蕾。阿修蕾·美月·罗宾斯[5]噢……[6]和我有什么关系么？[7]！[8]什么意思啊？[9]话说你又是谁啊？[10]伊丽莎白。[11]伊丽莎白·阿尔弗雷德[12]。[13]伊丽莎白·阿尔弗雷德……[14]对，就是我。[15]我爸是JC山谷的头头。[16]他叫雷克斯·阿尔弗雷德。[17]是么。和我有什么关系么？[18]事实上，还真有关系。比如说，你的爸爸为我的[19]爸爸工作。[20]我想你得知道这一点。[21]这跟我可没关系。[22]随便吧。[23]你多大了？[24]</Translation>
   </Sentence>
   <Sentence id="64">
     <Commands>
@@ -994,7 +994,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm 18.[1]Don't kid around.[2]There is no way you're 18.[3]You, older than me? Like I'd ever believe that.[4]And how old are you?[5]16.[6]16?[7]Yeah, so?[8]Just funny that you're younger than me.[9]I was thinking that you look a bit childish.[10]</Original>
-    <Translation>[0]18岁。[1]别把我当小孩了。[2]你怎么也不像18岁啊！[3]你……就像我猜的那样……比我大？[4]那你多大了？[5]16。[6]16？[7]是啊，怎么了？[8]只是好奇你比我还小。[9]我还以为你只是看上去有点孩子气呢。[10]</Translation>
+    <Translation>[0]18岁。[1]别把我当小孩了。[2]你怎么也不像18岁啊！[3]你比我大？我才不信呢。[4]那你多大了？[5]16。[6]16？[7]是啊，怎么了？[8]只是好奇你比我还小。[9]我还以为你只是看上去有点孩子气呢。[10]</Translation>
   </Sentence>
   <Sentence id="67">
     <Commands>
@@ -1009,7 +1009,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I'm 16.[1]The same age as me?[2]No way...[3]So what?[4]Sorry, I just thought you were like, 14.[5]Pah... No way![6]I'm having problems believing it myself.[7]There's no way you're the same age as me.[8]</Original>
-    <Translation>[0]16岁。[1]跟我一样大？[2]哦不……[3]怎么了啊？[4]不好意思，我还以为你只有……14岁呢。[5]啊……乱讲！[6]我自己都不敢相信呢。[7]你跟我一样大？这不可能嘛。[8]</Translation>
+    <Translation>[0]16岁。[1]跟我一样大？[2]不会吧……[3]怎么了啊？[4]不好意思，我还以为你只有……14岁呢。[5]啊……什么嘛！[6]我自己都不敢相信呢。[7]你跟我一样大？这怎么可能啊。[8]</Translation>
   </Sentence>
   <Sentence id="68">
     <Commands>
@@ -1023,7 +1023,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Where'd you lose your music player?[1]Sorry, was I talking to you about that?[2]I was asking Ryan to help me look for it.[3]So do kindly mind your own business.[4]What's your problem?[5]What problem?[6]You know what I mean![7]</Original>
-    <Translation>[0]你的播放器在哪里弄丢的？[1]请问，我有跟你说要你帮忙吗？[2]我只是让莱恩帮忙找东西吧。[3]你还是忙你自己的事吧。[4]你“那个”有问题吗？[5]哪个？[6]你知道我说什么！[7]</Translation>
+    <Translation>[0]你的mp3在哪里弄丢的？[1]话说，我有拜托你帮忙吗？[2]我只是让莱恩帮忙找东西吧。[3]你还是管好你自己的事吧。[4]你“那个”有问题吗？[5]哪个？[6]你知道我说什么！[7]</Translation>
   </Sentence>
   <Sentence id="69">
     <Commands>
@@ -1038,7 +1038,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBBQAJAUlPUDAwMAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgcAAEkB9AoA</Command>
     </Commands>
     <Original>[0]Ashley.[1]I'll go with Elizabeth and help her search.[2]Huh?[3]After listening to you ladies talking...[4]I feel this is the best option.[5]Ryan, are we going or not?[6]Go ahead.[7]Like he needs your permission anyway.[8]</Original>
-    <Translation>[0]阿修蕾[1]我还是跟伊丽莎白一起去找找东西吧。[2]啊？[3]听了刚刚两位女士之间的口水战……[4]我相信这是最好的选择了。[5]莱恩，我们到底去还不去啊？[6]走吧！[7]就像他需要你的准许一样。[8]</Translation>
+    <Translation>[0]阿修蕾。[1]我还是跟伊丽莎白一起去找她的东西吧。[2]啊？[3]刚刚听了两位女士之间的口水战……[4]我相信这是最好的选择了。[5]莱恩，我们到底去还不去啊？[6]走吧！[7]搞得好像他需要你的准许一样。[8]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -1084,7 +1084,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey...[1]What?[2]</Original>
-    <Translation>[0]嘿……[1]什么？[2]</Translation>
+    <Translation>[0]嘿……[1]什么事？[2]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -1125,7 +1125,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFAoA</Command>
     </Commands>
     <Original>[0]There is a [1]backpack [2]by the tent.[3]I need to bring this to Dad's cottage.[4]</Original>
-    <Translation>[0]有一个[1]背包[2]放在帐篷旁边。[3]我必须把这包带到爸爸的小屋去。[4]</Translation>
+    <Translation>[0]有一个[1]背包[2]放在帐篷旁边。[3]我得把这包带到爸爸的小屋去。[4]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -1135,7 +1135,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOAoA</Command>
     </Commands>
     <Original>[0]The hat...[1]He even forgot his hat.[2]I'll bring it back for him.[3]</Original>
-    <Translation>[0]这顶帽子……[1]连帽子都忘了就离开。[2]我还是带着还给他吧。[3]</Translation>
+    <Translation>[0]这顶帽子……[1]连帽子都没拿就走了。[2]我还是带去给他吧。[3]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -1150,7 +1150,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFQoA</Command>
     </Commands>
     <Original>[0]Oh.[1]It's Ryan's briefcase.[2]He must have left it here when he went off[3]with Elizabeth.[4]What should I do?[5]Maybe he's still around...[6]I know. I'll give it to him before heading[7]to Dad's cottage.[8]</Original>
-    <Translation>[0]噢！[1]这是莱恩的公文包。[2]一定是刚刚和伊丽莎白一起走时[3]遗忘在这里的。[4]我该怎么办？[5]也许他还在这附近……[6]知道了，在去爸爸的小屋路上，[7]我正好能还给他。[8]</Translation>
+    <Translation>[0]噢！[1]这是莱恩的公文包。[2]一定是刚刚和伊丽莎白离开时[3]落在这里的。[4]怎么办呢？[5]也许他还在这附近……[6]知道了，在去爸爸的小屋之前，[7]我先拿去还给他。[8]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -1168,7 +1168,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADFQoA</Command>
     </Commands>
     <Original>[0]There is a [1]briefcase[2] by the tent.[3]Oh.[4]It's Ryan's briefcase.[5]He must have left it here when he went off[6]with Elizabeth.[7]What should I do?[8]Maybe he's still around...[9]I know. I'll give it to him before heading[10]to Dad's cottage.[11]</Original>
-    <Translation>[0]有个[1]公文包[2]在帐篷旁。[3]噢！[4]这是莱恩的包。[5]一定是刚刚和伊丽莎白一起走时[6]遗忘在这里的。[7]我该怎么办？[8]也许他还在这附近……[9]知道了，在去爸爸的小屋的路上，[10]我正好能给他。[11]</Translation>
+    <Translation>[0]有个[1]公文包[2]在帐篷旁。[3]噢！[4]这是莱恩的公文包。[5]一定是刚刚和伊丽莎白离开时[6]落在这里的。[7]怎么办呢？[8]也许他还在这附近……[9]知道了，在去爸爸的小屋的之前，[10]我先去还给他。[11]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -1181,7 +1181,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADOAoA</Command>
     </Commands>
     <Original>[0]There is a [1]cowboy hat[2].[3]The hat...[4]He even forgot his hat.[5]I'll bring it back for him.[6]</Original>
-    <Translation>[0]一顶[1]牛仔帽[2]。[3]这帽子……[4]连帽子都忘记就离开。[5]我还是带着给他吧。[6]</Translation>
+    <Translation>[0]一顶[1]牛仔帽[2]。[3]这帽子……[4]连帽子都没拿就走了。[5]我还是带去给他吧。[6]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -1240,7 +1240,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AMxkAAoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]Dan![3]Did you find your pops?[4]Yeah.[5]Ah, good.[6]I'll bet he was worried about your bag too, huh?[7]Kind of.[8]I filed a missing items report at the[9]guesthouse, anyway.[10]I'm sure you're worried about getting it back,[11]but try to enjoy the camping trip.[12]Remember, I'm looking out for your bag while I[13]patrol too.[14]Thanks![15]But I'm starting to wonder if I'll ever see it[16]again...[17]Don't give up, I'm sure someone will find it.[18]Where's your campsite? I'll come and let you[19]know if I find anything.[20]It's up ahead, but there's nobody there at[21]the moment.[22]Nobody there?[23]My dad got an urgent phone call and had[24]to go to his lab.[25]And then he told me to go to his cottage...[26]Lab, you say?[27]Ashley, your pops doesn't work for JC Valley,[28]does he?[29]Yeah, he does.[30]Well I'll be![31]So your pops is [32]Dr Robins[33], then?[34]</Original>
-    <Translation>[0]阿修蕾！[1]嗯？[2]是丹啊！[3]找到你爸爸了吗？[4]找到了。[5]啊……那就好。[6]他也一定在担心你被偷了的包，喔？[7]可能吧。[8]不管怎么说……我在接待处那里[9]已经填好失物招领单了。[10]肯定很想把包找回来，[11]然后好好享受这次野营吧！[12]请放心，我在巡逻的时候会帮你[13]留意包的事。[14]谢谢了！[15]不过我有点担心是不是能够再一次看到[16]我的包……[17]别放弃哦，一定会有人找到的。[18]你们的营地在哪里？如果我有线索，[19]就过来告诉你。[20]就在前面一点，不过现在那里正好[21]没人呢。[22]没人？[23]爸爸接到个紧急电话，不得不[24]回到研究所去。[25]然后他告诉我去他的小屋碰头……[26]你说……研究所？[27]阿修蕾，你的爸爸不会是[28]JC山谷的研究人员吧？[29]他就是。[30]噢我知道了。[31]所以说你爸爸就是[32]罗宾斯博士[33]，对吗？[34]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]是丹啊！[3]找到你爸爸了吗？[4]找到了。[5]啊……那就好。[6]他也一定很担心你的包，是吧？[7]可能吧。[8]不管怎么说，我在接待处那里[9]已经填好失物招领单了。[10]我能理解你很担心你的包，但是放[11]轻松，好好享受这次野营吧！[12]请放心，我在巡逻的时候会帮你[13]留意包的事。[14]谢谢了！[15]不过我还有点担心是不是能够再看到[16]它了……[17]别放弃嘛，一定会有人找到的。[18]你们的营地在哪里？我一有线索，[19]立刻就去通知你。[20]就在前面一点，不过现在那里正好[21]没人呢。[22]没人？[23]爸爸接到个紧急电话，不得不[24]回到研究所去。[25]后来他让我去他的小屋碰头……[26]你说……研究所？[27]阿修蕾，你的爸爸不会是[28]JC山谷的研究人员吧？[29]他就是啊。[30]原来如此啊！[31]所以说你爸爸就是[32]罗宾斯博士[33]，对吗？[34]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -1277,7 +1277,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Dr Robins?[1]So you know my dad?[2]Yeah, I guess I do.[3]I knew he had a little girl, but I didn't think that[4]it would be you.[5]How do you know him?[6]Well, it must have been two months ago now...[7]I helped your pops put the bait on his fishing[8]line up at the lake.[9]Since then, we meet and chat sometimes while[10]I'm out on patrol.[11]My dad fishes?[12]He sure does. Seems he started fairly recently,[13]though.[14]But he still hasn't caught anything big. They[15]just keep eating his bait.[16]Sounds about right.[17]Then again, not many people have caught[18]in the lake recently.[19]Anyway...[20]Your pops is a real funny guy.[21]Funny? My dad?[22]Yeah. As soon as he runs into something he's not[23]familiar with, it's like looking at a little kid.[24]The rest of the world might be long gone for all[25]he knows. All he cares about is that one thing.[26]He seems to have taken a liking to Lake Juliet[27]lately.[28]Every time I run into him, he asks me a whole[29]truckload of questions about the lake![30]</Original>
-    <Translation>[0]罗宾斯博士？[1]这么说你知道我爸爸？[2]我想是的。[3]我知道他有个女儿，但没想到这个女儿[4]就是你。[5]你是怎么知道他的？[6]呃，已经是两个月前的事了……[7]当时，我帮你爸爸把鱼饵窜到[8]鱼钩上去，我记得是在湖边。[9]从那时起，在我巡逻空隙，我们就[10]经常有机会见面聊天。[11]爸爸会钓鱼？[12]当然了。虽然看起来还[13]很菜鸟。[14]正因如此，他没有掉到大鱼，鱼儿们[15]只是不断抢食着他的饵。[16]这还差不多。[17]其实，最近很少有人能在[18]这湖里钓到鱼。[19]好吧……[20]你爸爸可真是个有意思的人啊。[21]有意思？我爸爸？[22]是啊。每次他投入到一件不熟悉的事里，[23]就会表现得像个小孩一样。[24]这个时候整个世界就好像跟他没有关系，[25]他所关心的就只有那件事。[26]最近他好像对朱丽叶湖的一切都[27]很感兴趣，[28]每次碰到他，都会问我一大堆[29]关于这个湖的问题。[30]</Translation>
+    <Translation>[0]罗宾斯博士？[1]这么说你知道我爸爸？[2]没错。[3]我知道他有个女儿，但没想到这个[4]女儿就是你。[5]你是怎么知道他的？[6]嗯，已经是两个月前的事了……[7]我当时在湖边帮你爸爸把鱼饵窜到[8]鱼钩上去。[9]后来在我巡逻的时候遇上了他的话[10]就聊两句。[11]爸爸会钓鱼？[12]当然了。虽然看起来还[13]很菜鸟。[14]目前为止好像他还没有掉到大鱼，[15]鱼儿们倒是把他的鱼饵都给吃光了。[16]估计也是。[17]其实，最近很少有人能在[18]这湖里钓到鱼。[19]话说……[20]你爸爸可真是个有意思的人啊。[21]有意思？我爸爸？[22]是啊。每次他投入到一件不熟悉的事里，[23]就会表现得像个小孩一样。[24]周围的世界好像都消失了，[25]他所关心的就只有那件事。[26]最近他好像对朱丽叶湖的一切都[27]很感兴趣。[28]每次碰到他，他都会问我一大堆[29]关于这个湖的问题。[30]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -1311,7 +1311,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AM1kAAoA</Command>
     </Commands>
     <Original>[0]Do you know the way to your pops' cottage?[1]Past the covered bridge, right?[2]Exactly. Turn right when you see the lake and[3]follow that path to the covered bridge.[4]There are a few cottages around there, but his[5]is the first one on the left. Pretty convenient.[6]First on the left...[7]That's right.[8]I'll let your pops know if I find your bag, okay?[9]Okay.[10]By the way, Ashley, I wanted to ask you[11]something.[12]Take a look at this photo.[13]You haven't seen this boy wandering around,[14]have you?[15]Yeah![16]Really?[17]Yeah.[18]He was in the guesthouse.[19]He got into the storage room and ate some[20]food they had stored there.[21]Well, I'll be...[22]I knew it. He must be around here then.[23]Why are you looking for him?[24]He's been reported as a [25]missing person[26].[27]</Original>
-    <Translation>[0]你知道去你爸爸的小屋的路么？[1]翻过廊桥就到了，对吗？[2]没错。看到湖以后往右拐，[3]顺着路一直走就能到廊桥了。[4]那里有挺多小屋的，但你爸爸的房子[5]是左手边第一栋，挺好认的吧。[6]左边第一栋……[7]没错。[8]如果我找到了你的包，也会告诉你爸爸的。[9]好的。[10]对了，阿修蕾，我正好要问你些[11]问题。[12]看看这张照片。[13]你应该没见过这个男孩在附近[14]游荡吧？[15]有见过啊！[16]真的？[17]对啊，[18]刚刚还在接待处附近呢。[19]他跑到了储藏室，偷吃藏在[20]那里的东西。[21]嗯，那么……[22]我知道了，他一定还在附近。[23]你为什么要找他？[24]有人告诉我，说他[25]失踪[26]了。[27]</Translation>
+    <Translation>[0]你知道去你爸爸的小屋的路么？[1]翻过廊桥就到了，对吗？[2]没错。看到湖以后往右拐，[3]顺着路一直走就能到廊桥了。[4]那里有挺多小屋的，但你爸爸的房子[5]是左手边第一栋，挺好认的吧。[6]左手边第一栋……[7]没错。[8]如果我找到了你的包，也会告诉你爸爸的。[9]好的。[10]对了，阿修蕾，我正好要问你些[11]事。[12]看看这张照片。[13]你应该没见过这个男孩在附近[14]游荡吧？[15]有见过啊！[16]真的？[17]对啊。[18]刚刚他还在接待处附近呢。[19]他跑到了储藏室，偷吃放在[20]那里的东西。[21]嗯，那么……[22]我就知道，他一定还在附近。[23]你为什么要找他？[24]因为他被报[25]失踪[26]了。[27]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -1339,7 +1339,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why was he reported missing?[1]He ran away from home.[2]Ran away?[3]Yep. A missing persons report was filed[4]yesterday, but he's been gone for three days...[5]On top of that, this isn't the first time he's run[6]away, either.[7]He's done it before?[8]He pulled the same trick last August too, but he[9]was eventually found around this area.[10]He's 13, and his name is Matthew Crusoe.[11]Let me know if you see him again, okay?[12]Got it.[13]</Original>
-    <Translation>[0]为什么说他失踪了？[1]他之前离家出走了。[2]离家出走？[3]没错。昨天才来登记失踪的，[4]但是他已经出走三天了……[5]事实上，这也不是他第一次[6]离家出走了。[7]以前也干过这事？[8]去年八月也是这套把戏，最后是在[9]这个地方找到他的。[10]他叫马修·克鲁索，13岁。[11]再看到他的话，来告诉我好吗？[12]好的。[13]</Translation>
+    <Translation>[0]为什么他会被报失踪啊？[1]他之前离家出走了。[2]离家出走？[3]没错。昨天才来登记失踪的，[4]但是他已经出走三天了……[5]事实上，这也不是他第一次[6]离家出走了。[7]以前也干过这事？[8]去年八月也是这套把戏，最后是在[9]这个地方找到他的。[10]他叫马修·克鲁索，13岁。[11]再看到他的话告诉我，好吗？[12]好的。[13]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -1363,7 +1363,7 @@
       <Command>ChoFAAABChoGAAAMAAoaFAEACzMBCAAJAUlPUDAwNwAAAAoA</Command>
     </Commands>
     <Original>[0]Right, I'll head for the cottage.[1]Dad's probably there waiting for me by now.[2]Take care.[3]Will do![4]Oh, I forgot to say.[5]There's an old boathouse on the way to[6]your pops' cottage. It's closed right now.[7]Keep away from it.[8]Why?[9]Those troublesome types I was talking about[10]before, they hang out around there.[11]I saw a man in sunglasses there a while ago, too.[12]He might even be in cahoots with them.[13]Understood. I'll keep away from the[14]boathouse.[15]I'll take your word for it.[16]Now you take care.[17]</Original>
-    <Translation>[0]好了，那我现在就去小屋。[1]爸爸现在可能已经在那里等我了。[2]当心点啊。[3]知道啦！[4]噢对了，差点忘了说，[5]在你去小屋的路上有个船屋，[6]现在应该关着。[7]不要靠近那里。[8]为什么？[9]我刚刚说的那些麻烦的人，[10]就在那附近。[11]之前我也在那里看到一个戴墨镜的男人。[12]他可能也是同谋噢！[13]了解！我会离那个船屋[14]远远地。[15]那我就放心了。[16]你自己当心点就行了。[17]</Translation>
+    <Translation>[0]好了，那我现在就去小屋了。[1]爸爸可能已经在那里等我了。[2]当心点啊。[3]知道啦！[4]噢对了，差点忘了说，[5]在你去小屋的路上有个船屋，[6]现在应该关着。[7]不要靠近那里。[8]为什么？[9]我之前说的那些老惹麻烦的家伙，[10]就在那附近。[11]之前我也在那里看到一个戴墨镜的男人。[12]他可能也是同谋！[13]了解！我会离那个船屋[14]远远地。[15]那我就放心了。[16]你自己当心点就行了。[17]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -1433,7 +1433,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCAAAAAAAAAAKGgwAAAgIAJgAAAAAChoGAAAMAAoaBgAADAAKGg0AABUIAAAAAQAAAAoaDAAACAgBVAEAAAAKGg0AABUIAAAAAAAAAAoaDAAACAgBVQAAAAAKGgYAAC4BChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dan...[1]The path to the burned-down villa is off-limits.[2]Got it.[3]</Original>
-    <Translation>[0]丹……[1]这条到之前烧毁别墅的路还禁止通行哦。[2]知道了。[3]</Translation>
+    <Translation>[0]丹……[1]这条通往别墅废墟的路目前禁止通行。[2]知道了。[3]</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -1464,7 +1464,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ryan.[1]Were you with Daddy on Wednesday night?[2]Wednesday night?[3]No, I was not with the director then.[4]Right...[5]</Original>
-    <Translation>[0]嘿！莱恩。[1]周三的晚上你是跟我爸在一起的吗？[2]周三晚上？[3]不是，我并没有跟所长在一起的。[4]好吧……[5]</Translation>
+    <Translation>[0]嘿！莱恩。[1]周三的晚上你是跟我爸在一起的吗？[2]周三晚上？[3]没有啊，我并没有跟所长在一起。[4]哦……[5]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -1486,7 +1486,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Ashley, what is it?[2]Did Dr Robins return?[3]No, he said he won't be back.[4]He won't be back?[5]Yeah, he's still busy at work.[6]So he said to head for his cottage.[7]I see.[8]So your camping trip is ending prematurely?[9]I dunno. Probably.[10]I see.[11]It is a pity, I had hoped we could talk for a[12]little longer.[13]Me too.[14]Oh, I brought your briefcase.[15]</Original>
-    <Translation>[0]莱恩！[1]阿修蕾啊，怎么了？[2]罗宾斯博士回来了吗？[3]没有，他说不会回来了。[4]不会回来？[5]说的，他还在忙工作呢。[6]所以要我直接去他的小屋。[7]明白了。[8]也就是说，你的这次露营就这么夭折了？[9]我也不知道……或许吧……[10]明白了。[11]真遗憾，我还希望我们能多[12]聊一会儿呢。[13]我也是啊。[14]噢对了，我把你的公文包带来了。[15]</Translation>
+    <Translation>[0]莱恩！[1]阿修蕾啊，怎么了？[2]罗宾斯博士回来了吗？[3]没有，他说不会回来了。[4]不会回来？[5]是的，他还在忙工作的事呢。[6]所以要我直接去他的小屋。[7]明白了。[8]也就是说，你的这次露营就这么夭折了？[9]我也不知道……或许吧……[10]这样啊。[11]真遗憾，我还希望我们能多[12]聊一会儿呢。[13]我也想啊。[14]噢对了，我把你的公文包带来了。[15]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -1531,7 +1531,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Here.[1]Thank you.[2]Ryan, was your briefcase that filthy before?[3]Look at it, it's just covered in someone's[4]grubby little fingerprints.[5]What?[6]This briefcase gets dirty very easily.[7]The front is plastic coated, which makes it quite[8]easy to leave finger marks on it.[9]Sorry for dirtying it.[10]Don't worry about it, Ashley.[11]Hmph.[12]Oh, did you find the music player?[13]Not yet.[14]We searched all around here, but there is still[15]no sign of it.[16]Ah...[17]Well, now that I no longer need to go back to[18]the campsite...[19]I'll stay here for a while to help Elizabeth search.[20]Ryan, are you done chatting?[21]I'm sure talking to Ashley is riveting and all,[22]but...[23]...![24]Elizabeth. Please wait your turn.[25]I shall help you once I have finished talking.[26]Fine.[27]Ashley, have you remembered anything else[28]since we talked last?[29]Nothing...[30]I want to remember everything from 13 years[31]ago, but...nothing's coming to me.[32]I see...[33]You haven't remembered any more about[34]Sayoko... Well, you were only three years old.[35]Needless to say, remembering events from[36]13 years ago must be quite a difficult challenge.[37]Yeah...[38]</Original>
-    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]什么？[6]这个包很容易变脏啊。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起，我把它弄脏了。[10]别在意，阿修蕾。[11]唔……[12]噢对了，找到播放器了吗？[13]还没呢。[14]我们都找遍这儿了，但还是没什么[15]线索。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]我就在这里一起帮伊丽莎白找东西吧。[20]莱恩，你聊够了嘛！[21]我知道跟阿修蕾聊天很爽很有趣，[22]但是……[23]……！[24]伊丽莎白，等一会儿好吗。[25]我说完话就帮你一起找。[26]好吧。[27]阿修蕾，刚刚我们分开后，[28]你有没有再想起点什么？[29]一点也没有……[30]我想记起13年前的所有事，[31]但是……还是一片空白。[32]我明白了……[33]你没有想起更多关于沙夜子的事，[34]好吧，当时你才三岁而已啊。[35]不用说，要去回忆13年前[36]的事情，的确是个大大的难题啊。[37]是啊……[38]</Translation>
+    <Translation>[0]给你。[1]谢谢了。[2]莱恩，你的公文包一向都那么脏吗？[3]你看看，上面好像沾上了[4]一些很脏的指纹。[5]是么？[6]这个包很容易弄脏诶。[7]包的正面是塑料的，这样就很容易[8]沾上指纹什么的了。[9]对不起，我把它弄脏了。[10]别在意，阿修蕾。[11]嗯……[12]噢对了，找到mp3了吗？[13]还没呢。[14]我们这儿都找遍了，但还是[15]一无所踪。[16]哎……[17]这样吧，既然我已经不需要再[18]回营地了……[19]我就在这里一起帮伊丽莎白找东西吧。[20]莱恩，你聊够了么！[21]我知道跟阿修蕾聊天很开心很有趣，[22]但是……[23]……！[24]伊丽莎白，等一会儿好吗。[25]我说完话就帮你一起找。[26]好吧。[27]阿修蕾，刚刚我们分开后，[28]你有没有再想起点什么？[29]一点也没有……[30]我想记起13年前的所有事，[31]但是……还是一片空白。[32]我明白了……[33]你没有想起更多关于沙夜子的事……[34]不过当时你才三岁而已啊。[35]不用说，要去回忆13年前[36]的事情，的确是很不容易啊。[37]是啊……[38]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -1582,7 +1582,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ryan. Who's this Sayoko person?[1]You wouldn't know her, Elizabeth.[2]Oh...[3]</Original>
-    <Translation>[0]嘿，莱恩。这个叫沙夜子的是谁啊？[1]你不会知道的，伊丽莎白。[2]噢……[3]</Translation>
+    <Translation>[0]嘿，莱恩。这个叫沙夜子的是谁啊？[1]你不认识的，伊丽莎白。[2]噢……[3]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -1601,7 +1601,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, Ashley.[1]Didn't you tell me you were 18?[2]Big fat lie, right?[3]Huh?[4]Well, you're talking about 13 years ago, when[5]you were three years old, right?[6]Now I'm not a math genius or anything, but[7]doesn't that make you 16?[8]Yeah, okay, I'm really 16.[9]I knew it![10]No way anyone'd believe you were 18. Seriously,[11]you barely even look 16.[12]</Original>
-    <Translation>[0]嘿，阿修蕾。[1]你不是告诉我你18岁吗？[2]弥天大谎哦？[3]嗯？[4]你说13年前，[5]你才只有3岁，不是吗？[6]我不是个数学专家，但是[7]显然你才16岁吧？[8]是啊，好吧，我确实是16岁。[9]我就知道！[10]没有人会相信你所谓的18岁的。说真的，[11]你看上去也顶多16岁了。[12]</Translation>
+    <Translation>[0]嘿，阿修蕾。[1]你不是告诉我你18岁吗？[2]弥天大谎哦？[3]嗯？[4]你说13年前，[5]你才只有3岁，不是吗？[6]我不是个数学神童，但是[7]白痴都知道你才16岁吧？[8]是啊，好吧，我确实是16岁。[9]我就知道！[10]没有人会相信你所谓的18岁的。说真的，[11]你看上去最多也就16岁。[12]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -1615,7 +1615,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAABKbglwMTBfYmFzZV9SX0FybV9IYW5kChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AAkACQFJT1AwMDAAAAAKGgYAAAwAChoHAAADC7gKGgcAAEkD6AoaBgAADAAKGhQBAAs1AQUAEQFJT1AwMDEAAAAKGgUAADMKAA==</Command>
     </Commands>
     <Original>[0]I think it's time we went to look somewhere else.[1]Right.[2]Ashley...[3]I hope we meet each other again while you're[4]here.[5]I'd like to talk to you more about Sayoko.[6]Definitely.[7]</Original>
-    <Translation>[0]我想我们应该去其他地方看看了。[1]好的。[2]阿修蕾……[3]我希望在你离开前，还能[4]再跟你见面。[5]聊聊更多关于沙夜子的事情。[6]一定会再见面的。[7]</Translation>
+    <Translation>[0]我想我们应该去其他地方看看了。[1]好的。[2]阿修蕾……[3]我希望在你离开前，还能[4]再见到你。[5]和你再聊聊沙夜子。[6]一定会再见面的。[7]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -1632,7 +1632,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What?[1]You think I want to talk to you?[2]</Original>
-    <Translation>[0]什么？[1]你认为我要跟你说话？[2]</Translation>
+    <Translation>[0]干嘛？[1]你觉得我想和你说话么？[2]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -1660,7 +1660,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Um...[1]Sorry, Ashley.[2]I'm talking to Elizabeth. Could you please wait [3]for a minute?[4]</Original>
-    <Translation>[0]唔……[1]阿修蕾，对不起。[2]我正在跟伊丽莎白说话，你能[3]等一会儿吗？[4]</Translation>
+    <Translation>[0]呃……[1]阿修蕾，不好意思啊。[2]我正在跟伊丽莎白说话，你能[3]等一会儿吗？[4]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -1669,7 +1669,7 @@
       <Command>ChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]What?[1]You think I want to talk to you?[2]</Original>
-    <Translation>[0]什么？[1]你认为我要跟你说话？[2]</Translation>
+    <Translation>[0]干嘛？[1]你觉得我想和你说话么？[2]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -1698,7 +1698,7 @@
       <Command>Ggb/AAAAChoFAAABChoaAABLbglwMTBfYmFzZV9SX0FybV9IYW5kChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]I remember now.[1]I was here with my mom, looking out over the[2]lake.[3]Mom...[4]Every time I remember you, it's like a rush[5]of a thousand emotions...[6]But...I feel a bit happier.[7]The only memory I had of you was the night[8]of my third birthday...[9]But when I came here, I found out that there's[10]so much more...[11]Mom...[12]</Original>
-    <Translation>[0]我记起来了。[1]我和妈妈一起站在这里，向着湖面[2]眺望。[3]妈妈……[4]每次想起你，就有千万种[5]感情涌入胸中……[6]但是……渐渐感到快乐了呢。[7]以前对你唯一的记忆[8]只有我三岁生日的那个晚上……[9]但当我到了这里，才发现[10]还有那么多的片段……[11]妈妈……[12]</Translation>
+    <Translation>[0]我记起来了。[1]我和妈妈一起站在这里，向着[2]湖面眺望。[3]妈妈……[4]每次想起你，就有千万种[5]感情涌入胸中……[6]但是……渐渐感到快乐了呢。[7]以前对你唯一的记忆只有我[8]三岁生日的那个晚上……[9]但当我来到了这里，才发现[10]还有那么多的回忆……[11]妈妈……[12]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -1741,7 +1741,7 @@
       <Command>Ggb/AAAAChoFAAABChoSAAAYQV9NMTIwX0QAQUxMAQoA</Command>
     </Commands>
     <Original>[0]Hey, that's...[1]That kid![2]Hey, you![3]Huh?[4]You talking to me?[5]Yeah, you.[6]Why?[7]What, you don't recognise me?[8]Huh?[9]Remember? The fence? Behind the[10]guesthouse?[11]Oh![12]Now, I have something to ask you.[13]That teddy bear you had, my teddy bear...[14]![15]Hey, wait![16]Woof![17]Not you again![18]Woof![19]Argh...[20]Grr...[21]Don't bark at me![22]I don't have time to feed you![23](whine)[24]Oh...[25]He got away again.[26]Right, I'm going after him![27]</Original>
-    <Translation>[0]嘿，那是……[1]之前的小孩！[2]嘿！等等！[3]啊？[4]你在跟我说话？[5]是的，就是你。[6]怎么了？[7]什么？你认不出我了？[8]啊？[9]记得了吗？铁丝网？接待处[10]后面的？[11]噢！！[12]好了，那该我问你问题了。[13]你拿着的那个泰迪熊，跟我的……[14]！[15]嘿，等等！[16]汪！[17]怎么又是你！[18]汪！[19]呜……[20]呼……[21]别对着我叫！[22]我没时间再来喂你了！[23]（哀嚎声）[24]噢……[25]又跑了。[26]好，我得跟着他！[27]</Translation>
+    <Translation>[0]嘿，那是……[1]之前的小孩！[2]嘿！等等！[3]啊？[4]你在跟我说话？[5]是的，就是你。[6]怎么了？[7]什么？你认不出我了？[8]啊？[9]记得了吗？铁丝网？接待处[10]后面的？[11]噢！！[12]好了，我有问题要问你。[13]你拿着的那个泰迪熊，跟我的……[14]！[15]嘿，等等！[16]汪！[17]怎么又是你！[18]汪！[19]呜……[20]呼……[21]别对着我叫！[22]我没时间再来喂你了！[23]（哀嚎声）[24]啊……[25]又跑了。[26]好，我得跟着他！[27]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -1778,7 +1778,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaFAEACzUAAwAJAUlPUDAwMQAAAAoaBgAADAAKGgcAAAMPoAoaCQAARQMH0AAKGgcAAAMAAAoaCQAAMWMD6AEKGgYAAAwAChoHAAADA+gKAA==</Command>
     </Commands>
     <Original>[0]Someone's there.[1]Oh, that man...[2]Is he the one Dan was talking about?[3]The man with the sunglasses?[4]</Original>
-    <Translation>[0]有人在那里。[1]噢！那个男人……[2]是丹说的那个人？[3]戴着墨镜的男人？[4]</Translation>
+    <Translation>[0]有人在那里。[1]啊！那个男人……[2]是丹说的那个人么？[3]戴着墨镜的男人？[4]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
@@ -1844,7 +1844,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAs1AQgAEQFDU1AwMDAAAAAKAA==</Command>
     </Commands>
     <Original>[0]I just saw a suspicious man and I wanted to[1]know where he was going...[2]A suspicious man?[3]Yeah, the one in the sunglasses.[4]He was walking over that way.[5]The man in the sunglasses was?[6]Ashley, that way leads to the old mines.[7]Nobody goes near there any more.[8]You shouldn't go there either.[9]Oh, and I saw that kid again![10]What? Where?[11]Right by the lake after I passed the campsites.[12]But he ran off somewhere...[13]So he really is around here...[14]Thanks for telling me, Ashley.[15]I'll go and see what that man is doing...[16]So you head right along to your pops' cottage.[17]Understood?[18]Right.[19]</Original>
-    <Translation>[0]我只是看到了一个可疑的男人，并且想知道[1]他要去哪里……[2]可疑的男人？[3]是的，戴着墨镜的人。[4]他朝那个方向走去了。[5]戴墨镜的男人到底是？[6]阿修蕾，那条路是去废弃矿洞的。[7]现在已经没有人会去那里了，[8]你也不应该过去。[9]噢，而且我又看见那个男孩了！[10]什么？在哪里？[11]我离开营地后，就在湖边那里。[12]但他又跑开了……[13]也就是说，他确实在这里咯……[14]阿修蕾，谢谢你告诉我啊。[15]我会去看看那个男人在干什么……[16]所以你只管去你爸爸的小屋，[17]懂了吗？[18]好吧。[19]</Translation>
+    <Translation>[0]我刚刚看到了一个可疑的男人，我想知道[1]他要去哪里……[2]可疑的男人？[3]是的，戴着墨镜的人。[4]他朝那个方向走去了。[5]戴墨镜的男人到底是谁啊？[6]阿修蕾，那条路是去废弃矿洞的。[7]现在已经没有人会去那里了，[8]你也不应该过去。[9]啊，而且我又看见那个男孩了！[10]什么？在哪里？[11]我离开营地后，就在湖边那里。[12]但他又跑开了……[13]也就是说，他确实在这里咯……[14]阿修蕾，谢谢你告诉我啊。[15]我去看看那个男人在干什么……[16]所以你只管去你爸爸的小屋，[17]懂了吗？[18]好吧。[19]</Translation>
   </Sentence>
   <Sentence id="131">
     <Commands>
@@ -1864,7 +1864,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAuAQoA</Command>
     </Commands>
     <Original>[0]Dan...[1]Ten-four. Over.[2]Negative. Over.[3]Roger. I'll keep looking. Over.[4]He's on his radio.[5]I'd better not interrupt...[6]</Original>
-    <Translation>[0]丹……[1]明白，完毕。[2]没有，完毕。[3]收到，我会继续调查，完毕。[4]他正在通对讲机。[5]我还是不要打扰他了……[6]</Translation>
+    <Translation>[0]丹……[1]明白，完毕。[2]没有，完毕。[3]收到，我会继续调查，完毕。[4]他正在讲对讲机。[5]我还是不要打扰他了……[6]</Translation>
   </Sentence>
   <Sentence id="133">
     <Commands>
@@ -1875,7 +1875,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQgAAAABAAAAChoMAAAICAFUAQAAAAoaDQAAFQgAAAAAAAAAChoMAAAICAFVAAAAAAoaBgAALgEKGgYAAAwAChoOAQALEAEAAAAAAAAACgA=</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]I thought I told you not to go to the mines.[3]Right...[4]</Original>
-    <Translation>[0]阿修蕾！[1]嗯？[2]我应该告诉过你不要接近矿洞的。[3]没错……[4]</Translation>
+    <Translation>[0]阿修蕾！[1]嗯？[2]我告诉过你不要接近矿洞的。[3]好吧……[4]</Translation>
   </Sentence>
   <Sentence id="134">
     <Commands>
@@ -1884,7 +1884,7 @@
       <Command>GgcAAAMD6BoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Huh?[1]There's a path off to the left too...[2]</Original>
-    <Translation>[0]嗯？[1]这里还有条路到左边去……[2]</Translation>
+    <Translation>[0]嗯？[1]这里还有条路通向左边……[2]</Translation>
   </Sentence>
   <Sentence id="135">
     <Commands>
@@ -1893,7 +1893,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]It's an old building...[1]Is it a shack?[2]</Original>
-    <Translation>[0]这是座老建筑啊……[1]是棚屋吗？[2]</Translation>
+    <Translation>[0]一座老建筑……[1]是个棚屋吗？[2]</Translation>
   </Sentence>
   <Sentence id="136">
     <Commands>
@@ -1909,7 +1909,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]The [1]entrance[2] to the shack is [3]closed off.[4]Where'd that kid go?[5]This is a dead end...[6]Huh?[7]The entrance is closed off, but the door's just[8]leaning on the building...[9]</Original>
-    <Translation>[0]这个[1]门[2]可以进屋子，[3]现在关着。[4]那孩子去哪里了？[5]这里是死路……[6]嗯？[7]门虽然关着，但是却只是[8]靠在那儿……[9]</Translation>
+    <Translation>[0]屋子的[1]入口[2]关着呢[3]。[4]那孩子去哪里了？[5]这里是死路……[6]嗯？[7]门虽然关着，但是却只是[8]靠在那儿……[9]</Translation>
   </Sentence>
   <Sentence id="137">
     <Commands>
@@ -1940,7 +1940,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]How do I do this?[1]</Original>
-    <Translation>[0]这个要怎么办？[1]</Translation>
+    <Translation>[0]我该怎么办啊？[1]</Translation>
   </Sentence>
   <Sentence id="141">
     <Commands>
@@ -1981,7 +1981,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADAAoaBgAADAAKGgUAAE0KGh8AAFoAcDAxX2Jhc2VfcDAxX291dGxpbmVfaGFuZAoaBgAADAAKGg0AABUAAAAAAQAAAAoaDAAACAABPgEAAAAKGhoAAEs6AHAwMV9iYXNlX1JfQXJtX0hhbmQKAA==</Command>
     </Commands>
     <Original>[0]There is a [1]teddy bear[2] on the ground [3]by the well.[4]Ah![5]I knew it! It's my teddy bear![6]I'm so glad I found it...[7]</Original>
-    <Translation>[0]有一只[1]泰迪熊[2]在井边的[3]地上。[4]啊！[5]我认得它！它是我的泰迪熊！[6]太好了……终于找到了……[7]</Translation>
+    <Translation>[0]有一只[1]泰迪熊[2]躺在井边的[3]地上。[4]啊！[5]我认得它！它是我的泰迪熊！[6]太好了……终于找到了……[7]</Translation>
   </Sentence>
   <Sentence id="145">
     <Commands>
@@ -2090,7 +2090,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AM9kAAoaBgAADAAKGgcAABEAABoHAAASBAAKGg0AABUEAAAAAAAAAAoaDAAACAQAYwAAAAAKAA==</Command>
     </Commands>
     <Original>[0]Oh, phew...[1]I thought I'd be stuck in there forever![2]Are you crazy, hiding in there?[3]But...[4]But what?[5]It's the only hiding place I could get to...[6]You shouldn't even be hiding in the first place![7]Why were you taking food from the guesthouse[8]stores?[9]I was hungry...[10]I don't care how hungry you are, you shouldn't[11]steal food![12]Sorry...[13]I hadn't eaten since yesterday, I was starving...[14]Well, you were asking for it by running away[15]from home.[16]What?[17]How d'you know I ran away?[18]I just do.[19]I know a few things...Matthew Crusoe.[20]How d'you know my name?![21]Who told you?[22]I suppose I might as well tell you...[23]But first, you have to answer a few of my[24]questions. Got it?[25]Fine. Ask.[26]First, where did you get that teddy bear you[27]were carrying around?[28]Found it.[29]Found it?[30]Yeah. Over [31]where that place got burned down[32].[33]Second, how did you get into the guesthouse[34]storage room?[35]According to Tommy, that door's always[36]locked.[37]I just used my[38] ID card [39]to get in.[40]And the last question...[41]That dog that always stops me whenever I see[42]you... Is it yours?[43]Nah, just follows me around.[44]I dunno why, that [45]stray[46] just seems to like[47]me. It's not mine.[48]</Original>
-    <Translation>[0]噢！呼……[1]我还以为会死在里面呢！[2]你疯了？躲在那里？[3]但是……[4]但是什么？[5]这是我唯一能躲得地方……[6]你首先就不应该想到躲起来啊！[7]为什么之前在接待处里偷吃[8]东西？[9]我饿了……[10]不管你饿不饿，你也不能[11]偷东西啊！[12]对不起……[13]我从昨天开始就没吃东西……真的很饿了……[14]那是因为你离家出走，[15]自讨苦吃。[16]什么？[17]你咋知道我离家出走的？[18]我就是知道。[19]我还知道其他一些事呢……马修·克鲁索。[20]你怎么还知道我的名字啊？[21]谁告诉你的？[22]我可以告诉你是谁说的……[23]但首先，你必须回答我的问题，[24]知道了吗？[25]好的，问吧。[26]首先，你从哪里得到[27]刚刚那只泰迪熊的？[28]是找到的。[29]找到的？[30]是的，就在[31]房子烧掉的那个地方[32]。[33]第二个问题，你是怎么进到[34]接待处储藏室里的？[35]汤米说，那扇门平时一直[36]锁着的。[37]我就用了我的[38]ID卡[39]进去的。[40]那最后一个问题……[41]每次看到你的时候，都有条狗挡在[42]我面前……那是你的狗吗？[43]不啊，它老跟着我嘛。[44]不知道为什么，那只[45]迷路狗狗[46]好像蛮喜欢[47]我的，但不是我养的。[48]</Translation>
+    <Translation>[0]噢！呼……[1]我还以为会死在里面呢！[2]你疯了？躲在那里？[3]但是……[4]但是什么？[5]这是我唯一能躲得地方……[6]你首先就不应该躲起来啊！[7]为什么之前在接待处里偷吃[8]东西？[9]我饿了……[10]不管你饿不饿，你也不能[11]偷东西啊！[12]对不起……[13]我从昨天开始就没吃东西……真的很饿了……[14]那是因为你离家出走，[15]自讨苦吃。[16]什么？[17]你咋知道我离家出走的？[18]我就是知道。[19]我还知道其他一些事呢……马修·克鲁索。[20]你怎么还知道我的名字啊？[21]谁告诉你的？[22]我可以告诉你是谁告诉我的……[23]但首先，你必须回答我的问题。[24]知道了吗？[25]好吧，问吧。[26]首先，你带着的那只泰迪熊[27]是从哪儿来的？[28]是找到的。[29]找到的？[30]是的，就在[31]房子烧掉的那个地方[32]。[33]第二个问题，你是怎么进到[34]接待处的储藏室里的？[35]汤米说，那扇门平时一直[36]锁着的。[37]我用了我的[38]ID卡[39]就进去的。[40]那最后一个问题……[41]每次看到你的时候，都有条狗挡在[42]我面前……那是你的狗吗？[43]不啊，它老跟着我而已。[44]不知道为什么，那只[45]流浪狗[46]好像蛮喜欢[47]我的，但不是我养的。[48]</Translation>
   </Sentence>
   <Sentence id="152">
     <Commands>
@@ -2114,7 +2114,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]What were you saying about that place that [1]got burned down?[2]It's near the campsite gate.[3]Oh, where the villa used to be?[4]Yeah. I found that teddy bear there.[5]What was it doing there?[6]How should I know?[7]This is my teddy bear.[8]I had it in my bag when I got here.[9]Your bag?[10]Yeah. A white bag with Pinkie Rabbit on it.[11]Anyway...[12]Pinkie Rabbit?[13]Oh, that bag was there too, then.[14]What? You saw it?[15]Yeah, at the burned ruin place.[16]Hmm...[17]</Original>
-    <Translation>[0]你说被烧毁的地方[1]是在哪里呢？[2]就在营地大门附近啊。[3]噢，就是以前别墅的所在地。[4]是的，我就是在那里找到泰迪熊的。[5]它怎么会在那里呢？[6]我怎么知道啊？！[7]这是我的泰迪熊啊。[8]这只熊是我放在包里带来的。[9]你的包？[10]是的，一个白色的包包，上面还有一只粉粉兔。[11]大概就这样……[12]粉粉兔？[13]噢，那个包也在那里啊。[14]什么？你看到了？[15]是啊，就在被烧掉的地方。[16]唔……[17]</Translation>
+    <Translation>[0]你说被烧毁的地方[1]是在哪里呢？[2]就在营地大门附近啊。[3]噢，就是以前别墅的所在地。[4]是的，我就是在那里找到泰迪熊的。[5]它怎么会在那里呢？[6]我怎么知道啊？！[7]这是我的泰迪熊啊。[8]这只熊是我放在包里带来的。[9]你的包？[10]是的，一个白色的包包，上面还有一只粉粉兔。[11]反正……[12]粉粉兔？[13]啊，那个包也在那里啊。[14]什么？你看到了？[15]是啊，就在被烧掉的地方。[16]哦……[17]</Translation>
   </Sentence>
   <Sentence id="153">
     <Commands>
@@ -2127,7 +2127,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You said that dog's a stray?[1]Yeah.[2]I saw it wandering around when I got here[3]yesterday.[4]I gave it something to eat and then bam! It[5]started following me.[6]</Original>
-    <Translation>[0]你刚刚说那条狗迷路了？[1]对啊。[2]我昨天来这里的时候，看到它在附近[3]游荡。[4]我给它吃了点东西，然后它突然[5]就开始跟着我了。[6]</Translation>
+    <Translation>[0]你刚刚说那条狗是只流浪狗？[1]对啊。[2]我昨天来这里的时候，看到它[3]在附近晃悠。[4]我给它吃了点东西，然后它[5]就开始跟着我了。[6]</Translation>
   </Sentence>
   <Sentence id="154">
     <Commands>
@@ -2144,7 +2144,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Why do you have an ID card?[1]Found it.[2]It got me into that storage room.[3]Mm-hmm...[4]I swear, it was just lying there with a music[5]player![6]A music player?[7]Yeah, I picked that up too.[8]But the batteries were dead, so I just threw it[9]away.[10]</Original>
-    <Translation>[0]你怎么会有ID卡的？]找到的哦。[2]有了它我才能进储藏室。[3]嗯……4]我发誓，卡是和一个播放器[5]一起被扔在那里的。[6]播放器？[7]是的，我也把那个捡起来了，[8]不过电池用完了，我就把它[9]扔了。[10]</Translation>
+    <Translation>[0]你怎么会有ID卡的？[1]找到的啊。[2]有了它我才能进储藏室。[3]嗯……[4]我发誓，卡就和一个mp3[5]一起被扔在那里了！[6]mp3？[7]是啊，我也把那个捡起来了。[8]不过电池用完了，所以我就[9]把它扔了。[10]</Translation>
   </Sentence>
   <Sentence id="155">
     <Commands>
@@ -2193,7 +2193,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ANFkAAoA</Command>
     </Commands>
     <Original>[0]Ah...[1]That all you wanted to ask?[2]I guess.[3]Right, my turn.[4]You want to ask me something?[5]First, what's your name?[6]Ashley. Ashley Mizuki Robins.[7]Right, Ashley, how do you know I ran away?[8]The Ranger told me about you.[9]Huh?[10]He showed me a photo of you and asked me[11]if I'd seen you around.[12]And? Did you tell him about me?[13]Of course.[14]What?![15]Oh, come on.[16]I did see you. Why would I lie?[17]But...[18]You think you can run away from home and[19]not get reported missing?[20]And you pulled the same stunt last year too?[21]You know about that too?[22]Sure do.[23]So why'd you run away? I bet your family's[24]worried sick.[25]As if.[26]If my uncle cares so much about me,[27]why doesn't he come and get me?[28]He knows I'm here![29]Your uncle?[30]My dad's brother. I live with him.[31]What about your parents?[32].....[33]My mom got sick and died. And my dad...[34]He disappeared five years ago.[35]Disappeared?[36]Yeah. That's why I wanted to come here.[37]You wanted to come here?[38]Yeah.[39]There's [40]something I have to do[41] here.[42]</Original>
-    <Translation>[0]啊……[1]你问完了咯？[2]应该是吧。[3]好！轮到我啦。[4]你也要问我问题吗？[5]首先，你叫什么名字？[6]阿修蕾，阿修蕾·美月·罗宾斯。[7]好的，阿修蕾，你怎么知道我离家出走的？[8]护林员跟我提起你的。[9]喔？[10]他给我看了你的照片，[11]问我是不是看到你了。[2]那么……你有没有告诉他？[13]当然说了。[14]什么？！[15]嘿，别那么惊讶，[16]我本来就见到你了，为什么要撒谎？[17]但是……[18]你觉得你能离家出走，[19]又不被当做失踪处理？[20]而且，去年你也已经有过前科了不是吗？[21]这你也知道？[22]当然了。[23]好了，告诉我为什么你要离家出走？你家里人[24]一定得担心死了。[25]担心倒怪了。[26]如果我叔叔那么关心我，[27]为什么不自己来找我？[28]他可知道我会来这里的！[29]你叔叔？[30]我爸爸的兄弟啊，我和他住一起的。[31]那你父母呢？[32]……[33]我妈妈得病死了，我爸爸……[34]他五年前失踪了。[35]失踪？[36]是的，这也是我来这里的原因。[37]来这里的原因？[38]是啊。[39]有一些[40]我必须去做的事[41]哦。[42]</Translation>
+    <Translation>[0]啊……[1]你问完了吧？[2]应该是吧。[3]好！轮到我啦。[4]你也要问我问题吗？[5]首先，你叫什么名字？[6]阿修蕾，阿修蕾·美月·罗宾斯。[7]恩，阿修蕾，你怎么知道我离家出走的？[8]护林员跟我提起你的。[9]哦？[10]他给我看了你的照片，[11]问我有没有看到过你。[2]然后呢？你有没有告诉他？[13]当然说了。[14]什么？！[15]嘿，别激动。[16]我的确看到你了。为什么我要撒谎啊？[17]但是……[18]你觉得你能就这样离家出走了，[19]而不被当做失踪处理？[20]而且，去年你也已经有过前科了不是吗？[21]这你也知道？[22]当然了。[23]好了，告诉我为什么你要离家出走？你家里人[24]一定得担心死了。[25]担心才怪。[26]如果我叔叔那么关心我，[27]为什么不自己来找我？[28]他知道我会来这里的！[29]你叔叔？[30]我爸爸的兄弟啊。我和他住一起。[31]那你父母呢？[32]……[33]我妈妈生病过世了。我爸爸……[34]他五年前失踪了。[35]失踪？[36]是的，这也是我想来这儿的原因。[37]你想来这儿？[38]是啊。[39]有一些[40]我必须去做的事[41]。[42]</Translation>
   </Sentence>
   <Sentence id="156">
     <Commands>
@@ -2212,7 +2212,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ANJkAAoA</Command>
     </Commands>
     <Original>[0]What do you have to do?[1]I'm looking for clues.[2]Clues? Clues for what?[3]Clues to help track down my dad.[4]What do you mean?[5]Ashley, can you keep a secret?[6]A secret?[7]Yeah, sure, why not?[8]Right, I'll tell you if you don't tell anyone else.[9]I'm looking for my dad because he was[10]kidnapped[11].[12]</Original>
-    <Translation>[0]你必须做什么？[1]我在找线索。[2]线索？什么的线索？[3]追查我爸爸的线索。[4]什么意思？[5]阿修蕾，你可以替我保密吗？[6]保密？[7]当然可以了，没理由不答应啊。[8]好吧，如果你不告诉其他人，我就告诉你。[9]我在找我的爸爸，因为他[10]被绑架[11]了。[12]</Translation>
+    <Translation>[0]你必须做什么事啊？[1]我在找线索。[2]线索？什么的线索？[3]追查我爸爸的线索。[4]什么意思？[5]阿修蕾，你可以替我保密吗？[6]保密？[7]当然可以了，没理由不答应啊。[8]好吧，如果你不告诉其他人，我就告诉你。[9]我在找我的爸爸，因为他[10]被绑架[11]了。[12]</Translation>
   </Sentence>
   <Sentence id="157">
     <Commands>
@@ -2246,7 +2246,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Kidnapped?[1]Your dad was kidnapped?[2]Yeah.[3]Ashley, my dad is really rich.[4]Rich?[5]Yeah, rolling in cash![6]And?[7]He was kidnapped here five years ago![8]Kidnapped by who?[9]Kidnappers, obviously![10]Really bad people![11]Uh-huh, and?[12]They set this huge ransom for him.[13]But my uncle wouldn't pay it, so my dad never[14]came back...[15]Then he was classed as missing. But he's alive[16]somewhere, I know it![17]So you came here to find him? To find clues[18]to tell you where he is?[19]Bingo.[20]Mm-hmm.[21]So why didn't your uncle pay the ransom?[22]Wasn't your dad rich?[23]Yeah, my dad is, but my uncle isn't.[24]And nobody but my dad had the key to his[25]safe.[26]Mm-hmm.[27]</Original>
-    <Translation>[0]绑架？[1]你爸爸是被绑架的？[2]没错。[3]阿修蕾，我爸爸暴有钱的。[4]暴有钱？[5]是啊，财源滚滚来！[6]然后呢？[7]五年前他就是在这里被绑架的！[8]被谁绑架的？[9]当然是绑匪咯！[10]他们是大坏蛋呢！[11]那么，然后呢？[12]他们提出要很多很多赎金。[13]但我叔叔又不去付，所以我爸爸就再也没有[14]回来……[15]然后他就被定为失踪人口，但我知道[16]他一定在哪里还活着！[17]所以你就来这里找他？搜集[18]他在哪里的线索。[19]答对了！[20]嗯。[21]那么你叔叔为什么不付赎金呢？[22]你爸爸不是富翁吗？[23]我爸爸是，又没说我叔叔也是。[24]而且，除了爸爸之外，没人有[25]保险箱的钥匙。[26]这样啊……[27]</Translation>
+    <Translation>[0]绑架？[1]你爸爸是被绑架的？[2]没错。[3]阿修蕾，我爸爸爆有钱的。[4]爆有钱？[5]是啊，财源滚滚来！[6]然后呢？[7]五年前他就是在这里被绑架的！[8]被谁绑架的？[9]当然是绑匪了！[10]他们是大坏蛋！[11]那么，然后呢？[12]他们提出要很多很多赎金。[13]但我叔叔没有付赎金，所以我爸爸就再也没有[14]回来……[15]然后他就被定为失踪人口，但我知道[16]他一定在哪里还活着！[17]所以你就来这里找他？搜集[18]他在哪里的线索？[19]答对了！[20]嗯。[21]那么你叔叔为什么不付赎金呢？[22]你爸爸不是爆有钱么？[23]我爸爸是，又没说我叔叔也是。[24]而且，除了爸爸之外，没人有[25]保险箱的钥匙。[26]这样啊……[27]</Translation>
   </Sentence>
   <Sentence id="158">
     <Commands>
@@ -2272,7 +2272,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Listen, Matthew.[1]I don't know if your dad was rich or whatever...[2]But I understand why you came here.[3]I swear! My dad's a rich man who got[4]kidnapped![5]And I'm trying to find him![6]My dad's super rich, he-[7]Okay, I got it![8]Your dad's rich, yeah, yeah.[9]Ashley...[10]Do you believe me?[11]</Original>
-    <Translation>[0]听着，马修。[1]我不知道，也不管你爸爸是不是很有钱。[2]但我理解你为什么只身来到这里。[3]我发誓！我爸爸是因为太有钱而被[4]绑架的！[5]我也在试着找他呢！[6]我爸爸巨巨巨有钱，他~7]好好，我知道了！[8]你爸爸很有钱，没错没错。[9]阿修蕾……[10]你相信我说的吗？[11]</Translation>
+    <Translation>[0]听着，马修。[1]我不知道，也不管你爸爸是不是很有钱。[2]但我理解你为什么只身来到这里。[3]我发誓！我爸爸是因为太有钱而被[4]绑架的！[5]我要找到他！[6]我爸爸巨巨巨~~有钱，他……[7]好好，我知道了！[8]你爸爸很有钱，没错没错。[9]阿修蕾……[10]你相信我说的吗？[11]</Translation>
   </Sentence>
   <Sentence id="160">
     <Commands>
@@ -2316,7 +2316,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Not a word of it.[1]Why not?[2]A rich dad? Kidnappers? A ransom?[3]Come on, you have to admit...[4]It does sound kind of ridiculous.[5].....[6]</Original>
-    <Translation>[0]信你才怪咧。[1]为什么啊？[2]巨富爸？坏绑匪？高赎金？[3]别傻了，你必须承认……[4]这剧情怎么说都有点荒唐吧。[5]……[6]</Translation>
+    <Translation>[0]信你才怪咧。[1]为什么啊？[2]富爸爸？坏绑匪？高赎金？[3]别傻了，你必须承认……[4]这剧情怎么说都有点荒唐吧。[5]……[6]</Translation>
   </Sentence>
   <Sentence id="164">
     <Commands>
@@ -2338,7 +2338,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGhQBAAsxAQQAEQFJT1AwMDAAAAAKGgYAAAwAChoHAAADB9AKAA==</Command>
     </Commands>
     <Original>[0]Ashley, how old are you?[1]I'm 16.[2]Ah, 16...[3]What about it?[4]Just wondering if everyone gets like that when[5]they turn 16...[6]"Like that"? What's that supposed to mean?[7]As soon as I open my mouth, you instantly[8]decide I'm lying...[9]I don't want to be like that.[10]I don't ever want to be 16![11]Huh?[12]It's fine. I don't care if you believe me or not.[13]I'm outta here.[14]Matthew...[15]</Original>
-    <Translation>[0]阿修蕾，你今年几岁啊？[1]16岁。[2]啊，16岁啊……[3]怎么样呢？[4]只是好奇是不是每个人到了16岁[5]都会这样……[6]“都会这样？”这是什么意思？[7]只要我一开口说话，你就马上[8]认定我在撒谎……[9]我不要变成这样，[10]我不要长大变成16岁！[11]啊？[12]没关系，你信不信都无所谓，[13]我要走人了。[14]马修……[15]</Translation>
+    <Translation>[0]阿修蕾，你今年几岁啊？[1]16岁。[2]啊，16岁啊……[3]怎么了？[4]只是好奇是不是每个人到了16岁[5]都会这样……[6]“都会这样”？这是什么意思？[7]只要我一开口说话，你就马上[8]认定我在撒谎……[9]我不要变成这样。[10]我不要长大变成16岁！[11]啊？[12]没关系，你信不信都无所谓。[13]我要走人了。[14]马修……[15]</Translation>
   </Sentence>
   <Sentence id="165">
     <Commands>
@@ -2436,7 +2436,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Sorry, I can't get it out on my own...[1](whine)[2]I'll come back later, okay?[3]</Original>
-    <Translation>[0]对不起啊，太重了，赤手空拳地拿不出来……[1]（哀嚎声）[2]过一会儿我会回来的，好吗？[3]</Translation>
+    <Translation>[0]对不起啊，我自己赤手空拳地拿不出来……[1]（哀嚎声）[2]过一会儿我会回来的，好吗？[3]</Translation>
   </Sentence>
   <Sentence id="175">
     <Commands>
@@ -2453,7 +2453,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Something[1] is lying between the [2]boxes.[3]That thing...[4]It's a pink music player![5]Almost exactly like the one Dad gave me![6]Woof![7]Ah, that's what you want...[8]What's it doing in there?[9]Hang on, I'll get it out.[10]</Original>
-    <Translation>[0]有东西[1]夹在[2]箱子中间。[3]那是……[4]是粉红色的播放器！[5]和爸爸跟我的那个几乎一模一样！[6]汪！[7]啊，你想要那个啊……[8]怎么会在那里的？[9]等等啊，我把它拿出来。[10]</Translation>
+    <Translation>[0]有东西[1]夹在[2]箱子中间。[3]那是……[4]是个粉红色的mp3！[5]和爸爸跟我的那个几乎一模一样！[6]汪！[7]啊，你想要的就是那个啊……[8]怎么会在那里的？[9]等等啊，我把它拿出来。[10]</Translation>
   </Sentence>
   <Sentence id="176">
     <Commands>
@@ -2480,7 +2480,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No use...[1]I can lift up the top one, but I need both hands.[2]Sorry, doggy.[3]I can't get the thing out.[4]</Original>
-    <Translation>[0]没用……[1]虽然能举起一个箱子，但是腾不出手了。[2]狗狗，对不起啦。[3]看来我拿不出来了。[4]</Translation>
+    <Translation>[0]不行啊……[1]虽然我能举起一个箱子，但是腾不出手了。[2]狗狗，对不起啦。[3]看来我拿不出来了。[4]</Translation>
   </Sentence>
   <Sentence id="179">
     <Commands>
@@ -2508,7 +2508,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]pink music player[2] at the [3]back.[4]I might as well try to get it out...[5]</Original>
-    <Translation>[0]有一个 [1]粉红色的播放器[2]在[3]后面。[4]不妨试着拿出来看看……[5]</Translation>
+    <Translation>[0]有一个[1]粉红色的mp3[2]在[3]后面。[4]不妨试着拿出来看看……[5]</Translation>
   </Sentence>
   <Sentence id="182">
     <Commands>
@@ -2519,7 +2519,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADHAoA</Command>
     </Commands>
     <Original>[0]There is an[1] iron bar[2] on the floor.[3]Maybe I can use this.[4]</Original>
-    <Translation>[0]有一根[1]铁条[2]在地板上。[3]或许能用这个。[4]</Translation>
+    <Translation>[0]有一根[1]铁棒[2]在地板上。[3]或许能用这个。[4]</Translation>
   </Sentence>
   <Sentence id="183">
     <Commands>
@@ -2530,7 +2530,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Right, I'll try using the bar to get the music[1]player out of there...[2]No, the iron bar won't reach in there...[3]I don't think I can do this on my own.[4]</Original>
-    <Translation>[0]好的，我试试看用铁条把播放器[1]弄出来。[2]不行，这根铁条够不着那么里面……[3]看样子单靠我一个人办不到了。[4]</Translation>
+    <Translation>[0]好的，我试试看用铁棒把mp3[1]弄出来。[2]不行，这根铁棒够不着那么里面……[3]看样子单靠我一个人是办不到了。[4]</Translation>
   </Sentence>
   <Sentence id="184">
     <Commands>
@@ -2541,7 +2541,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Woof![1]You've given up too?[2]Right, I'd better go check out the remains of[3]that villa.[4]</Original>
-    <Translation>[0]汪！[1]你也放弃了？[2]好吧，我还是去看看烧毁别墅[3]的废墟吧。[4]</Translation>
+    <Translation>[0]汪！[1]你也放弃了？[2]好吧，我还是去看看别墅[3]的废墟吧。[4]</Translation>
   </Sentence>
   <Sentence id="185">
     <Commands>
@@ -2550,7 +2550,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No, the iron bar won't reach in there...[1]I don't think I can do this on my own.[2]</Original>
-    <Translation>[0]不行，这根铁条够不着那么里面……[1]看来单靠我一个人办不到了。[2]</Translation>
+    <Translation>[0]不行，这根铁棒够不着那么里面……[1]看来单靠我一个人是不行了。[2]</Translation>
   </Sentence>
   <Sentence id="186">
     <Commands>
@@ -2614,7 +2614,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAEPAQAAAAoA</Command>
     </Commands>
     <Original>[0]There is a [1]gate[2] in front of the [3]remains of the villa.[4]So this is the burned villa...[5]Looks like there's nothing left standing.[6]I wonder if Matthew really did find my bag here.[7]One way to find out![8]The gate's locked.[9]What now?[10]Huh?[11]That was the TAS.[12]The TAS is responding to something again![13]</Original>
-    <Translation>[0]有一扇[1]大铁门[2]挡在了[3]别墅的废墟前面。[4]那么这里就是被烧毁的别墅了……[5]看样子已经被烧得没剩什么竖立着的东西了。[6]真怀疑马修是不是真的在这里找到过我的包包。[7]只有亲自去看看了！[8]大门锁着。[9]现在怎么办？[10]嗯？[11]是TAS啊。[12]TAS又对什么东西起反应了。[13]</Translation>
+    <Translation>[0]有一扇[1]大门[2]挡在了[3]别墅的废墟前面。[4]那么这里就是被烧毁的别墅了……[5]看样子已经被烧得没剩什么能立得起来的东西了。[6]真怀疑马修是不是真的在这里找到过我的包包。[7]只有亲自去看看了！[8]大门锁着。[9]现在怎么办？[10]嗯？[11]是TAS啊。[12]TAS又对什么东西起反应了。[13]</Translation>
   </Sentence>
   <Sentence id="192">
     <Commands>
@@ -2647,7 +2647,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a [1]gate[2] in front of the [3]remains of the villa.[4]So this is the burned villa...[5]Looks like there's nothing left standing.[6]I wonder if Matthew really did find my bag here.[7]Right...[8]I'll try the TAS on this.[9]</Original>
-    <Translation>[0]有一扇[1]大铁门[2]挡在了[3]别墅的废墟前面。[4]那么这里就是被烧毁的别墅了……[5]看上去已经被烧得没剩什么竖立着的东西了。[6]真怀疑马修是不是真的在这里找到过我的包包。[7]好吧……[8]在这上面用TAS试试。[9]</Translation>
+    <Translation>[0]有一扇[1]大门[2]挡在了[3]别墅的废墟前面。[4]那么这里就是被烧毁的别墅了……[5]看上去已经被烧得没剩什么能立着的东西了。[6]真怀疑马修是不是真的在这里找到过我的包包。[7]好吧……[8]在这上面用TAS试试。[9]</Translation>
   </Sentence>
   <Sentence id="195">
     <Commands>
@@ -2741,7 +2741,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]There is a [1]band score[2] on the ground.[3]Hey![4]This is the band score from my bag![5]Which means my bag really must have been[6]here...[7]Matthew was telling the truth.[8]Huh? There's something under the sheets.[9]What's this?[10]A door knocker...[11]It's got two lions' heads on it.[12]...![13]</Original>
-    <Translation>[0]有一份[1]乐谱[2]在地上。[3]嘿！[4]这是我包里的那份乐谱！[5]也就是说，我的包原来真的[6]在这里……[7]马修没有说谎。[8]嗯？谱子下面有什么东西。[9]这是什么？[10]一个门环……[11]上面有两只狮头。[12]……！[13]</Translation>
+    <Translation>[0]有一份[1]乐谱[2]掉在了地上。[3]嘿！[4]这是我包里的那份乐谱！[5]也就是说，我的包原来真的[6]在这里……[7]马修没有说谎。[8]嗯？乐谱下面有什么东西。[9]这是什么？[10]一个门环……[11]上面有两只狮头。[12]……！[13]</Translation>
   </Sentence>
   <Sentence id="205">
     <Commands>
@@ -2841,7 +2841,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matthew![1]What're you doing here?[2]I knew you were telling the truth, so I came to[3]find my bag.[4]You're a good liar, y'know that?[5]You only came here to see if I was telling lies![6]Didn't you?[7]C'mon, give me a break.[8]You just assume I'm lying as soon as I've[9]opened my mouth.[10]Didn't you say you hated people who do that?[11]...![12]Anyway, the bag isn't here. But it was here[13]when you came here before, right?[14]Yeah.[15]Well, I believe you. But it's not here any more.[16]I found the band score from my bag lying[17]around here, but no sign of the bag itself.[18]Matthew, how did you get in here before?[19]Wasn't the gate locked?[20]Yeah, it was.[21]I climbed over the railings to get in.[22]Ah...[23]So you're looking for your bag?[24]Yeah...[25]Someone stole my bag at the bus stop.[26]Someone stole it?[27]Yeah.[28]I came here to see my dad, since I hadn't seen[29]him in six months.[30]And as soon as I got off the bus, someone[31]grabbed my bag and ran off with it.[32]Ah...[33]That's why I was so surprised when I saw you[34]with the teddy bear from my bag.[35]So that's why you chased me?[36]Yeah.[37]Is the bag that important?[38]Is that why you were so upset that it wasn't[39]here?[40]And why you were staring into space like[41]that?[42]Staring into space?[43]Yeah. When I called you, you were just standing[44]there. Staring.[45]No, I was just...[46]I had a flashback of my mom.[47]A flashback of your mom?[48]What's that supposed to mean?[49]I was here at Lake Juliet with my mom 13 years[50]ago.[51]13 years ago? I was only being born then...[52]I didn't remember a thing about being here.[53]But as soon as I came here, I started having[54]these flashbacks about before.[55]Like when I was looking for my bag, I[56]remembered her...[57]Remembered?[58]Don't you live with your mom?[59]No, she's...not here any more.[60]Not here? Why?[61]She died on my third birthday.[62]Ah. Sorry.[63]How'd she die?[64]</Original>
-    <Translation>[0]马修！[1]你在干什么啊？[2]我知道你说的是实话，所以来[3]找我的包啊。[4]知道吗，你很会说谎。[5]你只是来证明我刚刚是在说谎的！[6]不是吗？[7]好了，别再针对我了。[8]每次我张开嘴巴要说话，[9]你就认为我开始说谎了。[10]你不是说你讨厌这样的人吗？[11]……！[12]不管怎么说，包已经不再这里了。不过刚刚[13]你来的时候还在，对吗？[14]对啊。[15]好的，我还是相信你，只是东西已经不在了。[16]我在这里找到包里的乐谱，[17]不过包本身就没影了。[18]对了马修，你之前怎么进来的？[19]大门不是锁着吗？[20]嗯，是锁着。[21]我是翻爬过大门进来的。[22]啊……[23]那你是来找自己的包的？[24]是啊……[25]在汽车站有人偷了我的包包。[26]偷？[27]是的。[28]我是来这里见爸爸的，因为已经[29]六个月没见面了。[30]我一下车，有人就[31]拽着我的包包逃跑。[32]啊……[33]所以我看到你拿着我的[34]泰迪熊时很惊讶，因为泰迪本来在我包里的。[35]这就是你为什么要追着我咯？[36]不然呢。[37]那个包那么重要啊？[38]怪不得你没找到包，看上去[39]那么难过咯？[40]那你刚刚为什么要[41]放空啊？[42]放空？[43]对啊，我叫你的时候，你一动不动[44]站在那里发呆。[45]没有啊，我只是……[46]突然又有了关于妈妈的闪影。[47]你妈妈的闪影？[48]那是什么东西啊？[49]13年前，我和妈妈曾经一起[50]来过这里。[51]13年前？我才刚出生呢……[52]我本来已经不记得在这里的事儿了。[53]但我一到了这里，就开始不断[54]产生一些关于过去的闪影。[55]比如刚刚找包包的时候，就[56]又记起了她……[57]记起？[58]你现在没和你妈妈在一起吗？[59]嗯，她已经……不在了。[60]不在？为什么啊？[61]我三岁生日的时候，她死了。[62]啊，抱歉。[63]她怎么会死的？[64]</Translation>
+    <Translation>[0]马修！[1]你在干什么啊？[2]我知道你说的是实话，所以来[3]找我的包啊。[4]知道吗，你很会说谎。[5]你只是来证明我刚刚是在说谎的！[6]不是吗？[7]好了，别再针对我了。[8]每次我张开嘴巴要说话，[9]你就认为我开始说谎了。[10]你不是说你讨厌这样的人吗？[11]……！[12]不管怎么说，包已经不再这里了。不过刚刚[13]你来的时候还在的，对吗？[14]对啊。[15]好吧，我相信你。只是它现在已经不在了。[16]我在这里找到了包里的乐谱，[17]不过没看到包的踪影了。[18]对了马修，你之前怎么进来的？[19]大门不是锁着吗？[20]嗯，是锁着。[21]我是翻爬过大门进来的。[22]啊……[23]那你是来找自己的包的？[24]是啊……[25]在汽车站有人偷了我的包。[26]有人偷了你的包？[27]是的。[28]我是来这里见爸爸的，因为我们已经[29]六个月没见面了。[30]我一下车，有人就[31]拽着我的包逃跑了。[32]啊……[33]所以我看到你拿着我的泰迪熊时很[34]惊讶，因为泰迪本来在我包里的。[35]这就是你为什么要追着我咯？[36]不然呢。[37]那个包那么重要啊？[38]所以你发现它不在这儿以后[39]那么难过？[40]那你刚刚为什么要那样呆呆地[41]望着天空啊？[42]呆呆地望着天空？[43]对啊，我叫你的时候，你一动不动[44]站在那里发呆。[45]没有啊，我只是……[46]突然又出现关于妈妈的闪影。[47]你妈妈的闪影？[48]那是什么东西啊？[49]13年前，我和妈妈曾经一起[50]来过这里。[51]13年前？我才刚出生呢……[52]我本来已经不记得在这里的事儿了。[53]但我一到了这里，就开始不断[54]产生一些关于过去的闪影。[55]比如刚刚找包的时候，就[56]又想起了她……[57]想起？[58]你现在没和你妈妈在一起吗？[59]嗯，她已经……不在了。[60]不在？为什么啊？[61]我三岁生日的时候她过世了。[62]啊，抱歉。[63]她怎么死的？[64]</Translation>
   </Sentence>
   <Sentence id="209">
     <Commands>
@@ -2849,7 +2849,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]She was shot[1]</Original>
-    <Translation>[0]枪杀[1]</Translation>
+    <Translation>[0]死于枪杀[1]</Translation>
   </Sentence>
   <Sentence id="210">
     <Commands>
@@ -2867,7 +2867,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]She was shot.[1]Shot?![2]Yeah.[3]</Original>
-    <Translation>[0]枪杀。[1]枪杀？[2]是的。[3]</Translation>
+    <Translation>[0]她死于枪杀。[1]枪杀？[2]是的。[3]</Translation>
   </Sentence>
   <Sentence id="212">
     <Commands>
@@ -2889,7 +2889,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I don't really want to talk about it...[1]Why?[2]What difference does it make talking about[3]how she died?[4]I knew it. She's not really dead, is she?[5]Huh?[6]You're lying to me, Ashley.[7]You heard that my mom was dead, so you[8]decided, "Oh, I'll say mine is too!"[9]She's alive, isn't she?[10]No, Matthew, she's not.[11]I just don't want to have to tell you how she[12]died.[13]That's why I said I don't want to talk about it.[14]Come on, how did she die?[15]</Original>
-    <Translation>[0]我真不想再说这件事了……[1]为什么啊？[2]告诉我她是怎么死的[3]又有什么关系？[4]啊我知道了，她没有死对吧？[5]啊？[6]阿修蕾，你在骗我。[7]你一定是听说我妈妈死了，就想安慰我说：[8]“噢！我也告诉他我妈妈死了吧！”[9]她还活着，对不对啊？[10]不，马修，她真的死了。[11]我只是不想非得告诉你她是怎么[12]死的。[13]这也是为什么我不想再说这件事了。[14]说嘛，她是怎么死的？[15]</Translation>
+    <Translation>[0]我真不想再说这件事了……[1]为什么啊？[2]告诉我她是怎么死的[3]有什么关系吗？[4]啊我知道了，她没有死对吧？[5]啊？[6]阿修蕾，你在骗我。[7]你一定是听说我妈妈死了，就想安慰我说：[8]“噢！我也告诉他我妈妈死了吧！”[9]她还活着，对不对啊？[10]不，马修，她真的死了。[11]我又不是非得告诉你她是怎么[12]死的。[13]这也是为什么我说我不想再说这件事了。[14]说嘛，她是怎么死的？[15]</Translation>
   </Sentence>
   <Sentence id="213">
     <Commands>
@@ -2926,7 +2926,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Matthew, my mom...[1]She was murdered.[2]Murdered?![3]Yeah...[4]Why? Why was she killed?[5]My mom was a scientist, studying memory.[6]The man who shot her wanted to steal her[7]thesis, her research.[8]I was with her at the time, but she hid me in a[9]closet...[10]She protected me.[11]You saw her getting killed...[12]You want me to believe that?[13]I'm serious![14]Matthew, do you believe me?[15]Huh?[16]This time I'm the one asking. Do you believe[17]me?[18]I believe you.[19]Thanks. That means a lot.[20]Yeah...[21]I was three when she died.[22]So I don't really remember her at all.[23]And whenever I do remember her here, it's a[24]real surprise.[25]But no matter what, I just want to remember[26]more and more about her.[27]Just like you're searching for your dad...[28]I'm searching for my memories of 13 years ago,[29]of being here with my mom.[30]</Original>
-    <Translation>[0]马修，我妈妈……[1]是被谋杀的。[2]谋杀？！[3]是的……[4]为什么？为什么会被谋杀？[5]我的妈妈是个科学家，专门研究记忆。[6]那个杀她的男人，想夺取[7]她的论文、她的研究成果。[8]那天我跟妈妈在一起，但她把我藏在了[9]衣柜里……[10]她保护了我。[11]你亲眼看着她被杀掉？[12]要我去相信这种事？[13]我像在说话嘛！[14]马修，你相信我吗？[15]嗯？[16]这次轮到我来问了，你相信[17]我吗？[18]我相信你。[19]谢谢，这就够了。[20]是的……[21]她死的那年我才三岁。[22]所以说我之前真的不太记得关于妈妈的事了。[23]在这里，无论回忆起她几次，对我来说[24]都是真正的惊喜。[25]不管怎么样，我只是想去记起[26]更多更多关于她的事。[27]就像你现在在找你爸爸一样……[28]我在寻找13年前的记忆，[29]和妈妈一起在这里的记忆。[30]</Translation>
+    <Translation>[0]马修，我妈妈……[1]是被谋杀的。[2]谋杀？！[3]是的……[4]为什么？为什么会被谋杀？[5]我的妈妈是个科学家，从事记忆方面的研究。[6]那个杀她的男人，想夺取[7]她的论文和研究成果。[8]那天我正和妈妈在一起，但她把我藏在了[9]衣柜里……[10]她保住了我的命。[11]你亲眼看着她被杀掉？[12]要我去相信这种事？[13]我像在说谎么！[14]马修，你相信我吗？[15]嗯？[16]这次轮到我来问了，你相信[17]我吗？[18]我相信你。[19]谢谢，这就够了。[20]是啊……[21]她死的那年我才三岁。[22]所以说过去我真的不太记得关于妈妈的事了。[23]当我在这里又重新拾起了关于她的回忆，[24]对我来说是绝对的惊喜。[25]不管怎么样，我只是想去记起[26]更多更多关于她的事。[27]就像你现在在找你爸爸一样……[28]我在寻找13年前的记忆，[29]和妈妈一起在这里的记忆。[30]</Translation>
   </Sentence>
   <Sentence id="214">
     <Commands>
@@ -2978,7 +2978,7 @@
       <Command>ChoFAAABChoGAAAMAAoaBwAASQPoChoGAABkBAoaHQAABFNUUk1fQkdNX1RBTlNBS1VfMDIAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Hey, Ashley. About your mom...[1]Do your friends know about what happened?[2]No.[3]I've never told them.[4]Me neither...[5]I've never told my friends the truth about why[6]my dad disappeared...[7]Oh?[8]Ashley, I'm sorry. I lied.[9]My dad wasn't kidnapped. Not really.[10]Matthew...[11]But it's true, my dad did disappear five years[12]ago.[13]I believe you.[14]Do you know why he disappeared?[15]He came here to Lake Juliet for work. And...he[16]never came back.[17]He never came back?[18]Yeah...[19]I don't know why he never came back...[20]But he promised me something before he left.[21]What did he promise you?[22]He said he'd go cycling with me.[23]Before he disappeared, he was teaching me how[24]to ride a bike.[25]All I did was fall off it, over and over...[26]But then he taught me the trick to it.[27]And after that, I got ten times better.[28]Ashley, the day before he left, he said to me...[29]"Matt, let's go out cycling together this[30]Sunday."[31]Then he went off to work...and never came[32]back.[33]I waited for him. Every day, I waited for him.[34]My mom yelled at me, but I ignored her. I just[35]kept waiting.[36]But then she started crying when she was[37]yelling at me...[38]So I stopped waiting for him.[39]A while later, my mom got sick and she had[40]to go to hospital.[41]She...[42]She never came home.[43]And after she died, I promised myself.[44]I promised I'd find my dad.[45]</Original>
-    <Translation>[0]嘿，阿修蕾，你妈妈的事……[1]你的朋友们都知道吗？[2]不，[3]我从没告诉过他们。[4]我也没有告诉过我同伴。[5]我从没告诉他们为什么我爸爸[6]会失踪不见……[7]噢？[8]阿修蕾，对不起，我确实撒谎了。[9]我爸爸，事实上不是被绑架的。[10]马修……[11]但我爸爸在五年前失踪了，[12]这件事是真的。[13]我相信是真的。[14]你知道他为什么会失踪吗？[15]他是来朱丽叶湖工作的，然后……[16]就再也没回来。[17]再没回来？[18]是的……[19]我不知道爸爸为什么不回来了……[20]但是他在离家之前答应过我的……[21]他答应你什么了？[22]他说会跟我一起骑车出去玩。[23]失踪前，他曾教我[24]骑自行车。[25]我只是一次又一次地，不断地摔倒……[26]但是后来他告诉我骑车的诀窍了。[27]从那以后，我就很会骑了啊。[28]阿修蕾，爸爸离开的前一天，对我说：[29]“马修，我们一起骑车出去玩吧，[30]就在这个礼拜天。”[31]后来他就来了这里，再也没[32]回过家。[33]我每天都在等他，每天都等。[34]妈妈对我大喊大叫，我也不在乎，只是[35]一直等着。[36]不过每次妈妈对我吼叫后，都会[37]开始哭泣……[38]所以我也不再等爸爸了。[39]过了一段时间，妈妈生病了，[40]去了医院。[41]就……[42]就再也没回家了……[43]妈妈死了以后，我就对自己发誓，[44]一定要找到爸爸。[45]</Translation>
+    <Translation>[0]嘿，阿修蕾，你妈妈的事……[1]你的朋友们都知道吗？[2]不知道。[3]我从没告诉过他们。[4]我也是……[5]我从来没和我的朋友说过为什么[6]我爸爸会失踪……[7]噢？[8]阿修蕾，对不起，我确实撒谎了。[9]我爸爸，事实上不是被绑架的。[10]马修……[11]但我爸爸在五年前失踪了，[12]这件事是真的。[13]我相信是真的。[14]你知道他为什么会失踪吗？[15]他是来朱丽叶湖工作的，然后……[16]就再也没回来。[17]再没回来？[18]是的……[19]我不知道爸爸为什么不回来了……[20]但是他在离家之前答应过我的……[21]他答应你什么了？[22]他说会跟我一起骑车出去玩。[23]失踪前，他一直在教我[24]骑自行车。[25]我一次又一次地，不断地摔倒……[26]然后他告诉了我骑车的诀窍。[27]后来我就会骑多了。[28]阿修蕾，爸爸离开的前一天，对我说：[29]“马修，我们一起骑车出去玩吧，[30]就在这个礼拜天。”[31]后来他就来了这里，再也没[32]回过家。[33]我等着他，每天都在等。[34]妈妈对我大喊大叫，我也不在乎，只是[35]一直等着。[36]不过每次妈妈对我吼叫后，都会[37]开始哭泣……[38]所以我也不再等爸爸了。[39]过了一段时间，妈妈生病了，[40]去了医院。[41]她……[42]她再也没回来……[43]妈妈死了以后，我答应自己，[44]一定要找到爸爸。[45]</Translation>
   </Sentence>
   <Sentence id="215">
     <Commands>
@@ -3005,7 +3005,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ANNkAAoA</Command>
     </Commands>
     <Original>[0]So that's how it really happened?[1]Yeah.[2]That's why I'm here. That's why I'm going to[3]find my dad.[4]Okay, Matt. I understand why you came here,[5]but that doesn't make running away any better.[6]Like I said before, your uncle's probably[7]worried sick about you.[8]No way.[9]I'm sure...[10]Whoa![11]What's wrong?[12]Ashley, look at this! These footprints are huge![13]Wow... They really are...[14]They definitely belong to that guy.[15]What guy?[16]The guy I saw when I came here before.[17]There was a [18]man in sunglasses[19].[20]</Original>
-    <Translation>[0]那么，这些就都是真话了。[1]是的。[2]所以我来到了这里，所以[3]我要找到爸爸。[4]好的，马修。我知道你为什么来这里了，[5]但是这并不代表离家出走就是天经地义的。[6]我刚刚也说了，你叔叔可能[7]很担心你呢。[8]不可能的。[9]我确定他……[10]哇啊！[11]怎么了？[12]阿修蕾，快看啊！这些脚印好大啊！[13]哇……确实很大……[14]这些脚印一定是那个人的。[15]哪个？[16]我之前来这里时看到的人。[17]那是一个 [18]戴着墨镜[19]的男人。[20]</Translation>
+    <Translation>[0]那么，这些就都是真话了。[1]是的。[2]所以我来到了这里，所以[3]我要找到爸爸。[4]好吧，马修。我知道你为什么来这里了。[5]但是这并不代表离家出走就是对的。[6]我刚刚也说了，你叔叔可能正在[7]担心你呢。[8]才不会。[9]我确定他……[10]哇啊！[11]怎么了？[12]阿修蕾，快看啊！这些脚印好大啊！[13]哇……确实很大……[14]这些脚印一定是那个人的。[15]哪个人？[16]我之前来这里时看到的人。[17]那是一个 [18]戴着墨镜的男人[19]。[20]</Translation>
   </Sentence>
   <Sentence id="216">
     <Commands>
@@ -3017,7 +3017,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]A man in sunglasses?[1]Was he tall and dressed in a suit and stuff?[2]Yeah.[3]Really suspicious-looking.[4]So he was here too...[5]</Original>
-    <Translation>[0]戴墨镜的男人？[1]他是不是长得很高，穿着西装或什么的？[2]没错。[3]看上去真的很可疑哦。[4]也就是说，他也来过这里……[5]</Translation>
+    <Translation>[0]戴墨镜的男人？[1]他是不是长得很高，穿着西装或什么的？[2]没错。[3]看上去真的很可疑诶。[4]也就是说，他也来过这里……[5]</Translation>
   </Sentence>
   <Sentence id="217">
     <Commands>
@@ -3031,7 +3031,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Huh?[1]There's a message from Dad.[2]Oh, I almost forgot![3]I have to go to the cottage...[4]Hey...[5]Matt disappeared.[6]Where'd he go?[7]</Original>
-    <Translation>[0]嗯？[1]有条爸爸发来的信息。[2]噢！我差点忘了啊！[3]现在必须先去小屋……[4]嘿……[5]马修消失了。[6]又去哪里了？[7]</Translation>
+    <Translation>[0]嗯？[1]有条爸爸发来的信息。[2]啊！我差点忘了！[3]现在必须先去小屋……[4]嘿……[5]马修不见了。[6]他去哪里了？[7]</Translation>
   </Sentence>
   <Sentence id="218">
     <Commands>
@@ -3072,7 +3072,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACzYBAABuAQAAAAoA</Command>
     </Commands>
     <Original>[0]Ashley![1]Huh?[2]</Original>
-    <Translation>[0]阿修蕾！[1]喔？[2]</Translation>
+    <Translation>[0]阿修蕾！[1]恩？[2]</Translation>
   </Sentence>
   <Sentence id="223">
     <Commands>
@@ -3120,7 +3120,7 @@
       <Command>Ggb/AAAAChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1AMtkAAoA</Command>
     </Commands>
     <Original>[0]Tommy![1]Hey.[2]Where you been?[3]Down there, where the fire was.[4]Ah, what's left of the [5]director's villa[6], right?[7]You know that's off-limits?[8]Well, yeah, but I just wanted to take a look...[9]Find anything interesting?[10]Nope.[11]Oh, hey, your dad called.[12]He had to head back to his cottage, so he[13]asked me to tidy away your camp stuff.[14]So I just got back from doing that. Sorry it got[15]called off.[16]Ah...[17]Yeah, my dad got an urgent call, so he had to[18]dash back to work.[19]Then he told me to go meet him at his cottage.[20]Right, right...[21]Gotta be a pain to have a workaholic dad...[22]You don't know the half of it.[23]Hey Tommy, are you gonna introduce me or[24]not?[25]Hmm? Oh, yeah.[26]Ash Robins, meet my friend [27]Sam Hillman[28].[29]Hey, Ash. 'Sup?[30]Hey, Sam.[31]Didn't I see you here before?[32]I think so... You were with Elizabeth, right?[33]Oh yeah![34]Are you three all friends?[35]Yeah, we're all [36]in a band together[37].[38]Gonna enter a [39]contest[40] real soon.[41]</Original>
-    <Translation>[0]汤米啊！[1]嘿你好。[2]你去哪儿了？[3]这里面，之前被烧的地方。[4]啊，是[5]所长别墅[6]的废墟吧？[7]你应该知道那里禁止入内哦。[8]呃，是的，但我只是想去看看……[9]那找到什么有趣的东西？[10]没有。[11]噢，对了，你爸爸找你。[12]他去了他的那个小屋，所以[13]让我去清理一下你们的营地。[14]我正好收拾完回来。野营就这么[15]结束了啊。[16]呃……[17]是啊，我爸爸接到个紧急电话，所以必须[18]赶回去工作，[19]然后又告诉我去小屋跟他碰头。[20]那就好，那就好……[21]不过有个工作狂老爸最逊了……[22]比你想的更逊……[23]嘿汤米，你还准不准备[24]介绍一下我了？[25]嗯？噢，对对对。[26]小蕾，这是我的朋友[27]萨姆·希尔曼[28]。[29]唷，小蕾， 好啊~[30]你好，萨姆。[31]我之前有见过你吧？[32]我想……是的，你刚刚和伊丽莎白在一起对吧？[33]噢没错~[34]你们三个是朋友吗？[35]是噢，死党来着，[36]在同一个乐队[37]。[38]准备参加[39]一个比赛[40]哦，应该就在最近吧。[41]</Translation>
+    <Translation>[0]汤米啊！[1]你好啊。[2]你去哪儿了？[3]这前面，之前发生火灾的地方。[4]啊，是[5]所长家别墅[6]的废墟吧？[7]你应该知道那里禁止入内吧。[8]呃，是没错，但我只是想去看看……[9]那找到什么有趣的东西了吗？[10]没有。[11]噢，对了，你爸爸打电话过来了。[12]他得回了他的那个小屋，所以[13]让我去清理一下你们的营地。[14]我正好收拾完回来。很遗憾野营就这么[15]结束了啊。[16]啊……[17]是啊，我爸爸接到个紧急电话，所以必须[18]赶回去工作。[19]然后又告诉我去小屋跟他碰头。[20]这样啊，呵呵……[21]有个工作狂老爸一定很惨……[22]比你想的更惨……[23]嘿汤米，你还准不准备[24]做一下介绍了？[25]嗯？噢，对对对。[26]小蕾，这是我的朋友[27]萨姆·希尔曼[28]。[29]嘿，小蕾，你好啊~[30]你好，萨姆。[31]我之前有见过你吧？[32]我想……是的，你之前和伊丽莎白在一起对吧？[33]没错~[34]你们三个是朋友吗？[35]是噢，我们[36]在同一个乐队里面[37]。[38]准备参加[39]一个比赛[40]哦，应该就在最近吧。[41]</Translation>
   </Sentence>
   <Sentence id="224">
     <Commands>
@@ -3140,7 +3140,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Hey, did you say it was the director's villa that[1]got burned down?[2]Yeah, the director of JC Valley.[3]You mean Elizabeth's dad?[4]Nah, the one before him.[5]I didn't know you knew Elizabeth so well, Ash.[6]Yeah, I saw her with Sam before. And she[7]showed up at my campsite too.[8]Aha...[9]But yeah, who was the last director?[10]Judd Fitzgerald.[11]Famous scientist, set up JC Valley. Died six[12]years ago, though.[13]</Original>
-    <Translation>[0]对了，你刚刚说被火烧毁的别墅[1]是所长的？[2]没错，JC山谷的所长。[3]伊丽莎白的爸爸吗？[4]不不，是前一任。[5]小蕾，我还不知道你你那么了解伊丽莎白呢。[6]是啊，之前她不是和萨姆在一起吗，后来[7]还在我的营地出现呢。[8]这样哈……[9]那么，谁是前一任所长啊？[10]贾德·菲茨杰拉德。[11]创立了JC山谷，是个很有名的科学家，不过[12]六年前死了。[13]</Translation>
+    <Translation>[0]对了，你刚刚说被火烧毁的别墅[1]是所长的？[2]没错，JC山谷的所长。[3]伊丽莎白的爸爸吗？[4]不不，是前一任。[5]小蕾，我还不知道你你那么了解伊丽莎白呢。[6]是啊，之前她不是和萨姆在一起吗，后来[7]还在我的营地出现呢。[8]这样哈……[9]那么，谁是前一任所长啊？[10]贾德·菲茨杰拉德。[11]他创立了JC山谷，是个很有名的科学。不过[12]六年前死了。[13]</Translation>
   </Sentence>
   <Sentence id="225">
     <Commands>
@@ -3156,7 +3156,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]So you guys are in a band?[1]Yeah. I play guitar, Sam's on drums.[2]And Elizabeth?[3]Keyboard and vocals.[4]It's nothing serious or anything, we're just[5]playing around.[6]Lies. Tommy guitars like a pro. Top-notch.[7]All our band's fans have huge crushes on him.[8]Don't you start with that.[9]</Original>
-    <Translation>[0]你们三个人在一个乐队？[1]是的，我玩吉他的，萨姆是鼓手。[2]那伊丽莎白是？[3]键盘兼主音。[4]没那么认真啦，我们[5]只是玩玩而已。[6]说谎了吧。汤米的吉他是超一流水准的，[7]我们乐队所有的歌迷都为他而疯狂。[8]你也不先说说这事啊。[9]</Translation>
+    <Translation>[0]你们三个人在一个乐队？[1]是啊，我是吉他手，萨姆是鼓手。[2]那伊丽莎白是？[3]键盘兼主音。[4]没那么认真啦，我们[5]只是玩玩而已。[6]别谦虚了。汤米的吉他是超一流水准的，[7]我们乐队所有的歌迷都为他而疯狂。[8]快住嘴……[9]</Translation>
   </Sentence>
   <Sentence id="226">
     <Commands>
@@ -3170,7 +3170,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACzYBBwBaAAAAAAoA</Command>
     </Commands>
     <Original>[0]So you're entering a contest?[1]You're not talking about Be the Band, are you?[2]Bang on.[3]That contest's a sure-fire shortcut to the big[4]time. Pro debut, here we come![5]You really wanna do that?[6]Course![7]</Original>
-    <Translation>[0]你们要参加比赛？[1]不会是“巅峰乐队”吧？[2]一击命中！[3]据可靠情报，那个比赛是出风头的[4]绝佳机会。完美首演！我们来啦！[5]你们真的要参加？[6]还用说嘛！[7]</Translation>
+    <Translation>[0]你们要参加比赛？[1]不会是“巅峰乐队”的比赛吧？[2]一语命中！[3]据可靠情报，那个比赛是出风头的[4]绝佳机会。完美首演！我们来啦！[5]你们真的要参加？[6]还用说嘛！[7]</Translation>
   </Sentence>
   <Sentence id="227">
     <Commands>
@@ -3188,7 +3188,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I don't believe it...[1]They're entering the contest I was thinking of[2]going for.[3]With Elizabeth too![4]</Original>
-    <Translation>[0]真不敢相信……[1]他们要参加的比赛，[2]我也想去啊。[3]竟然还有伊丽莎白！[4]</Translation>
+    <Translation>[0]真不敢相信……[1]他们要参加的比赛竟然也是[2]我想去的。[3]竟然还有伊丽莎白！[4]</Translation>
   </Sentence>
   <Sentence id="229">
     <Commands>
@@ -3199,7 +3199,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBQAAMwoaDQAAFQAAAAAAAAAAChoMAAAIAAAAAAAAAAoaDgEACwABAAAAAAAAAAoaBgAADAAKGhQBAAs1AAcACQFJT1AwMDIAAAAKGgYAAAwAChoUAQALNQERAAkBSU9QMDAzAAAACgA=</Command>
     </Commands>
     <Original>[0]Hey, Ash.[1]We're gonna take off now.[2]See ya, Ash![3]See you![4]</Original>
-    <Translation>[0]嘿小蕾。[1]我们先闪啦。[2]回见！[3]回头见！[4]</Translation>
+    <Translation>[0]嘿小蕾。[1]我们先闪啦。[2]小蕾，回见！[3]回头见！[4]</Translation>
   </Sentence>
   <Sentence id="230">
     <Commands>
@@ -3271,7 +3271,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDQAAFQAAAAABAAAAChoMAAAIAAAvAQAAAAoA</Command>
     </Commands>
     <Original>[0]There's a message from Dad.[1]So that's the story behind the mines...[2]</Original>
-    <Translation>[0]有条爸爸的信息。[1]这就是矿洞背后的故事了……[2]</Translation>
+    <Translation>[0]有条爸爸的信息。[1]这就是矿洞的故事……[2]</Translation>
   </Sentence>
   <Sentence id="239">
     <Commands>
@@ -3345,7 +3345,7 @@
       <Command>ChoFAAABChoMAAAIAAB3AAAAAAoaDQAAFQAAAAAAAAAAChoJAAA1ANhkAAoA</Command>
     </Commands>
     <Original>[0]Hey![1]Matt![2]Huh?[3]So this is where you ran off to.[4]You just disappeared on me back there...[5]What're you doing here?[6]Nothing. Yet.[7]Yet?[8]Okay, what are you planning to do here?[9]I'm gonna look for [10]clues about my dad[11] in the[12]boathouse.[13]</Original>
-    <Translation>[0]嘿！[1]马修！[2]嗯？[3]原来你跑这里来啦！[4]你刚刚在那里又搞突然失踪了……[5]在这里干什么呢？[6]没，还没。[7]还没？[8]那好我问你，你准备干什么？[9]我要找找[10]关于爸爸的线索，[11]就在[12]船屋里面哦。[13]</Translation>
+    <Translation>[0]嘿！[1]马修！[2]嗯？[3]原来你跑这里来啦！[4]你刚刚又搞突然失踪了……[5]在这里干什么呢？[6]没什么。还没开始。[7]还没开始？[8]那好我问你，你准备干什么？[9]我要找找[10]关于爸爸的线索[11]，就在[12]船屋里面。[13]</Translation>
   </Sentence>
   <Sentence id="246">
     <Commands>
@@ -3359,7 +3359,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]You're looking for clues about your dad, huh?[1]Yeah.[2]I was planning to come here last year when I[3]ran away then...[4]But it was locked, I couldn't get in.[5]Dan said it's not used any more, so it's[6]probably still locked.[7]</Original>
-    <Translation>[0]你在找关于你爸爸失踪的线索，对吧？[1]没错。[2]去年我离家出走的时候，[3]打算来这里的……[4]但是那时候门锁着，没法进去啊。[5]丹不是说这里已经废弃不用了吗，所以[6]今天可能还锁着哦。[7]</Translation>
+    <Translation>[0]你在找关于你爸爸失踪的线索，对吧？[1]没错。[2]去年我离家出走的时候，[3]打算来这里的……[4]但是那时候门锁着，我没法进去。[5]丹不是说这里已经废弃不用了吗，所以[6]今天可能还锁着呢。[7]</Translation>
   </Sentence>
   <Sentence id="247">
     <Commands>
@@ -3407,7 +3407,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Yeah, but I have my ID card now.[1]That'll get us in.[2]Didn't you pick that up somewhere? You[3]should think about handing that in.[4]Plus Dan, that Ranger guy, warned me about[5]this place.[6]He said there were some bad people hanging[7]around here.[8]Bad people?[9]Yeah. Like that guy in the sunglasses you saw[10]earlier.[11]He was here too?[12]Looks like it.[13]Then we really do have to go in![14]If there's bad people hanging around, it means[15]there has to be something in there![16]They might even be looking for clues about my[17]dad too![18]Well, you shouldn't go in.[19]It's dangerous to go alone. What if something[20]happens to you?[21]Well...[22]If you come with me, then I won't be alone,[23]will I?[24]Go in with you?[25]Why do I have to go in with you?[26]Fine, never mind.[27]I'll go on my own.[28]I'll be fine by myself anyway.[29]Matt...[30]What?[31]If you want me to go in with you, then just[32]say so.[33]If I do, will you?[34]Only one way to find out.[35]OK. Ash, you can come in with me.[36]If you want to.[37]Bah.[38]That's not asking me either![39]But whatever, let's go.[40]Right![41]</Original>
-    <Translation>[0]没错，不过现在我已经有ID卡啦。[1]这样就进得去了。[2]这张卡不是你从其他地方捡来的吗？你[3]应该先去把卡交给管理员吧。[4]而且那个护林员丹，叫我[5]当心这个地方。[6]他说有些坏人在这里附近[7]游荡哦。[8]坏人？[9]是的，就像你之前看到的[10]墨镜男。[11]他也在这里？[12]挺有可能的！[13]那我们必须进去啦！[14]如果说坏人都在这里游荡，[15]说明里面一定有什么东西啊！[16]他们很可能也是来找关于我爸爸[17]的线索的！[18]不行，你不能进去。[19]一个人很危险，如果发生什么事了[20]怎么办？[21]那么……[22]如果你跟我一起进去，我就不是一个人了，[23]对吧？[24]跟你一起？[25]为什么我要跟你一起进去？[26]那算了，当我没说。[27]我还是自己进去。[28]反正一个人也没关系。[29]马修……[30]怎么啦？[31]如果你要我陪你一起去，那么应该用嘴巴[32]说出来。[33]我说了，你就答应？[34]那得说了才知道啊。[35]好的，小蕾，如果你要进去，[36]就一起进去吧。[37]汗。[38]这根本不是在请求吧！[39]好了随便了，走吧！[40]好的！[41]</Translation>
+    <Translation>[0]没错，不过现在我已经有ID卡啦。[1]这样就进得去了。[2]这张卡不是你从其他地方捡来的吗？[3]你应该先去把卡交给管理员吧。[4]而且那个护林员丹，叫我[5]当心这个地方。[6]他说有些坏人在这里附近[7]游荡呢。[8]坏人？[9]是的，就像你之前看到的[10]墨镜男。[11]他也在这里？[12]挺有可能的！[13]那我们更加要进去啦！[14]如果说坏人都在这里游荡，[15]说明里面一定有什么东西啊！[16]他们很可能也是来找关于我爸爸[17]的线索的！[18]不行，你不能进去。[19]一个人太危险了，如果你发生什么事[20]怎么办？[21]那么……[22]如果你跟我一起进去，我就不是一个人了，[23]对吧？[24]跟你一起？[25]为什么我要跟你一起进去？[26]那算了，当我没说。[27]我还是自己一个人进去好了。[28]反正我一个人也能照顾好自己。[29]马修……[30]怎么啦？[31]如果你要我陪你一起去，说出来[32]就好了。[33]我说了，你就答应？[34]那得说了才知道啊。[35]好吧，小蕾，如果你想进去，[36]那我们就一起进去吧。[37]汗。[38]这根本不是在请求吧！[39]好了随便了，走吧！[40]好吧！[41]</Translation>
   </Sentence>
   <Sentence id="248">
     <Commands>
@@ -3443,7 +3443,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ash![1]Where're you going?[2]That's not the boathouse![3]Yeah, yeah...[4]</Original>
-    <Translation>[0]小蕾！[1]你要去哪里？[2]船屋不在那里啊！[3]对……对……[4]</Translation>
+    <Translation>[0]小蕾！[1]你要去哪里？[2]船屋不在那里啊！[3]对哦对哦……[4]</Translation>
   </Sentence>
   <Sentence id="252">
     <Commands>
@@ -5038,7 +5038,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Pink music player[1]</Original>
-    <Translation>[0]粉色播放器[1]</Translation>
+    <Translation>[0]粉色mp3[1]</Translation>
   </Sentence>
   <Sentence id="386">
     <Commands>
@@ -5067,7 +5067,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]No...[1]I saw the pink music player in the shack that[2]Matt was hiding in.[3]</Original>
-    <Translation>[0]不对……[1]我是在棚屋看到粉色播放器的，[2]是马修把它藏在那里的。[3]</Translation>
+    <Translation>[0]不对……[1]我是在棚屋看到粉色mp3的，[2]是马修把它藏在那里的。[3]</Translation>
   </Sentence>
   <Sentence id="389">
     <Commands>
@@ -5343,4 +5343,5 @@
     <Original>[0]Matt?[1]What's up?[2]Actually, never mind.[3]</Original>
     <Translation>[0]马修？[1]怎么了？[2]没什么，没什么。[3]</Translation>
   </Sentence>
+  <Comments />
 </Session>
