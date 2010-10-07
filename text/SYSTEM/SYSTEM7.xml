@@ -1805,7 +1805,7 @@
       <Command>ChoFAAABChoGAAAMAAoaGgEACklOVEVSUlVQVF9Sc1BDTW9uaXRvcgoaQAEACUlOVEVSUlVQVF9Sc1BDTW9uaXRvcl9vZmYASU5URVJSVVBUX0VfUjExMF8wMl9UYWdfMDEuYnJsYW4AChoeAQAKSU5URVJSVVBUX1JzUENNb25pdG9yX29mZgoA</Command>
     </Commands>
     <Original>[0]There is a [1]computer[2]. [3]"I've finally found out who it is. It's [4]Sofia. Hurry..."[5]</Original>
-    <Translation>[0]这有一台[1]电脑[2]。[3]"我最终查出是谁了。是[5]索菲亚。快……”[6]</Translation>
+    <Translation>[0]这有一台[1]电脑[2]。[3]"我最终查出是谁了。是[4]索菲亚。快……”[5]</Translation>
   </Sentence>
   <Sentence id="180">
     <Commands>

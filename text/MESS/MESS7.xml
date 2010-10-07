@@ -1716,7 +1716,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There are room names on the [1]control panel[2] beneath the monitor.[3]</Original>
-    <Translation>[0]显示屏下方的[1]控制面板上写着[3]一个个房间的名称。[4]</Translation>
+    <Translation>[0]显示屏下方的[1]控制面板[2]上写着各个房间的名称。[3]</Translation>
   </Sentence>
   <Sentence id="151">
     <Commands>
