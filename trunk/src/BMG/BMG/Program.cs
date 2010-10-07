@@ -49,6 +49,8 @@ namespace BMG
 				catch (Exception ex)
 				{
 					Console.WriteLine(ex.Message);
+
+					Console.ReadKey(true);
 				}
 			}
 		}
