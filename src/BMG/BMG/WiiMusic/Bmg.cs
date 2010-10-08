@@ -11,6 +11,11 @@ namespace BMG.WiiMusic
 	{
 		const string GameFlag = "WiiMusic";
 
+		public override string FileType
+		{
+			get { return "Wii Music - BMG"; }
+		}
+
 		public override string Title { get; set; }
 
 		public override ISentence[] Sentences { get; set; }

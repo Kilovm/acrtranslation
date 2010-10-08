@@ -9,6 +9,11 @@ namespace BMG.ACR
 {
 	public class BMG_ACR : BMG
 	{
+		public override string FileType
+		{
+			get { return "Another Code R - BMG"; }
+		}
+
 		public override string Title { get; set; }
 
 		public override ISentence[] Sentences { get; set; }
