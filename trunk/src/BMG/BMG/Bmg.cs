@@ -8,6 +8,8 @@ namespace BMG
 {
 	public abstract class BMG
 	{
+		public abstract string FileType { get; }
+
 		public abstract ISentence[] Sentences { get; set; }
 		public abstract string Title { get; set; }
 		public abstract void WriteBMG(string filename);
@@ -59,20 +61,32 @@ namespace BMG
 			{
 				try
 				{
-					bmg = new BMG_WM(filename, false);
+					bmg = new MemDat(filename, false);
 				}
-				catch (InvalidXmlException)
+				catch
 				{
-					bmg = new BMG_ACR(filename, false);
-				}
-				catch (Exception)
-				{
-					throw;
+
+					try
+					{
+						bmg = new BMG_WM(filename, false);
+					}
+					catch (InvalidXmlException)
+					{
+						bmg = new BMG_ACR(filename, false);
+					}
+					catch (Exception)
+					{
+						throw;
+					}
 				}
 			}
 			else
 			{
-				if (fi.Name.ToLower().Equals("new_music_message.bmg"))
+				if (fi.Name.ToLower().Equals("memory.dat"))
+				{
+					bmg = new MemDat(filename, true);
+				}
+				else if (fi.Name.ToLower().Equals("new_music_message.bmg"))
 				{
 					bmg = new BMG_WM(filename, true);
 				}

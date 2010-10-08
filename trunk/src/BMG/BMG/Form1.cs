@@ -42,7 +42,7 @@ namespace BMG
 			try
 			{
 				OpenFileDialog ofd = new OpenFileDialog();
-				ofd.Filter = "*.bmg|*.bmg";
+				ofd.Filter = "*.bmg|*.bmg|Memory.dat|Memory.dat";
 
 				if (ofd.ShowDialog() == DialogResult.OK)
 				{
@@ -51,6 +51,7 @@ namespace BMG
 					bmg = BMG.ReadBMG(filename);
 
 					this.Text = bmg.Title;
+					this.toolStripStatusLabel1.Text = bmg.FileType;
 
 					currentIndex = 0;
 
@@ -83,6 +84,7 @@ namespace BMG
 					bmg = BMG.ReadBMG(filename);
 
 					this.Text = bmg.Title;
+					this.toolStripStatusLabel1.Text = bmg.FileType;
 
 					currentIndex = 0;
 
@@ -191,7 +193,7 @@ namespace BMG
                     SaveTranslation();
 
 					SaveFileDialog sfd = new SaveFileDialog();
-					sfd.Filter = "*.bmg|*.bmg";
+					sfd.Filter = "*.*|*.*";
                     sfd.FileName = bmg.Title;
 
 					if (sfd.ShowDialog() == DialogResult.OK)

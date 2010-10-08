@@ -46,6 +46,7 @@
 			this.replaceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.googleTranslateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.bookmarksToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.nextUntranslatedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.splitContainer1 = new System.Windows.Forms.SplitContainer();
 			this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
 			this.tbPrevOriginal = new System.Windows.Forms.TextBox();
@@ -57,8 +58,8 @@
 			this.tbTranslation = new System.Windows.Forms.RichTextBox();
 			this.statusStrip1 = new System.Windows.Forms.StatusStrip();
 			this.lblStatus = new System.Windows.Forms.ToolStripStatusLabel();
+			this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
 			this.vScrollBar1 = new System.Windows.Forms.VScrollBar();
-			this.nextUntranslatedToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.menuStrip1.SuspendLayout();
 			this.splitContainer1.Panel1.SuspendLayout();
 			this.splitContainer1.Panel2.SuspendLayout();
@@ -216,6 +217,14 @@
 			this.bookmarksToolStripMenuItem.Text = "Bookmarks...";
 			this.bookmarksToolStripMenuItem.Click += new System.EventHandler(this.bookmarksToolStripMenuItem_Click);
 			// 
+			// nextUntranslatedToolStripMenuItem
+			// 
+			this.nextUntranslatedToolStripMenuItem.Name = "nextUntranslatedToolStripMenuItem";
+			this.nextUntranslatedToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F3;
+			this.nextUntranslatedToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
+			this.nextUntranslatedToolStripMenuItem.Text = "Next Untranslated";
+			this.nextUntranslatedToolStripMenuItem.Click += new System.EventHandler(this.nextUntranslatedToolStripMenuItem_Click);
+			// 
 			// splitContainer1
 			// 
 			this.splitContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -334,7 +343,8 @@
 			// statusStrip1
 			// 
 			this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.lblStatus});
+            this.lblStatus,
+            this.toolStripStatusLabel1});
 			this.statusStrip1.Location = new System.Drawing.Point(0, 473);
 			this.statusStrip1.Name = "statusStrip1";
 			this.statusStrip1.Size = new System.Drawing.Size(847, 22);
@@ -344,8 +354,14 @@
 			// lblStatus
 			// 
 			this.lblStatus.Name = "lblStatus";
-			this.lblStatus.Size = new System.Drawing.Size(23, 17);
+			this.lblStatus.Padding = new System.Windows.Forms.Padding(5, 0, 20, 0);
+			this.lblStatus.Size = new System.Drawing.Size(48, 17);
 			this.lblStatus.Text = "0/0";
+			// 
+			// toolStripStatusLabel1
+			// 
+			this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
+			this.toolStripStatusLabel1.Size = new System.Drawing.Size(0, 17);
 			// 
 			// vScrollBar1
 			// 
@@ -358,14 +374,6 @@
 			this.vScrollBar1.TabIndex = 3;
 			this.vScrollBar1.Value = 1;
 			this.vScrollBar1.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
-			// 
-			// nextUntranslatedToolStripMenuItem
-			// 
-			this.nextUntranslatedToolStripMenuItem.Name = "nextUntranslatedToolStripMenuItem";
-			this.nextUntranslatedToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F3;
-			this.nextUntranslatedToolStripMenuItem.Size = new System.Drawing.Size(181, 22);
-			this.nextUntranslatedToolStripMenuItem.Text = "Next Untranslated";
-			this.nextUntranslatedToolStripMenuItem.Click += new System.EventHandler(this.nextUntranslatedToolStripMenuItem_Click);
 			// 
 			// Form1
 			// 
@@ -430,6 +438,7 @@
         private System.Windows.Forms.ToolStripMenuItem googleTranslateToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem bookmarksToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem nextUntranslatedToolStripMenuItem;
+		private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
 	}
 }
 
