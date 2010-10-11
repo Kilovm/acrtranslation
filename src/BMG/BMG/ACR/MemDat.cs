@@ -10,7 +10,7 @@ namespace BMG.ACR
 {
 	public class MemDat : BMG
 	{
-		const string FileTitle = "Memory.dat";
+		const string FileTitle = "MEMORY.dat";
 
 		public override string FileType
 		{
