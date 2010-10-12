@@ -147,7 +147,7 @@ namespace BMG
 				}
 				else
 				{
-                    SaveTranslation();
+                    if(!SaveTranslation()) return;
 
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.xml|*.xml";
@@ -175,9 +175,21 @@ namespace BMG
 			}
 		}
 
-        private void SaveTranslation()
+        private bool SaveTranslation()
         {
-            bmg.Sentences[currentIndex].Translation = tbTranslation.Text.Replace("\n", "");
+			try
+			{
+				bmg.Sentences[currentIndex].Translation = tbTranslation.Text.Replace("\n", "");
+				bmg.Sentences[currentIndex].Validate();
+
+				return true;
+			}
+			catch (Exception ex)
+			{
+				MessageBox.Show(ex.Message);
+			}
+
+			return false;
         }
 
 		private void exportBMGToolStripMenuItem_Click(object sender, EventArgs e)
@@ -190,7 +202,7 @@ namespace BMG
 				}
 				else
 				{
-                    SaveTranslation();
+                    if(!SaveTranslation()) return;
 
 					SaveFileDialog sfd = new SaveFileDialog();
 					sfd.Filter = "*.*|*.*";
@@ -227,7 +239,7 @@ namespace BMG
 		{
 			if (bmg == null) return;
 
-            SaveTranslation();
+            if(!SaveTranslation()) return;
 
 			int i = currentIndex - 1;
 			if (i >= 0) currentIndex = i;
@@ -240,7 +252,7 @@ namespace BMG
 		{
 			if (bmg == null) return;
 
-            SaveTranslation();
+            if(!SaveTranslation()) return;
 
 			int i = currentIndex + 1;
 			if (i<bmg.Sentences.Length) currentIndex = i;
@@ -253,7 +265,7 @@ namespace BMG
 		{
 			if (bmg != null)
 			{
-				SaveTranslation();
+				if(!SaveTranslation()) return;
 
 				currentIndex = e.NewValue - 1;
 				RefreshTextBoxes();
@@ -326,7 +338,7 @@ namespace BMG
 		{
 			if (bmg != null)
 			{
-				SaveTranslation();
+				if(!SaveTranslation()) return;
 
 				int lastIndex = -1;
 				for (int i = 0; i < bmg.Sentences.Length; i++)
@@ -363,7 +375,7 @@ namespace BMG
 		{
 			if (bmg == null) return;
 
-			SaveTranslation();
+			if(!SaveTranslation()) return;
 
 			ReplaceForm form = new ReplaceForm();
 
@@ -476,7 +488,7 @@ namespace BMG
 		{
 			if (position >= bmg.Sentences.Length) return;
 
-			SaveTranslation();
+			if(!SaveTranslation()) return;
 
 			currentIndex = position;
 
@@ -490,7 +502,7 @@ namespace BMG
 		{
 			if (bmg != null)
 			{
-				SaveTranslation();
+				if(!SaveTranslation()) return;
 
 				int lastIndex = -1;
 				for (int i = currentIndex; i < bmg.Sentences.Length; i++)

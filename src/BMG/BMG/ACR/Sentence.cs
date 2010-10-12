@@ -250,5 +250,11 @@ namespace BMG.ACR
 
 			return element;
 		}
+
+
+		public void Validate()
+		{
+
+		}
 	}
 }

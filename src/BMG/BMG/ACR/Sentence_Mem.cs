@@ -94,5 +94,19 @@ namespace BMG.ACR
 			_original = element.GetElementsByTagName("Original")[0].InnerText;
 			_translation = element.GetElementsByTagName("Translation")[0].InnerText;
 		}
+
+		public void Validate()
+		{
+			//Encoding enc = Encoding.UTF8;
+
+			//int orgLength = enc.GetByteCount(_original);
+			//int transLength = enc.GetByteCount(_translation);
+
+			//if (transLength > orgLength)
+			//{
+			//    throw new Exception("Length exceeded! " + orgLength + " : " + transLength);
+			//}
+		}
+
 	}
 }
