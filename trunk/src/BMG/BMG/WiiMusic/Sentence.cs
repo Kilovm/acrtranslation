@@ -267,5 +267,11 @@ namespace BMG.WiiMusic
 
 			return element;
 		}
+
+
+		public void Validate()
+		{
+
+		}
 	}
 }

@@ -8,5 +8,7 @@ namespace BMG
 		byte[] ToBytes();
 		System.Xml.XmlElement ToXmlElement(System.Xml.XmlDocument doc);
 		string Translation { get; set; }
+
+		void Validate();
 	}
 }
