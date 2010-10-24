@@ -61,28 +61,39 @@ namespace BMG
 			{
 				try
 				{
-					bmg = new MemDat(filename, false);
+					bmg = new CharaMESS(filename, false);
 				}
 				catch
 				{
-
 					try
 					{
-						bmg = new BMG_WM(filename, false);
+						bmg = new MemDat(filename, false);
 					}
-					catch (InvalidXmlException)
+					catch
 					{
-						bmg = new BMG_ACR(filename, false);
-					}
-					catch (Exception)
-					{
-						throw;
+
+						try
+						{
+							bmg = new BMG_WM(filename, false);
+						}
+						catch (InvalidXmlException)
+						{
+							bmg = new BMG_ACR(filename, false);
+						}
+						catch (Exception)
+						{
+							throw;
+						}
 					}
 				}
 			}
 			else
 			{
-				if (fi.Name.ToLower().Equals("memory.dat"))
+				if (fi.Name.Equals("CHARA.MESS"))
+				{
+					bmg = new CharaMESS(filename, true);
+				}
+				else if (fi.Name.ToLower().Equals("memory.dat"))
 				{
 					bmg = new MemDat(filename, true);
 				}
