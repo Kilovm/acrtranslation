@@ -21,6 +21,7 @@ namespace BMG
         protected BookmarkForm bookmarkForm = null;
 
         Regex regex = new Regex(@"(\[\d+\])");
+		Regex regex2 = new Regex("(\\[\\d+\\])\n");
 
 		public Form1()
 		{
@@ -42,7 +43,7 @@ namespace BMG
 			try
 			{
 				OpenFileDialog ofd = new OpenFileDialog();
-				ofd.Filter = "*.bmg|*.bmg|Memory.dat|Memory.dat";
+				ofd.Filter = "All supported types|*.bmg;Memory.dat;CHARA.MESS";
 
 				if (ofd.ShowDialog() == DialogResult.OK)
 				{
@@ -129,8 +130,8 @@ namespace BMG
 				tbNextOriginal.Text = tbNextTranslation.Text = "";
 			}
 
-            tbOriginal.Text = regex.Replace(bmg.Sentences[currentIndex].Original, "$1\r\n");
-            tbTranslation.Text = regex.Replace(bmg.Sentences[currentIndex].Translation, "$1\r\n");
+            tbOriginal.Text = regex.Replace(bmg.Sentences[currentIndex].Original.Replace("\n","\r\n"), "$1\r\n");
+            tbTranslation.Text = regex.Replace(bmg.Sentences[currentIndex].Translation, "$1\n");
 
 			lblStatus.Text = string.Format("{0} / {1}", currentIndex+1, bmg.Sentences.Length);
 
@@ -179,7 +180,8 @@ namespace BMG
         {
 			try
 			{
-				bmg.Sentences[currentIndex].Translation = tbTranslation.Text.Replace("\n", "");
+				//bmg.Sentences[currentIndex].Translation = tbTranslation.Text.Replace("\n", "");
+				bmg.Sentences[currentIndex].Translation = regex2.Replace(tbTranslation.Text,"$1");
 				bmg.Sentences[currentIndex].Validate();
 
 				return true;
