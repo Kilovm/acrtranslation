@@ -5621,7 +5621,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, let's go to the clock tower![1]</Original>
-    <Translation>[0]好吧,我们到钟楼那去![1]</Translation>
+    <Translation>[0]快点,我们到钟楼那去查查![1]</Translation>
   </Sentence>
   <Sentence id="433">
     <Commands>
@@ -5629,7 +5629,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Come on, let's check out the clock tower![1]</Original>
-    <Translation>[0]好吧,我们到钟楼那去![1]</Translation>
+    <Translation>[0]快点,我们到钟楼那去查查看![1]</Translation>
   </Sentence>
   <Sentence id="434">
     <Commands>
@@ -5796,4 +5796,5 @@
     <Original>[0]Oh, there's a saw.[1]Maybe if we use that...[2]</Original>
     <Translation>[0]哦, 这有个锯子.[1]也许我们可以用它...[2]</Translation>
   </Sentence>
+  <Comments />
 </Session>
