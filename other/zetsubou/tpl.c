@@ -388,11 +388,11 @@ int TPL_ConvertBitMapToI4(u8* bitmapdata, u32 bitmapsize, u8** tplbuf, u32 width
 	u8* subbitmapdata = bitmapdata;
 	if(subbitmapdata == NULL)
 		return -1;
-	*tplbuf = (u8*)calloc(align(width, 4) * align(height, 4) / 2, 1);
+	u32 outsz = align(width, 8) * align(height, 8) / 2;
+	*tplbuf = (u8*)calloc(outsz, 1);
 	if(*tplbuf == NULL)
 		return -1;
 	u8* writebuf = *tplbuf;
-	u32 outsz = align(width, 4) * align(height, 4) / 2;
 	for(iv = 0, y1 = 0; y1 < height; y1 += 8) {
 		for(x1 = 0; x1 < width; x1 += 8) {
 			for(y = y1; y < (y1 + 8); y++) {
@@ -458,11 +458,11 @@ int TPL_ConvertBitMapToIA4(u8* bitmapdata, u32 bitmapsize, u8** tplbuf, u32 widt
 	u8* subbitmapdata = bitmapdata;
 	if(subbitmapdata == NULL)
 		return -1;
-	*tplbuf = (u8*)calloc(align(width, 4) * align(height, 4), 1);
+	u32 outsz = align(width, 8) * align(height, 4);
+	*tplbuf = (u8*)calloc(outsz, 1);
 	if(*tplbuf == NULL)
 		return -1;
 	u8* writebuf = *tplbuf;
-	u32 outsz = align(width, 4) * align(height, 4);
 	for(iv = 0, y1 = 0; y1 < height; y1 += 4) {
 		for(x1 = 0; x1 < width; x1 += 8) {
 			for(y = y1; y < (y1 + 4); y++) {
@@ -526,11 +526,11 @@ int TPL_ConvertBitMapToI8(u8* bitmapdata, u32 bitmapsize, u8** tplbuf, u32 width
 	u8* subbitmapdata = bitmapdata;
 	if(subbitmapdata == NULL)
 		return -1;
-	*tplbuf = (u8*)calloc(align(width, 4) * align(height, 4), 1);
+	u32 outsz = align(width, 8) * align(height, 4);
+	*tplbuf = (u8*)calloc(outsz, 1);
 	if(*tplbuf == NULL)
 		return -1;
 	u8* writebuf = *tplbuf;
-	u32 outsz = align(width, 4) * align(height, 4);
 	for(iv = 0, y1 = 0; y1 < height; y1 += 4) {
 		for(x1 = 0; x1 < width; x1 += 8) {
 			for(y = y1; y < (y1 + 4); y++) {
