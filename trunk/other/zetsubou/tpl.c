@@ -19,7 +19,7 @@
 #include "tpl.h"
 #include "endian.h"
 
-#define align(x, y) ((x) + ((x) % (y)))
+#define align(x, y) ((x) - ((x) % (y)) + (((x) % (y)) ? (y) : 0))
 
 int TPL_ConvertRGB565ToBitMap(u8* tplbuf, u32 tplsize, u32 tplpoint, u8** bitmapdata, u32 width, u32 height)
 {
