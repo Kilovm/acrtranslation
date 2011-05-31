@@ -1,10 +1,10 @@
 GENERICOBJECTS = main.o endian.o
 MAINOBJECTS = tpl.o
 OBJECTS = $(GENERICOBJECTS) $(MAINOBJECTS)
-CFLAGS = -g
+CFLAGS = -O2
 LIBS = -lgd
-OUTPUT = zetsubou
+OUTPUT = zetsubou.exe
 main: $(OBJECTS)
-	gcc -g -o $(OUTPUT) $(OBJECTS) $(LIBS)
+	gcc $(CFLAGS) -o $(OUTPUT) $(OBJECTS) $(LIBS)
 clean:
 	rm -f $(OUTPUT) $(OBJECTS)
