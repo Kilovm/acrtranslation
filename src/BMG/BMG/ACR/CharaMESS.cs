@@ -144,7 +144,7 @@ namespace BMG.ACR
 			element.SetAttribute("title", Title);
 
 			int i = 0;
-			foreach (Sentence_Mem sentence in Sentences)
+			foreach (SentenceChara sentence in Sentences)
 			{
 				XmlElement sentenceElement = sentence.ToXmlElement(doc);
 				sentenceElement.SetAttribute("id", (i++).ToString());
