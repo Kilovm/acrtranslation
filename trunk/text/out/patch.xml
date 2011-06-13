@@ -88,4 +88,9 @@
 		<Replace>REVOLUTION/LANG/ENG/MESS/SYSTEM9.BMG</Replace>
 		<With>patch/SYSTEM9.BMG</With>
 	</File>
+
+	<File  Type="Directory">
+		<Replace>REVOLUTION/LANG/ENG/LYT</Replace>
+		<With>LYT</With>
+	</File>
 </Patch>
