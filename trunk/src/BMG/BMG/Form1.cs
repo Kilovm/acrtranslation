@@ -43,7 +43,7 @@ namespace BMG
 			try
 			{
 				OpenFileDialog ofd = new OpenFileDialog();
-				ofd.Filter = "All supported types|*.bmg;Memory.dat;CHARA.MESS";
+				ofd.Filter = "All supported types|*.bmg;Memory.dat;CHARA.MESS;ITEM.MESS;MAIL.MESS";
 
 				if (ofd.ShowDialog() == DialogResult.OK)
 				{

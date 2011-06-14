@@ -36,13 +36,13 @@ namespace BMG
 					string dst = args[2];
 
 					BMG bmg = BMG.ReadBMG(src);
-					if (src.ToLower().EndsWith(".bmg"))
+					if (src.ToLower().EndsWith(".xml"))
 					{
-						bmg.WriteSessionXml(dst);
-					}
+                        bmg.WriteBMG(dst);
+                    }
 					else
 					{
-						bmg.WriteBMG(dst);
+                        bmg.WriteSessionXml(dst);
 					}
 
 				}

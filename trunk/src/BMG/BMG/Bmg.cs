@@ -59,52 +59,73 @@ namespace BMG
 			FileInfo fi = new FileInfo(filename);
 			if (fi.Extension.ToLower().Equals(".xml"))
 			{
-				try
-				{
-					bmg = new CharaMESS(filename, false);
-				}
-				catch
-				{
-					try
-					{
-						bmg = new MemDat(filename, false);
-					}
-					catch
-					{
+                try
+                {
+                    bmg = new MailMESS(filename, false);
+                }
+                catch
+                {
+                    try
+                    {
+                        bmg = new ItemMESS(filename, false);
+                    }
+                    catch
+                    {
+                        try
+                        {
+                            bmg = new CharaMESS(filename, false);
+                        }
+                        catch
+                        {
+                            try
+                            {
+                                bmg = new MemDat(filename, false);
+                            }
+                            catch
+                            {
 
-						try
-						{
-							bmg = new BMG_WM(filename, false);
-						}
-						catch (InvalidXmlException)
-						{
-							bmg = new BMG_ACR(filename, false);
-						}
-						catch (Exception)
-						{
-							throw;
-						}
-					}
-				}
+                                try
+                                {
+                                    bmg = new BMG_WM(filename, false);
+                                }
+                                catch (InvalidXmlException)
+                                {
+                                    bmg = new BMG_ACR(filename, false);
+                                }
+                                catch (Exception)
+                                {
+                                    throw;
+                                }
+                            }
+                        }
+                    }
+                }
 			}
 			else
 			{
-				if (fi.Name.Equals("CHARA.MESS"))
-				{
-					bmg = new CharaMESS(filename, true);
-				}
-				else if (fi.Name.ToLower().Equals("memory.dat"))
-				{
-					bmg = new MemDat(filename, true);
-				}
-				else if (fi.Name.ToLower().Equals("new_music_message.bmg"))
-				{
-					bmg = new BMG_WM(filename, true);
-				}
-				else
-				{
-					bmg = new BMG_ACR(filename, true);
-				}
+                if(fi.Name.Equals(MailMESS.FileTitle)){
+                    bmg = new MailMESS(filename, true);
+                }
+                else if (fi.Name.Equals(ItemMESS.FileTitle))
+                {
+                    bmg = new ItemMESS(filename, true);
+                }
+                else if (fi.Name.Equals(CharaMESS.FileTitle))
+                {
+                    bmg = new CharaMESS(filename, true);
+                }
+                else if (fi.Name.ToLower().Equals(MemDat.FileTitle))
+                {
+                    bmg = new MemDat(filename, true);
+                }
+                else if (fi.Name.ToLower().Equals(BMG_WM.FileTitle))
+                {
+                    bmg = new BMG_WM(filename, true);
+                }
+                else
+                {
+                    bmg = new BMG_ACR(filename, true);
+                }
 			}
 
 			return bmg;
