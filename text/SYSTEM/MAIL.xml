@@ -1,0 +1,545 @@
+<Session title="MAIL.MESS">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Dear Ashley,
+
+There's something I want to tell you about your 
+mother. I'll be waiting for you at Lake Juliet.
+
+                                                      Dad[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, I'm sorry.
+
+Getting ready for camping has taken longer than I 
+thought, so I can't pick you up. I'll wait at the 
+campsite, so go ahead and check in at the guesthouse.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Are you enjoying the barbecue?
+
+I've got a few more things to do here. I'm really
+sorry but I won't have time to go to the campsite
+now - can you get my backpack and bring it back to
+the cottage for me, please?
+
+My cottage is past the covered bridge, on the left.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, where are you?
+
+I'm back at the cottage now. I thought you'd be
+here already.
+
+I'm waiting for you here, so hurry.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, where are you?
+
+I'm coming to meet you at the covered bridge, so 
+wait for me there.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="9">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="10">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, someone found your stolen bag!
+
+I just got a call from Dan, he says he'll bring it to the
+cottage for you.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="11">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="12">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="13">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="14">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="15">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="16">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, I'm so sorry.
+
+I thought I'd be able to come home earlier, but it
+looks like I'll be quite late. I may not be back until
+tomorrow morning. If you don't want to wait, please
+go on home.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="17">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, please come to JC Valley right now.
+We have no time. Just hurry up![0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="18">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="19">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, something's happened at the lab.
+
+I'll explain later, but for the moment please take the
+TAS and go home right away. If you stay here, you
+could get caught up in something dangerous.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="20">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, please come immediately.
+I am waiting.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="21">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="22">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, trust no-one.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="23">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Ashley, go to Ryan's office.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="24">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="25">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="26">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="27">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="28">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="29">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="30">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="31">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 1
+
+Ashley, I'm so happy I had the chance to go camping
+with you.
+
+I want you to know more about the area, so I'm
+sending you these Lake Juliet messages. They're
+timed to arrive while you're here camping, so I 
+hope you enjoy reading them.
+
+I heard this story at the photographer's the first time
+I came to Lake Juliet.
+
+It's a tragic love story connected to the Romeo 
+Mountains and Lake Juliet.
+
+"Once upon a time, a poor boy from the mountains 
+and a girl from the lake fell in love. The boy found a
+stone that shone with all the colours of the rainbow
+and, thinking that if he could sell it to afford their
+marriage, he happily came down from the mountain.
+But he was in such a hurry that he slipped and fell to
+his death on the valley floor. The kind-hearted girl 
+was heartbroken and followed her love by throwing
+herself into the lake. Their families, who had at first 
+opposed the relationship, grieved for their losses. They 
+found the rainbow stone and cast it into the lake.
+Since that day, mysterious rainbow stones appeared
+in the Romeo Mountains mines."
+
+They say that if a couple find one of these stones,
+they are destined to be together forever.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="32">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 2
+
+The mines in the Romeo Mountains are closed now,
+but this is their story.
+
+"Gold was discovered in the Romeo Mountains in the
+1920s, and the owner of the mines became fabulously
+wealthy. He pumped huge amounts of water up from
+Lake Juliet to wash the gold, and the dirty water
+went straight back into the lake. Beautiful Lake Juliet
+became polluted, and the livelihoods of people living
+nearby were threatened. After the gold ran out and
+the mines closed, the lake returned to its former
+beauty."
+
+It would be a tragedy for pollution to hit a lake as
+beautiful as Lake Juliet.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="33">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 3
+
+Ashley, have you seen the mermaid statue?
+It's part of the next chapter in that sad story
+about Lake Juliet and the Romeo Mountains.
+
+"They say that the girl threw herself into Lake
+Juliet after her love died and became a mermaid 
+protecting the lake. There's a legend that on nights
+with a full moon, she thinks of her lost love and
+weeps.
+
+They say that if a couple sees those tears in the 
+moonlight, they'll be able to keep their love forever."
+
+I've never seen a mermaid, but the moon over Lake
+Juliet is beautiful.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="34">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 4
+
+One thing you have to mention when talking about
+Lake Juliet is the Salmon Rice Burger at Bob's 
+diner. It's my favourite, a really delicious burger.
+
+Bob is the restaurant owner, he's a really friendly
+guy. I heard he used to sing for a country music
+band, and I told him about not being able to live
+without a guitar in my hand when I was younger.
+We've had some great talks together - maybe it's
+because we're about the same age, but we always end 
+up talking about jazz going out of fashion. Bob says 
+maybe we should get with the program now that rock 
+is becoming popular again.
+
+Let's go to Bob's diner together sometime.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="35">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 5
+
+JC Valley, where I work, is built on the shore of Lake
+Juliet. I want to show you that unusual underwater
+building.
+
+I'm doing memory research again with some people I
+worked with at MJ Labs, where I met your mother.
+
+
+Ryan Gray
+He still looks like the boy I first met, but he's a
+scientific genius. He's very strict about his work, but
+you can see that he's not satisfied with his methods.
+Listening to him, you get the impression he's 
+obsessed with the genius of Judd and Sayoko.
+
+Rex Alfred
+Rex is the person who brought me to JC Valley. He's
+looking forward to seeing his daughter when she
+comes home on holiday from boarding school.
+Hearing that, I remembered that I haven't been home
+to see you in almost six months.
+Rex took over JC Valley from its founder, Judd 
+Fitzgerald, and is preoccupied with doing everything
+he can to expand the company.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="36">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 6[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="37">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 7[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="38">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 8[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="39">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 9[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="40">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 10[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="41">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 11[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="42">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 12[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="43">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 13[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="44">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 14[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="45">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 15[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="46">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 16[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="47">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 17[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="48">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 18[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="49">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>ダミー[0]ダミー[0]Lake Juliet message 19[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Comments />
+</Session>
