@@ -44,7 +44,7 @@ namespace BMG
 
 			if (SourceString.IndexOfAny(forbidden) >= 0 || DestString.IndexOfAny(forbidden) >= 0)
 			{
-				MessageBox.Show("Unreplaceable chars detected.");
+				MessageBox.Show("Unreplacable chars detected.");
 				return;
 			}
 

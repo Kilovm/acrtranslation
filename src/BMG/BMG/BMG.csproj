@@ -69,9 +69,13 @@
   <ItemGroup>
     <Compile Include="ACR\Bmg.cs" />
     <Compile Include="ACR\CharaMESS.cs" />
+    <Compile Include="ACR\ItemMESS.cs" />
+    <Compile Include="ACR\MailMESS.cs" />
     <Compile Include="ACR\MemDat.cs" />
     <Compile Include="ACR\SentenceChara.cs" />
+    <Compile Include="ACR\Sentence_Mail.cs" />
     <Compile Include="ACR\Sentence_Mem.cs" />
+    <Compile Include="ACR\Sentence_Item.cs" />
     <Compile Include="BookmarkEdit.cs">
       <SubType>Form</SubType>
     </Compile>

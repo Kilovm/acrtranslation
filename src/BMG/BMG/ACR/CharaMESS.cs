@@ -10,7 +10,7 @@ namespace BMG.ACR
 {
 	public class CharaMESS: BMG
 	{
-		const string FileTitle = "CHARA.MESS";
+		public const string FileTitle = "CHARA.MESS";
 
 		public override string FileType
 		{

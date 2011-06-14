@@ -9,6 +9,8 @@ namespace BMG.WiiMusic
 {
 	public class BMG_WM:BMG
 	{
+        public const string FileTitle = "new_music_message.bmg";
+
 		const string GameFlag = "WiiMusic";
 
 		public override string FileType
