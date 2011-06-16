@@ -9,8 +9,12 @@ There's something I want to tell you about your
 mother. I'll be waiting for you at Lake Juliet.
 
                                                       Dad[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]亲爱的阿修蕾，
+
+我想告诉你一些关于你妈妈的
+事情。我会在朱丽叶湖等你。
+
+                                                      爸爸[0]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -21,24 +25,25 @@ mother. I'll be waiting for you at Lake Juliet.
 Getting ready for camping has taken longer than I 
 thought, so I can't pick you up. I'll wait at the 
 campsite, so go ahead and check in at the guesthouse.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，对不起。
+
+为露营做准备比我想象中更花时间，
+因此我不能去接你了。我会在营地
+等你，你就自己到接待处登记吧。[0]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -52,8 +57,14 @@ now - can you get my backpack and bring it back to
 the cottage for me, please?
 
 My cottage is past the covered bridge, on the left.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]烧烤玩得开心吗？
+
+我这里还有一点事情要处理。真的
+非常抱歉，但我已经没有时间回去
+营地了-你能帮我将我的背包
+拿回度假屋去吗，拜托你了。
+
+我的度假屋就在过了廊桥以后的左手边。[0]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -65,16 +76,19 @@ I'm back at the cottage now. I thought you'd be
 here already.
 
 I'm waiting for you here, so hurry.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，你在哪里？
+
+我现在已经回到度假屋了。我还以为你
+早就来到了。
+
+我正在这里等你，快来。[0]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -84,24 +98,24 @@ I'm waiting for you here, so hurry.[0]</Original>
 
 I'm coming to meet you at the covered bridge, so 
 wait for me there.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，你在哪里？
+
+我会去廊桥和你碰面，你就到
+那里等我吧。[0]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -111,48 +125,45 @@ wait for me there.[0]</Original>
 
 I just got a call from Dan, he says he'll bring it to the
 cottage for you.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，有人找到了你被偷走的包包！
+
+刚刚丹给我打了一个电话，他说他会把包包拿去
+度假屋给你。[0]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -164,8 +175,12 @@ I thought I'd be able to come home earlier, but it
 looks like I'll be quite late. I may not be back until
 tomorrow morning. If you don't want to wait, please
 go on home.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，对不起。
+
+我本以为我能够早点回家，但看来
+我要很晚才能走。我最起码要到明天
+早上才能回去。如果你不想等我，就请你
+先回家吧。[0]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -173,16 +188,15 @@ go on home.[0]</Original>
     </Commands>
     <Original>ダミー[0]ダミー[0]Ashley, please come to JC Valley right now.
 We have no time. Just hurry up![0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，请你马上去JC山谷。
+我们已经没有时间了。快来！[0]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -193,8 +207,11 @@ We have no time. Just hurry up![0]</Original>
 I'll explain later, but for the moment please take the
 TAS and go home right away. If you stay here, you
 could get caught up in something dangerous.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，实验室里发生了一些事情。
+
+过后我会向你解释，但现在请你
+马上带上TAS回家去。如果你
+继续留在这里，你会有危险。[0]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -202,88 +219,78 @@ could get caught up in something dangerous.[0]</Original>
     </Commands>
     <Original>ダミー[0]ダミー[0]Ashley, please come immediately.
 I am waiting.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，请你马上过来。
+我等着你。[0]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Ashley, trust no-one.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，不要相信任何人。[0]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Ashley, go to Ryan's office.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]阿修蕾，去莱恩的办公室。[0]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]ダミー[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]ダミー[0]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -321,8 +328,38 @@ in the Romeo Mountains mines."
 
 They say that if a couple find one of these stones,
 they are destined to be together forever.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 1
+
+阿修蕾，能够和你去露营，我真的非常
+高兴。
+
+我希望你能更了解这个地方，所以
+我给你发了这些朱丽叶湖信息。你会在
+来到这里露营的时候收到这些信息。
+希望你能看的开心。
+
+我是在第一次来到朱丽叶湖是从一个摄影师
+那里听到这个故事的。
+
+这是一个关于罗密欧山和朱丽叶湖的
+悲情故事。
+
+“从前，一个住在山上的贫穷男孩
+和一个住在湖边的女孩堕入爱河。某日
+男孩发现了一块会发出彩虹般七彩
+光芒的石头，于是他想，他可以把这块
+石头卖了然后和女孩结婚。他
+兴高采烈地走下山。不过由于他太过着急而
+摔了一跤，跌死在山谷里了。那个心地善良的
+女孩伤心欲绝，随后跟随她的爱人跳湖
+而死。一开始反对他们这对恋情的家人
+为二人的死叹息不已。他们的家人发现了
+那块彩虹石，然后把它丢进湖里。
+自此以后，罗密欧山上的矿洞就出现了
+神秘的彩虹石。”
+
+他们说如果一对恋人能找到一块彩虹石，
+他们就是对方命中注定的终身伴侣。.[0]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -345,8 +382,23 @@ beauty."
 
 It would be a tragedy for pollution to hit a lake as
 beautiful as Lake Juliet.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 2
+
+罗密欧山上的矿洞现在已经封闭了，
+但这就是它们的故事。
+
+“在19世纪20年代是，有人发现了罗密欧
+山上有黄金，矿洞的拥有者因而一夜暴富。
+他从朱丽叶湖中抽出了大量的水来清洗
+黄金，然后洗过黄金的污水直接流回
+湖里。美丽的朱丽叶湖因而被污染，
+住在附近的人们的生活受到威胁。
+直到黄金被淘空，矿洞封锁起来以后，
+朱丽叶湖才回复了昔日的
+美丽。”
+
+就算美丽如朱丽叶湖，受到污染的打击也会
+酿成一场悲剧。[0]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -369,8 +421,23 @@ moonlight, they'll be able to keep their love forever."
 
 I've never seen a mermaid, but the moon over Lake
 Juliet is beautiful.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 3
+
+阿修蕾，你看到那个美人鱼雕像了吗？
+这是那个关于朱丽叶湖和罗密欧山的
+悲情故事的下一章节。
+
+“他们说那个跟随爱人投湖而死的
+女孩变成美人鱼，一直守护着
+朱丽叶湖。传说在满月的夜里，
+她会想起死去的爱人而
+抽泣。
+
+他们说若果有情侣能够在月光下看到她的
+泪水，那对情侣的爱将会永恒不变。”
+
+我从没见过美人鱼，但在朱丽叶湖的
+月亮非常美丽。[0]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -393,8 +460,23 @@ maybe we should get with the program now that rock
 is becoming popular again.
 
 Let's go to Bob's diner together sometime.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 4
+
+One thing you have to mention when talking about
+Lake Juliet is the Salmon Rice Burger at Bob's 
+diner. It's my favourite, a really delicious burger.
+
+Bob is the restaurant owner, he's a really friendly
+guy. I heard he used to sing for a country music
+band, and I told him about not being able to live
+without a guitar in my hand when I was younger.
+We've had some great talks together - maybe it's
+because we're about the same age, but we always end 
+up talking about jazz going out of fashion. Bob says 
+maybe we should get with the program now that rock 
+is becoming popular again.
+
+Let's go to Bob's diner together sometime.[0]</Translation>
   </Sentence>
   <Sentence id="35">
     <Commands>
@@ -426,120 +508,130 @@ to see you in almost six months.
 Rex took over JC Valley from its founder, Judd 
 Fitzgerald, and is preoccupied with doing everything
 he can to expand the company.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 5
+
+JC Valley, where I work, is built on the shore of Lake
+Juliet. I want to show you that unusual underwater
+building.
+
+I'm doing memory research again with some people I
+worked with at MJ Labs, where I met your mother.
+
+
+Ryan Gray
+He still looks like the boy I first met, but he's a
+scientific genius. He's very strict about his work, but
+you can see that he's not satisfied with his methods.
+Listening to him, you get the impression he's 
+obsessed with the genius of Judd and Sayoko.
+
+Rex Alfred
+Rex is the person who brought me to JC Valley. He's
+looking forward to seeing his daughter when she
+comes home on holiday from boarding school.
+Hearing that, I remembered that I haven't been home
+to see you in almost six months.
+Rex took over JC Valley from its founder, Judd 
+Fitzgerald, and is preoccupied with doing everything
+he can to expand the company.[0]</Translation>
   </Sentence>
   <Sentence id="36">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 6[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 6[0]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 7[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 7[0]</Translation>
   </Sentence>
   <Sentence id="38">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 8[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 8[0]</Translation>
   </Sentence>
   <Sentence id="39">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 9[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 9[0]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 10[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 10[0]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 11[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 11[0]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 12[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 12[0]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 13[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 13[0]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 14[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 14[0]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 15[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 15[0]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 16[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 16[0]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 17[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 17[0]</Translation>
   </Sentence>
   <Sentence id="48">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 18[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 18[0]</Translation>
   </Sentence>
   <Sentence id="49">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>ダミー[0]ダミー[0]Lake Juliet message 19[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>ダミー[0]ダミー[0]朱丽叶湖信息 19[0]</Translation>
   </Sentence>
   <Comments />
 </Session>
