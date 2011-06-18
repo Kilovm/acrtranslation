@@ -27,8 +27,18 @@ Mom and Dad got it
 for me on my third
 birthday, so it's really
 special.[3][0][4][5][0][6][7][0][8][9][0][10][11][0][12]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]泰迪熊
+泰迪熊
+泰迪熊
+泰迪熊
+泰迪熊
+泰迪熊[2][0]从我的包里被偷走
+的泰迪熊。
+
+那是爸爸妈妈在我三岁
+生日时送给我的礼物，
+所以它对我来说真的
+很特别。[3][0][4][5][0][6][7][0][8][9][0][10][11][0][12]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -49,8 +59,18 @@ the guesthouse.
 It's got a lovely lemon
 flavour and it's my
 favourite![3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]酷泡
+酷泡
+酷泡
+酷泡
+酷泡
+酷泡[2][0]在接待处出售的一种
+汽水。
+
+这种饮料有一款美味的
+柠檬口味，那是我的
+至爱！
+[3][0][4]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -70,8 +90,16 @@ recycling machine.
 
 It has the Lake Juliet
 logo on it.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]纪念币
+纪念币
+纪念币
+纪念币
+纪念币
+纪念币[2][0]从罐头回收机得到
+的一款纪念币。
+
+上面有一个朱丽叶湖
+的标志。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -91,8 +119,16 @@ guesthouse.
 
 It's for the 
 barbecue.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]木炭
+木炭
+木炭
+木炭
+木炭
+木炭[2][0]从接待处得到的
+木炭。
+
+这是用来烧烤 
+的。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -119,8 +155,22 @@ Used to open the gate
 to the campsite and
 also to pay at the
 guesthouse shop.[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]营地ID卡
+营地ID卡
+营地ID卡
+营地ID卡
+营地ID卡
+营地ID卡[2][0]从接待处得到的
+ID卡。
+
+我需要用它来打开
+进入营地的大门。[3][0]从接待处得到的
+ID卡。
+
+用来打开进入营地的
+大门，还可以用来
+在接待处的商店
+付款。[4][0][5]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -137,8 +187,13 @@ Crisps
 Crisps
 Crisps[2][0]Crisps bought at the
 guesthouse.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]薯片
+薯片
+薯片
+薯片
+薯片
+薯片[2][0]在接待处出售的
+薯片。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -163,8 +218,20 @@ Mom's memories.
 Given to Mom 13 years
 ago by Elizabeth's dad
 at the clock tower.[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]沙夜子的挂饰
+沙夜子的挂饰
+沙夜子的挂饰
+沙夜子的挂饰
+沙夜子的挂饰
+沙夜子的挂饰[2][0]妈妈的挂饰。
+
+妈妈给我的一件特别的
+纪念品。[3][0]存有妈妈的记忆的
+记忆流体
+
+13年前，伊丽莎白的
+爸爸在钟楼将其交给了
+妈妈。[4][0][5]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -188,8 +255,19 @@ in the shack.
 
 It must belong to 
 Elizabeth.[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]粉红色的音乐播放器
+伊丽莎白的音乐播放器
+伊丽莎白的音乐播放器
+伊丽莎白的音乐播放器
+伊丽莎白的音乐播放器
+伊丽莎白的音乐播放器[2][0]在棚屋找到的音乐
+播放器。
+
+这是伊丽莎白的吗？[3][0]在棚屋找到的音乐
+播放器。
+
+这一定是伊丽莎白的
+东西。[4][0][5]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -222,8 +300,27 @@ Has messaging and
 camera functions. It
 views security camera
 feeds from the lab.[5][0][6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]DAS
+DAS
+DAS
+DAS
+DAS
+DAS[2][0]爸爸造的一个仪器。
+
+可以用来看从爸爸
+的网络发过来的
+信息和照相。
+[3][0]爸爸造的一个仪器。
+
+连接到爸爸的笔记本
+电脑以后，现在它
+可以看到监控摄像
+画像。[4][0]爸爸造的一个仪器。
+
+拥有通讯和拍摄功
+能。可以用它看到
+实验室里的监控摄像
+画像。[5][0][6]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -243,8 +340,16 @@ cottage.
 
 Maybe they can be used 
 for something else...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]烧石膏
+烧石膏
+烧石膏
+烧石膏
+烧石膏
+烧石膏[2][0]从爸爸的度假屋里得到的
+烧石膏。
+
+或许可以把它用在其他
+东西上……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -259,8 +364,13 @@ Beef Jerky
 Beef Jerky
 Beef Jerky[2][0]Beef jerky bought at
 the guesthouse.</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]牛肉干
+牛肉干
+牛肉干
+牛肉干
+牛肉干
+牛肉干[2][0]在接待处出售的
+牛肉干。</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -280,8 +390,16 @@ family.
 
 Looks like something's
 written on the back...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]马修的家庭照
+马修的家庭照
+马修的家庭照
+马修的家庭照
+马修的家庭照
+马修的家庭照[2][0]马修一家人的
+照片。
+
+后面好像写了些什么
+东西……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -301,8 +419,16 @@ Orange Cool Pop[2][0]Cool Pop bought by Dad.
 
 I've been waiting to try
 the new orange flavour![3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]鲜橙味的酷泡
+鲜橙味的酷泡
+鲜橙味的酷泡
+鲜橙味的酷泡
+鲜橙味的酷泡
+鲜橙味的酷泡[2][0]爸爸买的酷泡。
+
+
+我一直都在等着试试这
+新的鲜橙口味！[3][0][4]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
@@ -323,8 +449,17 @@ can.
 That was great! I can
 recycle this at the
 can recycling machine.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]空的鲜橙味酷泡铝罐
+空的鲜橙味酷泡铝罐
+空的鲜橙味酷泡铝罐
+空的鲜橙味酷泡铝罐
+空的鲜橙味酷泡铝罐
+空的鲜橙味酷泡铝罐[2][0]空的鲜橙味酷泡
+铝罐。
+
+太好了！我可以把
+它丢到罐头回收机
+回收再利用。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -344,8 +479,16 @@ Researchers' room.
 
 This must belong to one
 of Dad's colleagues.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]镜子
+镜子
+镜子
+镜子
+镜子
+镜子[2][0]从研究员室找到的
+一面镜子。
+
+这一定是爸爸的某一个
+同事的东西。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="15">
     <Commands>
@@ -365,8 +508,16 @@ researchers' room.
 
 It's well made and looks
 really expensive...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]钓鱼竿
+钓鱼竿
+钓鱼竿
+钓鱼竿
+钓鱼竿
+钓鱼竿[2][0]从研究员室找到的一根
+钓鱼竿。
+
+它做工很好，看来是很
+贵的东西……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="16">
     <Commands>
@@ -385,8 +536,15 @@ Toy Car[2][0]A toy car found inside
 the bag at the lake.
 
 Belongs to Matthew.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]玩具车
+玩具车
+玩具车
+玩具车
+玩具车
+玩具车[2][0]在湖里的包包里找到的
+一台玩具车。
+
+属于马修。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
