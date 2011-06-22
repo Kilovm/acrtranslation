@@ -62,9 +62,9 @@ My cottage is past the covered bridge, on the left.[0]</Original>
 我这里还有一点事情要处理。真的
 非常抱歉，但我已经没有时间回去
 营地了-你能帮我将我的背包
-拿回度假屋去吗，拜托你了。
+拿回小屋去吗，拜托你了。
 
-我的度假屋就在过了廊桥以后的左手边。[0]</Translation>
+我的小屋就在过了廊桥以后的左手边。[0]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
@@ -78,7 +78,7 @@ here already.
 I'm waiting for you here, so hurry.[0]</Original>
     <Translation>ダミー[0]ダミー[0]阿修蕾，你在哪里？
 
-我现在已经回到度假屋了。我还以为你
+我现在已经回到小屋了。我还以为你
 早就来到了。
 
 我正在这里等你，快来。[0]</Translation>
@@ -128,7 +128,7 @@ cottage for you.[0]</Original>
     <Translation>ダミー[0]ダミー[0]阿修蕾，有人找到了你被偷走的包包！
 
 刚刚丹给我打了一个电话，他说他会把包包拿去
-度假屋给你。[0]</Translation>
+小屋给你。[0]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>

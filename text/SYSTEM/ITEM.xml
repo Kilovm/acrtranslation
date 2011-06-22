@@ -227,7 +227,7 @@ at the clock tower.[4][0][5]</Original>
 
 妈妈给我的一件特别的
 纪念品。[3][0]存有妈妈的记忆的
-记忆流体
+记忆流体。
 
 13年前，伊丽莎白的
 爸爸在钟楼将其交给了
@@ -565,8 +565,17 @@ the old cottage cellar.
 Mom and Dad at the
 mermaid statue. They
 both look so young...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]理查德和沙夜子的照片
+理查德和沙夜子的照片
+理查德和沙夜子的照片
+理查德和沙夜子的照片
+理查德和沙夜子的照片
+理查德和沙夜子的照片[2][0]从旧小屋的地下室
+找到的纪念照。
+
+妈妈和爸爸站在美人鱼
+雕像旁。他们俩看起来
+都很年轻……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="18">
     <Commands>
@@ -589,8 +598,18 @@ closed up now.[3][0]Plastered-up hose.
 
 But the holes aren't
 quite closed over...[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]用熟石膏粘好的软管
+用熟石膏粘好的软管
+用熟石膏粘好的软管
+用熟石膏粘好的软管
+用熟石膏粘好的软管
+用熟石膏粘好的软管[2][0]用熟石膏粘好的软管。
+
+那些洞现在应该都
+堵起来了。[3][0]用熟石膏粘好的软管。
+
+但那些洞都没有
+堵牢……[4][0][5]</Translation>
   </Sentence>
   <Sentence id="19">
     <Commands>
@@ -611,8 +630,17 @@ room.
 Has a label saying:
 "Caution: Shake well
 before use."[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]喷雾器
+喷雾器
+喷雾器
+喷雾器
+喷雾器
+喷雾器[2][0]会议室找到的
+喷雾器。
+
+上面贴着一个标签写
+着：“注意：使用前
+请先摇晃。”[3][0][4]</Translation>
   </Sentence>
   <Sentence id="20">
     <Commands>
@@ -631,8 +659,15 @@ Richard's Backpack[2][0]Dad's backpack from
 the campsite.
 
 This is just like him.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]理查德的背包
+理查德的背包
+理查德的背包
+理查德的背包
+理查德的背包
+理查德的背包[2][0]营地找到的爸爸的
+背包。
+
+真是物似主人型。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -652,8 +687,16 @@ the campsite.
 
 Its surface seems
 really shiny.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]莱恩的公文包
+莱恩的公文包
+莱恩的公文包
+莱恩的公文包
+莱恩的公文包
+莱恩的公文包[2][0]营地找到的莱恩的
+公文包。
+
+它的表面看起来闪
+闪发亮。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -674,8 +717,17 @@ in the shed.
 Has pictures of the 
 clock tower and 
 mermaid statue.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]硬币
+硬币
+硬币
+硬币
+硬币
+硬币[2][0]从棚下抽屉里找到的
+硬币。
+
+上面有钟楼和美
+人鱼雕像的图
+案。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -697,8 +749,18 @@ A treasure map which
 Matt drew...
 ...but there's nothing
 written on it![3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]图画纸
+图画纸
+图画纸
+图画纸
+图画纸
+图画纸[2][0]从旧小屋找到的图
+画纸。
+
+马修画的一幅藏宝
+图……
+……但上面什么
+也没有！[3][0][4]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -718,8 +780,16 @@ campsite.
 
 Has a picture of a bear
 on the front.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]火柴
+火柴
+火柴
+火柴
+火柴
+火柴[2][0]从营地找到的
+火柴。
+
+其正面有一幅小熊
+的图画。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="25">
     <Commands>
@@ -741,8 +811,18 @@ A treasure map which
 Matt drew.
 We heated it up so we
 could see the map.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]藏宝图
+藏宝图
+藏宝图
+藏宝图
+藏宝图
+藏宝图[2][0]从旧小屋找到的图
+画纸。
+
+马修画的一幅藏
+宝图。
+我们将它加热一下就看
+到地图了。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="26">
     <Commands>
@@ -766,8 +846,19 @@ half-built cottage.
 
 It's full of holes, so
 I can't use it like this...[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]旧软管
+旧软管
+旧软管
+旧软管
+旧软管
+旧软管[2][0]从修建中的小屋
+中找到的软管。
+
+看来它真的很旧。[3][0]从修建中的小屋
+中找到的软管。
+
+它满是洞，这样子我
+无法使用……[4][0][5]</Translation>
   </Sentence>
   <Sentence id="27">
     <Commands>
@@ -786,8 +877,15 @@ Life Ring with Rope[2][0]Life ring with rope.
 
 The rope is securely
 tied.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]绑着救生圈的绳子
+绑着救生圈的绳子
+绑着救生圈的绳子
+绑着救生圈的绳子
+绑着救生圈的绳子
+绑着救生圈的绳子[2][0]绑着救生圈的绳子。
+
+绳子已经绑得牢牢
+的了。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="28">
     <Commands>
@@ -805,8 +903,14 @@ Iron Bar
 Iron Bar[2][0]Iron bar from the shack.
 
 It isn't very long.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]铁条
+铁条
+铁条
+铁条
+铁条
+铁条[2][0]从棚屋找到的铁条。
+
+它不是太长。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="29">
     <Commands>
@@ -825,8 +929,15 @@ Taped-up Hose[2][0]Taped-up hose.
 
 The holes should be
 closed up now.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]用胶带粘好的软管
+用胶带粘好的软管
+用胶带粘好的软管
+用胶带粘好的软管
+用胶带粘好的软管
+用胶带粘好的软管[2][0]用胶带粘好的软管。
+
+那些洞现在应该都
+堵起来了。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="30">
     <Commands>
@@ -847,8 +958,17 @@ guesthouse.
 It has a map of Lake
 Juliet on it, so it's really
 useful.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]宣传小册子
+宣传小册子
+宣传小册子
+宣传小册子
+宣传小册子
+宣传小册子[2][0]从接待处得到的宣
+传小册子。
+
+上面有一幅朱丽叶湖
+的地图，这真是
+有用。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="31">
     <Commands>
@@ -867,8 +987,15 @@ Rope[2][0]A thin rope from the
 boathouse.
 
 It's really long.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]绳子
+绳子
+绳子
+绳子
+绳子
+绳子[2][0]从船屋找到的一根
+细绳。
+
+它真的非常长。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="32">
     <Commands>
@@ -888,8 +1015,16 @@ boathouse
 
 Looks like it's used for
 lifesaving.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]救生圈
+救生圈
+救生圈
+救生圈
+救生圈
+救生圈[2][0]从船屋找到的救
+生圈。
+
+看来这是救人
+用的。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -908,8 +1043,15 @@ Weights[2][0]Weights from the shed.
 
 Two large ones and
 one small one.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]Weights
+Weights
+Weights
+Weights
+Weights
+Weights[2][0]Weights from the shed.
+
+Two large ones and
+one small one.[3][0][4]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
