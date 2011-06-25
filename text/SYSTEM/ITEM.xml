@@ -260,10 +260,10 @@ Elizabeth.[4][0][5]</Original>
 伊丽莎白的音乐播放器
 伊丽莎白的音乐播放器
 伊丽莎白的音乐播放器
-伊丽莎白的音乐播放器[2][0]在棚屋找到的音乐
+伊丽莎白的音乐播放器[2][0]在库房找到的音乐
 播放器。
 
-这是伊丽莎白的吗？[3][0]在棚屋找到的音乐
+这是伊丽莎白的吗？[3][0]在库房找到的音乐
 播放器。
 
 这一定是伊丽莎白的
@@ -345,7 +345,7 @@ for something else...[3][0][4]</Original>
 烧石膏
 烧石膏
 烧石膏
-烧石膏[2][0]从爸爸的度假屋里得到的
+烧石膏[2][0]从爸爸的小屋里得到的
 烧石膏。
 
 或许可以把它用在其他
@@ -722,7 +722,7 @@ mermaid statue.[3][0][4]</Original>
 硬币
 硬币
 硬币
-硬币[2][0]从棚房抽屉里找到的
+硬币[2][0]从库房抽屉里找到的
 硬币。
 
 上面有钟楼和美
@@ -1048,7 +1048,7 @@ one small one.[3][0][4]</Original>
 砝码
 砝码
 砝码
-砝码[2][0]从棚房找到的砝码。
+砝码[2][0]从库房找到的砝码。
 
 两个大的砝码和一个
 小的砝码。[3][0][4]</Translation>
@@ -1356,7 +1356,7 @@ weird set of scales.[3][0][4]</Original>
 月亮形钥匙和剑形钥匙
 月亮形钥匙和剑形钥匙
 月亮形钥匙和剑形钥匙
-月亮形钥匙和剑形钥匙[2][0]从棚房找到的月亮形状
+月亮形钥匙和剑形钥匙[2][0]从库房找到的月亮形状
 和剑形状的钥匙。
 
 那真是一套奇特的
@@ -2172,16 +2172,16 @@ the clock tower gears.
 
 It makes sounds when
 you turn it. Pretty cool![3][0][4]</Original>
-    <Translation>[1][0]Puzzle Box
-Puzzle Box
-Puzzle Box
-Puzzle Box
-Puzzle Box
-Puzzle Box[2][0]A small box from inside
-the clock tower gears.
+    <Translation>[1][0]谜题箱
+谜题箱
+谜题箱
+谜题箱
+谜题箱
+谜题箱[2][0]钟楼齿轮里的一个小箱
+子。
 
-It makes sounds when
-you turn it. Pretty cool![3][0][4]</Translation>
+当你转动它的时候它会发
+出声音，真酷！[3][0][4]</Translation>
   </Sentence>
   <Sentence id="70">
     <Commands>
@@ -2197,8 +2197,12 @@ you turn it. Pretty cool![3][0][4]</Translation>
 '－－－70
 '－－－70
 '－－－70[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－70
+'－－－70
+'－－－70
+'－－－70
+'－－－70
+'－－－70[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="71">
     <Commands>
@@ -2220,8 +2224,18 @@ There's something
 written on the back.
 Looks like it's valid
 for six months.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]客用ID卡
+客用ID卡
+客用ID卡
+客用ID卡
+客用ID卡
+客用ID卡[2][0]JC山谷的一张客用ID
+卡。
+
+ID卡的背面好像写了什
+么东西。
+看来它的有效期是六个
+月。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="72">
     <Commands>
@@ -2237,8 +2251,12 @@ for six months.[3][0][4]</Original>
 '－－－72
 '－－－72
 '－－－72[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－72
+'－－－72
+'－－－72
+'－－－72
+'－－－72
+'－－－72[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="73">
     <Commands>
@@ -2254,8 +2272,12 @@ for six months.[3][0][4]</Original>
 '－－－73
 '－－－73
 '－－－73[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－73
+'－－－73
+'－－－73
+'－－－73
+'－－－73
+'－－－73[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="74">
     <Commands>
@@ -2271,8 +2293,12 @@ for six months.[3][0][4]</Original>
 '－－－74
 '－－－74
 '－－－74[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－74
+'－－－74
+'－－－74
+'－－－74
+'－－－74
+'－－－74[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="75">
     <Commands>
@@ -2288,8 +2314,12 @@ for six months.[3][0][4]</Original>
 '－－－75
 '－－－75
 '－－－75[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－75
+'－－－75
+'－－－75
+'－－－75
+'－－－75
+'－－－75[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="76">
     <Commands>
@@ -2305,8 +2335,12 @@ for six months.[3][0][4]</Original>
 '－－－76
 '－－－76
 '－－－76[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－76
+'－－－76
+'－－－76
+'－－－76
+'－－－76
+'－－－76[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="77">
     <Commands>
@@ -2322,8 +2356,12 @@ for six months.[3][0][4]</Original>
 '－－－77
 '－－－77
 '－－－77[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－77
+'－－－77
+'－－－77
+'－－－77
+'－－－77
+'－－－77[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="78">
     <Commands>
@@ -2345,8 +2383,18 @@ Put crushed red herbs
 in pure water and
 simmer in a pan until it 
 becomes an infusion.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]草药处方
+草药处方
+草药处方
+草药处方
+草药处方
+草药处方[2][0]夏洛蒂的草药处方。
+
+
+把碾碎的红色草药
+放进干净的水里一
+起煮，直至煮烂
+为止。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="79">
     <Commands>
@@ -2362,8 +2410,12 @@ becomes an infusion.[3][0][4]</Original>
 '－－－79
 '－－－79
 '－－－79[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－79
+'－－－79
+'－－－79
+'－－－79
+'－－－79
+'－－－79[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="80">
     <Commands>
@@ -2382,8 +2434,15 @@ Red Herb[2][0]Greenhouse herbs.
 
 Used to make herbal
 medicine for a fever.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]红色草药
+红色草药
+红色草药
+红色草药
+红色草药
+红色草药[2][0]温室植物。
+
+用来制作医治发烧的
+草本汤药。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="81">
     <Commands>
@@ -2399,8 +2458,12 @@ medicine for a fever.[3][0][4]</Original>
 '－－－81
 '－－－81
 '－－－81[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－81
+'－－－81
+'－－－81
+'－－－81
+'－－－81
+'－－－81[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="82">
     <Commands>
@@ -2420,8 +2483,16 @@ fever medicine.
 
 I hope this makes
 Matt feel better...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]汤药
+汤药
+汤药
+汤药
+汤药
+汤药[2][0]夏洛蒂的医治发烧的
+草本汤药。
+
+我希望这能令马修
+舒服一点……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="83">
     <Commands>
@@ -2437,8 +2508,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－83
 '－－－83
 '－－－83[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－83
+'－－－83
+'－－－83
+'－－－83
+'－－－83
+'－－－83[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="84">
     <Commands>
@@ -2454,8 +2529,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－84
 '－－－84
 '－－－84[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－84
+'－－－84
+'－－－84
+'－－－84
+'－－－84
+'－－－84[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="85">
     <Commands>
@@ -2471,8 +2550,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－85
 '－－－85
 '－－－85[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－85
+'－－－85
+'－－－85
+'－－－85
+'－－－85
+'－－－85[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="86">
     <Commands>
@@ -2488,8 +2571,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－86
 '－－－86
 '－－－86[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－86
+'－－－86
+'－－－86
+'－－－86
+'－－－86
+'－－－86[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="87">
     <Commands>
@@ -2505,8 +2592,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－87
 '－－－87
 '－－－87[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－87
+'－－－87
+'－－－87
+'－－－87
+'－－－87
+'－－－87[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="88">
     <Commands>
@@ -2522,8 +2613,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－88
 '－－－88
 '－－－88[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－88
+'－－－88
+'－－－88
+'－－－88
+'－－－88
+'－－－88[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="89">
     <Commands>
@@ -2539,8 +2634,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－89
 '－－－89
 '－－－89[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－89
+'－－－89
+'－－－89
+'－－－89
+'－－－89
+'－－－89[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="90">
     <Commands>
@@ -2556,8 +2655,12 @@ Matt feel better...[3][0][4]</Original>
 '－－－90
 '－－－90
 '－－－90[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－90
+'－－－90
+'－－－90
+'－－－90
+'－－－90
+'－－－90[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="91">
     <Commands>
@@ -2577,8 +2680,16 @@ locker.
 
 It used to belong to
 Kelly, Matthew's sister.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]凯莉的洋娃娃
+凯莉的洋娃娃
+凯莉的洋娃娃
+凯莉的洋娃娃
+凯莉的洋娃娃
+凯莉的洋娃娃[2][0]从储物柜找到的
+布娃娃。
+
+它以前是属于马修的妹
+妹，凯莉的。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="92">
     <Commands>
@@ -2598,8 +2709,16 @@ Michael's Note[2][0]A note from Mr Davis.
 Contains the key to 
 open the puzzle box
 that Matt's dad left.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]迈克尔的笔记
+迈克尔的笔记
+迈克尔的笔记
+迈克尔的笔记
+迈克尔的笔记
+迈克尔的笔记[2][0]戴维斯先生给的笔记。
+
+里面放着打开马修爸
+爸留下的谜题箱的
+钥匙。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="93">
     <Commands>
@@ -2620,8 +2739,17 @@ the puzzle box.
 
 Left by Matthew's
 dad.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]迈克尔的检验报告
+迈克尔的检验报告
+迈克尔的检验报告
+迈克尔的检验报告
+迈克尔的检验报告
+迈克尔的检验报告[2][0]在谜题箱中找到的，关于
+朱丽叶湖所受到的污染的
+报告。
+
+是马修的爸爸留下
+来的。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="94">
     <Commands>
@@ -2642,8 +2770,17 @@ St Lawrence Mines.
 
 It's the same brand as
 Elizabeth's bandanna.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]手帕
+手帕
+手帕
+手帕
+手帕
+手帕[2][0]在圣劳伦斯矿山附近
+的一个箱子里找到的
+手帕。 
+
+这个和伊丽莎白的围巾
+是同一个牌子。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="95">
     <Commands>
@@ -2664,8 +2801,17 @@ from Dad's room.
 Uses special test tubes
 and chemicals to test if
 water is acidic or not.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]水质PH测试套件
+水质PH测试套件
+水质PH测试套件
+水质PH测试套件
+水质PH测试套件
+水质PH测试套件[2][0]从爸爸的房间里找到的
+一个水质测试套件。
+
+Uses special test tubes
+and chemicals to test if
+water is acidic or not.[3][0][4]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -2681,8 +2827,12 @@ water is acidic or not.[3][0][4]</Original>
 '－－－96
 '－－－96
 '－－－96[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－96
+'－－－96
+'－－－96
+'－－－96
+'－－－96
+'－－－96[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="97">
     <Commands>
@@ -2849,8 +2999,12 @@ the red herbs.[3][0][4]</Original>
 '－－－104
 '－－－104
 '－－－104[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－104
+'－－－104
+'－－－104
+'－－－104
+'－－－104
+'－－－104[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="105">
     <Commands>
@@ -2886,8 +3040,12 @@ It might come in handy.[3][0][4]</Original>
 '－－－106
 '－－－106
 '－－－106[2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－106
+'－－－106
+'－－－106
+'－－－106
+'－－－106
+'－－－106[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="107">
     <Commands>
@@ -2904,8 +3062,12 @@ It might come in handy.[3][0][4]</Original>
 '－－－107
 '－－－107
 '－－－107[2][0][3][4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－107
+'－－－107
+'－－－107
+'－－－107
+'－－－107
+'－－－107[2][0][3][4][0][5]</Translation>
   </Sentence>
   <Sentence id="108">
     <Commands>
@@ -3220,8 +3382,12 @@ see pretty butterflies.[5][0][6]</Original>
 
 
 [2][0]－－－[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－120
+
+
+
+
+[2][0]－－－[3][0][4]</Translation>
   </Sentence>
   <Sentence id="121">
     <Commands>
@@ -3343,8 +3509,12 @@ Graham family.[3][0][4]</Original>
 '－－－126
 '－－－126
 '－－－126[2][0]－－－</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]－－－126
+'－－－126
+'－－－126
+'－－－126
+'－－－126
+'－－－126[2][0]－－－</Translation>
   </Sentence>
   <Comments>
     <Comment Author="" Date="2011-06-23 18:31:13" Position="55">未翻译</Comment>
