@@ -31,7 +31,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEACx8BAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]Dad, where are you?[1]What happened to you?[2]</Original>
-    <Translation>[0]爸爸，你在哪儿？[1]纠结怎么了？[2]</Translation>
+    <Translation>[0]爸爸，你在哪儿？[1]究竟怎么了？[2]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -2854,7 +2854,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ryan![1]Please, let Dad go![2]Don't delete his memories![3]As Sayoko's were deleted?[4]Huh?[5]I'm sure Rex has already told you that Sayoko[6]was here 13 years ago.[7]Yeah, he told me.[8]She had her memories erased.[9]And about this pendant?[10]That's...[11]The mnemonic fluid containing part of Sayoko's[12]memory.[13]That's why you stole my bag? For the[14]pendant?[15]Yes, indeed it is.[16]Please, don't do this![17]Let Dad out![18]Are his memories that important to you?[19]He left you when you were only three years old,[20]giving up 11 years just for Sayoko's research.[21]You really care so much about the memories of[22]a man like that?[23]Of course![24]We haven't spent as much time together as[25]most parents and children...[26]But the time we spent together, the time we[27]spent thinking about each other...[28]I care more about that than anything else in the[29]world![30]Care? How peculiar.[31]I cannot understand it myself, but maybe that[32]love between a father and daughter does exist.[33]Very well, Ashley, I shall give you a chance.[34]A chance?[35]If you do as I say right now,[36]I will not delete your father's memories.[37]Do you accept?[38]</Original>
-    <Translation>[0]莱恩！[1]求求你，放了我爸爸！[2]别删除他的记忆！[3]像沙叶子那样？[4]嗯？[5]我想雷克斯已经告诉你沙叶子[6]13年前来这里的事情了吧。[7]没错，他跟我说了。[8]她的记忆被抹掉了。[9]还有这个吊坠？[10]那个是……[11]那个记忆流体有沙叶子的部分 [12]记忆。[13]所以你要偷我的背包？为了那个[14]吊坠？[15]正如你所说。[16]不，别这样！[17]放了爸爸！[18]他的记忆对你来说很重要吗？[19]在你三岁的时候他就不在你身边了，[20]沙叶子的研究占用了他整整11年。[21]你真的在乎这样一个男人的[22]记忆存在与否？[23]当然！[24]我们的确不像大多数父女那样[25]有很多相处的时间……[26]但是在所有相处的时间里，[27]我们都在为对方着想……[28]在这世界上没有比这个让我更[29]在乎的了！[30]在乎？听起来真别扭。[31]我是体会不到了，不过也许存在[32]那种父女之间的爱吧。[33]好吧，阿修蕾。给你次机会。[34]机会？[35]如果你照我说的去做，[36]我可以不删除你爸爸的记忆。[37]怎样？[38]</Translation>
+    <Translation>[0]莱恩！[1]求求你，放了我爸爸！[2]别删除他的记忆！[3]像沙夜子那样？[4]嗯？[5]我想雷克斯已经告诉你沙夜子[6]13年前来这里的事情了吧。[7]没错，他跟我说了。[8]她的记忆被抹掉了。[9]还有这个挂饰？[10]那个是……[11]那个记忆流体有沙夜子的部分 [12]记忆。[13]所以你要偷我的背包？为了那个[14]挂饰？[15]正如你所说。[16]不，别这样！[17]放了爸爸！[18]他的记忆对你来说很重要吗？[19]在你三岁的时候他就不在你身边了，[20]沙夜子的研究占用了他整整11年。[21]你真的在乎这样一个男人的[22]记忆存在与否？[23]当然！[24]我们的确不像大多数父女那样[25]有很多相处的时间……[26]但是在所有相处的时间里，[27]我们都在为对方着想……[28]在这世界上没有比这个让我更[29]在乎的了！[30]在乎？听起来真别扭。[31]我是体会不到了，不过也许存在[32]那种父女之间的爱吧。[33]好吧，阿修蕾。给你次机会。[34]机会？[35]如果你照我说的去做，[36]我可以不删除你爸爸的记忆。[37]怎样？[38]</Translation>
   </Sentence>
   <Sentence id="181">
     <Commands>
@@ -3869,7 +3869,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I want to hear Mom's voice again...[1]But I have to bring the upgrade module back.[2]I have to save Dad![3]</Original>
-    <Translation>[0]我还想听到妈妈的声音……[1]但是我必须带回升级配件。[2]我必须救爸爸！[3]</Translation>
+    <Translation>[0]我还想听到妈妈的声音……[1]但是我必须带回升级模块。[2]我必须救爸爸！[3]</Translation>
   </Sentence>
   <Sentence id="270">
     <Commands>
