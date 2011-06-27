@@ -2491,7 +2491,7 @@ Matt feel better...[3][0][4]</Original>
 汤药[2][0]夏洛蒂的医治发烧的
 草本汤药。
 
-我希望这能令马修
+希望这能令马修
 舒服一点……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="83">
@@ -2801,17 +2801,17 @@ from Dad's room.
 Uses special test tubes
 and chemicals to test if
 water is acidic or not.[3][0][4]</Original>
-    <Translation>[1][0]水质PH测试套件
-水质PH测试套件
-水质PH测试套件
-水质PH测试套件
-水质PH测试套件
-水质PH测试套件[2][0]从爸爸的房间里找到的
+    <Translation>[1][0]水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件[2][0]从爸爸的房间里找到的
 一个水质测试套件。
 
-Uses special test tubes
-and chemicals to test if
-water is acidic or not.[3][0][4]</Translation>
+使用特殊的测试试管和化
+学物来测试水质是否属
+酸性。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="96">
     <Commands>
@@ -2851,8 +2851,15 @@ Kettle[2][0]Empty kettle from the
 kitchen.
 
 Use it to get water.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]水壶
+水壶
+水壶
+水壶
+水壶
+水壶[2][0]从厨房找到的空水
+壶。
+
+可以用它来装水。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="98">
     <Commands>
@@ -2882,8 +2889,23 @@ the kitchen in Dad's
 cottage.[7][0]Kettle with water from
 the bathroom in Dad's
 cottage</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]装满水的水壶
+装满水的水壶
+装满水的水壶
+装满水的水壶
+装满水的水壶
+装满水的水壶[2][0]一个装满从船屋的
+码头打来的水的水
+壶。[3][0]装满从旧小屋的水
+洼处打来的水的水
+壶。[4][0]装着从棚屋附近的
+小河里打来的水
+的水壶。[5][0]装着从美人鱼雕像处
+打来的水的水壶。[6][0]装着从爸爸的小屋里
+的厨房打来的水的
+水壶。[7][0]装着从爸爸的小屋的
+浴室里打来的水的
+水壶。</Translation>
   </Sentence>
   <Sentence id="99">
     <Commands>
@@ -2901,8 +2923,14 @@ Empty Cool Pop Can
 Empty Cool Pop Can[2][0]Empty Cool Pop can.
 
 I can't just drop it...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]空的酷泡铝罐
+空的酷泡铝罐
+空的酷泡铝罐
+空的酷泡铝罐
+空的酷泡铝罐
+空的酷泡铝罐[2][0]空的酷泡铝罐。
+
+我不能就这样丢了它……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="100">
     <Commands>
@@ -2923,8 +2951,17 @@ from Bob's diner.
 It's covered in special
 sauce and looks 
 delicious.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]鲑鱼米饼汉堡
+鲑鱼米饼汉堡
+鲑鱼米饼汉堡
+鲑鱼米饼汉堡
+鲑鱼米饼汉堡
+鲑鱼米饼汉堡[2][0]从鲍勃的餐厅里得到的
+外带米饼汉堡。
+
+它上面铺满了特制的酱
+汁，看上去好像很好
+吃。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="101">
     <Commands>
@@ -2945,8 +2982,17 @@ Charlotte's house.
 It was in Gilbert Moss'
 photo album. Looks like
 there's something in it.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]旧信封
+旧信封
+旧信封
+旧信封
+旧信封
+旧信封[2][0]从夏洛蒂的房子里找
+到的就信封。
+
+那是夹在吉尔伯特·莫斯
+的相片集里。看来里面
+装着东西。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="102">
     <Commands>
@@ -2961,8 +3007,12 @@ pH Testing Kit
 pH Testing Kit
 pH Testing Kit
 pH Testing Kit[2][0][3]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件
+水质PH值测试套件[2][0][3]</Translation>
   </Sentence>
   <Sentence id="103">
     <Commands>
@@ -2982,8 +3032,16 @@ and pestle.
 
 Used to grind up
 the red herbs.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]研钵和杵棒
+研钵和杵棒
+研钵和杵棒
+研钵和杵棒
+研钵和杵棒
+研钵和杵棒[2][0]夏洛蒂的研钵和
+杵棒。
+
+用来碾碎那些红色
+草药。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="104">
     <Commands>
@@ -3023,8 +3081,15 @@ Cardboard Flap[2][0]A piece of cardboard
 from the campsite.
 
 It might come in handy.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]纸板封盖
+纸板封盖
+纸板封盖
+纸板封盖
+纸板封盖
+纸板封盖[2][0]从营地找到的一块纸板
+封盖。
+
+这迟早应该会用得上。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="106">
     <Commands>
@@ -3096,8 +3161,18 @@ locked it...[3][0]Judd's mini laptop.
 
 Judd's confession was
 sealed inside.[4][0][5][6][0][7][8][0][9][10][0][11]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]贾德的笔记本电脑
+贾德的笔记本电脑
+贾德的笔记本电脑
+贾德的笔记本电脑
+贾德的笔记本电脑
+贾德的笔记本电脑[2][0]贾德的微型笔记本电脑。
+
+看来好像有人把它锁上
+了……[3][0]贾德的微型笔记本电脑。
+
+贾德的告白就藏在这里
+面。[4][0][5][6][0][7][8][0][9][10][0][11]</Translation>
   </Sentence>
   <Sentence id="109">
     <Commands>
@@ -3124,8 +3199,22 @@ in Dad's office.
 I heard a message from
 Mom when I connected
 it to the TAS.[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]白色仪器
+TAS的升级模块
+白色仪器
+白色仪器
+白色仪器
+白色仪器[2][0]在爸爸的办公室里的
+盒子里找到的仪器。
+
+上面有一根细绳，所以
+这应该可以系在某种
+东西上。[3][0]在爸爸的办公室里的
+盒子里找到的仪器。
+
+当我把它接在TAS时，
+我听到了一条妈妈
+的留言。[4][0][5]</Translation>
   </Sentence>
   <Sentence id="110">
     <Commands>
@@ -3148,8 +3237,18 @@ office.
 If you attach it to the
 kaleidoscope, you can
 see shapes.[4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]暗箱
+密码暗箱
+暗箱
+暗箱
+暗箱
+暗箱[2][0]从爸爸的办公室找到的
+暗箱。[3][0]从爸爸的办公室找到的
+暗箱。
+
+如果将它接到万花筒上，
+你可以看到一些图形。
+[4][0][5]</Translation>
   </Sentence>
   <Sentence id="111">
     <Commands>
@@ -3168,8 +3267,15 @@ T-shirt[2][0]Bear T-shirt bought at
 the guesthouse.
 
 A present for Jessica.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]短袖汗衫
+短袖汗衫
+短袖汗衫
+短袖汗衫
+短袖汗衫
+短袖汗衫[2][0]从接待处买到的小熊短
+袖汗衫。
+
+给杰西卡的礼物。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="112">
     <Commands>
@@ -3190,8 +3296,17 @@ was in my stolen bag.
 I found it by the villa
 remains. I need this for
 the band contest![3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]乐谱
+乐谱
+乐谱
+乐谱
+乐谱
+乐谱[2][0]一份乐谱。放在我被偷走
+的包里。
+
+我在别墅废墟里找到它。
+我需要这个来参加音
+乐比赛！[3][0][4]</Translation>
   </Sentence>
   <Sentence id="113">
     <Commands>
@@ -3211,8 +3326,16 @@ Crushed Herbs[2][0]Crushed red herbs.
 I should be able to
 make fever medicine
 with this.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]被碾碎的草药
+被碾碎的草药
+被碾碎的草药
+被碾碎的草药
+被碾碎的草药
+被碾碎的草药[2][0]被碾碎的红色草药。
+
+我可以用这些来做退
+烧汤药。
+[3][0][4]</Translation>
   </Sentence>
   <Sentence id="114">
     <Commands>
@@ -3232,8 +3355,16 @@ tower.
 
 There are loads and
 loads of them.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]钉子
+钉子
+钉子
+钉子
+钉子
+钉子[2][0]从钟楼找到的钉子。
+
+
+一大堆钉子放在那里。
+[3][0][4]</Translation>
   </Sentence>
   <Sentence id="115">
     <Commands>
@@ -3253,8 +3384,16 @@ clock tower toolbox.
 
 It looks like someone's
 taken good care of it.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]锤子
+锤子
+锤子
+锤子
+锤子
+锤子[2][0]从钟楼的工具箱里找到
+的一个锤子。
+
+看起来有人在好好地保养
+它。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="116">
     <Commands>
@@ -3278,8 +3417,19 @@ reference room door.[3][0]Key to the old
 reference room.
 
 I forgot to put it back![4][0][5]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]资料室的钥匙
+资料室的钥匙
+资料室的钥匙
+资料室的钥匙
+资料室的钥匙
+资料室的钥匙[2][0]打开旧资料室大门的钥
+匙。
+
+我需要用这个来打开资
+料室的大门。[3][0]打开旧资料室大门的钥
+匙。
+
+我忘记把它放回去了！[4][0][5]</Translation>
   </Sentence>
   <Sentence id="117">
     <Commands>
@@ -3314,8 +3464,28 @@ Mike's office.
 
 I need it to listen to the
 music player.[6][0][7]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]电池
+电池
+电池
+电池
+电池
+电池[2][0]从营地找到的电
+池。
+
+我需要用它来打开音乐播
+放器的电源听音乐。[3][0]从爸爸的卧室里找到的
+电池。
+
+我需要用它来打开音乐播
+放器的电源听音乐。[4][0]从营地和小屋找到的电
+池。
+
+我需要用它来打开音乐播
+放器的电源听音乐。[5][0]从吉娜和麦克的办公室里
+找到的电池。
+
+我需要用它来打开音乐播
+放器的电源听音乐。[6][0][7]</Translation>
   </Sentence>
   <Sentence id="118">
     <Commands>
@@ -3335,8 +3505,16 @@ bedroom.
 
 It looks really tough, so
 it should be useful.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]胶带
+胶带
+胶带
+胶带
+胶带
+胶带[2][0]从爸爸的卧室里找到的
+胶带。
+
+它看起来很坚韧，这应
+该派得上用场。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="119">
     <Commands>
@@ -3365,8 +3543,23 @@ Charlotte.
 If you attach it to the
 kaleidoscope, you can
 see pretty butterflies.[5][0][6]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]夏洛蒂的暗箱
+蝴蝶暗箱
+蝴蝶暗箱
+蝴蝶暗箱
+蝴蝶暗箱
+蝴蝶暗箱[2][0]从夏洛蒂的房间里找到的
+暗箱。[3][0]从夏洛蒂的房间里找到的
+暗箱。
+
+如果你将它接到万花筒上，
+你可以看到一群可爱的
+蝴蝶。[4][0]夏洛蒂给的暗箱。
+
+
+如果你将它接到万花筒上，
+你可以看到一群可爱的
+蝴蝶.[5][0][6]</Translation>
   </Sentence>
   <Sentence id="120">
     <Commands>
@@ -3408,8 +3601,17 @@ recycling machine.
 It's shiny, but I can't
 use it in a gumball
 machine.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]纪念币
+纪念币
+纪念币
+纪念币
+纪念币
+纪念币[2][0]从罐头回收机得到的
+硬币。
+
+它闪闪发亮的，但我不能
+把它用在口香糖贩卖机
+上。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="122">
     <Commands>
@@ -3428,8 +3630,16 @@ Saw[2][0]Saw from outside the
 Crusoe Resort office.
 
 It's a bit heavy...[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]锯子
+锯子
+锯子
+锯子
+锯子
+锯子[2][0]从克鲁索度假村的办公
+室外面找到的锯子。
+
+
+这有点重……[3][0][4]</Translation>
   </Sentence>
   <Sentence id="123">
     <Commands>
@@ -3450,8 +3660,17 @@ received from Ryan.
 If you attach it to the
 kaleidoscope, you can
 see cherry blossoms.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]樱花暗箱
+樱花暗箱
+樱花暗箱
+樱花暗箱
+樱花暗箱
+樱花暗箱[2][0]莱恩给我的樱花暗箱。
+
+
+如果你将它接到万花筒上，
+你可以看到一些樱花。
+[3][0][4]</Translation>
   </Sentence>
   <Sentence id="124">
     <Commands>
@@ -3472,8 +3691,17 @@ from Ryan.
 A keepsake from Mom.
 Different chambers will
 show different patterns.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]万花筒
+万花筒
+万花筒
+万花筒
+万花筒
+万花筒[2][0]莱恩给我的万花筒。
+
+
+从妈妈那里得来的纪念品。
+可以从不同暗箱里看到不
+同的图形。[3][0][4]</Translation>
   </Sentence>
   <Sentence id="125">
     <Commands>
@@ -3494,8 +3722,17 @@ the clock tower.
 She said they're handed
 down through the
 Graham family.[3][0][4]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[1][0]钟楼的一串钥匙
+钟楼的一串钥匙
+钟楼的一串钥匙
+钟楼的一串钥匙
+钟楼的一串钥匙
+钟楼的一串钥匙[2][0]用于钟楼的夏洛蒂的一
+串钥匙。
+
+她说那是格拉厄姆家代代
+相传下来的东西。
+[3][0][4]</Translation>
   </Sentence>
   <Sentence id="126">
     <Commands>
