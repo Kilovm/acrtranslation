@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IsoPatch">
+</Property><Property Name="Solution File" Value="C:\Users\Fei\Documents\Visual Studio 2010\Projects\IsoPatch\IsoPatch.sln">
+</Property><Property Name="Date" Value="2011年5月29日">
+</Property><Property Name="Time" Value="21:00">
+</Property></Properties><Event ErrorLevel="0" Project="IsoPatch" Source="IsoPatch\IsoPatch.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IsoPatch" Source="IsoPatch\IsoPatch.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IsoPatch.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IsoPatch.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IsoPatch" Source="IsoPatch\IsoPatch.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
