@@ -18,15 +18,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I went to the guesthouse and got charcoal for[1]the barbecue, but on the way back[2]I ran into Dad, who'd got an urgent phone call[3]and had to get back to the lab.[4]Now I'm waiting for Gina, the person Dad sent[5]to keep me company while I wait for him.[6]</Original>
-    <Translation>[0]我去了趟接待处，拿回了[1]烧烤用的木炭，但在回来的路上[2]碰见了爸爸，他刚接到一个紧急电话[3]正要赶回研究所。[4]现在我正在等吉娜，爸爸不放心我一个人，[5]就让吉娜来陪我等他。[6]</Translation>
+    <Translation>[0]我去了趟接待处，拿回了[1]烧烤用的木炭，但在回来的路上[2]碰见了爸爸，他刚接到一个紧急电话[3]而不得不赶回研究所。[4]现在我正在等吉娜，爸爸不放心我一个人，[5]就让吉娜来陪我等他。[6]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
       <Command>GhIAABhBX1AwNDBfRABFTlYCChoSAAAYQV9QMDQwX0QARU5WAQoaBgAADAAKGg4BAAsfAQAAAAAAAAAKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
@@ -74,7 +73,7 @@
       <Command>Ggf/AAEAZBoG/wAAAAoaBQAAAQoA</Command>
     </Commands>
     <Original>[0]Hello.[1]Huh?[2]Are you Ashley?[3]Yeah.[4]Who are you?[5]I came here instead of Gina.[6]I'm here to have the barbecue with you.[7]Instead of Gina?[8]Why didn't she come?[9]Gina said that Dr Robins had asked her to[10]keep you company.[11]But unfortunately, she had some urgent work[12]to attend to and was unable to come.[13]Urgent work? What happened?[14]I'm sorry, I don't know exactly what it was. In[15]any case, she wasn't able to come here.[16]And so I came in her place.[17]I believe Gina has already informed Dr Robins[18]that I came here instead.[19]But...[20]You seem unsettled.[21]Do I really seem so bad?[22]No, that's not it. It's just...[23]It's just?[24]I was just wondering, isn't having a barbecue[25]with someone you just met kind of...[26]Strange?[27]Yeah...[28]I suppose I feel the same way.[29]Really?[30]Yes. But even with something as unplanned[31]as this, two strangers can talk and share[32]their views on life.[33]Perhaps that could make it enjoyable.[34]Forgive me, I haven't introduced myself.[35]My name is [36]Ryan Gray[37]. I am a scientist at JC[38]Valley, like your father.[39]Nice to meet you.[40]Wait![41]</Original>
-    <Translation>[0]你好。[1]嗯？[2]你就是阿修蕾？[3]对啊。[4]你是？[5]我是代替吉娜来[6]陪你一起烧烤的。[7]代替吉娜？[8]她怎么没来？[9]吉娜告诉我，是罗宾斯博士[10]拜托她来陪你的。[11]但真不巧……她有急事要处理，[12]所以不能亲自来了。[13]急事？发生什么了？[14]实在不好意思，我也不清楚是怎么回事。[15]总之……现在她没法脱身。[16]所以你看，我来陪你了。[17]不过吉娜应该已经把我代替她过来这事[18]通知给罗宾斯博士了吧。[19]但是……[20]你看上去很不安呐，[21]我就那么像坏人？[22]不！不是这个意思，只是……[23]只是？[24]我只是不习惯，总觉得跟一个才见面的人一起烧烤，[25]会有点……[26]奇怪？[27]是啊……[28]其实我也挺紧张的。[29]真的吗？[30]是啊。但是我觉得既然两个陌生人[31]能够在这种情况下邂逅，[32]那倒不妨一起畅谈人生吧，[33]这样才能消除隔阂。[34]噢！原谅我还没先做自我介绍。[35]我的名字叫[36]莱恩·格雷[37]，我是JC山谷的研究员，[38]跟你爸爸一样哦。[39]很高兴见到你。[40]等等！[41]</Translation>
+    <Translation>[0]你好。[1]嗯？[2]你就是阿修蕾？[3]对啊。[4]你是？[5]我是代替吉娜来[6]陪你一起烧烤的。[7]代替吉娜？[8]她怎么没来？[9]吉娜告诉我，是罗宾斯博士[10]拜托她来陪你的。[11]但真不巧,她有急事要处理，[12]所以不能亲自来了。[13]急事？发生什么事了？[14]实在不好意思，我也不清楚是怎么回事。[15]总之，现在她没法脱身。[16]所以你看，我来陪你了。[17]不过吉娜应该已经把我代替她过来这事[18]通知给罗宾斯博士了吧。[19]但是……[20]你看上去很不安呐，[21]我就那么像坏人？[22]不！我不是这个意思，只是……[23]只是？[24]我只是觉得跟一个才见面的人一起烧烤，[25]会有点……[26]奇怪？[27]是啊……[28]其实我也这样觉得的。[29]真的吗？[30]是啊。但是我觉得两个陌生人[31]在这种偶然的情况下，[32]也不妨一起畅谈人生，[33]这样才能让我们尽兴。[34]噢！原谅我还没先做自我介绍。[35]我的名字叫[36]莱恩·格雷[37]，我是JC山谷的研究员，[38]跟你爸爸一样。[39]很高兴见到你。[40]等等！[41]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
@@ -121,7 +120,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Are you unwell? You looked like you were about[1]to pass out.[2]Ryan...[3]Yes?[4]Have we...[5]Have we...?[6]Have we met before?[7]Not that I recall.[8]This is the first time that we have met, to the[9]best of my knowledge.[10]However...[11]It is not uncommon to meet someone and think[12]that you've seen them somewhere before.[13]</Original>
-    <Translation>[0]觉得不舒服吗？[1]你看上去好像有点犯晕。[2]莱恩……[3]怎么了？[4]我们……[5]我们什么？[6]我们以前见过面吧？[7]没有吧。[8]如果我没得失忆症的话，[9]这应该是我们第一次见面。[10]但是……[11]初次见面而又觉得似曾相识，[12]这种事，常有的不是吗。[13]</Translation>
+    <Translation>[0]你觉得不舒服吗？你看上去好像[1]有点犯晕。[2]莱恩……[3]怎么了？[4]我们……[5]我们什么？[6]我们以前见过面吗？[7]我想没有吧。[8]如果我没得失忆症的话，[9]这应该是我们第一次见面。[10]但是……[11]对一个初次见面的人觉得似曾相识，[12]这不是常有的事吗。[13]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
@@ -214,7 +213,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoA</Command>
     </Commands>
     <Original>[0]No... I'm still sure I've seen you before[1]somewhere.[2]Oh?[3]I remembered it when I saw you.[4]I've definitely seen you somewhere before.[5]You recognise me from somewhere?[6]Yeah...[7]I was here with my mom 13 years ago.[8]Maybe I met you back then.[9]I see... Hmm...[10]Ashley, how old are you?[11]I'm 16.[12]Which means that 13 years ago, you were three.[13]There is a theory regarding myelination in the [14]human hippocampus, stating that as this[15]particular development is a slow process, the[16]hippocampus is not fully formed until the age[17]of three or four years old. If we consider the[18]concept of implicit memory, where emotions,[19]memory of basic tasks and facial recognition[20]develop before the age of three, it is not[21]an impossibility for you to retain memories[22]from 13 years ago. However, the majority of[23]test subjects cannot recall episodes or events[24]from their own childhood, which would imply[25]that explicit memory has not developed by that[26]stage.[27]Sorry, I didn't understand a word of that.[28]What are you telling me?[29]What I mean is that...[30]Your recognition of my face may be due to[31]ambiguous, unreliable memories.[32]Ambiguous, unreliable memories?[33]But as soon as I arrived here, I suddenly[34]started remembering my mom...[35]Ashley, do you think that coming here may be a[36]trigger that made you remember your mother?[37]Yeah...[38]Let me ask you something.[39]Okay.[40]Did you come here today by your own free will?[41]By which I mean, did you yourself decide to [42]come here?[43]No.[44]My dad called me here.[45]So Dr Robins invited you here, correct?[46]Yeah.[47]My dad knew that I'd been here with my mom[48]13 years ago...[49]So he wanted to show me the place again.[50]I see.[51]Before I came here...[52]I had no idea that I'd even been here, let alone[53]with my mom.[54]But when I came here and saw everything...[55]I suddenly started remembering my mom[56]and the last time I was here.[57]And you also remembered something when you[58]saw me, correct?[59]Yeah...[60]But if you ask me whether I'm completely sure[61]that all of the memories are true...[62]I couldn't honestly say I was sure.[63]I see...[64]Ashley, we call sudden memories like that[65]"flashbacks".[66]It usually happens when you have a traumatic[67]experience or mental scarring.[68]Did anything like that happen to you 13 years[69]ago?[70]Yeah...[71]On the night of my third birthday, my mom[72]died.[73]She was killed...13 years ago.[74]A great pity.[75]Sayoko Robins was killed 13 years ago, at the[76]young age of 28.[77]Wait...[78]You know about my mom?[79]Of course.[80]The death of Sayoko Robins was a great loss[81]for the entire scientific community, especially[82]for those of us focused on memory research.[83]And now, after 13 years, I have the chance[84]to meet her daughter.[85]It is quite an unexpected opportunity.[86]</Original>
-    <Translation>[0]不……我还是觉得以前在哪里……[1]有见过你。[2]噢？[3]一见到你我就觉得眼熟，[4]肯定以前在哪里见过你。[5]你在某个地方见过我？[6]是的……[7]十三年前我跟我妈妈来过这里，[8]或许是那个时候。[9]嗯……我想想……[10]阿修蕾，你今年几岁啊？[11]十六岁。[12]也就是说十三年前，你只有三岁。[13]有一种关于人类海马体中髓鞘形成[14]的理论，说是由于这一组织结构的生长[15]相对来说是一个缓慢的过程，所以在人[16]类三岁到四岁之前，负责记忆的海马体[17]并没有真正成形，所以你不会记得我。[18]但如果考虑到你的内隐记忆，比如三岁前的[19]情感发育、基本活动能力以及人脸识别等等，[20]这些十三年前的回忆，[21]倒也是可能有所保留呢。[22]然而，实验对象中的绝大多[23]数人都无法回忆起童年的[24]事件以及片段，这又说明了[25]内隐记忆并没有在这个[26]年龄阶段出现。[27]呃……我觉得我一个字都没听懂。[28]你想告诉我什么？[29]我的意思是说……[30]你觉得我眼熟很可能是由于一些[31]模棱两可且不怎么可靠的记忆。[32]模棱两可？不可靠？[33]但是我一到了这儿，就会突然[34]想起妈妈呀……[35]阿修蕾，你是不是想说来到这里触景生情，[36]想到了你的妈妈？[37]是的……[38]那我问你些事情。[39]好的。[40]你今天来这里是自已的意愿吗？[41]好吧……说简单点，是你自己决定[42]来这里的吗？[43]不是的。[44]爸爸叫我来的。[45]也就是说，罗宾斯博士叫你来的，对吗？[46]没错。[47]爸爸知道十三年前，[48]我和妈妈一起来过这里，[49]所以他想让我再次回到这里。[50]我懂了。[51]在我来到这里之前……[52]我完全不知道自己曾经来过这里，更不用说……[53]还是和妈妈一起来的。[54]但当我到了这里，看到了这里的一切……[55]就突然在脑海中闪现出妈妈的影子，[56]以及我最后一次来这里的场景。[57]你看到我以后也想起了一些事情，[58]对吗？[59]是的……[60]但你要是问我是不是百分百肯定[61]这些记忆的真实性……[62]我就真的不那么自信了。[63]我明白了。[64]阿修蕾，我们通常把这种突然出现的记忆称为[65]“闪影”。[66]这通常是由于精神创伤或者[67]某种恐怖的经历导致的。[68]十三年前，有没有这类事情[69]发生过？[70]是的……[71]在我三岁生日的晚上，妈妈……[72]死了。[73]她是被杀害的……就在十三年前……[74]很遗憾啊……[75]只有28岁啊……沙夜子·罗宾斯，[76]十三年前被杀害了。[77]等等……[78]你知道我妈妈？[79]当然。[80]沙夜子·罗宾斯的死，对于整个科研[81]界来说都是一个很大的损失，尤其是[82]对于像我们这样专注于研究记忆的。[83]如今，十三年过去了……我在这里[84]见到了她的女儿。[85]真是机缘巧合。[86]</Translation>
+    <Translation>[0]不……我还是觉得以前在哪里[1]见过你。[2]噢？[3]一见到你我就觉得眼熟，[4]我肯定我以前在哪里见过你。[5]你在某个地方见过我？[6]是的……[7]13年前我跟我妈妈来过这里，[8]或许是那个时候。[9]嗯……我想想……[10]阿修蕾，你今年几岁？[11]16岁。[12]也就是说13年前，你只有3岁。[13]有一种关于人类海马体中髓鞘形成[14]的理论，说是由于这一组织结构的生长[15]相对来说是一个缓慢的过程，所以在人[16]类3岁到4岁之前，负责记忆的海马体[17]并没有真正成形，所以你不会记得我。[18]但如果考虑到你的内隐记忆，比如3岁前的[19]情感发育、基本活动能力以及人脸识别等等，[20]这些13年前的回忆，[21]倒也是可能有所保留呢。[22]然而，实验对象中的绝大多[23]数人都无法回忆起童年的[24]事件以及片段，这又说明了[25]内隐记忆并没有在这个[26]年龄阶段出现。[27]对不起，我一个字也没听懂。[28]你想告诉我什么？[29]我的意思是说……[30]你觉得我眼熟很可能是由于一些[31]模棱两可且不怎么可靠的记忆。[32]模棱两可？不可靠？[33]但是我一来到这里，就突然[34]想起妈妈……[35]阿修蕾，你是不是想说来到这里触景生情，[36]想到了你的妈妈？[37]是的……[38]那我问你些事情。[39]好的。[40]你今天来这里是自已的意愿吗？[41]好吧……说简单点，是你自己决定[42]来这里的吗？[43]不是的。[44]爸爸叫我来的。[45]也就是说，是罗宾斯博士叫你来的，对吗？[46]没错。[47]爸爸知道13年前我和妈妈[48]一起来过这里，[49]所以他想让我再次回到这里。[50]我懂了。[51]在我来到这里之前……[52]我完全不知道自己曾经来过这里，更不用说[53]还是和妈妈一起来的。[54]但当我到了这里，看到了这里的一切……[55]就突然在脑海中闪现出妈妈的影子，[56]以及我最后一次来这里的场景。[57]你看到我以后也想起了一些事情，[58]对吗？[59]是的……[60]但你要是问我是不是百分百肯定[61]这些记忆都是真实的……[62]我就真的不那么自信了。[63]我明白了。[64]阿修蕾，我们通常把这种突然出现的记忆称为[65]“闪影”。[66]这通常是由于精神创伤或者[67]某种恐怖的经历导致的。[68]13年前，有没有这类事情[69]发生过？[70]是的……[71]在我3岁生日的晚上，妈妈[72]死了。[73]她是被杀害的……就在13年前……[74]很遗憾啊……[75]13年前，只有28岁的沙夜子·罗宾斯[76]被杀害了。[77]等等……[78]你认识我妈妈？[79]当然。[80]沙夜子·罗宾斯的死，对于整个科研[81]界来说都是一个巨大的损失，尤其是[82]对于像我们这样专注于研究记忆的。[83]如今，13年过去了，我在这里[84]见到了她的女儿。[85]真是机缘巧合。[86]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
@@ -226,7 +225,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]This guy knows about Mom.[1]Someone here at Lake Juliet knows about my[2]mom...[3]And I remember seeing him somewhere in my[4]memories of her...[5]</Original>
-    <Translation>[0]这个男人知道妈妈。[1]在朱丽叶湖的人……[2]竟然知道妈妈……[3]更巧的是，在关于妈妈的回忆里……[4]我记得自己见过这个人……[5]</Translation>
+    <Translation>[0]这个男人认识妈妈。[1]在朱丽叶湖的人……[2]竟然认识妈妈……[3]而且，在关于妈妈的回忆里……[4]我记得自己见过这个人……[5]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -242,8 +241,7 @@
       <Command>GgYAAAwAChoOAQALEAEAAAAAAAAAChoNAAAVCQAAAAAAAAAKGgwAAAgJALAAAAAAChoGAAAMAAoaBwAAAwSwChoGAAAMAAoaBwAAEQAAChoHAAASCQEKGg4BAAsTAQAAAAAAAAAKGg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAsAAAAAAKGhoAAEtuCXAxMF9iYXNlX1JfQXJtX0hhbmQKGgYAAAwAChoHAAARAAAaBwAAEgkAChoGAAAMAAoaDQAAFQkAAAABAAAAChoMAAAICQCwAQAAAAoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -259,8 +257,7 @@
       <Command>GgYAAC4BChoGAAAMAAoaDgEACxABAAAAAAAAAAoaDQAAFQkAAAAAAAAAChoMAAAICQC9AAAAAAoaBgAADAAKGgcAAAMD6AoA</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="14">
     <Commands>
@@ -291,7 +288,7 @@
       <Command>ChoFAAABChoGAAAMAAoaDgEACxABAAAAAAAAAAoaBgAADAAKGg4BAAs2AQkBCQEAAAAKGg0AABUJAAAAAAAAAAoaDAAACAkAvQAAAAAKGgYAAAwAChoHAAADA+gKGgYAAC4BCgA=</Command>
     </Commands>
     <Original>[0]Um...[1]I found some matches.[2]Good. Use those to light it up.[3]</Original>
-    <Translation>[0]唔……[1]我找到了一些火柴。[2]好的！用火柴来点吧。[3]</Translation>
+    <Translation>[0]唔……[1]我找到了一些火柴。[2]好的！用火柴来点火吧。[3]</Translation>
   </Sentence>
   <Sentence id="17">
     <Commands>
@@ -338,7 +335,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]Now I just need to light it.[5]There should be something here to start a fire.[6]</Original>
-    <Translation>[0]现在，[1]摆满木炭[2]的烤炉[3]也准备好了。[4]现在我只需要点燃它就好了。[5]这里应该有些什么东西能够生火。[6]</Translation>
+    <Translation>[0]有一个[1]摆满木炭[2]的烤炉[3]。[4]现在我只需要点燃它就好了。[5]这里应该有些什么东西能够生火。[6]</Translation>
   </Sentence>
   <Sentence id="21">
     <Commands>
@@ -351,7 +348,7 @@
       <Command>ChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAL0AAAAAChoGAAAMAAoaBgAALgEKAA==</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]Now I just need to light it.[5]Try using the matches.[6]</Original>
-    <Translation>[0]现在，[1]摆满木炭[2]的烤炉[3]也准备好了。[4]现在我只需要点燃它就好了。[5]试试看用火柴吧。[6]</Translation>
+    <Translation>[0]有一个[1]摆满木炭[2]的烤炉[3]。[4]现在我只需要点燃它就好了。[5]试试看用火柴吧。[6]</Translation>
   </Sentence>
   <Sentence id="22">
     <Commands>
@@ -362,7 +359,7 @@
       <Command>Ggb/AAAAChoFAAABChoFAAAOChoGAQADGAoA</Command>
     </Commands>
     <Original>[0]There are [1]matches[2] by the lantern.[3]These should come in handy.[4]</Original>
-    <Translation>[0]煤油灯旁边有些[1]火柴[2] 。[3]这东西应该有用。[4]</Translation>
+    <Translation>[0]煤油灯[1]旁边有些[2]火柴 。[3]这东西应该有用。[4]</Translation>
   </Sentence>
   <Sentence id="23">
     <Commands>
@@ -374,7 +371,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]There is a[1] barbecue filled with [2]charcoal[3].[4]I'll use the matches to light this up.[5]</Original>
-    <Translation>[0]现在，[1]摆满木炭[2]的烤炉[3]也准备好了。[4]用火柴点燃它们。[5]</Translation>
+    <Translation>[0]有一个[1]摆满木炭[2]的烤炉[3]。[4]我要用火柴点燃它们。[5]</Translation>
   </Sentence>
   <Sentence id="24">
     <Commands>
@@ -453,7 +450,7 @@
       <Command>Ggb/AAAAChoFAAABChoNAAAVCQAAAAAAAAAKGgwAAAgJAMYAAAAAChoGAAAMAAoA</Command>
     </Commands>
     <Original>[0]All right![1]The charcoal's really burning now![2]</Original>
-    <Translation>[0]成功了！[1]木炭现在烧得很旺耶！[2]</Translation>
+    <Translation>[0]成功了！[1]木炭现在烧得很旺！[2]</Translation>
   </Sentence>
   <Sentence id="33">
     <Commands>
@@ -463,7 +460,7 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]I lit it, but...[1]The fire's still pretty weak.[2]How do I make it burn better?[3]</Original>
-    <Translation>[0]我把它点燃了，但……[1]火光微弱啊。[2]怎么样让它烧旺些呢？[3]</Translation>
+    <Translation>[0]我把它点燃了，但……[1]火光微弱啊。[2]怎么样让它烧得旺些呢？[3]</Translation>
   </Sentence>
   <Sentence id="34">
     <Commands>
@@ -488,8 +485,7 @@
       <Command>AA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="37">
     <Commands>
@@ -522,8 +518,7 @@
       <Command>GgUAACAKGgYAAAwAChoTAAAvJXknjye/Ju4ncScQpgQKGgkAADBjAAABCgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="40">
     <Commands>
@@ -532,15 +527,14 @@
       <Command>Ggb/AAAAChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]They've cooked very well all over.[1]Yeah, I can't wait![2]</Original>
-    <Translation>[0]滋滋滴油，很诱人呢。[1]嗯嗯！我都等不及了！[2]</Translation>
+    <Translation>[0]食物看来烧得很香。[1]嗯嗯！我都等不及了！[2]</Translation>
   </Sentence>
   <Sentence id="41">
     <Commands>
       <Command>GgkAADFjAAABChoGAAAmAAoaBgAADAAKGgYAAAwAChoFAAAbChoNAAAVAAAAAAAAAAAKGgwAAAgAACYAAAAACgA=</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="42">
     <Commands>
@@ -572,15 +566,14 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaDgEAC2UBAAAAAAAAAAoaBgAADAAKGg4BAAsQAQAAAAAAAAAKGgkAADEAAAAAChoJAAAxCQAAAQoA</Command>
     </Commands>
     <Original>[0]How is it?[1]Yeah, it's great![2]That's good to hear.[3]Being here with you reminds me of Sayoko,[4]actually.[5]You bear quite a strong resemblance to her.[6]I look like her?[7]Yes. Your hair is a different colour, but your[8]dark eyes are almost exactly like hers.[9]You've...met her?[10]Yes, indeed.[11]She is one of the few people that I can [12]never[13]forget[14].[15]She was exactly the [16]same type of person[17] as me.[18]Say, Ryan...[19]Yes?[20]Can I ask you about my mom?[21]Of course.[22]Let's talk about her after we've eaten.[23]Please help yourself! Bon appétit![24]Okay.[25]</Original>
-    <Translation>[0]怎么样？[1]嗯！色香味俱全的感觉！[2]太好了。[3]说实话，[4]跟你待在一起，让我想起了沙夜子。[5]你确实长得跟她很像。[6]我长得像妈妈？[7]是的。虽然发色不同，[8]但深色的瞳孔，就像她一样。[9]你……见过她？[10]当然了。[11]很少有像她一样的人，能让我这么[12]难以[13]忘怀[14]。[15]她是跟我[16]一类人[17]。[18]说说看，莱恩……[19]什么？[20]我能问你一些关于妈妈的事吗？[21]当然可以了。[22]那我们吃完再说她吧。[23]多吃点吧，祝胃口好！[24]恩！[25]</Translation>
+    <Translation>[0]怎么样？[1]嗯！色香味俱全的感觉！[2]太好了。[3]说实话，跟你在一起，让我想起了[4]沙夜子。[5]你确实长得跟她很像。[6]我长得像妈妈？[7]是的。虽然发色不同，但你黑色的眼睛[8]和她一模一样。[9]你……见过她？[10]当然了。[11]很少有像她一样的人，能让我这么[12]难以[13]忘怀[14]。[15]她是跟我[16]一类人[17]。[18]说说看，莱恩……[19]什么？[20]我能问你一些关于妈妈的事吗？[21]当然可以了。[22]那我们吃完再说她吧。[23]多吃点吧，祝胃口好！[24]嗯！[25]</Translation>
   </Sentence>
   <Sentence id="43">
     <Commands>
       <Command>Gg0AABUAAAAAAAAAAAoaDAAACAAAAAAAAAEKAA==</Command>
     </Commands>
     <Original>[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>[0]</Translation>
   </Sentence>
   <Sentence id="44">
     <Commands>
@@ -608,7 +601,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]That was really great![1]I dunno why, but eating outside makes it taste[2]so much nicer.[3]Indeed.[4]It was quite delicious.[5]Do you like barbecues?[6]Yeah, I like them, but today's barbecue[7]was totally amazing.[8]I can't stand peppers, and I even ate them![9]You don't like peppers?[10]Nope.[11]I can kind of eat them now, but when I was[12]little I couldn't stand them at all.[13]I'm the same.[14]Really?[15]It is said the best way to overcome hatred of a[16]food is by force of will and careful cooking.[17]Perhaps today's barbecue helped you grow to[18]enjoy peppers.[19]You think?[20]I do indeed.[21]</Original>
-    <Translation>[0]真的很美味啊！[1]不知道是什么原因，但在室外吃东西，[2]感觉更美味呢。[3]确实如此。[4]真的非常好吃。[5]你平时喜欢烧烤吗？[6]恩，挺喜欢的，尤其是今天的烧烤，[7]简直太合我胃口啦！[8]我最受不了胡椒了，但今天我也吃了！[9]你不喜欢胡椒吗？[10]不喜欢。[11]我现在是能吃一点，[12]但小时候一点都不吃。[13]我也是。[14]真的吗？[15]据说克服对某种食物的厌恶的最好[16]方法，就是意志力和精心的烹饪。[17]或许今天的烧烤可以帮助你增加对[18]胡椒的喜爱。[19]是么？[20]对啊。[21]</Translation>
+    <Translation>[0]真的很美味啊！[1]不知道是什么原因，但在室外吃东西，[2]感觉更美味呢。[3]确实如此。[4]真的非常好吃。[5]你喜欢烧烤吗？[6]嗯，挺喜欢的，尤其是今天的烧烤，[7]简直太合我胃口啦！[8]我最受不了胡椒了，但今天我也吃了！[9]你不喜欢胡椒吗？[10]不喜欢。[11]我现在是能吃一点，[12]但小时候一点都不吃。[13]我也是。[14]真的吗？[15]据说克服对某种食物的厌恶的最好[16]方法，就是意志力和精心的烹调。[17]或许今天的烧烤可以帮助你增加对[18]胡椒的喜爱。[19]是吗？[20]对啊。[21]</Translation>
   </Sentence>
   <Sentence id="45">
     <Commands>
@@ -619,7 +612,7 @@
       <Command>Ggb/AAAAChoFAAABChoGAAAMAAoaBwAASQH0ChoOAQALHwEAAAAAAAAAChoHAABiAfQKAA==</Command>
     </Commands>
     <Original>[0]I'm so glad Ryan's keeping me company.[1]I thought scientists were all like Dad...[2]But Ryan's so open and talkative. I guess not[3]all scientists are the same.[4]</Original>
-    <Translation>[0]我很高兴莱恩能陪我一起吃烧烤。[1]我还以为科学家都像爸爸那样呢……[2]但是莱恩很开朗，也很健谈。看来我要对[3]科学家有所改观了呢。[4]</Translation>
+    <Translation>[0]我很高兴莱恩能陪我一起吃烧烤。[1]我还以为科学家都像爸爸那样……[2]但是莱恩很开朗而健谈。看来并不是天下的[3]科学家都是一个样呢。[4]</Translation>
   </Sentence>
   <Sentence id="46">
     <Commands>
@@ -643,7 +636,7 @@
       <Command>ChoFAAABCgA=</Command>
     </Commands>
     <Original>[0]Ashley, let's talk about Sayoko.[1]You wanted to ask me about her, didn't you?[2]Yeah.[3]How do you know her?[4]Before I was recruited by JC Valley, I was[5]occasionally at MJ Labs.[6]MJ Labs was where Mom worked, right?[7]Yes, Dr Robins and Sayoko were both[8]researching Another there.[9]So you know about Another?[10]Yes, I do.[11]And I knew Sayoko when she was working on[12]Another...[13]Ah...[14]So there are people at JC Valley who know[15]about Another...[16]There are.[17]</Original>
-    <Translation>[0]阿修蕾，我们来谈谈沙夜子吧。[1]你不是想要跟我谈谈她吗？[2]是啊。[3]你怎么会认识妈妈的？[4]在我入职JC山谷前，我偶尔会[5]呆在MJ研究所。[6]MJ研究所……就是妈妈曾经工作的地方对么？[7]是的，罗宾斯博士和沙夜子都在那里[8]研究Another。[9]那你知道Another？[10]是啊。[11]我就是在沙夜子研究Another的时候[12]认识她的……[13]这样……[14]那么，在JC山谷，还有人知道[15]Another……[16]是的。[17]</Translation>
+    <Translation>[0]阿修蕾，我们来谈谈沙夜子吧。[1]你不是想要跟我谈谈她吗？[2]是啊。[3]你是怎么认识妈妈的？[4]在我入职JC山谷前，我偶尔会[5]呆在MJ研究所。[6]MJ研究所就是妈妈曾经工作的地方，对么？[7]是的，罗宾斯博士和沙夜子都在那里[8]研究Another。[9]那你知道Another？[10]是啊。[11]我就是在沙夜子研究Another的时候[12]认识她的……[13]这样……[14]那么，在JC山谷，还有人知道[15]Another……[16]是的。[17]</Translation>
   </Sentence>
   <Sentence id="47">
     <Commands>
@@ -5343,5 +5336,7 @@
     <Original>[0]Matt?[1]What's up?[2]Actually, never mind.[3]</Original>
     <Translation>[0]马修？[1]怎么了？[2]算了，没什么。[3]</Translation>
   </Sentence>
-  <Comments />
+  <Comments>
+    <Comment Author="" Date="2011-07-15 20:41:18" Position="46">校对</Comment>
+  </Comments>
 </Session>
