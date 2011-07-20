@@ -20,10 +20,10 @@ CALL bmg_text.bat
 ECHO end handle text
 
 :IMAGE
-%BIN_DIR%\PackageImg.exe %IMG_DIR% %IMG_DIR%\List.xml %TMP_IMG_DIR%
+%BIN_DIR%\PackageImg.exe %IMG_DIR% %IMG_DIR%\List.xml %TMP_DIR%\img
 
 :PACKAGE_IMAGE
-%BIN_DIR%\PackageACR.exe %WII_SDK_HOME%\x86\bin\darchD.exe %TMP_IMG_DIR% %OUT_DIR%\LYT
+%BIN_DIR%\PackageACR.exe %WII_SDK_HOME%\x86\bin\darchD.exe %TMP_DIR%\img %OUT_DIR%\LYT
 
 :PATCH_ISO
 %BIN_DIR%\iso_patch.exe %OUT_DIR% %RAW_ISO% REVOLUTION/LANG/ENG

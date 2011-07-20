@@ -6,6 +6,5 @@ SET IMG_DIR=%HOME%\img
 SET TEXT_DIR=%HOME%\text
 SET BIN_DIR=%HOME%\bin
 SET TMP_DIR=%HOME%\tmp
-SET TMP_IMG_DIR=%TMP_DIR%\img
 SET RAW_ISO=..\..\su-acr.iso
 
