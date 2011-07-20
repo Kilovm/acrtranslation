@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brfnt", "brfnt\brfnt.csproj", "{C5CFF9D7-1628-4F6C-8182-79CA55CB6326}"
 EndProject
 Global

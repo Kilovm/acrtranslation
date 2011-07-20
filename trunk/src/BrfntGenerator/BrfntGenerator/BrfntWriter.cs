@@ -25,25 +25,24 @@ namespace BrfntGenerator
 
 		protected Bitmap buf;
 
-		public BrfntWriter(string textFileName,string fontName, int cw, int ch, int nc, int nr)
-		{
-			charWidth = cw;
-			charHeight = ch;
-			bmpWidth = 1 << nc;
-			bmpHeight = 1 << nr;
+        public BrfntWriter(string[] names, string fontName, int cw, int ch, int nc, int nr)
+        {
+            charWidth = cw;
+            charHeight = ch;
+            bmpWidth = 1 << nc;
+            bmpHeight = 1 << nr;
 
-            ReadTextFile(textFileName, "gbk");
+            ReadTextFile(names, "gbk");
 
-			font = new Font(fontName, cw, GraphicsUnit.Pixel);
+            font = new Font(fontName, cw, GraphicsUnit.Pixel);
 
             nColumns = bmpWidth / charWidth;
             nRows = bmpHeight / charHeight;
 
             buf = new Bitmap(bmpWidth, bmpHeight);
-			
-		}
+        }
 
-        private void ReadTextFile(string fileName, string encoding)
+        private void ReadTextFile(string[] names, string encoding)
         {
             string enc;
 
@@ -55,8 +54,6 @@ namespace BrfntGenerator
                 for (int j = presetRanges[i]; j <= presetRanges[i + 1]; j++)
                     list.Add((char)j);
             }
-
-            string[] names = fileName.Split(new char[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
 
             foreach (string name in names)
             {

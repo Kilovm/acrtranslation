@@ -30,88 +30,48 @@ namespace IsoPatch
 		[DllImport("WiiScrubber.dll")]
 		static extern bool FileExists([MarshalAs(UnmanagedType.LPStr)]string isoFileName, string findFileName, int partNo, bool caseSensitive);
 
+        static void replaceDir(DirectoryInfo src, String dest, String isoPath, int partitionNo)
+        {
+            DirectoryInfo[] srcSubDirs = src.GetDirectories("*", SearchOption.TopDirectoryOnly);
+
+            FileInfo[] files = src.GetFiles("*", SearchOption.TopDirectoryOnly);
+            foreach (FileInfo f in files)
+            {
+                Console.WriteLine("    " + f.Name);
+                ReplaceFiles(isoPath,
+                        new string[] { dest + "/" + f.Name },
+                        new string[] { src.FullName },
+                        1, false, false, partitionNo, IntPtr.Zero);
+            }
+
+            foreach (DirectoryInfo subDir in srcSubDirs)
+            {
+                replaceDir(subDir, dest + "/" + subDir.Name, isoPath, partitionNo);
+            }
+        }
+
 		[STAThread]
 		static void Main(string[] args)
 		{
-			try
-			{
-				string currPath = ((FileInfo)new FileInfo(Assembly.GetEntryAssembly().Location)).DirectoryName;
+            try
+            {
+                if (args.Length < 3)
+                {
+                    Console.WriteLine(args.Length);
+                    Console.WriteLine("format: iso_patch source_path iso_path dest_path");
+                    return;
+                }
 
-				OpenFileDialog ofd = new OpenFileDialog();
-				ofd.Filter = "ISO|*.iso";
-				if (ofd.ShowDialog() != DialogResult.OK) return;
-
-				Environment.CurrentDirectory = currPath;
-
-				PatchXML patch = null;
-
-				Console.Write("Reading config file...");
-
-				XmlSerializer s = new XmlSerializer(typeof(PatchXML));
-				using (Stream stream = new FileStream("patch.xml", FileMode.Open))
-				{
-					patch = s.Deserialize(stream) as PatchXML;
-				}
-
-				Console.WriteLine("OK");
-
-				string isoPath = ofd.FileName;
-
-				int partitionNo = GetPartitionNo(isoPath);
-
-				foreach (var file in patch.Files)
-				{
-					if (string.IsNullOrEmpty(file.Type) || !file.Type.Equals("Directory", StringComparison.CurrentCultureIgnoreCase))
-					{
-						Console.WriteLine(file.Replace);
-						Environment.CurrentDirectory = currPath;
-						ReplaceFiles(isoPath, new string[] { file.Replace }, new string[] { file.With }, 1, false, false, partitionNo, IntPtr.Zero);
-					}
-					else
-					{
-						DirectoryInfo rootDir = new DirectoryInfo(file.With);
-
-						Stack<DirectoryInfo> dirs = new Stack<DirectoryInfo>();
-						dirs.Push(rootDir);
-
-						while (dirs.Count > 0)
-						{
-							DirectoryInfo dir = dirs.Pop();
-
-							Console.WriteLine("In folder " + dir.Name);
-
-							DirectoryInfo[] subDirs = dir.GetDirectories("*", SearchOption.TopDirectoryOnly);
-							foreach (var d in subDirs)
-							{
-								dirs.Push(d);
-							}
-
-							FileInfo[] files = dir.GetFiles("*", SearchOption.TopDirectoryOnly);
-
-							foreach (var f in files)
-							{
-								Console.WriteLine("    " + f.Name);
-
-								string relFilePath = f.FullName.Replace(rootDir.FullName, "").Replace('\\','/');
-
-								Environment.CurrentDirectory = currPath;
-								ReplaceFiles(isoPath,
-									new string[] { file.Replace+relFilePath }, 
-									new string[] { file.With+relFilePath }, 
-									1, false, false, partitionNo, IntPtr.Zero);
-							}
-						}
-					}
-				}
-
-				Console.WriteLine("Finish!");
-			}
-			catch (Exception e)
-			{
-				Console.WriteLine(e.Message);
-			}
-
-			Console.ReadKey(true);
+                String sourcePath = args[0];
+                String isoPath = args[1];
+                String destPath = args[2];
+                int partitionNo = GetPartitionNo(isoPath);
+                replaceDir(new DirectoryInfo(sourcePath), destPath, isoPath, partitionNo);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
 		}
 
 		private static int GetPartitionNo(string isoPath)

@@ -37,21 +37,21 @@
             this.tbText.Location = new System.Drawing.Point(0, 0);
             this.tbText.Multiline = true;
             this.tbText.Name = "tbText";
-            this.tbText.Size = new System.Drawing.Size(373, 257);
+            this.tbText.Size = new System.Drawing.Size(373, 237);
             this.tbText.TabIndex = 0;
             // 
             // DictForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(373, 257);
+            this.ClientSize = new System.Drawing.Size(373, 237);
             this.Controls.Add(this.tbText);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Name = "DictForm";
             this.Text = "Google Translate";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.DictForm_Load);
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.DictForm_FormClosing);
+            this.Load += new System.EventHandler(this.DictForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

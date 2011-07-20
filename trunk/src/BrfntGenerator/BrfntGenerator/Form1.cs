@@ -80,7 +80,8 @@ namespace BrfntGenerator
 
 			try
 			{
-				BrfntWriter bw = new BrfntWriter(tbFileName.Text, tbFontName.Text, (int)numCharWidth.Value, (int)numCharHeight.Value, (int)numColumns.Value, (int)numRows.Value);
+                string[] names = tbFileName.Text.Split(new char[] { ';' }, StringSplitOptions.RemoveEmptyEntries);
+                BrfntWriter bw = new BrfntWriter(names, tbFontName.Text, (int)numCharWidth.Value, (int)numCharHeight.Value, (int)numColumns.Value, (int)numRows.Value);
 				bw.WriteBrfnt(tbOutFileName.Text);
 
 				MessageBox.Show("OK!");
