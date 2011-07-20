@@ -28,17 +28,22 @@ namespace PackPics
 
 		static void Main(string[] args)
 		{
-			Dictionary<int, string> tplTypes = GetTPLTypes();
-
-			DirectoryInfo curDir = new DirectoryInfo(".");
-
-			string curPath = curDir.FullName + "\\";
+            if (args.Length < 3)
+            {
+                Console.WriteLine(args.Length);
+                Console.WriteLine("format: PackageImg in_dir config_file out_dir");
+                return;
+            }
+            Dictionary<int, string> tplTypes = GetTPLTypes();
+            String in_dir = args[0];
+            String config_file = args[1];
+            String out_dir = args[2];
 
 			XmlDocument doc = new XmlDocument();
-			doc.Load("List.xml");
+            doc.Load(config_file);
 
 			XmlNodeList nlist = doc.SelectNodes("/List/PNG");
-			int i = 1;
+			int img_num = 0;
 			foreach (XmlElement node in nlist)
 			{
 				string path = node.GetAttribute("Path");
@@ -48,9 +53,12 @@ namespace PackPics
 
 				string typeName = tplTypes[type];
 
-				Console.Write("({2}/{3}) Processing {0}{1} ...", path, name,i++,nlist.Count);
+                Console.Write("({2}/{3}) Processing {0}{1} ...", path, name, ++img_num, nlist.Count);
 				
-				if (!File.Exists(path + name))
+                String in_name = in_dir + "\\" + path + name;
+                String out_name = out_dir + "\\" + path + tpl;
+
+				if (!File.Exists(in_name))
 				{
 					Console.WriteLine("not found.");
 					continue;
@@ -58,8 +66,12 @@ namespace PackPics
 
 				try
 				{
-					TplUtil.ConvertToTPL(path + name, tplTypes[type], path + tpl);
-					File.Delete(path + name);
+                    DirectoryInfo info = new DirectoryInfo(out_dir + "\\" + path);
+                    if (!info.Exists)
+                    {
+                        info.Create();
+                    }
+					TplUtil.ConvertToTPL(in_name, tplTypes[type], out_name);
 
 					Console.WriteLine("OK");
 				}
@@ -67,51 +79,27 @@ namespace PackPics
 				{
 					Console.WriteLine(ex.Message);
 				}
-				//if (InvokeZetsubou(name, path, typeName, tpl) != 0)
-				//{
-				//    Console.WriteLine("failed");
-				//    continue;
-				//}
-				//else
-				//{
-				//    Console.WriteLine("OK");
-				//    File.Delete(path + name);
-				//}
 			}
 
 			Console.WriteLine("All done.");
-			Console.ReadKey(true);
 		}
 
-		static int InvokeZetsubou(string filename, string dir, string type, string tplName)
-		{
-			ProcessStartInfo ps = new ProcessStartInfo(@"C:\WII\Zet\zetsubou.exe", "wpng "+type+" "+ filename+" "+tplName);
-			ps.WorkingDirectory = dir;
-			ps.UseShellExecute = false;
-			ps.CreateNoWindow = true;
-			//ps.RedirectStandardOutput = true;
-			Process p = Process.Start(ps);
-			p.WaitForExit();
-
-			return p.ExitCode;
-		}
-
-		private static Dictionary<int, string> GetTPLTypes()
+        private static Dictionary<int, string> GetTPLTypes()
 		{
 
 			Dictionary<int, string> types = new Dictionary<int, string>(){
-		{0,"I4"},
-		{1,"I8"},
-		{2,"IA4"},
-		{3,"IA8"},
-		{4,"RGB565"},
-		{5,"RGB5A3"},
-		{6,"RGBA32"},
-		{8,"CI4"},
-		{9,"CI8"},
-		{10,"CI14X2"},
-		{14,"CMPR"}
-		};
+		        {0,"I4"},
+		        {1,"I8"},
+		        {2,"IA4"},
+		        {3,"IA8"},
+		        {4,"RGB565"},
+		        {5,"RGB5A3"},
+		        {6,"RGBA32"},
+		        {8,"CI4"},
+		        {9,"CI8"},
+		        {10,"CI14X2"},
+		        {14,"CMPR"}
+		        };
 
 			return types;
 		}
