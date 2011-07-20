@@ -14,11 +14,18 @@ namespace ConsoleApplication4
         {
             try
             {
+
+                if (args.Length < 2)
+                {
+                    Console.WriteLine("format: BMGStatistics textDir dest");
+                    return;
+                }
+
                 Regex regex = new Regex(@"(\[\d+\])|\s");
 
-                DirectoryInfo root = new DirectoryInfo(System.Environment.CurrentDirectory);
+                DirectoryInfo root = new DirectoryInfo(args[0]);
 
-                using (StreamWriter writer = new StreamWriter(root.Name + ".html"))
+                using (StreamWriter writer = new StreamWriter(args[1]))
                 {
                     writer.WriteLine("<html>");
                     writer.WriteLine(string.Format("<head><title>{0}</title></head>", root.Name));
@@ -27,13 +34,13 @@ namespace ConsoleApplication4
                     writer.WriteLine("<table style='border-style:solid;border-width:1px;width:80%;border-color:black;'>");
 
                     writer.WriteLine(@"<tr>
-<th>&nbsp;</th>
-<th>File</th>
-<th>Lines</th>
-<th>Non-Empty</th>
-<th>Translated</th>
-<th>Percent</th>
-</tr>");
+                                    <th>&nbsp;</th>
+                                    <th>File</th>
+                                    <th>Lines</th>
+                                    <th>Non-Empty</th>
+                                    <th>Translated</th>
+                                    <th>Percent</th>
+                                    </tr>");
 
                     bool f = false;
                     int n = 1;
