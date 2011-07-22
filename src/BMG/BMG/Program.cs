@@ -33,7 +33,24 @@ namespace BMG
                 BMG bmg = BMG.ReadBMG(file.FullName);
                 if (output_bmg)
                 {
-                    bmg.WriteBMG(out_dir.FullName + "/" + file.Name.Replace(".xml", ".BMG"));
+                    String format = ".BMG";
+                    if (bmg.FileType == "Another Code R - CHARA.MESS")
+                    {
+                        format = ".MESS";
+                    }
+                    else if (bmg.FileType == "Another Code R - ITEM.MESS")
+                    {
+                        format = ".MESS";
+                    }
+                    else if (bmg.FileType == "Another Code R - MAIL.MESS")
+                    {
+                        format = ".MESS";
+                    }
+                    else if (bmg.FileType == "Another Code R - Memory.dat")
+                    {
+                        format = ".DAT";
+                    }
+                    bmg.WriteBMG(out_dir.FullName + "/" + file.Name.Replace(".xml", format));
                 }
                 else
                 {
