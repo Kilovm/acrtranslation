@@ -7,4 +7,3 @@ SET TEXT_DIR=%HOME%\text
 SET BIN_DIR=%HOME%\bin
 SET TMP_DIR=%HOME%\tmp
 SET RAW_ISO=..\..\su-acr.iso
-
