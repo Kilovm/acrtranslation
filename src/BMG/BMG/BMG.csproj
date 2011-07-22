@@ -67,6 +67,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\..\common\CommandHandler.cs">
+      <Link>CommandHandler.cs</Link>
+    </Compile>
     <Compile Include="ACR\Bmg.cs" />
     <Compile Include="ACR\CharaMESS.cs" />
     <Compile Include="ACR\ItemMESS.cs" />
@@ -88,8 +91,6 @@
     <Compile Include="BookmarkForm.Designer.cs">
       <DependentUpon>BookmarkForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="Class1.cs" />
-    <Compile Include="CommandHandler.cs" />
     <Compile Include="DictForm.cs">
       <SubType>Form</SubType>
     </Compile>
