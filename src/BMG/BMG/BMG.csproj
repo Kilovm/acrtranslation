@@ -88,6 +88,8 @@
     <Compile Include="BookmarkForm.Designer.cs">
       <DependentUpon>BookmarkForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="CommandHandler.cs" />
     <Compile Include="DictForm.cs">
       <SubType>Form</SubType>
     </Compile>
