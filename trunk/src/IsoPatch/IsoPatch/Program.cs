@@ -37,10 +37,9 @@ namespace IsoPatch
             FileInfo[] files = src.GetFiles("*", SearchOption.TopDirectoryOnly);
             foreach (FileInfo f in files)
             {
-                Console.WriteLine("    " + f.Name);
                 ReplaceFiles(isoPath,
                         new string[] { dest + "/" + f.Name },
-                        new string[] { src.FullName },
+                        new string[] { f.FullName },
                         1, false, false, partitionNo, IntPtr.Zero);
             }
 
