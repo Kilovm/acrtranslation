@@ -54,7 +54,7 @@ namespace BrfntGenerator
 				Graphics g = Graphics.FromImage(fontImg);
 				g.Clear(Color.White);
 
-				TextRenderer.DrawText(g, "啊", font, new Point(0, 0), Color.Black,Color.White, TextFormatFlags.NoPadding| TextFormatFlags.Top);
+				TextRenderer.DrawText(g, "你", font, new Point(0, 0), Color.Black,Color.White, TextFormatFlags.NoPadding| TextFormatFlags.Top);
 
 				fontPreview.Refresh();
 			}

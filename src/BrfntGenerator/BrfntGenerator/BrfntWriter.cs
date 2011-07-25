@@ -34,7 +34,8 @@ namespace BrfntGenerator
 
             ReadTextFile(names, "gbk");
 
-            font = new Font(fontName, cw, GraphicsUnit.Pixel);
+            font = new Font(fontName, (float)cw / 1.14f , GraphicsUnit.Pixel);
+            float height = font.GetHeight();
 
             nColumns = bmpWidth / charWidth;
             nRows = bmpHeight / charHeight;
