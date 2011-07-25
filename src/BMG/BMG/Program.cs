@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.IO;
+using WiiUtil;
 
 namespace BMG
 {
