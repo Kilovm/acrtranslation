@@ -6,4 +6,5 @@ SET IMG_DIR=%HOME%\img
 SET TEXT_DIR=%HOME%\text
 SET BIN_DIR=%HOME%\bin
 SET TMP_DIR=%HOME%\tmp
+SET EXTRACT_DIR=%HOME%\extract
 SET RAW_ISO=..\..\su-acr.iso
