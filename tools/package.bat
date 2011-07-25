@@ -8,7 +8,7 @@ if not exist %OUT_DIR% mkdir %OUT_DIR%
 :FONT
 ECHO start generate font
 if not exist %TMP_DIR% mkdir %TMP_DIR%
-%BIN_DIR%\FontGenerator.exe 22 22 8 8 %TEXT_DIR% %TMP_DIR%\font.brfnt ËÎÌו
+%BIN_DIR%\FontGenerator.exe 21 21 8 8 %TEXT_DIR% %TMP_DIR%\font.brfnt ËÎÌו
 ECHO copy font
 if not exist %OUT_DIR%\MESS mkdir %OUT_DIR%\MESS
 copy /Y %TMP_DIR%\font.brfnt %OUT_DIR%\MESS\FONT_A.BRFNT
