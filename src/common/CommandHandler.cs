@@ -32,7 +32,7 @@ namespace WiiUtil
                 {
                     if (args[i].StartsWith("--"))
                     {
-                        options.Add(args[i]);
+                        options.Add(args[i].Replace("--", ""));
                     }
                     else if (args[i].StartsWith("-"))
                     {
