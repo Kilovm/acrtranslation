@@ -43,20 +43,16 @@ namespace PackPics
             doc.Load(config_file);
 
 			XmlNodeList nlist = doc.SelectNodes("/List/PNG");
-			int img_num = 0;
 			foreach (XmlElement node in nlist)
 			{
-				string path = node.GetAttribute("Path");
-				string name = node.GetAttribute("name");
+				string png = node.GetAttribute("name");
 				string tpl = node.GetAttribute("tpl");
 				int type = int.Parse(node.GetAttribute("type"));
 
 				string typeName = tplTypes[type];
-
-                Console.Write("({2}/{3}) Processing {0}{1} ...", path, name, ++img_num, nlist.Count);
-				
-                String in_name = in_dir + "\\" + path + name;
-                String out_name = out_dir + "\\" + path + tpl;
+			
+                String in_name = in_dir + "\\" + png;
+                String out_name = out_dir + "\\" + tpl;
 
 				if (!File.Exists(in_name))
 				{
@@ -66,14 +62,12 @@ namespace PackPics
 
 				try
 				{
-                    DirectoryInfo info = new DirectoryInfo(out_dir + "\\" + path);
-                    if (!info.Exists)
+                    FileInfo tplInfo = new FileInfo(tpl);
+                    if (!tplInfo.Directory.Exists)
                     {
-                        info.Create();
+                        tplInfo.Directory.Create();
                     }
 					TplUtil.ConvertToTPL(in_name, tplTypes[type], out_name);
-
-					Console.WriteLine("OK");
 				}
 				catch (Exception ex)
 				{

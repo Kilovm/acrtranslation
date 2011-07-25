@@ -12,38 +12,129 @@ namespace ConsoleApplication5
 {
 	class Program
 	{
+        static List<PngInfo> pngs = new List<PngInfo>();
+        static string png_root_dir = "";
+        static string tpl_root_dir = "";
 
-		//List<PngInfo> pngs = new List<PngInfo>();
+        static DirectoryInfo uncompress(FileInfo darchD, FileInfo file, DirectoryInfo tplDir)
+        {
+            DirectoryInfo ret = new DirectoryInfo(tplDir.FullName + "\\" + file.Name.Replace('.', '_'));
+            if (InvokeDarch(darchD, file, ret) != 0)
+            {
+                Console.WriteLine("Error");
 
+                throw new Exception();
+            }
+            return ret;
+        }
+
+        static int convert(FileInfo tpl, FileInfo png)
+        {
+            if (!png.Directory.Exists)
+            {
+                png.Directory.Create();
+            }
+            return FormatFromName(TplUtil.ConvertToPNG(tpl.FullName, png.FullName));
+        }
+
+        static void convert(DirectoryInfo tplArc, DirectoryInfo pngArc)
+        {
+            FileInfo[] files = tplArc.GetFiles("*.tpl", SearchOption.TopDirectoryOnly);
+            foreach (FileInfo file in files)
+            {
+                // add new item.
+                FileInfo png = new FileInfo(pngArc.FullName + "\\" + file.Name.Replace(".tpl", ".png").Replace(".TPL", ".PNG"));
+                int type = convert(file, png);
+                PngInfo newitem = new PngInfo();
+                newitem.Type = type;
+                newitem.Tpl = file.FullName.Replace(tpl_root_dir, "");
+                newitem.Png = png.FullName.Replace(png_root_dir, "");
+                pngs.Add(newitem);
+            }
+            DirectoryInfo[] subDirs = tplArc.GetDirectories("*", SearchOption.TopDirectoryOnly);
+            foreach (DirectoryInfo dir in subDirs)
+            {
+                convert(dir, new DirectoryInfo(pngArc.FullName + "\\" + dir.Name));
+            }
+        }
+
+        static void handleDir(FileInfo darchD, DirectoryInfo rawDir, DirectoryInfo tplDir, DirectoryInfo pngDir)
+        {
+            if (!rawDir.Exists)
+                return;
+            if (!tplDir.Exists)
+            {
+                tplDir.Create();
+            }
+            FileInfo[] files = rawDir.GetFiles("*.arc", SearchOption.TopDirectoryOnly);
+            foreach (FileInfo file in files)
+            {
+                DirectoryInfo tplArcDir = uncompress(darchD, file, tplDir);
+
+                convert(tplArcDir, new DirectoryInfo(pngDir.FullName + "\\" + tplArcDir.Name));
+            }
+
+            DirectoryInfo[] subDirs = rawDir.GetDirectories("*", SearchOption.TopDirectoryOnly);
+            foreach (DirectoryInfo dir in subDirs)
+            {
+                handleDir(darchD, dir, new DirectoryInfo(tplDir.FullName + "\\" + dir.Name), new DirectoryInfo(pngDir.FullName + "\\" + dir.Name));
+            }
+        }
+
+        static void writeConfig(string config)
+        {
+            XmlDocument doc = new XmlDocument();
+
+            XmlElement root = doc.CreateElement("List");
+
+            doc.AppendChild(root);
+
+            foreach (PngInfo info in pngs)
+            {
+                XmlElement pngElement = doc.CreateElement("PNG");
+                pngElement.SetAttribute("name", info.Png);
+                pngElement.SetAttribute("tpl", info.Tpl);
+                pngElement.SetAttribute("type", info.Type.ToString());
+
+                root.AppendChild(pngElement);
+            }
+
+            FileInfo configFileInfo = new FileInfo(config);
+            if (!configFileInfo.Directory.Exists)
+            {
+                configFileInfo.Directory.Create();
+            }
+            doc.Save(configFileInfo.FullName);
+        }
 
 		static void Main(string[] args)
 		{
+            CommandHandler handler = new CommandHandler(args, true);
+            if (handler.hasOption("f"))
+            {
+                string tplFile = handler.Args[0];
+                string pngFile = handler.Args[1];
+                convert(new FileInfo(tplFile), new FileInfo(pngFile));
+                return;
+            }
+            if (handler.Args.Length < 4)
+            {
+                Console.WriteLine("format: extractImgs darchD raw_dir tpl_dir png_dir config");
+                return;
+            }
 			try
 			{
-				DirectoryInfo curDir = new DirectoryInfo(".");
+				string darchD = handler.Args[0];
+                string rawDir = handler.Args[1];
+                string tplDir = handler.Args[2];
+                string pngDir = handler.Args[3];
+                string configXML = handler.Args[4];
+                tpl_root_dir = new DirectoryInfo(tplDir).FullName + "\\";
+                png_root_dir = new DirectoryInfo(pngDir).FullName + "\\";
 
-				string curPath=curDir.FullName+"\\";
+                handleDir(new FileInfo(darchD), new DirectoryInfo(rawDir), new DirectoryInfo(tplDir), new DirectoryInfo(pngDir));
 
-				List<PngInfo> pngs= new Program().Go();
-
-				//XmlDocument doc = new XmlDocument();
-
-				//XmlElement root = doc.CreateElement("List");
-
-				//doc.AppendChild(root);
-
-				//foreach (var info in pngs)
-				//{
-				//    XmlElement pngElement = doc.CreateElement("PNG");
-				//    pngElement.SetAttribute("Path", info.Path.Replace(curPath, ""));
-				//    pngElement.SetAttribute("name", info.PngName);
-				//    pngElement.SetAttribute("tpl", info.TplName);
-				//    pngElement.SetAttribute("type", info.Type.ToString());
-
-				//    root.AppendChild(pngElement);
-				//}
-
-				//doc.Save("List.xml");
+                writeConfig(configXML);
 
 				Console.WriteLine("OK");
 			}
@@ -53,178 +144,20 @@ namespace ConsoleApplication5
 			}
 		}
 
-		public List<PngInfo> Go()
-		{
-			Stack<DirectoryInfo> dirs = new Stack<DirectoryInfo>();
-			dirs.Push(new DirectoryInfo("."));
+        static int InvokeDarch(FileInfo darchD, FileInfo src, DirectoryInfo dest)
+        {
+            ProcessStartInfo ps = new ProcessStartInfo(darchD.FullName, "-x " + dest.FullName.Replace('.', '_') + " " + src.Name);
+            ps.WorkingDirectory = src.Directory.FullName;
+            ps.UseShellExecute = false;
+            ps.CreateNoWindow = true;
+            //ps.RedirectStandardOutput = true;
+            Process p = Process.Start(ps);
+            p.WaitForExit();
 
-			while (dirs.Count > 0)
-			{
-				DirectoryInfo dir = dirs.Pop();
+            return p.ExitCode;
+        }
 
-				DirectoryInfo[] cd = ProcessDirectory(dir);
-
-				foreach (var d in cd)
-				{
-					dirs.Push(d);
-				}
-			}
-
-			return null;
-		}
-
-		private DirectoryInfo[] ProcessDirectory(DirectoryInfo d)
-		{
-			DirectoryInfo[] children = d.GetDirectories("*", SearchOption.TopDirectoryOnly);
-
-			FileInfo[] files = d.GetFiles("*.arc", SearchOption.TopDirectoryOnly);
-
-			foreach (var file in files)
-			{
-				string arcFolderName = file.Name.Replace('.', '_');
-
-				Console.Write("Extract " + file.Name+" ...");
-
-				if (InvokeDarch(file.Name, d.FullName) != 0)
-				{
-					Console.WriteLine("Error");
-
-					throw new Exception();
-				}
-				Console.WriteLine("OK");
-
-				file.Delete();
-
-				DirectoryInfo arcFolder = d.GetDirectories(arcFolderName, SearchOption.TopDirectoryOnly)[0];
-
-
-				//try
-				//{
-				//    Console.WriteLine("    Delete anim folder...");
-				//    DirectoryInfo animFolder = d.GetDirectories("anim", SearchOption.AllDirectories)[0];
-				//    animFolder.Delete(true);
-				//}
-				//catch { }
-
-				//try
-				//{
-				//    Console.WriteLine("    Delete blyt folder...");
-				//    DirectoryInfo blytFolder = d.GetDirectories("blyt", SearchOption.AllDirectories)[0];
-				//    blytFolder.Delete(true);
-				//}
-				//catch { }
-
-				try
-				{
-					DirectoryInfo timgFolder = arcFolder.GetDirectories("timg", SearchOption.AllDirectories)[0];
-					ProcessImgDirectory(timgFolder);
-				}
-				catch { }
-				 
-
-			}
-
-			return children;
-		}
-
-		private void ProcessImgDirectory(DirectoryInfo d)
-		{
-			FileInfo[] files = d.GetFiles("*.tpl");
-			string folderName = d.FullName+"\\";
-
-			foreach (var file in files)
-			{
-				Console.Write("Processing " + file.Name + " ...");
-
-				string pngName= file.FullName.Replace(".tpl", "00.png").Replace(".TPL", "00.PNG");
-
-				string type = TplUtil.ConvertToPNG(file.FullName,pngName);
-
-				string pngShortName = file.Name.Replace(".tpl",".png").Replace(".TPL",".PNG");
-
-				//if (InvokeZetsubou(file.Name, d.FullName) != 0)
-				//{
-				//    Console.WriteLine("failed.");
-
-				//    throw new Exception();
-				//}
-				Console.WriteLine("OK");
-
-				//PngInfo pi = new PngInfo();
-				//pi.Path = folderName;
-				//pi.PngName = pngShortName;
-				//pi.TplName = file.Name;
-
-
-
-				//pngs.Add(pi);
-
-				/*
-				for (int i = 0; i <= 0xFF; i++)
-				{
-					string pngName = prefix + i.ToString("X2") + ".png";
-					string metName = prefix + i.ToString("X2") + ".met";
-
-					if (File.Exists(folderName+pngName))
-					{
-						Console.WriteLine("    " + pngName);
-
-						PngInfo pi = new PngInfo();
-						pi.Path = folderName;
-						pi.PngName = pngName;
-						pi.TplName = file.Name;
-
-						using (FileStream fs = new FileStream(folderName + metName, FileMode.Open))
-						{
-							fs.Seek(8, SeekOrigin.Begin);
-
-							int t = fs.ReadByte();
-							t = (t << 8) | fs.ReadByte();
-							t = (t << 8) | fs.ReadByte();
-							t = (t << 8) | fs.ReadByte();
-
-							pi.Type = t;
-						}
-
-						pngs.Add(pi);
-
-						File.Delete(folderName+metName);
-					}
-				}
-				 */
-
-				file.Delete();
-			}
-
-		}
-
-		static int InvokeZetsubou(string filename, string dir)
-		{
-			ProcessStartInfo ps = new ProcessStartInfo(@"C:\WII\Zet\zetsubou.exe", "rpng "+filename);
-			ps.WorkingDirectory = dir;
-			ps.UseShellExecute = false;
-			ps.CreateNoWindow = true;
-			//ps.RedirectStandardOutput = true;
-			Process p = Process.Start(ps);
-			p.WaitForExit();
-
-			return p.ExitCode;
-		}
-
-		static int InvokeDarch(string filename, string dir)
-		{
-			ProcessStartInfo ps = new ProcessStartInfo(@"E:\RVL_SDK\X86\bin\darchD.exe", "-x " + filename.Replace('.', '_') + " " + filename);
-			ps.WorkingDirectory = dir;
-			ps.UseShellExecute = false;
-			ps.CreateNoWindow = true;
-			//ps.RedirectStandardOutput = true;
-			Process p = Process.Start(ps);
-			p.WaitForExit();
-
-			return p.ExitCode;
-		}
-
-		Dictionary<int, string> types = new Dictionary<int, string>(){
+        Dictionary<int, string> types = new Dictionary<int, string>(){
 		{0,"I4"},
 		{1,"I8"},
 		{2,"IA4"},
@@ -237,14 +170,48 @@ namespace ConsoleApplication5
 		{10,"CI14X2"},
 		{14,"CMPR"}
 		};
-	}
 
-	class PngInfo
-	{
-		public string Path;
+        private static int FormatFromName(string typeName)
+        {
+            int format = 0;
+            switch (typeName)
+            {
+                case "I4":
+                    format = 0;
+                    break;
+                case "I8":
+                    format = 1;
+                    break;
+                case "IA4":
+                    format = 2;
+                    break;
+                case "IA8":
+                    format = 3;
+                    break;
+                case "RGB565":
+                    format = 4;
+                    break;
+                case "RGB5A3":
+                    format = 5;
+                    break;
+                case "RGBA32":
+                    format = 6;
+                    break;
+                case "CMPR":
+                    format = 14;
+                    break;
+                default:
+                    throw new Exception("Unsupported format!");
+            }
 
-		public string PngName;
-		public string TplName;
-		public int Type;
+            return format;
+        }
+
+        class PngInfo
+        {
+            public string Png;
+            public string Tpl;
+            public int Type;
+        }
 	}
 }
