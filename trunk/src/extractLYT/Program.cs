@@ -16,6 +16,9 @@ namespace ConsoleApplication5
         static string png_root_dir = "";
         static string tpl_root_dir = "";
 
+        static bool export_config;
+        static bool no_compress;
+
         static DirectoryInfo uncompress(FileInfo darchD, FileInfo file, DirectoryInfo tplDir)
         {
             DirectoryInfo ret = new DirectoryInfo(tplDir.FullName + "\\" + file.Name.Replace('.', '_'));
@@ -28,37 +31,71 @@ namespace ConsoleApplication5
             return ret;
         }
 
-        static int convert(FileInfo tpl, FileInfo png)
+        static void convertToTpl(FileInfo src, FileInfo dst, int type)
         {
-            if (!png.Directory.Exists)
+            if (!src.Directory.Exists)
             {
-                png.Directory.Create();
+                return;
             }
-            return FormatFromName(TplUtil.ConvertToPNG(tpl.FullName, png.FullName));
+            if (!dst.Directory.Exists)
+            {
+                dst.Directory.Create();
+            }
+            TplUtil.ConvertToTPL(src.FullName, dst.FullName, types[type]);
         }
 
-        static void convert(DirectoryInfo tplArc, DirectoryInfo pngArc)
+        static int convertToPng(FileInfo src, FileInfo dst)
         {
-            FileInfo[] files = tplArc.GetFiles("*.tpl", SearchOption.TopDirectoryOnly);
+            if (!src.Directory.Exists)
+            {
+                return 0;
+            }
+            if (!dst.Directory.Exists)
+            {
+                dst.Directory.Create();
+            }
+
+            return FormatFromName(TplUtil.ConvertToPNG(src.FullName, dst.FullName));
+
+        }
+
+        static void convertDir(DirectoryInfo src, DirectoryInfo dst, bool toPng)
+        {
+            string pattern = toPng ? "*.tpl" : "*.png";
+            FileInfo[] files = src.GetFiles(pattern, SearchOption.TopDirectoryOnly);
             foreach (FileInfo file in files)
             {
                 // add new item.
-                FileInfo png = new FileInfo(pngArc.FullName + "\\" + file.Name.Replace(".tpl", ".png").Replace(".TPL", ".PNG"));
-                int type = convert(file, png);
-                PngInfo newitem = new PngInfo();
-                newitem.Type = type;
-                newitem.Tpl = file.FullName.Replace(tpl_root_dir, "");
-                newitem.Png = png.FullName.Replace(png_root_dir, "");
-                pngs.Add(newitem);
+                FileInfo dstInfo;
+                int type = 0;
+                if (toPng)
+                {
+                    dstInfo = new FileInfo(dst.FullName + "\\" + file.Name.Replace(".tpl", ".png").Replace(".TPL", ".PNG"));
+                    type = convertToPng(file, dstInfo);
+                }
+                else
+                {
+                    dstInfo = new FileInfo(dst.FullName + "\\" + file.Name.Replace(".png", ".tpl").Replace(".PNG", ".TPL"));
+                    convertToTpl(file, dstInfo, 0); // hack only for debug. 
+                }
+                
+                if (export_config && toPng)
+                {
+                    PngInfo newitem = new PngInfo();
+                    newitem.Type = type;
+                    newitem.Tpl = file.FullName.Replace(tpl_root_dir, "");
+                    newitem.Png = dstInfo.FullName.Replace(png_root_dir, "");
+                    pngs.Add(newitem);
+                }
             }
-            DirectoryInfo[] subDirs = tplArc.GetDirectories("*", SearchOption.TopDirectoryOnly);
+            DirectoryInfo[] subDirs = src.GetDirectories("*", SearchOption.TopDirectoryOnly);
             foreach (DirectoryInfo dir in subDirs)
             {
-                convert(dir, new DirectoryInfo(pngArc.FullName + "\\" + dir.Name));
+                convertDir(dir, new DirectoryInfo(dst.FullName + "\\" + dir.Name), toPng);
             }
         }
 
-        static void handleDir(FileInfo darchD, DirectoryInfo rawDir, DirectoryInfo tplDir, DirectoryInfo pngDir)
+        static void uncompressDir(FileInfo darchD, DirectoryInfo rawDir, DirectoryInfo tplDir)
         {
             if (!rawDir.Exists)
                 return;
@@ -69,15 +106,12 @@ namespace ConsoleApplication5
             FileInfo[] files = rawDir.GetFiles("*.arc", SearchOption.TopDirectoryOnly);
             foreach (FileInfo file in files)
             {
-                DirectoryInfo tplArcDir = uncompress(darchD, file, tplDir);
-
-                convert(tplArcDir, new DirectoryInfo(pngDir.FullName + "\\" + tplArcDir.Name));
+                uncompress(darchD, file, tplDir);
             }
-
             DirectoryInfo[] subDirs = rawDir.GetDirectories("*", SearchOption.TopDirectoryOnly);
             foreach (DirectoryInfo dir in subDirs)
             {
-                handleDir(darchD, dir, new DirectoryInfo(tplDir.FullName + "\\" + dir.Name), new DirectoryInfo(pngDir.FullName + "\\" + dir.Name));
+                uncompressDir(darchD, dir, new DirectoryInfo(tplDir.FullName + "\\" + dir.Name));
             }
         }
 
@@ -108,23 +142,59 @@ namespace ConsoleApplication5
         }
 
 		static void Main(string[] args)
-		{
+        {
             CommandHandler handler = new CommandHandler(args, true);
+            // f indicate handle file.
+            // d indicate handle directory.
+            // c indicate export config xml.
+            // p indicate convert to tpl.
+            // --nocompress indicate no compress.
+            bool toPng = !handler.hasOption("p");
             if (handler.hasOption("f"))
             {
-                string tplFile = handler.Args[0];
-                string pngFile = handler.Args[1];
-                convert(new FileInfo(tplFile), new FileInfo(pngFile));
+                try
+                {
+                    string src = handler.Args[0];
+                    string dst = handler.Args[1];
+                    if (toPng)
+                    {
+                        convertToPng(new FileInfo(src), new FileInfo(dst));
+                    }
+                    else
+                    {
+                        convertToTpl(new FileInfo(src), new FileInfo(dst), 0);
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
                 return;
             }
+            no_compress = handler.hasOption("nocompress");
+            if (no_compress)
+            {
+                try
+                {
+                    string src = handler.Args[0];
+                    string dst = handler.Args[1];
+                    convertDir(new DirectoryInfo(src), new DirectoryInfo(dst), toPng);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                }
+                return;
+            }
+            export_config = handler.hasOption("c");
             if (handler.Args.Length < 4)
             {
                 Console.WriteLine("format: extractImgs darchD raw_dir tpl_dir png_dir config");
                 return;
             }
-			try
-			{
-				string darchD = handler.Args[0];
+            try
+            {
+                string darchD = handler.Args[0];
                 string rawDir = handler.Args[1];
                 string tplDir = handler.Args[2];
                 string pngDir = handler.Args[3];
@@ -132,17 +202,24 @@ namespace ConsoleApplication5
                 tpl_root_dir = new DirectoryInfo(tplDir).FullName + "\\";
                 png_root_dir = new DirectoryInfo(pngDir).FullName + "\\";
 
-                handleDir(new FileInfo(darchD), new DirectoryInfo(rawDir), new DirectoryInfo(tplDir), new DirectoryInfo(pngDir));
+                if (!no_compress)
+                {
+                    uncompressDir(new FileInfo(darchD), new DirectoryInfo(rawDir), new DirectoryInfo(tplDir));
+                }
 
-                writeConfig(configXML);
+                convertDir(new DirectoryInfo(tplDir), new DirectoryInfo(pngDir), toPng);
 
-				Console.WriteLine("OK");
-			}
-			catch (Exception ex)
-			{
-				Console.WriteLine(ex.Message);
-			}
-		}
+                if (export_config)
+                {
+                    writeConfig(configXML);
+                }
+                Console.WriteLine("OK");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
 
         static int InvokeDarch(FileInfo darchD, FileInfo src, DirectoryInfo dest)
         {
@@ -157,7 +234,7 @@ namespace ConsoleApplication5
             return p.ExitCode;
         }
 
-        Dictionary<int, string> types = new Dictionary<int, string>(){
+        static Dictionary<int, string> types = new Dictionary<int, string>(){
 		{0,"I4"},
 		{1,"I8"},
 		{2,"IA4"},
