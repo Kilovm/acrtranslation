@@ -21,12 +21,12 @@ ECHO end handle text
 
 :IMAGE
 ECHO start handle image
-%BIN_DIR%\PackageImg.exe %IMG_DIR% %IMG_DIR%\List.xml %TMP_DIR%\img
+%BIN_DIR%\PackageImg.exe %EXTRACT_DIR%\png %EXTRACT_DIR%\List.xml %EXTRACT_DIR%\tpl
 ECHO end handle image
 
 :PACKAGE_IMAGE
 ECHO start package image
-%BIN_DIR%\PackageACR.exe %WII_SDK_HOME%\x86\bin\darchD.exe %TMP_DIR%\img %OUT_DIR%\LYT
+%BIN_DIR%\PackageACR.exe %WII_SDK_HOME%\x86\bin\darchD.exe %EXTRACT_DIR%\tpl %OUT_DIR%\LYT
 ECHO end package image
 
 :PATCH_ISO
