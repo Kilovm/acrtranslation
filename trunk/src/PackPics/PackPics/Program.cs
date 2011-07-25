@@ -62,7 +62,7 @@ namespace PackPics
 
 				try
 				{
-                    FileInfo tplInfo = new FileInfo(tpl);
+                    FileInfo tplInfo = new FileInfo(out_name);
                     if (!tplInfo.Directory.Exists)
                     {
                         tplInfo.Directory.Create();
