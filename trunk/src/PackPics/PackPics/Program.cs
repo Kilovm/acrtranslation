@@ -67,7 +67,7 @@ namespace PackPics
                     {
                         tplInfo.Directory.Create();
                     }
-					TplUtil.ConvertToTPL(in_name, tplTypes[type], out_name);
+                    TplUtil.ConvertToTPLSelfTemplate(in_name, tplTypes[type], out_name, out_name);
 				}
 				catch (Exception ex)
 				{

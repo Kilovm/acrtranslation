@@ -31,7 +31,7 @@ namespace ConsoleApplication5
             return ret;
         }
 
-        static void convertToTpl(FileInfo src, FileInfo dst, int type)
+        static void convertToTpl(FileInfo src, FileInfo dst, FileInfo tp, int type)
         {
             if (!src.Directory.Exists)
             {
@@ -41,7 +41,7 @@ namespace ConsoleApplication5
             {
                 dst.Directory.Create();
             }
-            TplUtil.ConvertToTPL(src.FullName, dst.FullName, types[type]);
+            TplUtil.ConvertToTPLSelfTemplate(src.FullName, types[type], dst.FullName, tp.FullName);
         }
 
         static int convertToPng(FileInfo src, FileInfo dst)
@@ -76,7 +76,7 @@ namespace ConsoleApplication5
                 else
                 {
                     dstInfo = new FileInfo(dst.FullName + "\\" + file.Name.Replace(".png", ".tpl").Replace(".PNG", ".TPL"));
-                    convertToTpl(file, dstInfo, 0); // hack only for debug. 
+                    convertToTpl(file, dstInfo, dstInfo, 6); // hack only for debug. 
                 }
                 
                 if (export_config && toPng)
@@ -156,13 +156,15 @@ namespace ConsoleApplication5
                 {
                     string src = handler.Args[0];
                     string dst = handler.Args[1];
+                    
                     if (toPng)
                     {
                         convertToPng(new FileInfo(src), new FileInfo(dst));
                     }
                     else
                     {
-                        convertToTpl(new FileInfo(src), new FileInfo(dst), 0);
+                        string tp = handler.Args[2];
+                        convertToTpl(new FileInfo(src), new FileInfo(dst), new FileInfo(tp), 6);
                     }
                 }
                 catch (Exception e)

@@ -65,12 +65,14 @@ namespace WiiUtil
 			return format;
 		}
 
-		public static void ConvertToTPL(string pngFileName, string typeName, string tplFileName)
+        public static void ConvertToTPLSelfTemplate(string pngFileName, string typeName, string tplFileName, string templateFileName)
 		{
 			ImageDataFormat format=FormatFromName(typeName);
 
 			Bitmap bmp = new Bitmap(pngFileName);
-			TplImage tpl = new TplImage(new MemoryStream(NSProperties.Resources.FormatNewTpl));
+            FileStream template = new FileStream(templateFileName, FileMode.Open, FileAccess.Read);
+            TplImage tpl = new TplImage(template);
+            template.Close();
 
 			tpl.Import(ImageData.GetData(bmp), format, 1, bmp.Width, bmp.Height);
 
@@ -81,5 +83,22 @@ namespace WiiUtil
 
 			bmp.Dispose();
 		}
+
+        public static void ConvertToTPL(string pngFileName, string typeName, string tplFileName)
+        {
+            ImageDataFormat format = FormatFromName(typeName);
+
+            Bitmap bmp = new Bitmap(pngFileName);
+            TplImage tpl = new TplImage(new MemoryStream(NSProperties.Resources.FormatNewTpl));
+
+            tpl.Import(ImageData.GetData(bmp), format, 1, bmp.Width, bmp.Height);
+
+            using (FileStream fs = new FileStream(tplFileName, FileMode.Create))
+            {
+                tpl.Save(fs);
+            }
+
+            bmp.Dispose();
+        }
 	}
 }
