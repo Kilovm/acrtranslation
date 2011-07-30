@@ -75,10 +75,15 @@ namespace Chadsoft.CTools.Image.Tpl
         public short Width { get; set; }
         public int Format { get; set; }
         public int ImageStart { get; set; }
-        public int UnknownC { get; set; }
-        public int Unknown10 { get; set; }
-        public int Unknown14 { get; set; }
-        public int Unknown18 { get; set; }
+        public int wrapS { get; set; }
+        public int wrapT { get; set; }
+        public int minFilter { get; set; }
+        public int magFilter { get; set; }
+        public int lodBias { get; set; }
+        public byte edgeLod { get; set; }
+        public byte minLod { get; set; }
+        public byte maxLod { get; set; }
+        public byte unpacked { get; set; }
 
         public TplImageHeader(EndianBinaryReader reader)
         {
@@ -89,10 +94,15 @@ namespace Chadsoft.CTools.Image.Tpl
             Width = reader.ReadInt16();
             Format = reader.ReadInt32();
             ImageStart = reader.ReadInt32();
-            UnknownC = reader.ReadInt32();
-            Unknown10 = reader.ReadInt32();
-            Unknown14 = reader.ReadInt32();
-            Unknown18 = reader.ReadInt32();
+            wrapS = reader.ReadInt32();
+            wrapT = reader.ReadInt32();
+            minFilter = reader.ReadInt32();
+            magFilter = reader.ReadInt32();
+            lodBias = reader.ReadInt32();
+            edgeLod = reader.ReadByte();
+            minLod = reader.ReadByte();
+            maxLod = reader.ReadByte();
+            unpacked = reader.ReadByte();
         }
 
         public void Write(EndianBinaryWriter writer)
@@ -101,10 +111,10 @@ namespace Chadsoft.CTools.Image.Tpl
             writer.Write(Width);
             writer.Write(Format);
             writer.Write(ImageStart);
-            writer.Write(UnknownC);
-            writer.Write(Unknown10);
-            writer.Write(Unknown14);
-            writer.Write(Unknown18);
+            writer.Write(wrapS);
+            writer.Write(wrapT);
+            writer.Write(minFilter);
+            writer.Write(magFilter);
         }
     }
 }
