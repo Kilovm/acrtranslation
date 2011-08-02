@@ -25,6 +25,18 @@ namespace BrfntGenerator
 
 		protected Bitmap buf;
 
+        private Font getBestFitFontByFontHeight(string fontName, int needHeight)
+        {
+            Font f = new Font(fontName, (float)needHeight, GraphicsUnit.Pixel);
+            int height = needHeight;
+            while (f.GetHeight() > needHeight)
+            {
+                height--;
+                f = new Font(fontName, (float)height, GraphicsUnit.Pixel);
+            }
+            return f;
+        }
+
         public BrfntWriter(string[] names, string fontName, int cw, int ch, int nc, int nr)
         {
             charWidth = cw;
@@ -34,8 +46,7 @@ namespace BrfntGenerator
 
             ReadTextFile(names, "gbk");
 
-            font = new Font(fontName, (float)cw / 1.14f , GraphicsUnit.Pixel);
-            float height = font.GetHeight();
+            font = getBestFitFontByFontHeight(fontName, ch - 2);
 
             nColumns = bmpWidth / charWidth;
             nRows = bmpHeight / charHeight;
@@ -90,7 +101,17 @@ namespace BrfntGenerator
             chars = list.ToArray();
         }
 
-		public void WriteBrfnt(string outputFileName)
+        private int getCharWidth(char c)
+        {
+            string s = "";
+            for (int i = 0; i < 100; ++i)
+            {
+                s += c;
+            }
+            return TextRenderer.MeasureText(s, font).Width / 100;
+        }
+
+        public void WriteBrfnt(string outputFileName)
 		{
 			long posFileSize;
 			long posCWDH;
@@ -191,8 +212,7 @@ namespace BrfntGenerator
 							if(current>=chars.Length) break;
 
 							char c = chars[current];
-
-							TextRenderer.DrawText(g, c.ToString(), font, new Point(x * charWidth ,y * charHeight), Color.White, TextFormatFlags.NoPadding);
+							TextRenderer.DrawText(g, c.ToString(), font, new Point(x * charWidth + 1 ,y * charHeight + 1), Color.White, TextFormatFlags.NoPadding);
 
 							current++;
 						}
@@ -217,7 +237,6 @@ namespace BrfntGenerator
 								}
 							}
 						}
-
 					}
 
 					buf.UnlockBits(bd);
@@ -243,15 +262,11 @@ namespace BrfntGenerator
 
 				outfile.WriteInt32(chars.Length - 1);
 				outfile.WriteInt32(0);
-
 				foreach (char c in chars)
 				{
                     outfile.WriteByte(0xff); // FIXME: buggy value (see issue 1)
                     outfile.WriteByte((byte)(charWidth - 3));
-                    if (c < 0x100) // Latin character
-                        outfile.WriteByte((byte)((charWidth - 3) / 2));
-                    else
-                        outfile.WriteByte((byte)(charWidth - 3));
+                    outfile.WriteByte((byte)getCharWidth(c));
                 }
 
                 for (int i = (4 - (((int)outfile.Position + 1) % 4)) % 4; i >= 0; i--)

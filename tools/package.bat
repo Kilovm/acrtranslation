@@ -8,11 +8,11 @@ if not exist %OUT_DIR% mkdir %OUT_DIR%
 :FONT
 ECHO start generate font
 if not exist %TMP_DIR% mkdir %TMP_DIR%
-%BIN_DIR%\FontGenerator.exe 21 21 8 8 %TEXT_DIR% %TMP_DIR%\font.brfnt 宋体
-ECHO copy font
-if not exist %OUT_DIR%\MESS mkdir %OUT_DIR%\MESS
-copy /Y %TMP_DIR%\font.brfnt %OUT_DIR%\MESS\FONT_A.BRFNT
-copy /Y %TMP_DIR%\font.brfnt %OUT_DIR%\MESS\FONT_A_21.BRFNT
+rem %BIN_DIR%\FontGenerator.exe 23 23 8 8 %TEXT_DIR% %TMP_DIR%\font.brfnt 宋体
+%BIN_DIR%\FontGenerator.exe 23 23 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_A.BRFNT 宋体
+%BIN_DIR%\FontGenerator.exe 23 23 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_A_21.BRFNT 仿宋
+%BIN_DIR%\FontGenerator.exe 21 21 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_B.BRFNT 黑体
+%BIN_DIR%\FontGenerator.exe 18 18 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_B_16.BRFNT 楷体
 
 :TEXT
 ECHO start handle text
