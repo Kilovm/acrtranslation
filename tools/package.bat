@@ -4,11 +4,10 @@ CALL env.bat
 
 :CREATE_DIR
 if not exist %OUT_DIR% mkdir %OUT_DIR%
+if not exist %OUT_DIR%\MESS mkdir %OUT_DIR%\MESS
 
 :FONT
 ECHO start generate font
-if not exist %TMP_DIR% mkdir %TMP_DIR%
-rem %BIN_DIR%\FontGenerator.exe 23 23 8 8 %TEXT_DIR% %TMP_DIR%\font.brfnt ËÎÌו
 %BIN_DIR%\FontGenerator.exe 23 23 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_A.BRFNT ËÎÌו
 %BIN_DIR%\FontGenerator.exe 23 23 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_A_21.BRFNT ·ÂËÎ
 %BIN_DIR%\FontGenerator.exe 21 21 8 8 %TEXT_DIR% %OUT_DIR%\MESS\FONT_B.BRFNT ÷ÚÌו
