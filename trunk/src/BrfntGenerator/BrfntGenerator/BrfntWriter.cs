@@ -104,11 +104,11 @@ namespace BrfntGenerator
         private int getCharWidth(char c)
         {
             string s = "";
-            for (int i = 0; i < 100; ++i)
+            for (int i = 0; i < 10; ++i)
             {
                 s += c;
             }
-            return TextRenderer.MeasureText(s, font).Width / 100;
+            return TextRenderer.MeasureText(s, font).Width / 10;
         }
 
         public void WriteBrfnt(string outputFileName)
@@ -180,7 +180,7 @@ namespace BrfntGenerator
 				outfile.WriteInt32(bmpWidth * bmpHeight);
 
 				outfile.WriteInt16(nImages);
-				outfile.WriteInt16(0x0002);
+				outfile.WriteInt16(0x0001);     // I8
 
 				outfile.WriteInt16(nColumns);
 				outfile.WriteInt16(nRows);
@@ -217,18 +217,19 @@ namespace BrfntGenerator
 							current++;
 						}
 					}
-
+                    int blockWidth = 8;
+                    int blockHeight = 4;
 					BitmapData bd = buf.LockBits(new Rectangle(0, 0, buf.Width, buf.Height), ImageLockMode.ReadOnly, PixelFormat.Format24bppRgb);
 					byte[] rgb = new byte[bd.Stride * buf.Height];
 					Marshal.Copy(bd.Scan0, rgb, 0, bd.Stride * buf.Height);
 
-					for (int line = 0; line < buf.Height; line+=4)
+                    for (int line = 0; line < buf.Height; line += blockHeight)
 					{
-						for (int i = 0; i < buf.Width; i+=8)
+                        for (int i = 0; i < buf.Width; i += blockWidth)
 						{
-							for (int j = 0; j < 4; j++)
+                            for (int j = 0; j < blockHeight; j++)
 							{
-								for (int k = 0; k < 8; k++)
+                                for (int k = 0; k < blockWidth; k++)
 								{
 									int pos = (i + k) * 3 + (line + j) * bd.Stride;
 									int color = GetColor(rgb[pos], rgb[pos + 1], rgb[pos + 2]);
@@ -355,12 +356,9 @@ namespace BrfntGenerator
 
 		private int GetColor(byte r, byte g, byte b)
 		{
-			int color = r * 100 / 256;
-			color = (color << 2) | (g * 100 / 256);
-			color = (color << 2) | (b * 100 / 256);
-			color = (color << 2) | 3;
-
-			return color;
+            int color = (r * 11 + g * 59 + b * 30) / 100;
+            if (color > 255) color = 255;
+            return color;
 		}
 	}
 
