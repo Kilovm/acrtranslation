@@ -1,0 +1,65 @@
+<Session title="PUZZLE_MAIL_003.MESS">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Mike Tyler[0]Magazine interview[0]Dr Robins, sorry to bother you on your day
+off. Do you remember the magazine that
+asked to do an article on us last week? They
+need an answer today. I have the director's
+permission for photography in the lab, so are
+you available for an interview?
+Please let me know.
+                                       Mike[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Jessica Robins[0]Call me![0]Richard,
+Please call me as soon as you get this! 
+When are you coming home? Ashley's doing
+well, but she always seems a little bit lonely - 
+probably because she hasn't seen you for so
+long. She's at an awkward age now. She 
+spends so much time locked up in her room,
+and she doesn't talk to me as freely as she
+used to. 
+I know you're busy with your work, but come
+to see us soon. Ashley misses you.
+                                       Jessica[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Rex Alfred[0]JC Valley[0]Richard, 
+I'm delighted you've accepted the position at
+JC Valley. I honestly didn't think we'd have a
+chance to work together again. 
+If you're here with us, I'm sure we can 
+successfully complete that last project of 
+Judd's. We await your speedy arrival!
+                                       Rex[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>[Unknown Sender][0]The truth[0]To the blissfully ignorant fool,
+
+Did you know that someone orchestrated
+Sayoko's murder from behind the scenes?
+
+There are others responsible for her death.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Comments />
+</Session>
