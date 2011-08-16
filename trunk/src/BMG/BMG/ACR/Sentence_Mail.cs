@@ -63,6 +63,7 @@ namespace BMG.ACR
             ms.ReadByte();
             if (size3 - 1 > 4 && bs[3] == 0)
             {
+                _commands.Add("01");
                 sb.Append("[1]");
                 sb.Append(Encoding.UTF8.GetString(bs, 6, bs.Length - 6));
             }
