@@ -51,6 +51,10 @@ namespace BMG
                     {
                         format = ".DAT";
                     }
+                    else if (bmg.FileType == "Another Code R - TEXT.MESS")
+                    {
+                        format = ".MESS";
+                    }
                     bmg.WriteBMG(out_dir.FullName + "/" + file.Name.Replace(".xml", format));
                 }
                 else
