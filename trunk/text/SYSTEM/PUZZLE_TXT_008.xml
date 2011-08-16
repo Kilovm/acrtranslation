@@ -1,0 +1,123 @@
+<Session title="PUZZLE_TXT_008.MESS">
+  <Sentence id="0">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Point at the centre of the circle and press
+the A Button.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="1">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>User identification sequence initiated.
+Starting facial recognition.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="2">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Please look at the camera and centre the
+frame over your face.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="3">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Please centre the frame over your face.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="4">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Scanning...[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="5">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Facial recognition complete.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="6">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>User Name:
+      Ashley Mizuki Robins[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="7">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Date of Birth:
+     25 February 1991[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="8">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>System unlocked.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="9">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Displaying stored message.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="10">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Dear Ashley,
+There's something I want to tell you about your [0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="11">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>mother. I'll be waiting for you at Lake Juliet.
+Dad[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="12">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>DUAL ANOTHER SYSTEM
+             START[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Sentence id="13">
+    <Commands>
+      <Command>AA==</Command>
+    </Commands>
+    <Original>Facial recognition failed.[0]</Original>
+    <Translation>
+    </Translation>
+  </Sentence>
+  <Comments />
+</Session>
