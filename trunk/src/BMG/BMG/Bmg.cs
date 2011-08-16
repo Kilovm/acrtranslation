@@ -61,40 +61,47 @@ namespace BMG
 			{
                 try
                 {
-                    bmg = new MailMESS(filename, false);
+                    bmg = new TextMESS(filename, false);
                 }
                 catch
                 {
                     try
                     {
-                        bmg = new ItemMESS(filename, false);
+                        bmg = new MailMESS(filename, false);
                     }
                     catch
                     {
                         try
                         {
-                            bmg = new CharaMESS(filename, false);
+                            bmg = new ItemMESS(filename, false);
                         }
                         catch
                         {
                             try
                             {
-                                bmg = new MemDat(filename, false);
+                                bmg = new CharaMESS(filename, false);
                             }
                             catch
                             {
-
                                 try
                                 {
-                                    bmg = new BMG_WM(filename, false);
+                                    bmg = new MemDat(filename, false);
                                 }
-                                catch (InvalidXmlException)
+                                catch
                                 {
-                                    bmg = new BMG_ACR(filename, false);
-                                }
-                                catch (Exception)
-                                {
-                                    throw;
+
+                                    try
+                                    {
+                                        bmg = new BMG_WM(filename, false);
+                                    }
+                                    catch (InvalidXmlException)
+                                    {
+                                        bmg = new BMG_ACR(filename, false);
+                                    }
+                                    catch (Exception)
+                                    {
+                                        throw;
+                                    }
                                 }
                             }
                         }
@@ -103,7 +110,9 @@ namespace BMG
 			}
 			else
 			{
-                if(fi.Name.Equals(MailMESS.FileTitle)){
+                if(fi.Name.Equals(MailMESS.FileTitle) ||
+                    (fi.Name.IndexOf(".MESS") != -1 && fi.Name.IndexOf("MAIL") != -1))
+                {
                     bmg = new MailMESS(filename, true);
                 }
                 else if (fi.Name.Equals(ItemMESS.FileTitle))
@@ -121,6 +130,10 @@ namespace BMG
                 else if (fi.Name.ToLower().Equals(BMG_WM.FileTitle))
                 {
                     bmg = new BMG_WM(filename, true);
+                }
+                else if (fi.Name.ToLower().IndexOf(".mess") != -1 && fi.Name.IndexOf("TXT") != -1)
+                {
+                    bmg = new TextMESS(filename, true);
                 }
                 else
                 {
