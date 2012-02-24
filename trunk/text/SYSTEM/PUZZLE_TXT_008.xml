@@ -5,8 +5,7 @@
     </Commands>
     <Original>Point at the centre of the circle and press
 the A Button.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>指向圆圈的正中心并按下A键。[0]</Translation>
   </Sentence>
   <Sentence id="1">
     <Commands>
@@ -14,8 +13,7 @@ the A Button.[0]</Original>
     </Commands>
     <Original>User identification sequence initiated.
 Starting facial recognition.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>用户识别系统启动。开始面部识别。[0]</Translation>
   </Sentence>
   <Sentence id="2">
     <Commands>
@@ -23,32 +21,28 @@ Starting facial recognition.[0]</Original>
     </Commands>
     <Original>Please look at the camera and centre the
 frame over your face.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>请面对摄像机。将边框中央放到面部。[0]</Translation>
   </Sentence>
   <Sentence id="3">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>Please centre the frame over your face.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>请将边框中央移动到你的面部。[0]</Translation>
   </Sentence>
   <Sentence id="4">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>Scanning...[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>正在扫描...[0]</Translation>
   </Sentence>
   <Sentence id="5">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>Facial recognition complete.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>面部识别完成。[0]</Translation>
   </Sentence>
   <Sentence id="6">
     <Commands>
@@ -56,8 +50,8 @@ frame over your face.[0]</Original>
     </Commands>
     <Original>User Name:
       Ashley Mizuki Robins[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>用户名：
+       阿修蕾·美月·罗宾斯[0]</Translation>
   </Sentence>
   <Sentence id="7">
     <Commands>
@@ -65,24 +59,22 @@ frame over your face.[0]</Original>
     </Commands>
     <Original>Date of Birth:
      25 February 1991[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>生日：
+     1991年2月25日[0]</Translation>
   </Sentence>
   <Sentence id="8">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>System unlocked.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>系统已解锁。[0]</Translation>
   </Sentence>
   <Sentence id="9">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>Displaying stored message.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>正在打开信箱。[0]</Translation>
   </Sentence>
   <Sentence id="10">
     <Commands>
@@ -90,8 +82,8 @@ frame over your face.[0]</Original>
     </Commands>
     <Original>Dear Ashley,
 There's something I want to tell you about your [0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>亲爱的阿修蕾，
+我有一些事情要告诉你，是关于你的[0]</Translation>
   </Sentence>
   <Sentence id="11">
     <Commands>
@@ -99,8 +91,8 @@ There's something I want to tell you about your [0]</Original>
     </Commands>
     <Original>mother. I'll be waiting for you at Lake Juliet.
 Dad[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>妈妈。我会在朱丽叶湖等你。
+爸爸[0]</Translation>
   </Sentence>
   <Sentence id="12">
     <Commands>
@@ -108,16 +100,15 @@ Dad[0]</Original>
     </Commands>
     <Original>DUAL ANOTHER SYSTEM
              START[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>DUAL ANOTHER SYSTEM
+             启动[0]</Translation>
   </Sentence>
   <Sentence id="13">
     <Commands>
       <Command>AA==</Command>
     </Commands>
     <Original>Facial recognition failed.[0]</Original>
-    <Translation>
-    </Translation>
+    <Translation>面部识别失败。[0]</Translation>
   </Sentence>
   <Comments />
 </Session>
